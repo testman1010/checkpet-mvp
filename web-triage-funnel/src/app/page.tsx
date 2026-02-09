@@ -1,0 +1,1074 @@
+'use client';
+
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
+import { Card } from '@/components/ui/card';
+import { Progress } from '@/components/ui/progress';
+import { Textarea } from '@/components/ui/textarea';
+import { apiClient, Assessment } from '@/lib/api-client';
+import { CAT_BREEDS, DOG_BREEDS } from '@/lib/breeds';
+import { supabase } from '@/lib/supabaseClient';
+import { Camera, Check, Loader2, Lock, Search, ShieldAlert, AlertTriangle, Clipboard } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { ProcessingLoader } from '@/components/ui/processing-loader';
+import { AnimatePresence, motion } from "framer-motion";
+
+import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
+
+// --- Screen 4: History View ---
+function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
+  const [history, setHistory] = useState<any[]>([]);
+
+  // Load history on mount
+  useEffect(() => { // Need to import useEffect if not already distinct from React.useState, but page.tsx has `import { useState } from 'react'` - we need useEffect too.
+    // Wait, let's fix imports first or assume they exist? 
+    // The file top imports `useState` from 'react'. I need to add `useEffect`.
+    // I will do that in a separate chunk to be safe, or just use React.useEffect if I can't change top easily without viewing.
+    // Actually I can see line 12: `import { useState } from 'react';`
+    // I will assume `useEffect` needs adding.
+    const stored = JSON.parse(localStorage.getItem('pet_triage_history') || '[]');
+    setHistory(stored);
+  }, []);
+
+  const clearHistory = () => {
+    if (confirm("Clear all history?")) {
+      localStorage.removeItem('pet_triage_history');
+      setHistory([]);
+    }
+  };
+
+  return (
+    <div className="fixed inset-0 bg-slate-50 z-50 overflow-y-auto animate-in slide-in-from-right duration-300">
+      <div className="max-w-md mx-auto min-h-screen bg-white shadow-xl relative">
+        {/* Header */}
+        <div className="sticky top-0 bg-white/80 backdrop-blur-md border-b border-slate-100 p-4 flex items-center justify-between z-10">
+          <div className="flex items-center gap-2">
+            <Button variant="ghost" size="icon" onClick={onClose} className="-ml-2">
+              <ChevronRight className="h-6 w-6 rotate-180" />
+            </Button>
+            <h2 className="text-xl font-bold text-slate-900">History</h2>
+          </div>
+          {history.length > 0 && (
+            <Button variant="ghost" size="sm" onClick={clearHistory} className="text-red-500 hover:text-red-600 hover:bg-red-50">
+              <Trash2 className="h-4 w-4" />
+            </Button>
+          )}
+        </div>
+
+        {/* List */}
+        <div className="p-4 space-y-4">
+          {history.length === 0 ? (
+            <div className="text-center py-20 text-slate-400">
+              <History className="h-12 w-12 mx-auto mb-3 opacity-20" />
+              <p>No saved analyses yet.</p>
+            </div>
+          ) : (
+            history.map((item: any) => (
+              <Card
+                key={item.id}
+                className="p-4 border border-slate-100 shadow-sm hover:shadow-md transition-all cursor-pointer active:scale-[0.98]"
+                onClick={() => onViewResult(item.result)}
+              >
+                <div className="flex justify-between items-start mb-2">
+                  <Badge variant={item.result?.urgency_level === 'CRITICAL' ? 'destructive' : 'secondary'} className="text-[10px]">
+                    {item.result?.urgency_level || 'UNKNOWN'}
+                  </Badge>
+                  <span className="text-xs text-slate-400">
+                    {new Date(item.date).toLocaleDateString()}
+                  </span>
+                </div>
+                <h3 className="font-bold text-slate-900 mb-1">
+                  {item.result?.causes?.[0]?.condition || "Condition Identified"}
+                </h3>
+                <p className="text-xs text-slate-500 line-clamp-2">
+                  {item.result?.primaryRecommendation}
+                </p>
+              </Card>
+            ))
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// --- Screen 3: The Result Gate ("Conversion Engine") ---
+function TriageResult({ result, imagePreview, consultHistory, petDetails }: { result: Assessment, imagePreview: string | null, consultHistory?: { question: string, answer: string }[], petDetails?: any }) {
+  const isEmergency = result.urgency_level === 'CRITICAL' || result.urgency_level === 'URGENT';
+  const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
+  // Confidence: Handle 0-1 (decimal) or 0-100 (percentage)
+  const rawProb = result.causes?.[0]?.probability || 0;
+  const confidence = rawProb > 1 ? Math.round(rawProb) : Math.round(rawProb * 100);
+
+  const displayUrgency = isEmergency ? 'EMERGENCY DETECTED' : 'VET VISIT RECOMMENDED';
+  const badgeColor = isEmergency ? 'bg-red-600' : 'bg-yellow-500';
+
+  // Waitlist State
+  const [email, setEmail] = useState('');
+  const [joined, setJoined] = useState(false);
+  const [saving, setSaving] = useState(false);
+
+  const handleJoinWaitlist = async () => {
+    if (!email || !email.includes('@')) {
+      alert("Please enter a valid email.");
+      return;
+    }
+    setSaving(true);
+    try {
+      let photoUrl = null;
+
+      // 1. Upload Image if exists
+      if (imagePreview) {
+        const fileExt = 'jpg'; // Simplified for MVP (or detect from base64 prefix)
+        const fileName = `${Math.random().toString(36).substring(2)}_${Date.now()}.${fileExt}`;
+        const filePath = `${fileName}`;
+
+        // Convert base64 to Blob
+        const base64Response = await fetch(imagePreview);
+        const blob = await base64Response.blob();
+
+        const { error: uploadError } = await supabase.storage
+          .from('triage-images')
+          .upload(filePath, blob);
+
+        if (uploadError) {
+          console.error("Upload failed:", uploadError);
+          // Continue without photo or alert? keeping going for now.
+        } else {
+          const { data: { publicUrl } } = supabase.storage
+            .from('triage-images')
+            .getPublicUrl(filePath);
+          photoUrl = publicUrl;
+        }
+      }
+
+      // 2. Save Report to DB
+      const { error } = await supabase
+        .from('waitlist')
+        .insert([{
+          email,
+          source: 'web_triage_mvp',
+          report_data: result,
+          photo_url: photoUrl
+        }]);
+
+      if (error) throw error;
+      setJoined(true);
+
+      // 3. Trigger Email (Send URL instead of base64)
+      supabase.functions.invoke('generate-report', {
+        body: {
+          email,
+          report_data: result,
+          imageUrl: photoUrl,
+          consult_history: consultHistory
+        }
+      }).then(({ error }) => {
+        if (error) console.error("Email trigger failed:", error);
+      });
+
+      // Optional: Redirect to App Clip if emergency
+      if (isEmergency) {
+        const appClipUrl = `https://appclip.apple.com/id?p=com.petapp.mobile.Clip&report_id=${result.id || 'TEMP_ID'}`;
+        // For web MVP, maybe just stay on page to show result?
+        // User requested "immediately show full results". 
+        // We can offer the link as a button instead of forced redirect.
+      }
+    } catch (e: any) {
+      console.error("Waitlist Error:", e);
+      alert("Could not join waitlist: " + e.message);
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  // --- Screen 3: The Result ("Analysis Complete") ---
+  if (isEmergency) {
+    return (
+      <div className="w-full max-w-md animate-in fade-in slide-in-from-bottom-4 duration-700 pb-24">
+        <div className="bg-red-50 border-l-4 border-red-600 p-6 rounded-r-xl mb-6 shadow-sm">
+          <div className="flex items-center mb-2">
+            <ShieldAlert className="h-6 w-6 text-red-600 mr-2" />
+            <h2 className="text-xl font-bold text-red-700 uppercase tracking-wider">Emergency Alert</h2>
+          </div>
+          <p className="text-red-900 font-medium">
+            Analysis suggests immediate medical attention is required. Do not wait.
+          </p>
+        </div>
+
+        <ResultCardContent
+          result={result}
+          primaryCondition={primaryCondition}
+          confidence={confidence}
+          imagePreview={imagePreview}
+          consultHistory={consultHistory}
+          isEmergency={true}
+          petDetails={petDetails}
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className="w-full max-w-md animate-in fade-in slide-in-from-bottom-4 duration-700 relative pb-24">
+      {/* 1. Status Badge */}
+      <div className="flex justify-center mb-6">
+        <Badge className={`text-white px-4 py-2 text-sm font-bold shadow-lg uppercase tracking-widest ${badgeColor}`}>
+          {displayUrgency}
+        </Badge>
+      </div>
+
+      {/* 2. Result Card */}
+      <ResultCardContent
+        result={result}
+        primaryCondition={primaryCondition}
+        confidence={confidence}
+        imagePreview={imagePreview}
+        consultHistory={consultHistory}
+        isEmergency={false}
+      />
+    </div>
+  );
+}
+
+// Extracted Content Component to reuse for both Emergency/Standard and handle Actions
+function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails }: any) {
+  const [saved, setSaved] = useState(false);
+
+  const handleSave = () => {
+    try {
+      const historyItem = {
+        id: Date.now().toString(),
+        date: new Date().toISOString(),
+        result,
+        imagePreview // Note: Saving base64 to localStorage might exceed quota. Best to save only text or specific URL.
+        // For MVP, letting it try, but if it fails, we catch.
+      };
+
+      // Simplify image for storage if needed
+      if (imagePreview && imagePreview.length > 100000) {
+        historyItem.imagePreview = null; // Don't save large images to local storage
+      }
+
+      const existing = JSON.parse(localStorage.getItem('pet_triage_history') || '[]');
+      localStorage.setItem('pet_triage_history', JSON.stringify([historyItem, ...existing]));
+      setSaved(true);
+    } catch (e) {
+      console.error("Save failed", e);
+      alert("Could not save to history (Storage Full?)");
+    }
+  };
+
+  const handleShare = async () => {
+    const text = `
+CheckPet Analysis Report
+Date: ${new Date().toLocaleDateString()}
+Pet: ${petDetails?.species || 'Pet'} ${petDetails?.breed ? `(${petDetails.breed})` : ''} - ${petDetails?.age} / ${petDetails?.weight}
+Sex: ${petDetails?.sex} ${petDetails?.isFixed ? '(Fixed)' : ''}
+
+
+PRIMARY ANALYSIS: ${primaryCondition}
+Confidence: ${confidence}%
+Urgency: ${result.urgency_level}
+
+OBSERVATIONS:
+${result.keyObservations?.map((o: string) => `- ${o}`).join('\n') || 'None'}
+
+REASONING:
+${result.refinement_reasoning || 'N/A'}
+
+IMMEDIATE ACTION:
+${result.primaryRecommendation}
+${result.recommendations?.map((r: string) => `- ${r}`).join('\n') || ''}
+
+CONSULT HISTORY:
+${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n') || 'None'}
+    `.trim();
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'CheckPet Analysis',
+          text: text,
+        });
+      } catch (err) {
+        console.log('Share canceled', err);
+      }
+    } else {
+      // Fallback
+      navigator.clipboard.writeText(text);
+      alert("Report copied to clipboard!");
+    }
+  };
+
+  return (
+    <>
+      <Card className="relative overflow-hidden border-2 border-slate-100 shadow-2xl rounded-3xl bg-white mb-6">
+        {/* Header */}
+        <div className="p-6 pb-2 text-center bg-white">
+          <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-2">SYMPTOM ANALYSIS REPORT</p>
+          <h2 className="text-2xl font-extrabold text-slate-900 leading-tight">
+            {primaryCondition}
+          </h2>
+        </div>
+
+        <div className="p-6 pt-0">
+          {/* Confidence */}
+          <div className="flex items-center justify-center gap-2 mb-6">
+            <Badge variant="outline" className="text-green-600 border-green-200 bg-green-50">
+              {confidence}% Match Confidence
+            </Badge>
+          </div>
+
+          {/* safety-override: Check for dangerous secondary causes */}
+          {(() => {
+            const dangerousSecondary = result.causes?.slice(1).find((c: any) =>
+              c.urgency === 'HIGH' || c.urgency === 'EMERGENCY'
+            );
+
+            if (dangerousSecondary) {
+              return (
+                <div className="mx-6 mb-6 bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg shadow-sm animate-in fade-in slide-in-from-bottom-2">
+                  <div className="flex items-start gap-3">
+                    <div className="bg-orange-100 p-1.5 rounded-full shrink-0 mt-0.5">
+                      <AlertTriangle className="h-4 w-4 text-orange-600" />
+                    </div>
+                    <div>
+                      <p className="text-xs font-bold text-orange-800 uppercase tracking-wide mb-1">
+                        Safety Warning
+                      </p>
+                      <p className="text-sm text-orange-900 leading-snug">
+                        Symptoms also match <span className="font-bold">{dangerousSecondary.condition}</span>. Even if less likely, this is a serious condition that must be ruled out by a vet.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              );
+            }
+            return null;
+          })()}
+
+          {/* New: Action Buttons Row (Save / Share) */}
+          <div className="grid grid-cols-2 gap-3 mb-6">
+            <Button
+              variant="outline"
+              className="border-slate-200 text-slate-600 hover:bg-slate-50 hover:text-slate-900"
+              onClick={handleSave}
+              disabled={saved}
+            >
+              {saved ? <Check className="mr-2 h-4 w-4" /> : <Lock className="mr-2 h-4 w-4" />}
+              {saved ? "Saved" : "Save to History"}
+            </Button>
+            <Button
+              className="bg-blue-600 hover:bg-blue-700 text-white"
+              onClick={handleShare}
+            >
+              <Clipboard className="mr-2 h-4 w-4" /> {/* Using Clipboard icon as requested */}
+              Email Vet
+            </Button>
+          </div>
+
+          {/* Image */}
+          {imagePreview && (
+            <div className="mb-6 relative rounded-2xl overflow-hidden shadow-sm border border-slate-200 bg-slate-50">
+              <img
+                src={imagePreview}
+                className="w-full h-auto block"
+                alt="Analysis Target"
+              />
+              {/* Annotations Overlay */}
+              {result.visualAnnotations?.map((ann: any, i: number) => {
+                let [ymin, xmin, ymax, xmax] = ann.coordinates;
+                if (ymin > 1 || xmin > 1 || ymax > 1 || xmax > 1) {
+                  ymin /= 1000;
+                  xmin /= 1000;
+                  ymax /= 1000;
+                  xmax /= 1000;
+                }
+                const top = ymin * 100;
+                const left = xmin * 100;
+                const height = (ymax - ymin) * 100;
+                const width = (xmax - xmin) * 100;
+
+                return (
+                  <div key={i} className="absolute inset-0 pointer-events-none">
+                    <div
+                      className="absolute border-4 border-red-600 shadow-[0_0_15px_rgba(220,38,38,0.8)] z-50 rounded-lg"
+                      style={{ top: `${top}%`, left: `${left}%`, width: `${width}%`, height: `${height}%` }}
+                    >
+                      <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-red-600 text-white text-[10px] font-extrabold px-3 py-1 rounded-full shadow-md whitespace-nowrap uppercase tracking-wider">
+                        {ann.label}
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+
+          {/* Key Observations */}
+          <div className="bg-slate-50 p-4 rounded-xl border border-slate-100 mb-4">
+            <h4 className="font-bold text-slate-700 text-sm mb-2 uppercase tracking-wide">AI Observations</h4>
+            <ul className="space-y-2">
+              {result.keyObservations?.map((obs: string, i: number) => (
+                <li key={i} className="flex items-start gap-2 text-sm text-slate-600">
+                  <Check className="h-4 w-4 text-green-500 mt-0.5 shrink-0" />
+                  <span>{obs}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* AI Reasoning */}
+          {result.refinement_reasoning && (
+            <div className="bg-slate-50 p-4 rounded-xl border border-slate-100 mb-4">
+              <h4 className="font-bold text-slate-700 text-sm mb-2 uppercase tracking-wide">AI Reasoning</h4>
+              <p className="text-sm text-slate-600 leading-relaxed italic">
+                "{result.refinement_reasoning}"
+              </p>
+            </div>
+          )}
+
+          {/* Immediate Action / First Aid */}
+          <div className="bg-blue-50 p-4 rounded-xl border border-blue-100 mb-4">
+            <h4 className="font-bold text-blue-800 text-sm mb-2 uppercase tracking-wide">First Aid / Next Steps</h4>
+            <p className="text-sm text-blue-700 leading-relaxed">
+              {result.primaryRecommendation}
+            </p>
+
+            {/* Dynamic First Aid Steps */}
+            {result.recommendations && result.recommendations.length > 0 && (
+              <div className="mt-3 pt-3 border-t border-blue-100/50">
+                <p className="text-xs font-bold text-blue-600 mb-1">IMMEDIATE CARE:</p>
+                <ul className="list-disc list-inside text-xs text-blue-700/80 space-y-1">
+                  {result.recommendations.map((rec: string, i: number) => (
+                    <li key={i}>{rec}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+
+          {/* Citations / References */}
+          {result.citations && result.citations.length > 0 && (
+            <div className="mt-6 mb-2">
+              <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center gap-1">
+                <Search className="w-3 h-3" />
+                Clinical References
+              </p>
+              <ul className="space-y-1.5">
+                {result.citations.map((cite: string, i: number) => (
+                  <li key={i} className="text-[10px] text-slate-500 bg-slate-50 border border-slate-100 px-2 py-1.5 rounded-md flex items-center gap-2">
+                    <div className="w-1 h-1 rounded-full bg-slate-300 shrink-0" />
+                    <span className="truncate">{cite}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+        </div>
+      </Card>
+
+      {/* Sticky Bottom Actions (Alternative Placement) -> We put them inside the card above for better flow, 
+          but if requested at strict "bottom of page", we could keep them fixed. 
+          The user said: "At the bottom of the page, I want to create two buttons". 
+          Let's replicate the action bar from input page for consistency? 
+          Or just keep them in the card flux? Card flux is better for scrolling. 
+          Actually let's add a fixed bottom bar for "Start Over" vs "History". 
+      */}
+      <div className="fixed bottom-0 left-0 right-0 p-4 bg-white/90 backdrop-blur-xl border-t border-slate-200 z-50">
+        <Button
+          className="w-full h-12 text-lg font-bold rounded-xl bg-slate-900 text-white"
+          onClick={() => window.location.reload()}
+        >
+          Start New Check
+        </Button>
+      </div>
+    </>
+  );
+}
+
+
+// --- Screen 2: The Questions ("Investigation") ---
+function QuestionsView({
+  questions,
+  onComplete,
+  loading
+}: {
+  questions: { id: string; text: string }[];
+  onComplete: (answers: Record<string, string>) => void; // Changed to string
+  loading: boolean;
+}) {
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [answers, setAnswers] = useState<Record<string, string>>({});
+
+  const handleAnswer = (val: "Yes" | "No" | "Unsure") => {
+    const currentQ = questions[currentIndex];
+    const newAnswers = { ...answers, [currentQ.id]: val };
+    setAnswers(newAnswers);
+
+    if (currentIndex < questions.length - 1) {
+      setCurrentIndex(currentIndex + 1);
+    } else {
+      // Finished
+      onComplete(newAnswers);
+    }
+  };
+
+  const progress = ((currentIndex + 1) / questions.length) * 100;
+
+  return (
+    <div className="w-full max-w-md animate-in slide-in-from-right duration-500 flex flex-col h-[80vh]">
+      {/* Header / Progress */}
+      <div className="mb-8 mt-4">
+        <div className="flex justify-between items-end mb-2">
+          <h2 className="text-xl font-bold text-slate-900">Investigation</h2>
+          <span className="text-sm font-semibold text-blue-600">
+            Step {currentIndex + 1} of {questions.length}
+          </span>
+        </div>
+        <Progress value={progress} className="h-2 bg-slate-100" />
+      </div>
+
+      {/* Question Card */}
+      <div className="flex-1 flex flex-col justify-center mb-8">
+        <h3 className="text-2xl font-bold text-slate-900 leading-snug mb-8 text-center px-4">
+          {questions[currentIndex].text}
+        </h3>
+
+        <div className="grid grid-cols-1 gap-3 w-full">
+          <Button
+            variant="outline"
+            className="h-14 text-lg font-bold rounded-xl border-2 border-slate-200 hover:border-blue-500 hover:bg-blue-50 hover:text-blue-700 transition-all"
+            onClick={() => handleAnswer("Yes")}
+          >
+            YES
+          </Button>
+          <Button
+            variant="outline"
+            className="h-14 text-lg font-bold rounded-xl border-2 border-slate-200 hover:border-slate-400 hover:bg-slate-50 transition-all"
+            onClick={() => handleAnswer("No")}
+          >
+            NO
+          </Button>
+          <Button
+            variant="ghost"
+            className="h-12 text-base font-medium text-slate-500 hover:bg-slate-100 hover:text-slate-700 rounded-xl"
+            onClick={() => handleAnswer("Unsure")}
+          >
+            I'm Not Sure
+          </Button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+export default function PanicIntake() {
+  const [step, setStep] = useState<'INPUT' | 'QUESTIONS' | 'RESULT'>('INPUT');
+  const [species, setSpecies] = useState<'dog' | 'cat'>('dog');
+  const [sex, setSex] = useState<'MALE' | 'FEMALE'>('MALE');
+  const [isFixed, setIsFixed] = useState(true);
+  const [breed, setBreed] = useState('');
+  const [isMixed, setIsMixed] = useState(false);
+  const [showBreedList, setShowBreedList] = useState(false);
+  const [ageBracket, setAgeBracket] = useState<'BABY' | 'YOUNG' | 'ADULT' | 'SENIOR'>('ADULT');
+  const [weightBracket, setWeightBracket] = useState<'TOY' | 'SMALL' | 'LARGE' | 'GIANT'>('SMALL');
+  const [symptoms, setSymptoms] = useState('');
+  // State for History View
+  const [showHistory, setShowHistory] = useState(false);
+
+  const viewHistoryItem = (savedResult: Assessment) => {
+    setResult(savedResult);
+    setShowHistory(false);
+    setStep('RESULT');
+  };
+
+  const [imageBase64, setImageBase64] = useState<string | null>(null);
+  const [imagePreview, setImagePreview] = useState<string | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [loadingType, setLoadingType] = useState<'INITIAL' | 'REFINEMENT'>('INITIAL');
+
+  // Results & Questions
+  const [result, setResult] = useState<Assessment | null>(null);
+  const [pendingAssessment, setPendingAssessment] = useState<Assessment | null>(null);
+  const [consultHistory, setConsultHistory] = useState<{ question: string, answer: string }[]>([]);
+
+  const quickChips = ['Vomiting', 'Limping', 'Bleeding', 'Diarrhea', 'Lethargy'];
+
+  const addChip = (chip: string) => {
+    setSymptoms((prev) => (prev ? `${prev}, ${chip} ` : chip));
+  };
+
+  const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (file) {
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        const base64String = reader.result as string;
+        setImagePreview(base64String);
+        const rawBase64 = base64String.split(',')[1];
+        setImageBase64(rawBase64);
+      };
+      reader.readAsDataURL(file);
+    }
+  };
+
+  const handleAnalyze = async () => {
+    if (!symptoms.trim()) return;
+
+    setLoading(true);
+    setLoadingType('INITIAL');
+
+    // Ensure loader shows for at least 2 seconds
+    const minDelay = new Promise(resolve => setTimeout(resolve, 2000));
+
+    try {
+      const [response] = await Promise.all([
+        apiClient.analyzeSymptoms({
+          symptom: symptoms,
+          imageBase64: imageBase64,
+          pet: {
+            species,
+            sex,
+            neutered: isFixed,
+            breed: isMixed ? `Mixed ${breed}` : breed,
+            age_years: ageBracket === 'BABY' ? 0 : ageBracket === 'YOUNG' ? 1 : ageBracket === 'ADULT' ? 4 : 11,
+            age_months: ageBracket === 'BABY' ? 4 : ageBracket === 'YOUNG' ? 0 : 0,
+            weight_lbs: weightBracket === 'TOY' ? 8 : weightBracket === 'SMALL' ? 30 : weightBracket === 'LARGE' ? 70 : 110,
+            weight_description: weightBracket === 'TOY' ? 'Tiny (<15 lbs)' : weightBracket === 'SMALL' ? 'Med (15-45 lbs)' : 'Big (45+ lbs)',
+            is_profile_verified: false,
+          }
+        }),
+        minDelay
+      ]);
+
+      if (response.verification_questions && response.verification_questions.length > 0) {
+        setPendingAssessment(response);
+        setStep('QUESTIONS');
+      } else {
+        setResult(response);
+        setStep('RESULT');
+      }
+    } catch (error) {
+      console.error('Analysis failed:', error);
+      alert('Analysis failed. Please try again.');
+    } finally {
+      if (step === 'INPUT') setLoading(false);
+    }
+  };
+
+  const handleQuestionsComplete = async (answers: Record<string, string>) => {
+    if (!pendingAssessment) return;
+
+    // Capture History
+    const history = pendingAssessment.verification_questions?.map(q => ({
+      question: q.text,
+      answer: answers[q.id] // Value is already "Yes" | "No" | "Unsure"
+    })) || [];
+    setConsultHistory(history);
+
+    setLoading(true);
+    setLoadingType('REFINEMENT');
+
+    // Ensure loader shows for at least 2 seconds for UX "Thinking" effect
+    const minDelay = new Promise(resolve => setTimeout(resolve, 2000));
+
+    try {
+      // Real Refinement Call
+      const [refinedResponse] = await Promise.all([
+        apiClient.analyzeSymptoms({
+          symptom: symptoms,
+          imageBase64: imageBase64,
+          refinedSymptoms: [],
+          refinementContext: history,
+          pet: {
+            species,
+            sex,
+            neutered: isFixed,
+            breed: isMixed ? `Mixed ${breed}` : breed,
+            age_years: ageBracket === 'BABY' ? 0 : ageBracket === 'YOUNG' ? 1 : ageBracket === 'ADULT' ? 4 : 10,
+            age_months: ageBracket === 'BABY' ? 3 : ageBracket === 'YOUNG' ? 0 : 0,
+            weight_lbs: weightBracket === 'TOY' ? 5 : weightBracket === 'SMALL' ? 30 : weightBracket === 'LARGE' ? 70 : 110,
+            is_profile_verified: false,
+          }
+        }),
+        minDelay
+      ]);
+
+      setResult(refinedResponse);
+      setStep('RESULT');
+
+    } catch (error) {
+      console.error("Refinement failed:", error);
+      // Fallback to preliminary result if refinement crashes, but alert user
+      alert("Refinement connection failed. Showing preliminary result.");
+      setResult(pendingAssessment);
+      setStep('RESULT');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+
+  return (
+    <div className="min-h-screen bg-slate-50 flex flex-col items-center p-4 pb-24 font-sans">
+
+      {/* Gamified Loader Overlay */}
+      <AnimatePresence>
+        {loading && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-50"
+          >
+            <ProcessingLoader type={loadingType} />
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* History View Overlay */}
+      {showHistory && (
+        <HistoryView onClose={() => setShowHistory(false)} onViewResult={viewHistoryItem} />
+      )}
+
+      {/* Header - Only on Input Step */}
+      {step === 'INPUT' && (
+        <>
+          {/* Top Navigation Bar */}
+          <nav className="w-full h-[60px] flex items-center justify-between px-4 max-w-md mx-auto">
+            {/* Left: Logo & Text */}
+            <div className="flex items-center gap-2">
+              <div className="w-8 h-8 rounded-lg overflow-hidden shadow-sm border border-slate-100">
+                <img src="/checkpet-logo.png" alt="CheckPet Logo" className="w-full h-full object-cover" />
+              </div>
+              <span className="text-lg font-bold text-slate-900 tracking-tight">CheckPet</span>
+            </div>
+
+            {/* Right: History Icon */}
+            <Button
+              variant="ghost"
+              size="icon"
+              className="text-slate-400 hover:text-slate-600 hover:bg-slate-50 rounded-full w-10 h-10 transition-all"
+              onClick={() => setShowHistory(true)}
+            >
+              <Clock className="h-5 w-5" />
+            </Button>
+          </nav>
+
+          {/* Hero Section */}
+          <div className="text-center mt-4 mb-8 px-4 w-full max-w-md mx-auto">
+            {/* Eyebrow Pill */}
+            <div className="flex justify-center mb-4">
+              <div className="bg-green-100 text-green-800 border border-green-200 px-3 py-1 rounded-full text-[10px] font-bold tracking-widest uppercase shadow-sm">
+                No Sign-Up Required
+              </div>
+            </div>
+
+            <h1 className="text-3xl font-extrabold text-slate-900 tracking-tighter leading-tight mb-2">
+              Check Your Pet's<br />Symptoms Instantly
+            </h1>
+            <p className="text-sm font-medium text-slate-500 leading-relaxed max-w-md mx-auto">
+              Instant triage assessment grounded in professional veterinary protocols.
+            </p>
+          </div>
+        </>
+      )}
+
+      {/* Screen 1: The Input ("Triage Start") */}
+      {step === 'INPUT' && (
+        <>
+          {/* PRIMARY: Symptom & Photo Input */}
+          <div className="w-full max-w-md bg-white p-5 rounded-3xl border border-slate-200 shadow-sm mb-6 space-y-6 relative z-20">
+            <div className="flex items-center justify-between border-b border-slate-100 pb-2 mb-2">
+              <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide">1. Describe Problem</h2>
+              <span className="text-[10px] font-bold text-red-500 bg-red-50 px-2 py-0.5 rounded-full uppercase tracking-wider">Required</span>
+            </div>
+
+            {/* Symptom Text Input (MOVED TO TOP) */}
+            <div className="w-full">
+              <Card className="p-4 border-2 border-slate-200 shadow-sm rounded-2xl bg-white min-h-[140px] flex flex-col relative focus-within:ring-2 focus-within:ring-blue-500 transition-all">
+                <Textarea
+                  placeholder="e.g. Limping on left paw, not eating..."
+                  className="flex-1 w-full text-lg p-0 border-0 focus-visible:ring-0 resize-none placeholder:text-slate-300 min-h-[80px]"
+                  value={symptoms}
+                  onChange={(e) => setSymptoms(e.target.value)}
+                />
+
+                {/* Quick Chips */}
+                <div className="flex flex-wrap gap-2 mt-4 pt-4 border-t border-slate-100">
+                  {quickChips.map((chip) => (
+                    <Badge
+                      key={chip}
+                      variant="secondary"
+                      className="px-3 py-1.5 text-xs font-medium bg-slate-100 text-slate-600 hover:bg-blue-50 hover:text-blue-600 cursor-pointer border border-slate-200 select-none active:scale-95 transition-transform"
+                      onClick={() => addChip(chip)}
+                    >
+                      + {chip}
+                    </Badge>
+                  ))}
+                </div>
+              </Card>
+            </div>
+
+            {/* Photo Upload (MOVED BELOW TEXT) */}
+            <div className="w-full">
+              <input
+                type="file"
+                accept="image/*"
+                className="hidden"
+                id="photo-upload-lg"
+                onChange={handleImageUpload}
+              />
+              <label
+                htmlFor="photo-upload-lg"
+                className={`w-full flex flex-col items-center justify-center p-4 rounded-2xl border-2 border-dashed transition-all cursor-pointer relative overflow-hidden ${imagePreview ? 'border-none bg-transparent p-0' : 'border-slate-300 bg-slate-50 hover:border-blue-400 hover:bg-blue-50'}`}
+              >
+                {imagePreview ? (
+                  <div className="relative rounded-2xl overflow-hidden bg-slate-100 border-2 border-blue-500 shadow-sm w-full">
+                    <img src={imagePreview} className="w-full h-auto block" />
+                    <div className="absolute top-4 right-4 z-10">
+                      <div className="bg-white/90 p-2 rounded-full shadow-sm cursor-pointer hover:bg-white transition-colors" onClick={(e) => { e.preventDefault(); /* Allow re-upload via label click */ }}>
+                        <Check className="w-5 h-5 text-green-600" />
+                      </div>
+                    </div>
+                    <div className="absolute bottom-4 left-0 right-0 flex justify-center z-10 pointer-events-none">
+                      <div className="bg-black/60 backdrop-blur-sm px-4 py-1.5 rounded-full flex items-center shadow-lg">
+                        <span className="text-xs font-bold text-white">Tap to Change</span>
+                      </div>
+                    </div>
+                  </div>
+                ) : (
+                  <div className="flex items-center gap-4 text-left w-full px-2">
+                    <div className="bg-blue-100 p-3 rounded-full shrink-0">
+                      <Camera className="w-6 h-6 text-blue-600" />
+                    </div>
+                    <div>
+                      <h3 className="text-sm font-bold text-slate-900">Add Photo (Recommended)</h3>
+                      <p className="text-xs text-slate-500 mt-0.5">
+                        AI will scan for visible injuries.
+                      </p>
+                    </div>
+                  </div>
+                )}
+              </label>
+            </div>
+          </div>
+
+
+          {/* SECONDARY: Pet Identity Input */}
+          <div className="w-full max-w-md bg-slate-50 p-5 rounded-3xl border border-slate-200 shadow-sm mb-32 space-y-6 opacity-90 hover:opacity-100 transition-opacity">
+            <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide border-b border-slate-200 pb-2 mb-2">2. Pet Details</h2>
+
+            {/* Row 1: Species (Big Toggles) */}
+            <div className="flex mb-3 h-12">
+              <Button
+                variant="ghost"
+                className={`flex-1 rounded-l-xl rounded-r-none border-y border-l border-r-0 text-base font-bold tracking-wide ${species === 'dog' ? 'bg-slate-800 text-white hover:bg-slate-900 hover:text-white border-slate-800' : 'bg-white text-slate-500 border-slate-200 hover:bg-slate-100'}`}
+                onClick={() => setSpecies('dog')}
+              >
+                DOG
+              </Button>
+              <div className="w-[1px] bg-slate-200 z-10" />
+              <Button
+                variant="ghost"
+                className={`flex-1 rounded-l-none rounded-r-xl border border-l-0 text-base font-bold tracking-wide ${species === 'cat' ? 'bg-slate-800 text-white hover:bg-slate-900 hover:text-white border-slate-800' : 'bg-white text-slate-500 border-slate-200 hover:bg-slate-100'}`}
+                onClick={() => setSpecies('cat')}
+              >
+                CAT
+              </Button>
+            </div>
+
+            {/* Row 2: Sex & Fixed */}
+            <div className="flex gap-3 h-10 mb-3">
+              <div className="flex-[2] flex rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-white">
+                <button
+                  className={`flex-1 text-xs font-bold transition-all ${sex === 'MALE' ? 'bg-slate-600 text-white' : 'text-slate-500 hover:bg-slate-50'}`}
+                  onClick={() => setSex('MALE')}
+                >
+                  Male
+                </button>
+                <div className="w-[1px] bg-slate-200" />
+                <button
+                  className={`flex-1 text-xs font-bold transition-all ${sex === 'FEMALE' ? 'bg-slate-600 text-white' : 'text-slate-500 hover:bg-slate-50'}`}
+                  onClick={() => setSex('FEMALE')}
+                >
+                  Female
+                </button>
+              </div>
+
+              <div className="flex-1 flex rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-white">
+                <button
+                  className={`flex-1 text-xs font-bold transition-all ${!isFixed ? 'bg-slate-600 text-white' : 'text-slate-500 hover:bg-slate-50'}`}
+                  onClick={() => setIsFixed(false)}
+                >
+                  Intact
+                </button>
+                <div className="w-[1px] bg-slate-200" />
+                <button
+                  className={`flex-1 text-xs font-bold transition-all ${isFixed ? 'bg-slate-600 text-white' : 'text-slate-500 hover:bg-slate-50'}`}
+                  onClick={() => setIsFixed(true)}
+                >
+                  Fixed
+                </button>
+              </div>
+            </div>
+
+            {/* Row 3: Breed Selection */}
+            <div className="relative mb-3 z-10">
+              <div className={`flex items-center bg-white border rounded-xl overflow-hidden transition-all ${showBreedList ? 'ring-2 ring-blue-100 border-blue-400' : 'border-slate-200'}`}>
+                <div className="pl-3 text-slate-400">
+                  <Search className="w-4 h-4" />
+                </div>
+                <input
+                  type="text"
+                  placeholder={`Search ${species} breed...`}
+                  className="flex-1 h-10 px-3 text-sm font-medium outline-none bg-transparent placeholder:text-slate-400"
+                  value={breed}
+                  onFocus={() => setShowBreedList(true)}
+                  onBlur={() => setTimeout(() => setShowBreedList(false), 200)}
+                  onChange={(e) => setBreed(e.target.value)}
+                />
+                <button
+                  onClick={() => setIsMixed(!isMixed)}
+                  className={`mr-2 px-2 py-1 rounded-md text-[10px] font-bold border transition-colors ${isMixed ? 'bg-blue-50 text-blue-600 border-blue-200' : 'bg-slate-50 text-slate-400 border-slate-200'}`}
+                >
+                  Mixed?
+                </button>
+              </div>
+
+              {/* Autocomplete Dropdown */}
+              {showBreedList && (
+                <div className="absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-xl border border-slate-100 max-h-48 overflow-y-auto no-scrollbar py-1 z-50">
+                  {(species === 'dog' ? DOG_BREEDS : CAT_BREEDS)
+                    .filter(b => b.toLowerCase().includes(breed.toLowerCase()))
+                    .map(b => (
+                      <button
+                        key={b}
+                        className="w-full text-left px-4 py-2.5 text-sm hover:bg-slate-50 text-slate-700 font-medium transition-colors"
+                        onClick={() => {
+                          setBreed(b === 'Other' ? '' : b);
+                          setShowBreedList(false);
+                        }}
+                        onMouseDown={(e) => e.preventDefault()} // Prevent blur
+                      >
+                        {b}
+                      </button>
+                    ))}
+                </div>
+              )}
+            </div>
+
+            {/* Row 4: Age & Weight (Side by Side) */}
+            <div className="flex gap-3">
+              {/* Age Group */}
+              <div className="flex-1">
+                <p className="text-[10px] font-bold text-slate-400 mb-1.5 uppercase tracking-wide">Age</p>
+                <div className="flex rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-white">
+                  {[
+                    { label: 'Baby', val: 'BABY', sub: '<1 yr' },
+                    { label: 'Adult', val: 'ADULT', sub: '1-9 yrs' },
+                    { label: 'Senior', val: 'SENIOR', sub: '10+ yrs' },
+                  ].map((opt) => {
+                    const isActive = ageBracket === opt.val;
+                    return (
+                      <button
+                        key={opt.val}
+                        onClick={() => setAgeBracket(opt.val as any)}
+                        className={`flex-1 h-12 flex flex-col items-center justify-center transition-all border-r border-slate-100 last:border-r-0 ${isActive ? 'bg-slate-700 text-white' : 'text-slate-600 hover:bg-slate-50'}`}
+                      >
+                        <span className="text-[11px] font-bold leading-none mb-0.5">{opt.label}</span>
+                        <span className={`text-[9px] font-medium ${isActive ? 'text-slate-300' : 'text-slate-400'}`}>{opt.sub}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Weight Group */}
+              <div className="flex-1">
+                <p className="text-[10px] font-bold text-slate-400 mb-1.5 uppercase tracking-wide">Weight</p>
+                <div className="flex rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-white">
+                  {[
+                    { label: 'Tiny', val: 'TOY', sub: '<15 lbs' },
+                    { label: 'Med', val: 'SMALL', sub: '15-45 lbs' },
+                    { label: 'Big', val: 'LARGE', sub: '45+ lbs' },
+                  ].map((opt) => {
+                    const isActive = weightBracket === opt.val;
+                    return (
+                      <button
+                        key={opt.val}
+                        onClick={() => setWeightBracket(opt.val as any)}
+                        className={`flex-1 h-12 flex flex-col items-center justify-center transition-all border-r border-slate-100 last:border-r-0 ${isActive ? 'bg-slate-700 text-white' : 'text-slate-600 hover:bg-slate-50'}`}
+                      >
+                        <span className="text-[11px] font-bold leading-none mb-0.5">{opt.label}</span>
+                        <span className={`text-[9px] font-medium ${isActive ? 'text-slate-300' : 'text-slate-400'}`}>{opt.sub}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          {/* Sticky Action Button */}
+          <div className="fixed bottom-0 left-0 right-0 p-4 bg-white/90 backdrop-blur-xl border-t border-slate-200 safe-area-pb z-50 shadow-[0_-5px_20px_rgba(0,0,0,0.05)]">
+            <div className="max-w-md mx-auto">
+              <Button
+                size="lg"
+                className="w-full h-14 text-lg font-bold rounded-xl bg-blue-600 hover:bg-blue-700 text-white shadow-xl shadow-blue-200 active:scale-95 transition-all mb-3"
+                onClick={handleAnalyze}
+                disabled={loading || !symptoms.trim()}
+              >
+                {loading ? (
+                  <div className="flex items-center gap-2">
+                    <Loader2 className="h-5 w-5 animate-spin" />
+                    ANALYZING...
+                  </div>
+                ) : (
+                  "Check My Pet"
+                )}
+              </Button>
+
+              {/* Disclaimer Caption with Shield */}
+              <div className="flex items-center justify-center gap-3 px-1 opacity-80 mt-2 w-full mx-auto">
+                <Shield className="w-7 h-7 text-slate-300 shrink-0" strokeWidth={1.5} />
+                <p className="text-[10px] font-medium text-slate-500 text-left leading-tight">
+                  Analysis references clinical protocols and data from industry-standard veterinary manuals (e.g. Merck Vet Manual) to ensure accuracy.
+                </p>
+              </div>
+            </div>
+          </div>
+        </>
+      )
+      }
+
+      {/* Screen 2: The Questions ("Investigation") */}
+      {
+        step === 'QUESTIONS' && pendingAssessment && pendingAssessment.verification_questions && (
+          <QuestionsView
+            questions={pendingAssessment.verification_questions}
+            loading={loading}
+            onComplete={handleQuestionsComplete}
+          />
+        )
+      }
+
+      {/* Screen 3: The Result Gate ("Conversion Engine") */}
+      {step === 'RESULT' && result && (
+        <TriageResult
+          result={result}
+          imagePreview={imagePreview}
+          consultHistory={consultHistory}
+          petDetails={{ species, breed, sex, isFixed, age: ageBracket, weight: weightBracket }}
+        />
+      )}
+
+
+    </div >
+  );
+}
