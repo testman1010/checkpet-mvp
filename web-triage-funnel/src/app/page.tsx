@@ -100,8 +100,29 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
   const rawProb = result.causes?.[0]?.probability || 0;
   const confidence = rawProb > 1 ? Math.round(rawProb) : Math.round(rawProb * 100);
 
-  const displayUrgency = isEmergency ? 'EMERGENCY DETECTED' : 'VET VISIT RECOMMENDED';
-  const badgeColor = isEmergency ? 'bg-red-600' : 'bg-yellow-500';
+  // Determine Urgency Display
+  const getUrgencyConfig = (level: string) => {
+    switch (level?.toUpperCase()) {
+      case 'CRITICAL':
+      case 'EMERGENCY':
+        return { text: 'EMERGENCY DETECTED', color: 'bg-red-600' };
+      case 'URGENT':
+        return { text: 'URGENT CARE NEEDED', color: 'bg-orange-600' };
+      case 'CONSULT':
+      case 'VET_VISIT_NEEDED':
+        return { text: 'VET VISIT RECOMMENDED', color: 'bg-yellow-500' };
+      case 'WATCH':
+      case 'MONITOR':
+        return { text: 'MONITOR AT HOME', color: 'bg-blue-500' };
+      case 'NORMAL':
+        return { text: 'NO IMMEDIATE CONCERN', color: 'bg-green-500' };
+      default:
+        // Fallback for unknown states or null
+        return { text: 'VET VISIT RECOMMENDED', color: 'bg-yellow-500' };
+    }
+  };
+
+  const { text: displayUrgency, color: badgeColor } = getUrgencyConfig(result.urgency_level);
 
   // Waitlist State
   const [email, setEmail] = useState('');
@@ -226,6 +247,7 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
         imagePreview={imagePreview}
         consultHistory={consultHistory}
         isEmergency={false}
+        petDetails={petDetails}
       />
     </div>
   );
@@ -263,8 +285,13 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
     const text = `
 CheckPet Analysis Report
 Date: ${new Date().toLocaleDateString()}
-Pet: ${petDetails?.species || 'Pet'} ${petDetails?.breed ? `(${petDetails.breed})` : ''} - ${petDetails?.age} / ${petDetails?.weight}
-Sex: ${petDetails?.sex} ${petDetails?.isFixed ? '(Fixed)' : ''}
+
+PATIENT DETAILS:
+- Species: ${petDetails?.species?.toUpperCase() || 'Unknown'}
+- Primary Breed: ${petDetails?.breed || 'Unknown/Mixed'}
+- Age: ${petDetails?.age || 'Unknown'}
+- Weight: ${petDetails?.weight || 'Unknown'}
+- Sex: ${petDetails?.sex || 'Unknown'} ${petDetails?.isFixed ? '(Neutered/Spayed)' : '(Intact)'}
 
 
 PRIMARY ANALYSIS: ${primaryCondition}
@@ -1064,7 +1091,14 @@ export default function PanicIntake() {
           result={result}
           imagePreview={imagePreview}
           consultHistory={consultHistory}
-          petDetails={{ species, breed, sex, isFixed, age: ageBracket, weight: weightBracket }}
+          petDetails={{
+            species,
+            breed: isMixed ? `Mixed ${breed}` : breed,
+            sex,
+            isFixed,
+            age: ageBracket,
+            weight: weightBracket
+          }}
         />
       )}
 
