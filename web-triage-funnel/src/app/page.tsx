@@ -122,7 +122,7 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
     }
   };
 
-  const { text: displayUrgency, color: badgeColor } = getUrgencyConfig(result.urgency_level);
+  const { text: displayUrgency, color: badgeColor } = getUrgencyConfig(result.urgency_level || '');
 
   // Waitlist State
   const [email, setEmail] = useState('');
