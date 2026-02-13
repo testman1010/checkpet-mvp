@@ -8,8 +8,8 @@ import { useEffect } from 'react';
 export function CSPostHogProvider({ children }: { children: React.ReactNode }) {
     useEffect(() => {
         if (typeof window !== 'undefined') {
-            posthog.init('phc_HiWhs0jxGUSDyDMdAI6XwrALmA6iRQl8XhYyLfmGKti', {
-                api_host: 'https://us.i.posthog.com',
+            posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY || 'phc_placeholder', {
+                api_host: process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com',
                 person_profiles: 'identified_only',
                 capture_pageview: true
             });
