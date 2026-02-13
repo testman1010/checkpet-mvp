@@ -12,6 +12,7 @@ import { Camera, Check, Loader2, Lock, Search, ShieldAlert, AlertTriangle, Clipb
 import { useState, useEffect } from 'react';
 import { ProcessingLoader } from '@/components/ui/processing-loader';
 import { AnimatePresence, motion } from "framer-motion";
+import { usePostHog } from 'posthog-js/react';
 
 import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
 
@@ -256,6 +257,15 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
 function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails }: any) {
   const [saved, setSaved] = useState(false);
+  const posthog = usePostHog();
+
+  useEffect(() => {
+    posthog?.capture('result_viewed', {
+      urgency_level: result.urgency_level,
+      primary_condition: primaryCondition,
+      confidence: confidence,
+    });
+  }, [result]);
 
   const handleSave = () => {
     try {
@@ -275,6 +285,10 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
       const existing = JSON.parse(localStorage.getItem('pet_triage_history') || '[]');
       localStorage.setItem('pet_triage_history', JSON.stringify([historyItem, ...existing]));
       setSaved(true);
+      posthog?.capture('action_save_result', {
+        urgency_level: result.urgency_level,
+        condition: primaryCondition
+      });
     } catch (e) {
       console.error("Save failed", e);
       alert("Could not save to history (Storage Full?)");
@@ -282,6 +296,9 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
   };
 
   const handleShare = async () => {
+    posthog?.capture('action_email_vet', {
+      species: petDetails?.species
+    });
     const text = `
 CheckPet Analysis Report
 Date: ${new Date().toLocaleDateString()}
@@ -594,6 +611,7 @@ function QuestionsView({
 
 
 export default function PanicIntake() {
+  const posthog = usePostHog();
   const [step, setStep] = useState<'INPUT' | 'QUESTIONS' | 'RESULT'>('INPUT');
   const [species, setSpecies] = useState<'dog' | 'cat'>('dog');
   const [sex, setSex] = useState<'MALE' | 'FEMALE'>('MALE');
@@ -638,6 +656,7 @@ export default function PanicIntake() {
         setImagePreview(base64String);
         const rawBase64 = base64String.split(',')[1];
         setImageBase64(rawBase64);
+        posthog?.capture('photo_uploaded', { has_photo: true });
       };
       reader.readAsDataURL(file);
     }
@@ -653,6 +672,12 @@ export default function PanicIntake() {
     const minDelay = new Promise(resolve => setTimeout(resolve, 2000));
 
     try {
+      posthog?.capture('analysis_started', {
+        species,
+        breed: isMixed ? `Mixed ${breed}` : breed,
+        symptom_length: symptoms.length
+      });
+
       const [response] = await Promise.all([
         apiClient.analyzeSymptoms({
           symptom: symptoms,
@@ -696,6 +721,10 @@ export default function PanicIntake() {
       answer: answers[q.id] // Value is already "Yes" | "No" | "Unsure"
     })) || [];
     setConsultHistory(history);
+
+    posthog?.capture('questions_answered', {
+      question_count: history.length
+    });
 
     setLoading(true);
     setLoadingType('REFINEMENT');

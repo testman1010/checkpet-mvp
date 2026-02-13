@@ -11,7 +11,7 @@ export function CSPostHogProvider({ children }: { children: React.ReactNode }) {
             posthog.init('phc_HiWhs0jxGUSDyDMdAI6XwrALmA6iRQl8XhYyLfmGKti', {
                 api_host: 'https://us.i.posthog.com',
                 person_profiles: 'identified_only',
-                capture_pageview: false
+                capture_pageview: true
             });
         }
     }, []);
