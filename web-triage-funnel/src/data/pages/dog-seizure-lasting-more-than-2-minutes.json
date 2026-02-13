@@ -1,0 +1,20 @@
+{
+  "title": "Emergency: Dog Seizure Lasting More Than 2 Minutes - What to Do",
+  "meta_desc": "A seizure lasting over 2 minutes is a critical emergency for dogs. Learn what to do, why it is urgent, and how to assist your veterinarian.",
+  "content_html": "<h3>What is a Seizure?</h3><p>A seizure is a sudden, involuntary disturbance in the brain's electrical activity. In dogs, this often manifests as muscle twitching, stiffening, loss of consciousness, and sometimes loss of bladder or bowel control. When a seizure persists for more than two minutes, it is no longer a localized event and begins to impact the dog's entire system, including their ability to regulate body temperature.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is High. A seizure lasting more than two minutes is considered a medical emergency. Prolonged seizures (status epilepticus) can cause a dangerous rise in body temperature, brain swelling, and potential organ damage. If your dog is currently seizing and has passed the two-minute mark, please call your nearest emergency veterinarian immediately and prepare to transport them safely.</p><h3>Why a Video Helps Triage</h3><p>If you are able to safely do so, or if there is another person present, recording a short video of the seizure can be vital for your veterinarian. A video allows the clinical team to see the exact nature of the muscle movements, the level of consciousness, and the duration. This visual evidence helps the vet differentiate between a primary seizure and other conditions like syncope (fainting) or vestibular disease, leading to a faster and more accurate diagnosis upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to hold my dog's tongue during a seizure?",
+      "answer": "No. Dogs do not swallow their tongues, and putting your hands near their mouth during a seizure puts you at a high risk of being bitten accidentally."
+    },
+    {
+      "question": "What is the best way to transport a seizing dog?",
+      "answer": "Gently slide them onto a thick blanket to use as a stretcher. Keep their head slightly elevated if possible and ensure they are away from the edges of car seats."
+    },
+    {
+      "question": "What happens if the seizure doesn't stop?",
+      "answer": "Veterinarians will use intravenous medications to stop the seizure activity and may provide cooling measures and oxygen support to prevent further damage."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

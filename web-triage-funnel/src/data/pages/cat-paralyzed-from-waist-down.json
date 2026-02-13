@@ -1,0 +1,20 @@
+{
+  "title": "Cat Paralyzed from Waist Down: Emergency Triage and Causes",
+  "meta_desc": "If your cat is unable to move their back legs, it is a high-priority veterinary emergency. Learn about causes like FATE and immediate steps to take.",
+  "content_html": "<h3>What is Hind-End Paralysis in Cats?</h3><p>Sudden loss of movement in a cat's rear limbs, known as hind-end paralysis or paraparesis, is a distressing condition where a cat can no longer use its back legs to stand or walk. In feline patients, this is most commonly associated with Feline Aortic Thromboembolism (FATE), often called a saddle thrombus. This occurs when a blood clot lodges at the base of the aorta, cutting off blood flow to the legs. Other potential causes include spinal cord trauma, severe disc herniation, or inflammatory diseases of the nervous system.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. Yes, sudden paralysis is a life-threatening medical emergency. If your cat is dragging their back legs, crying out in pain, or if their rear paws feel cold to the touch, you must transport them to an emergency veterinary hospital immediately. This condition is extremely painful and requires professional intervention to manage pain, assess heart health, and determine if circulation can be restored. Early treatment is the only chance for a positive outcome.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you are dealing with an emergency, a quick 10-second video of your cat's movement can provide the veterinary team with vital information before you even arrive. Seeing the way the legs are positioned or how the cat attempts to navigate helps the triage nurse differentiate between orthopedic injury and neurological or vascular issues. Additionally, a clear photo of your cat's paw pads can help the vet check for cyanosis (a bluish tint), which indicates a lack of oxygenated blood flow. These visual tools allow the clinic to prepare the necessary life-saving equipment for your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Is hind-end paralysis in cats painful?",
+      "answer": "Yes, conditions like saddle thrombus are exceptionally painful for cats. They may pant, vocalize loudly, or show signs of extreme distress."
+    },
+    {
+      "question": "Can a cat survive being paralyzed from the waist down?",
+      "answer": "Survival depends on the cause. While some neurological conditions can be managed, vascular issues like FATE carry a guarded prognosis and require immediate, intensive care."
+    },
+    {
+      "question": "What should I do while transporting my paralyzed cat?",
+      "answer": "Keep the cat in a confined, padded carrier to prevent further injury. Handle them gently to avoid causing more pain, and try to keep them calm and warm during the drive."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

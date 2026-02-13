@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Cat Paw Sensitivity: Causes and Triage Guide",
+  "meta_desc": "Is your cat's paw sensitive to touch? Learn about potential causes, urgency levels, and why professional triage is necessary for your pet.",
+  "content_html": "<h3>What is Paw Sensitivity in Cats?</h3><p>Extreme sensitivity in a cat's paws, or hyperesthesia, occurs when a cat reacts with intense discomfort or aggression when their feet are handled. This can be caused by physical trauma like a thorn or glass shard, a broken nail, or inflammatory conditions such as Plasma Cell Pododermatitis (often called 'pillow paw'). It may also be a symptom of feline hyperesthesia syndrome or localized nerve pain.</p><h3>Is it an Emergency?</h3><p>The urgency level for paw sensitivity is typically <strong>Medium</strong>. While usually not a sudden life-threatening crisis, it indicates your cat is experiencing active pain that requires professional diagnosis. You should aim to see a veterinarian within 24 to 48 hours. If the sensitivity is accompanied by an inability to walk, extreme lethargy, or uncontrolled bleeding, you should seek emergency care immediately.</p><h3>How Photos Help During Triage</h3><p>Taking a clear, well-lit photo of the affected paw can be a vital tool for your veterinarian during a triage assessment. Photos allow the vet to look for subtle signs of swelling, crusting, or foreign bodies without causing the cat further distress through physical manipulation. High-quality images help determine if the issue is dermatological or structural before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat aspirin for paw pain?",
+      "answer": "No, never give human pain medications like aspirin, ibuprofen, or Tylenol to cats. These are highly toxic to felines and can be fatal. Only use medications prescribed by your veterinarian."
+    },
+    {
+      "question": "Why is my cat suddenly biting me when I touch their feet?",
+      "answer": "This is a common 'pain response.' Even the gentlest cat may bite or scratch if a sensitive area is touched as a natural defensive reflex to protect themselves from further hurt."
+    },
+    {
+      "question": "What is 'Pillow Paw'?",
+      "answer": "Plasma Cell Pododermatitis is an immune-mediated condition where the paw pads become soft, spongy, and scaly. It can cause significant sensitivity and requires veterinary treatment to manage."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

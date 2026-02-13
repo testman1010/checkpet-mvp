@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Swallowed Tylenol (Acetaminophen Toxicity)",
+  "meta_desc": "Acetaminophen is extremely toxic to cats. If your cat swallowed Tylenol, read this emergency guide and seek veterinary care immediately.",
+  "content_html": "<h3>What is Acetaminophen Toxicity?</h3><p>Acetaminophen, the active ingredient in Tylenol, is a common pain reliever for humans but is highly poisonous to cats. Cats lack a specific liver enzyme (glucuronyl transferase) required to safely break down this medication. Even a tiny dose can lead to the formation of toxic metabolites that destroy red blood cells and cause severe liver failure.</p><h3>Is This an Emergency?</h3><p>Yes. This is a life-threatening medical emergency with a High Urgency level. You should not wait for symptoms to appear. Acetaminophen causes oxidative damage to a cat's hemoglobin, turning it into methemoglobin, which cannot carry oxygen. This can lead to rapid organ failure and death within 24 to 48 hours if left untreated.</p><h3>Why a Photo Helps Triage</h3><p>Taking a quick photo of the pill bottle or the specific packaging helps the veterinary team immensely. It allows them to identify the exact milligram dosage (e.g., Regular Strength vs. Extra Strength) and any other active ingredients, such as caffeine or decongestants. Having this information ready enables the vet to calculate the toxicity level and prepare the antidote immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a small amount of Tylenol for pain?",
+      "answer": "No. There is no safe dose of acetaminophen for cats. Even a fraction of a human pill can be fatal."
+    },
+    {
+      "question": "What are the symptoms of Tylenol poisoning in cats?",
+      "answer": "Symptoms include brown or muddy-colored gums, difficulty breathing, swelling of the face or paws, lethargy, and vomiting."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. You should never induce vomiting in a cat at home without direct instruction from a veterinarian, as it can be dangerous and delay life-saving treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

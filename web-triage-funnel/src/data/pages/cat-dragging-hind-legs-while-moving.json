@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat Dragging Hind Legs (Hind Limb Paralysis)",
+  "meta_desc": "If your cat is dragging its hind legs, this is a life-threatening medical emergency. Learn about saddle thrombus and why you need a vet immediately.",
+  "content_html": "<h3>What is Hind Limb Paralysis?</h3><p>When a cat suddenly loses the ability to move its back legs, it is usually a sign of hind limb paralysis. The most common cause is Feline Aortic Thromboembolism (FATE), also known as a saddle thrombus. This occurs when a blood clot, often originating from an underlying heart condition, travels through the aorta and lodges where the arteries branch to the hind legs, cutting off all blood circulation. Other causes can include spinal cord injuries, severe disk herniation, or neurological trauma.</p><h3>Is this an emergency?</h3><p>Yes. This is a high-priority, life-threatening emergency. If your cat is dragging its legs, it is likely experiencing extreme pain and physical distress. You should not wait for an appointment; transport your cat to the nearest 24-hour emergency veterinary hospital immediately. Symptoms such as vocalizing (crying out), heavy breathing, and cold-to-the-touch back paws indicate a critical loss of blood flow that requires instant intervention.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so without delaying your departure, a quick video of your cat attempting to move can be invaluable for the veterinary team. A video allows the vet to see the exact nature of the mobility loss—whether it is complete paralysis, extreme weakness, or lack of coordination (ataxia). This helps the clinical team prepare the necessary diagnostic tools and pain management before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Is hind limb paralysis painful for cats?",
+      "answer": "Yes, especially if caused by a blood clot (saddle thrombus), this condition is considered one of the most painful experiences a cat can have. Immediate pain management is a top priority for vets."
+    },
+    {
+      "question": "What are the signs of a blood clot in a cat's legs?",
+      "answer": "Common signs include sudden paralysis, loud crying or howling, cold back paws, and paw pads that look blue or pale instead of pink."
+    },
+    {
+      "question": "Can a cat recover after dragging its back legs?",
+      "answer": "Recovery depends entirely on the underlying cause. While some spinal issues may respond to surgery or rest, a saddle thrombus has a very guarded prognosis and requires intensive emergency care."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

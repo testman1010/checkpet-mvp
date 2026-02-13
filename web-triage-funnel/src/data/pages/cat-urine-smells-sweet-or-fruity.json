@@ -1,0 +1,20 @@
+{
+  "title": "Cat Urine Smells Sweet or Fruity: Causes and Veterinary Triage Guide",
+  "meta_desc": "If your cat's urine smells sweet or fruity, it could indicate feline diabetes. Learn why this requires a vet visit and how to triage symptoms.",
+  "content_html": "<h3>What Does Sweet-Smelling Urine Mean?</h3><p>When a cat's urine has a noticeably sweet or fruity odor, it is usually a sign of glucosuria, which means there is excess glucose (sugar) being excreted through the kidneys. This occurs when the blood sugar levels are so high that the body cannot reabsorb the excess, often pointing toward Feline Diabetes Mellitus. In some cases, a fruity smell can also indicate the presence of ketones, which are acids produced when the body starts burning fat for energy instead of glucose.</p><h3>Is It an Emergency?</h3><p>The urgency level for sweet-smelling urine is Medium. While your cat may appear fine in the moment, this is a clear clinical sign that their metabolism is not functioning correctly. You should schedule a veterinary appointment within the next 24 to 48 hours. However, if your cat is also vomiting, acting extremely lethargic, or refusing to eat, this moves into a High Urgency category, as it could indicate Diabetic Ketoacidosis (DKA), a life-threatening complication.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian or a triage professional with a photo can be incredibly helpful. Specifically, a photo of the litter box can show the size and frequency of urine clumps. Cats with diabetes often produce much larger clumps than normal (polyuria). Additionally, a photo or short video of your cat's resting posture or their water bowl setup helps the vet assess their hydration levels and overall physical condition before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can diet cause a sweet smell in cat urine?",
+      "answer": "While diet affects overall health, a distinct sweet or fruity smell is almost always a biological signal of high glucose or ketones rather than a direct result of the food's scent."
+    },
+    {
+      "question": "What other symptoms accompany sweet-smelling urine?",
+      "answer": "Common concurrent symptoms include polydipsia (increased thirst), polyphagia (increased appetite), and unexplained weight loss despite eating more."
+    },
+    {
+      "question": "What tests will the vet perform?",
+      "answer": "The veterinarian will typically perform a urinalysis to check for glucose and ketones, along with a blood test to check blood glucose levels and fructosamine to confirm a diabetes diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

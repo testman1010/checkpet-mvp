@@ -1,0 +1,20 @@
+{
+  "title": "Dog Cluster Seizures: Immediate Triage and Emergency Care Guide",
+  "meta_desc": "If your dog has had 2+ seizures in 24 hours, this is a medical emergency. Learn why cluster seizures require immediate veterinary intervention.",
+  "content_html": "<h3>What are Cluster Seizures?</h3><p>Cluster seizures are defined as two or more seizure events occurring within a single 24-hour period. While the dog may appear to regain consciousness or return to normal between these episodes, the underlying electrical activity in the brain remains unstable, making them highly susceptible to repeated events.</p><h3>Urgency Level: High (Immediate Emergency)</h3><p>Cluster seizures are considered a critical medical emergency. There is a high risk that the dog could transition into 'status epilepticus'—a life-threatening state where seizures do not stop. Frequent seizing can cause the body temperature to rise to dangerous levels, potentially leading to brain damage or organ failure. If your dog has experienced more than one seizure today, please transport them to an emergency veterinarian immediately.</p><h3>The Role of Visual Evidence in Triage</h3><p>If it is safe to do so and does not delay your trip to the clinic, capturing a short video of the seizure can be incredibly helpful for the veterinary team. A video allows the vet to observe the specific type of muscular movement, the duration of the event, and the level of consciousness. This visual data helps the triage team determine the severity of the neurological event and select the most appropriate medications for rapid stabilization.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is seizing?",
+      "answer": "Keep your dog safe by moving furniture away from them, but never put your hands near their mouth as they may accidentally bite. Keep the environment dark, quiet, and cool."
+    },
+    {
+      "question": "Can I wait until the morning to see my regular vet?",
+      "answer": "No. Because cluster seizures can quickly escalate into non-stop seizing (status epilepticus), your dog requires immediate stabilization that cannot wait for a scheduled appointment."
+    },
+    {
+      "question": "How will the veterinarian stop the cluster seizures?",
+      "answer": "Vets typically use fast-acting intravenous medications to break the seizure cycle, followed by monitoring and potential blood work to identify the underlying cause."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

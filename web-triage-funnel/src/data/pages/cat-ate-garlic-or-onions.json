@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate Garlic or Onions: Emergency Triage and Care Guide",
+  "meta_desc": "Garlic and onions are highly toxic to cats. Learn why this is a high-urgency emergency and what steps you need to take immediately to save your cat.",
+  "content_html": "<h3>What is Garlic and Onion Toxicity?</h3><p>Garlic, onions, chives, and leeks all belong to the Allium family. These plants contain oxidants known as n-propyl disulfide, which are highly toxic to feline biology. When a cat ingests these substances, the toxins attack the red blood cells, causing them to rupture or lose their ability to carry oxygen. This condition, known as hemolytic anemia, can lead to organ failure if left untreated.</p><h3>Is it an Emergency?</h3><p>Yes. Ingestion of garlic or onions is a high-urgency medical emergency. Cats are significantly more sensitive to Allium toxicity than dogs. It is important to note that symptoms often do not appear immediately; it can take several days for the destruction of red blood cells to become apparent. Early intervention at a veterinary clinic is the best way to ensure a positive outcome for your pet.</p><h3>Why a Photo Helps Triage</h3><p>If your cat consumed a product containing these ingredients, please take a clear photo of the packaging and the ingredient list. If they ate fresh produce, take a photo of the remains. These images allow your veterinarian to quickly identify the concentration of the toxin and the approximate volume consumed, which is vital for determining the correct course of treatment, such as inducing vomiting or starting supportive fluid therapy.</p>",
+  "faqs": [
+    {
+      "question": "How much garlic or onion is dangerous for a cat?",
+      "answer": "Even a very small amount—roughly one-fifth of a teaspoon of garlic powder or a small slice of onion—can cause significant toxicosis in a typical adult cat."
+    },
+    {
+      "question": "What are the early symptoms of poisoning?",
+      "answer": "Early signs may include vomiting, diarrhea, drooling, and abdominal pain. Later signs include pale gums, lethargy, and dark-colored or reddish urine."
+    },
+    {
+      "question": "Does cooking the garlic or onion make it safe?",
+      "answer": "No. Dehydrating, cooking, or processing these plants does not reduce their toxicity. Garlic powder and onion flakes are often more concentrated and dangerous than fresh versions."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

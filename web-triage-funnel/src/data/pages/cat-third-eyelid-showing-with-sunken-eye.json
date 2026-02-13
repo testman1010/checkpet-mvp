@@ -1,0 +1,20 @@
+{
+  "title": "Cat Third Eyelid Showing and Sunken Eyes: A Triage Guide",
+  "meta_desc": "Learn why your cat's third eyelid is visible and eyes look sunken. Understand potential causes and urgency levels for veterinary care.",
+  "content_html": "<h3>What is it?</h3><p>When you see your cat's third eyelid—the nictitating membrane—sliding across the eye while the eyeball itself appears to have receded into the socket (a condition known as enophthalmos), it is often a sign of an underlying health issue. Unlike humans, cats have this extra protective layer. When a cat is unwell, dehydrated, or has lost weight rapidly, the fat pad behind the eye can shrink, causing the eye to sink and the third eyelid to passively elevate. This can also be seen in conditions like Haw's Syndrome or Horner's Syndrome.</p><h3>Is it an Emergency?</h3><p>The urgency level for this specific combination of symptoms is generally Low. While it is certainly a sign that your cat should be evaluated by a veterinarian, it is rarely a life-threatening emergency on its own. However, if your cat is also experiencing extreme lethargy, a complete refusal to eat, or difficulty breathing, you should seek immediate care. If the eye appears cloudy, painful, or has significant discharge, an appointment within 24 to 48 hours is recommended to rule out ocular injury or infection.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of your cat's eyes can be incredibly helpful for remote triage. A photo allows a veterinary professional to see the exact position of the membrane, the symmetry between both eyes, and the presence of any discharge or inflammation. This visual information helps the vet determine if the issue is localized to the eye itself or if it is a systemic symptom of a larger problem, potentially saving time during your eventual in-person consultation.</p>",
+  "faqs": [
+    {
+      "question": "Can dehydration cause a cat's third eyelid to show?",
+      "answer": "Yes, dehydration is a very common cause. When a cat loses fluid, the tissues behind the eye can shrink, causing the eye to sink and the third eyelid to become visible."
+    },
+    {
+      "question": "Does this mean my cat is in pain?",
+      "answer": "Not necessarily. While it can be a response to ocular pain, a sunken eye and visible third eyelid are often passive responses to systemic illness or weight loss rather than a direct indicator of acute pain."
+    },
+    {
+      "question": "What is Haw's Syndrome?",
+      "answer": "Haw's Syndrome is a condition where both third eyelids protrude, often following a bout of gastrointestinal upset. It usually resolves on its own, but a vet should confirm the diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

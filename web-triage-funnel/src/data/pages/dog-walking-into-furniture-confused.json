@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking into Furniture and Confused: Veterinary Triage Guide",
+  "meta_desc": "Is your dog disoriented and bumping into walls? Learn about the causes, urgency levels, and why capturing video is vital for your vet.",
+  "content_html": "<h3>What is Disorientation and Bumping into Objects?</h3><p>When a dog begins walking into furniture or appears generally confused, it is typically a sign of an underlying medical condition affecting their neurological system, vision, or metabolic health. This behavior, often described as 'head pressing' or 'pacing,' indicates that the dog's spatial awareness or cognitive function is compromised.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for this condition is Medium. While it may not always require immediate life-saving intervention, a sudden onset of confusion or loss of navigation skills warrants a veterinary examination within 12 to 24 hours. If your dog also exhibits seizures, extreme lethargy, or collapses, you should seek emergency care immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a short video of your dog's behavior is one of the most helpful tools you can provide to a veterinarian. Since dogs often act differently or hide symptoms due to adrenaline at the clinic, a video allows the vet to observe the exact nature of the confusion, the way they walk, and any repetitive patterns that might indicate specific neurological issues.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have had a stroke?",
+      "answer": "While strokes can occur in dogs, sudden disorientation is more frequently caused by 'Old Dog Vestibular Disease,' ear infections, or metabolic imbalances. A vet will need to perform a neurological exam to differentiate these."
+    },
+    {
+      "question": "Is this just a normal part of aging?",
+      "answer": "While senior dogs can develop Canine Cognitive Dysfunction (dementia), a sudden onset of bumping into things usually points to a physical health issue like sudden vision loss or high blood pressure rather than just normal aging."
+    },
+    {
+      "question": "What should I do to keep my dog safe right now?",
+      "answer": "Block off stairs with baby gates, keep them away from pools or sharp corners, and avoid rearranging your furniture until you have a diagnosis from your veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

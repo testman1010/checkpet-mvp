@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Tremors After Dog Flea Medication Application",
+  "meta_desc": "If your cat is trembling after exposure to dog flea meds, it is a life-threatening emergency. Learn about pyrethroid toxicity and immediate next steps.",
+  "content_html": "<h3>What is it?</h3><p>When a cat experiences tremors after being treated with dog flea medication, it is typically a sign of Pyrethrin or Pyrethroid toxicity. Many flea treatments designed for dogs contain high concentrations of these chemicals, which are safe for canines but highly toxic to a cat's central nervous system. Cats lack the specific liver enzymes needed to break these chemicals down, leading to rapid neurological distress.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Without immediate veterinary intervention, these tremors can escalate to severe seizures, hyperthermia, and potentially death. Do not 'wait and see' if the symptoms pass. Professional treatment is required to stabilize your cat and prevent permanent damage.</p><h3>Why a photo or video helps triage</h3><p>If you are able to safely capture a short video of the tremors, it can provide the veterinary team with vital information about the type and severity of the neurological reaction. Additionally, taking a clear photo of the medication packaging (specifically the ingredients and concentration) allows the vet to identify the exact toxin and calculate the necessary treatment dosage before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to wash my cat before going to the vet?",
+      "answer": "If your cat is stable, you can briefly wash the application site with lukewarm water and mild dish soap to prevent further absorption. However, if your cat is actively seizing or trembling violently, do not delay. Go to the emergency vet immediately."
+    },
+    {
+      "question": "What are other symptoms of dog flea med poisoning in cats?",
+      "answer": "In addition to tremors, you may notice excessive drooling, ear twitching, dilated pupils, vomiting, stumbling (ataxia), or extreme sensitivity to touch and sound."
+    },
+    {
+      "question": "Can cats survive pyrethroid toxicity?",
+      "answer": "Yes, many cats survive if they receive prompt veterinary care. Treatment usually involves IV fluids, muscle relaxants, and lipid infusion therapy to help pull the toxin out of the bloodstream."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

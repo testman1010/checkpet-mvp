@@ -1,0 +1,20 @@
+{
+  "title": "Rapidly Growing Lump on Dog's Flank: Triage Guide & Urgent Steps",
+  "meta_desc": "If your dog has a new, rapidly growing lump on their flank, immediate veterinary care is recommended. Learn about urgency levels and next steps.",
+  "content_html": "<h3>What is a Rapidly Growing Lump?</h3><p>A new mass on your dog's flank that changes size quickly can be caused by several conditions. These include aggressive skin tumors such as mast cell tumors or soft tissue sarcomas, but could also be a localized infection like an abscess or a severe inflammatory reaction. Because the growth is rapid, it suggests high cellular activity that requires professional diagnosis to differentiate between benign and malignant causes.</p><h3>Is it an Emergency?</h3><p>The urgency level for this situation is High. While a lump may not always require an emergency room visit in the middle of the night, it should be evaluated by a veterinarian within 24 to 48 hours. If the lump is bleeding, painful to the touch, or if your dog is lethargic and refusing food, you should seek urgent care immediately. Rapid growth is one of the primary indicators that a mass may be aggressive.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the lump helps your veterinary team track the rate of change and assess the severity before you even walk through the door. A photo provides a visual baseline of the color, shape, and surrounding skin condition, allowing the triage staff to prioritize your appointment and prepare for diagnostic tests like a fine-needle aspirate.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to squeeze the lump?",
+      "answer": "No, you should never squeeze or poke a new growth. This can cause pain, worsen an infection, or cause certain types of tumors, like mast cell tumors, to release dangerous histamines into your dog's bloodstream."
+    },
+    {
+      "question": "Can a fast-growing lump be non-cancerous?",
+      "answer": "Yes, it is possible for a fast-growing lump to be an abscess or a cyst; however, because many aggressive cancers look identical to benign lumps, a veterinary exam is the only way to confirm."
+    },
+    {
+      "question": "What diagnostic tests will the vet perform?",
+      "answer": "The most common first step is a Fine Needle Aspirate (FNA), where a small needle collects cells for microscopic review. They may also suggest a biopsy if the FNA results are inconclusive."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

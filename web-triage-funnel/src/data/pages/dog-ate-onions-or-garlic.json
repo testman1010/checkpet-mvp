@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Onions or Garlic: Immediate Triage Guide & Toxicity Risks",
+  "meta_desc": "Onions and garlic are toxic to dogs and can cause life-threatening anemia. Learn what to do, why it's an emergency, and how a photo helps triage.",
+  "content_html": "<h3>What Happens When a Dog Eats Onions or Garlic?</h3><p>Onions, garlic, chives, and leeks belong to the Allium family. These plants contain compounds called N-propyl disulfides and thiosulfates, which are highly toxic to dogs. When ingested, these substances cause oxidative damage to red blood cells. This leads to the formation of Heinz bodies, potentially causing a life-threatening condition called hemolytic anemia, where the dog's body destroys its own red blood cells faster than it can produce them.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes, ingestion of onions or garlic is a High Urgency emergency. Toxic effects can occur from a single large ingestion or repeated small amounts over time. It is critical to contact a veterinarian or a pet poison control center immediately, even if your dog seems fine. Symptoms like lethargy, pale gums, or dark-colored urine may not appear for several days, at which point the damage to the red blood cells is already severe. Early intervention, such as professional decontamination, is the best way to prevent a crisis.</p><h3>How a Photo Helps Your Vet Triage</h3><p>If you caught your dog in the act, taking a quick photo of the items consumed can be incredibly helpful for the triage team. Garlic is roughly five times more potent than onions, so identifying the specific plant is vital. Additionally, photos of ingredient labels (especially for powders or processed foods) help the vet calculate the exact toxic dose. If your dog has already vomited, a photo of the vomit can help the vet assess the quantity of the toxin that was successfully expelled versus what might still be in the stomach.</p>",
+  "faqs": [
+    {
+      "question": "How much onion or garlic is toxic to dogs?",
+      "answer": "Toxicity can occur when a dog ingests more than 0.5% of their body weight in onions at once. Garlic is significantly more concentrated and dangerous in much smaller amounts."
+    },
+    {
+      "question": "Can dogs eat cooked or powdered onions and garlic?",
+      "answer": "No. Cooking, drying, or processing these plants does not neutralize the toxins. In fact, garlic and onion powders are often more dangerous because they are highly concentrated."
+    },
+    {
+      "question": "What are the first signs of onion poisoning?",
+      "answer": "Initial signs include vomiting and diarrhea. Later symptoms of anemia include pale or blue-tinged gums, weakness, rapid heart rate, and reddish-brown urine."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

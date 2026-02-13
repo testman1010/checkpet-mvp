@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed String: Emergency Triage & Triage Guide",
+  "meta_desc": "If your cat swallowed string, yarn, or ribbon, it's a high-priority emergency. Learn the risks of linear foreign bodies and why you must see a vet.",
+  "content_html": "<h3>What is a Linear Foreign Body?</h3><p>When a cat ingests string, thread, dental floss, or ribbon, it is classified as a linear foreign body. Unlike a solid object, string-like materials can become anchored at the base of the tongue or in the stomach. As the intestines attempt to push the rest of the string through the digestive tract, the bowel segments bunch up like a drawstring, which can lead to severe damage or life-threatening blockages.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Ingestion of string is a critical medical emergency. Even if your cat appears fine initially, the internal damage can progress rapidly. If the string becomes taut, it can actually saw through the intestinal walls, causing a perforation and subsequent leakage of bacteria into the abdominal cavity (peritonitis). You should contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo to your veterinary team can be vital for successful triage. If you have the remaining portion of the string, take a photo of it next to a common object like a coin or ruler to show the texture and estimate the length swallowed. If you see the string under your cat's tongue or protruding from their rear, a clear photo allows the vet to assess the situation without causing the cat additional stress or pain before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I pull the string out if I see it under the tongue or tail?",
+      "answer": "No. Never pull the string. If the string is anchored further down the digestive tract, pulling it can cause the material to slice through the esophagus, stomach, or intestines, leading to fatal internal injuries."
+    },
+    {
+      "question": "What are the warning signs of a blockage?",
+      "answer": "Common symptoms include repetitive vomiting, loss of appetite, hiding, abdominal pain, and lethargy. However, do not wait for these symptoms to appear before seeking veterinary care."
+    },
+    {
+      "question": "How will the veterinarian treat my cat?",
+      "answer": "The vet will perform a physical exam and likely use X-rays or an ultrasound to check for intestinal bunching. Treatment may involve induced vomiting (only if safe), endoscopic removal, or emergency surgery to remove the obstruction."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

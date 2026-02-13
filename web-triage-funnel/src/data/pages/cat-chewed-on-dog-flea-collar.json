@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chewed on Dog Flea Collar: Emergency Guide & Next Steps",
+  "meta_desc": "If your cat chewed on a dog's flea collar, they may be at risk for pesticide poisoning. Learn about the high urgency and immediate steps to take.",
+  "content_html": "<h3>What is it?</h3><p>When a cat chews on a dog’s flea collar, they are potentially ingesting or absorbing concentrated pesticides such as permethrin, flumethrin, or amitraz. These chemicals are designed to be safe for dogs but are often highly toxic to cats. Because cats lack specific liver enzymes to process these compounds, even small amounts found in a collar designed for a dog can cause severe adverse reactions.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. This situation should be treated as a veterinary emergency. Ingestion of flea collar medication can lead to rapid onset toxicity. You should monitor for signs such as excessive drooling, pawing at the mouth, vomiting, tremors, or lethargy. Do not wait for symptoms to worsen; immediate decontamination and medical assessment are vital to ensure your cat's safety.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the flea collar packaging and the chewed area of the collar is extremely helpful for triage. Different brands use different active ingredients, and knowing the exact chemical concentration allows your veterinarian or a poison control specialist to determine the specific risks and treatment protocols. A photo of the damage also helps the vet estimate how much of the medication or physical material was ingested.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat water to wash out the chemicals?",
+      "answer": "You can offer fresh water, but do not force-feed liquids or attempt to rinse their mouth unless specifically directed by a vet, as this could cause aspiration."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms can appear within minutes or be delayed by several hours depending on the active ingredient and the amount ingested."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, never attempt to induce vomiting in a cat at home. This can be dangerous and should only be performed by a veterinary professional if deemed appropriate."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

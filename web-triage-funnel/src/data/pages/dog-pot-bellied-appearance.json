@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pot-Bellied Appearance: Causes, Urgency, and Next Steps",
+  "meta_desc": "Is your dog's stomach looking rounded or distended? Learn common causes of a pot-bellied appearance in dogs and when you should seek veterinary care.",
+  "content_html": "<h3>What is a Pot-Bellied Appearance?</h3><p>A pot-bellied appearance in dogs refers to a noticeable distension or swelling of the abdominal area, making the belly look abnormally round, firm, or saggy. This physical change can develop suddenly or gradually over several weeks. It is important to distinguish between simple weight gain, where fat is distributed across the body, and abdominal distension, where the swelling is localized specifically to the belly area.</p><h3>Is It an Emergency? (Urgency Level: Medium)</h3><p>The urgency level for a pot-bellied appearance is Medium. While some causes are chronic and develop slowly, others can be life-threatening. If the swelling has appeared suddenly (within minutes or hours) and is accompanied by pacing, panting, or unproductive retching, this may indicate Gastric Dilatation-Volvulus (GDV or Bloat), which is a critical emergency requiring immediate ER care. If your dog is acting normally but has a rounded belly, you should still schedule a veterinary appointment within 24 to 48 hours to rule out serious underlying conditions.</p><h3>Common Causes of Abdominal Distension</h3><p>In puppies, a pot-belly is most frequently caused by heavy intestinal parasite loads, such as roundworms. In adult and senior dogs, common causes include endocrine disorders like Cushing’s disease, organ enlargement (liver or spleen), or the accumulation of fluid in the abdomen (ascites) due to heart disease or internal tumors.</p><h3>Why a Photo Helps with Triage</h3><p>Providing a photo of your dog from both a side profile and a bird's-eye view (looking down at their back) is incredibly helpful for our triage team. Visual documentation allows us to assess the severity of the distension and compare it against your dog's normal body condition. Photos taken over a period of a few days can also help determine if the swelling is progressing rapidly, which assists your veterinarian in prioritizing your pet’s care and preparing the necessary diagnostic tools like X-rays or ultrasound before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can intestinal worms really make my dog look pot-bellied?",
+      "answer": "Yes, especially in puppies. A significant burden of parasites like roundworms can cause the intestines to swell, leading to a classic pot-bellied look even if the rest of the puppy appears thin."
+    },
+    {
+      "question": "What is the difference between fat and a pot-belly?",
+      "answer": "Weight gain usually involves fat deposits over the ribs and hips. A pot-belly specifically involves the abdominal cavity bulging outward while the ribs may still be easily felt or even visible."
+    },
+    {
+      "question": "Will my vet need to run tests for a swollen belly?",
+      "answer": "Most likely. To find the cause, vets often recommend blood work, urinalysis, and imaging such as X-rays or an ultrasound to see if the distension is caused by gas, fluid, or an enlarged organ."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

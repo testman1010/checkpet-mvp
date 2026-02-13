@@ -1,0 +1,20 @@
+{
+  "title": "Cat Weight Loss Despite Increased Appetite: Causes and Triage Guide",
+  "meta_desc": "Is your cat losing weight despite a ravenous appetite? Learn about hyperthyroidism, diabetes, and when to seek veterinary care for your pet.",
+  "content_html": "<h3>What Does It Mean When a Cat Loses Weight While Eating More?</h3><p>It can be deeply concerning to watch your cat finish every meal with gusto yet continue to look thinner. In the veterinary world, this is often called polyphagia with weight loss. This happens when a cat's body is either unable to absorb nutrients properly or is burning through energy at an abnormally high metabolic rate. Common causes include Hyperthyroidism (common in older cats), Diabetes Mellitus, and intestinal parasites or malabsorption issues like Inflammatory Bowel Disease (IBD).</p><h3>Is This an Emergency?</h3><p>The urgency level for weight loss with a ravenous appetite is <strong>Medium</strong>. While it typically does not require a visit to an after-hours emergency room—unless your cat is also vomiting, lethargic, or collapsing—it is a condition that requires a veterinary appointment within 24 to 48 hours. Delays in diagnosis can lead to metabolic crises or organ strain that makes the condition much harder to manage.</p><h3>Why Photos and Videos Help Triage</h3><p>When you consult with a professional, providing visual evidence can be incredibly helpful for a quick assessment. A photo taken from directly above your cat while they are standing helps the vet evaluate their \"Body Condition Score\" (BCS) to see the severity of muscle wasting. Additionally, a photo of their stool or a video of the ravenous behavior itself can help the vet distinguish between true hunger and behavioral changes, ensuring your pet gets the right diagnostic tests immediately.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just have worms?",
+      "answer": "Yes, intestinal parasites can consume the nutrients your cat eats, leading to weight loss. However, in adult and senior cats, systemic issues like thyroid disease or diabetes are more frequent causes."
+    },
+    {
+      "question": "What tests will the vet perform?",
+      "answer": "Typically, a vet will start with a physical exam and a 'senior' blood panel, which includes checking thyroid (T4) levels, blood glucose, and organ function, along with a fecal exam."
+    },
+    {
+      "question": "Is this behavior normal for an aging cat?",
+      "answer": "No. While some muscle loss occurs with age, a ravenous appetite combined with weight loss is always a sign of an underlying medical condition and should not be dismissed as 'just getting old'."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

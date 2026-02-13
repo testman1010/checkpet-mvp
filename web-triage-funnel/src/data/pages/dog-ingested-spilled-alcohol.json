@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Spilled Alcohol: Triage Guide and Safety Steps",
+  "meta_desc": "Did your dog lick up spilled alcohol? Learn about ethanol toxicity, why it is a medium-level emergency, and how to triage the situation at home.",
+  "content_html": "<h3>What Is Alcohol Ingestion?</h3><p>Alcohol ingestion in dogs refers to the consumption of ethanol, which is found in beer, wine, liquor, and even some household products like hand sanitizer or unbaked bread dough. Dogs are significantly more sensitive to alcohol than humans. Their bodies absorb it rapidly through the digestive tract, leading to central nervous system depression and potential metabolic complications.</p><h3>Is This an Emergency?</h3><p>The urgency level for alcohol ingestion is classified as Medium. While a tiny lick of a low-alcohol beverage may only cause mild lethargy, larger amounts or high-proof spirits can lead to life-threatening ethanol poisoning. You should seek veterinary advice if your dog shows signs of staggering, vomiting, excessive drooling, or slowed breathing. Because alcohol is absorbed quickly, timing is critical for effective treatment.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the bottle or container of the alcohol consumed, taking a clear photo can be life-saving. A photo of the label allows your veterinarian to identify the exact alcohol by volume (ABV) and check for other toxic ingredients, such as xylitol or grapes, which are sometimes found in flavored liqueurs or mixers. This information helps the medical team calculate the exact toxicity risk for your dog's specific weight.</p>",
+  "faqs": [
+    {
+      "question": "What are the first signs of alcohol toxicity in dogs?",
+      "answer": "The most common early signs include staggering, lack of coordination, vomiting, and appearing unusually sleepy or lethargic."
+    },
+    {
+      "question": "How long does it take for alcohol to affect a dog?",
+      "answer": "Symptoms typically begin within 30 to 60 minutes of ingestion as the alcohol is rapidly absorbed into the bloodstream."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "No, you should never induce vomiting unless specifically instructed by a veterinarian. If a dog is already lethargic, they may inhale the vomit into their lungs, causing aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

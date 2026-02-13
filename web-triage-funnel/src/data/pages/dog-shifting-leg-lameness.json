@@ -1,0 +1,20 @@
+{
+  "title": "Dog Shifting Leg Lameness: Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your dog limping on different legs? Learn about shifting leg lameness, why it is a medium-urgency concern, and how to help your vet.",
+  "content_html": "<h3>What is Shifting Leg Lameness?</h3><p>Shifting leg lameness occurs when a dog appears to limp on different limbs at different times. Unlike a localized injury where a dog consistently favors one specific paw, shifting lameness suggests that the discomfort is moving throughout the body. This pattern is often a clinical sign of systemic issues, such as inflammatory conditions, immune-mediated diseases, or tick-borne illnesses like Lyme disease.</p><h3>Is it an Emergency?</h3><p>The urgency level for shifting leg lameness is generally <strong>Medium</strong>. While it is rarely a life-threatening emergency that requires a midnight visit to the ER, it is not something that should be ignored for more than a day or two. You should schedule a veterinary exam within 24 to 48 hours. However, if your dog is also showing signs of extreme lethargy, a high fever, or is unable to stand at all, you should seek immediate care.</p><h3>Why Documentation Helps Triage</h3><p>Capturing a video or photo of your dog while they are showing symptoms is incredibly valuable for your veterinarian. Many dogs experience an adrenaline rush at the clinic that can temporarily hide their limp, a phenomenon often called 'white coat syndrome.' Providing a clear video of your dog walking in their natural environment allows the vet to observe the lameness firsthand, helping them narrow down which joints are affected and determine the necessary diagnostic tests.</p>",
+  "faqs": [
+    {
+      "question": "What are the common causes of shifting lameness?",
+      "answer": "Common causes include tick-borne diseases (such as Lyme or Anaplasmosis), immune-mediated polyarthritis (IMPA), and panosteitis, which is an inflammatory bone condition often seen in growing large-breed puppies."
+    },
+    {
+      "question": "Can I give my dog human pain relief medication?",
+      "answer": "No, you should never give your dog human medications like Ibuprofen, Naproxen, or Tylenol. These can be toxic to dogs and may interfere with the medications your veterinarian needs to prescribe."
+    },
+    {
+      "question": "What should I do until my vet appointment?",
+      "answer": "The best course of action is 'exercise restriction.' Keep your dog confined to a small area, use a leash for brief bathroom breaks only, and prevent them from jumping on furniture or running."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate a Silica Gel Packet: Is It an Emergency?",
+  "meta_desc": "Don't panic! Silica gel is usually non-toxic for cats. Learn the symptoms to watch for and why this is generally a low-urgency situation.",
+  "content_html": "<h3>What is Silica Gel?</h3><p>Silica gel packets are the small, white sachets often found in shoe boxes, electronics, or food packaging. They contain tiny, hard beads of silicon dioxide, which acts as a desiccant to absorb moisture and keep products dry. While the packets often feature a 'Do Not Eat' warning, the beads themselves are chemically inert and are not considered poisonous to cats or humans.</p><h3>Is This an Emergency?</h3><p>In most cases, this is considered a low-urgency situation. Because silica gel is not toxic, it will usually pass through your cat's digestive system without causing harm. However, the biggest risk is not the gel itself, but the potential for the packet's packaging to cause a choking hazard or a mild stomach upset. If your cat is a very small kitten or if they ate multiple packets, there is a minor risk of a gastrointestinal blockage, but this is rare.</p><h3>Why Taking a Photo Helps</h3><p>If you are calling your veterinarian for advice, taking a clear photo of the packet (or any remaining pieces) is incredibly helpful for triage. A photo allows the vet to see the size of the packet your cat ingested and identify the specific brand. While most are standard silica, some specialized desiccants may contain different additives; a photo helps the vet confirm exactly what your cat was exposed to and determine if any further action is needed.</p>",
+  "faqs": [
+    {
+      "question": "Will silica gel kill my cat?",
+      "answer": "No, silica gel is chemically inert and non-toxic. It does not get absorbed by the body and usually passes through the digestive tract safely."
+    },
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Monitor your cat for mild vomiting, diarrhea, or a temporary loss of appetite. If you notice persistent vomiting or signs of distress, contact your veterinarian."
+    },
+    {
+      "question": "Should I try to make my cat vomit?",
+      "answer": "No. You should never induce vomiting in a cat at home unless specifically instructed to do so by a veterinary professional, as this can cause more harm than good."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Garden Fertilizer: Triage Guide & Next Steps",
+  "meta_desc": "If your dog ate garden fertilizer, understand the risks, symptoms, and when to seek emergency veterinary care. Read our helpful triage guide.",
+  "content_html": "<h3>What is Fertilizer Ingestion?</h3><p>Fertilizer ingestion occurs when a dog consumes plant food or soil additives. These products typically contain various levels of nitrogen, phosphorus, and potassium. While these primary ingredients are often just irritating to the stomach, many garden fertilizers also contain bone meal, blood meal, or chemical additives like pesticides and herbicides that can be significantly more harmful if ingested.</p><h3>Is It an Emergency?</h3><p>The urgency level for fertilizer ingestion is <strong>Medium</strong>. While a small lick or taste may only cause mild gastrointestinal upset, eating large quantities or products with specialized additives can lead to serious complications. Because some fertilizers contain iron or organophosphates which are highly toxic, you should contact your veterinarian or a pet poison control center immediately to determine if your dog needs to be seen.</p><h3>Why Taking a Photo Helps</h3><p>If possible, take a clear photo of the fertilizer bag, focusing specifically on the ingredients list and the guaranteed analysis (the N-P-K ratio). This visual information is vital for veterinary triage as it allows the medical team to identify specific toxic components quickly and decide whether your dog requires decontamination, such as induced vomiting or supportive care.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for after my dog eats fertilizer?",
+      "answer": "Common symptoms include drooling, vomiting, diarrhea, and abdominal pain. More severe signs to watch for include muscle tremors, seizures, or extreme lethargy, which indicate a more toxic exposure."
+    },
+    {
+      "question": "Is organic fertilizer safe for pets?",
+      "answer": "Organic does not mean non-toxic. Organic fertilizers often use bone, blood, or fish meal, which are highly attractive to dogs. If eaten in large amounts, these can form a concrete-like obstruction in the stomach or cause severe pancreatitis."
+    },
+    {
+      "question": "Can fertilizer cause long-term damage?",
+      "answer": "Most cases result in short-term stomach upset, but fertilizers containing heavy metals like iron or concentrated chemicals can lead to liver or kidney damage if not treated promptly."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

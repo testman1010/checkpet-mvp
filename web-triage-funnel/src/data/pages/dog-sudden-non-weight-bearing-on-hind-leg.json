@@ -1,0 +1,20 @@
+{
+  "title": "Sudden Non-Weight Bearing Hind Leg Lameness in Dogs | Veterinary Triage Guide",
+  "meta_desc": "Is your dog suddenly holding up a back leg? Learn common causes, urgency levels, and how to help your pet before seeing a veterinarian.",
+  "content_html": "<h3>What is Sudden Hind Leg Lameness?</h3><p>When a dog is suddenly non-weight bearing, it means they are holding their back leg completely off the ground and refusing to use it. This is usually a sign of acute pain or structural instability. Common causes include a torn cranial cruciate ligament (similar to an ACL tear in humans), a luxating patella (kneecap popping out), a fracture, or even a painful injury to the paw pad or nail bed.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is generally <strong>Medium</strong>. While it is not typically life-threatening, it is a sign of significant discomfort and requires a veterinary evaluation within 24 hours. You should seek immediate emergency care if you notice an open wound, excessive swelling, or if your dog is unable to move any of their other limbs, as this could indicate a neurological issue.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a clear photo of the affected leg and paw, as well as a short video of your dog attempting to walk, can be incredibly helpful for your veterinarian. These visuals allow the vet to see the exact angle of the limb and the severity of the lameness before the dog arrives at the clinic, where adrenaline might mask some of their symptoms. It also helps identify visible issues like swelling or foreign objects stuck in the paw.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog aspirin or ibuprofen for the pain?",
+      "answer": "No, you should never give your dog human pain medication without a veterinarian's direct instruction. Many human NSAIDs are toxic to dogs and can cause stomach ulcers or kidney failure."
+    },
+    {
+      "question": "What should I do while waiting for my vet appointment?",
+      "answer": "The most important step is 'crate rest.' Keep your dog in a small, confined area or a crate to prevent them from jumping, running, or climbing stairs, which could worsen the injury."
+    },
+    {
+      "question": "Will my dog need surgery for a hind leg injury?",
+      "answer": "It depends on the diagnosis. While some soft tissue injuries heal with rest and anti-inflammatories, conditions like a full ACL tear or certain fractures often require surgical repair for long-term mobility."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

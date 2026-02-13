@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Small Box of Raisins: Emergency Triage Guide",
+  "meta_desc": "Raisins are highly toxic to dogs and can cause kidney failure. Learn why this is a high-level emergency and what steps to take immediately.",
+  "content_html": "<h3>What Is Raisin Toxicity?</h3><p>Raisins are dried grapes, and both are known to be highly toxic to dogs. While the exact toxic agent is not fully understood, even a small amount can cause sudden kidney failure. Because raisins are concentrated versions of grapes, they are significantly more toxic by weight.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a medical emergency. There is no known safe dose for raisins; some dogs may suffer severe poisoning from just one or two, while others may tolerate more. Because we cannot predict an individual dog's sensitivity, you must contact a veterinarian or an animal poison control center immediately.</p><h3>Why Taking a Photo Helps</h3><p>If you can, take a photo of the raisin box and any spilled contents. This helps the veterinary team estimate the total weight or volume of raisins your dog may have consumed. Providing a photo of the packaging also allows the vet to check for other harmful ingredients, such as xylitol or chocolate, which might be present in certain raisin-based snacks.</p><h3>Immediate Next Steps</h3><p>Do not wait for symptoms to appear. Early decontamination, such as induced vomiting or the administration of activated charcoal by a professional, is the most effective way to prevent permanent kidney damage.</p>",
+  "faqs": [
+    {
+      "question": "How soon will my dog show symptoms of raisin poisoning?",
+      "answer": "Symptoms like vomiting usually start within 6 to 12 hours of ingestion. Signs of kidney failure, such as lethargy or decreased urination, can take 24 to 72 hours to develop."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should never induce vomiting without first consulting a veterinarian. Doing so improperly can lead to aspiration pneumonia or other complications."
+    },
+    {
+      "question": "Is one raisin really that dangerous?",
+      "answer": "Yes. Because the toxic reaction is idiosyncratic (varies widely between individuals), even a single raisin can cause acute renal failure in sensitive dogs."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

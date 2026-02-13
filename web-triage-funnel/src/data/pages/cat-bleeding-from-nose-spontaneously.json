@@ -1,0 +1,20 @@
+{
+  "title": "Spontaneous Nosebleeds in Cats: Causes and Emergency Triage Guide",
+  "meta_desc": "If your cat has a spontaneous nosebleed, it is a high-priority emergency. Learn about the causes of epistaxis and how to triage your pet quickly.",
+  "content_html": "<h3>What is Spontaneous Nasal Bleeding?</h3><p>Spontaneous nasal bleeding, known clinically as epistaxis, occurs when blood flows from one or both nostrils without a visible external injury. Unlike a scratch or a minor cut, this bleeding originates from within the nasal passages or reflects a systemic health issue. It is a stressful experience for both the cat and the owner, often appearing suddenly during rest or normal activity.</p><h3>Is it an Emergency?</h3><p>Yes, this is considered a high-priority urgency level. While a tiny drop may seem minor, cats are experts at masking internal distress. Spontaneous bleeding can be a sign of severe underlying conditions such as clotting disorders, high blood pressure (hypertension), nasal tumors, fungal infections, or even ingestion of rodenticides (rat poison). If the bleeding is continuous, or if your cat exhibits pale gums, lethargy, or difficulty breathing, you should proceed to an emergency veterinary clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so without delaying care, capturing a quick photo of the bleeding can be immensely helpful for the veterinary team. A photo helps the vet determine if the bleeding is unilateral (one side) or bilateral (both sides), the volume of blood lost, and whether the blood is fresh or contains clots. This visual evidence provides critical diagnostic clues that may be lost if the bleeding stops or is cleaned away before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to put something inside my cat's nose to stop the bleeding?",
+      "answer": "No. Never insert cotton swabs, tissues, or any objects into a cat's nostrils. This can cause further damage to the delicate nasal membranes and may cause the cat to sneeze, which can significantly worsen the bleeding."
+    },
+    {
+      "question": "Can I use an ice pack?",
+      "answer": "You can gently apply a cloth-covered cold compress to the bridge of the nose if your cat remains calm. However, if this causes your cat to struggle or become stressed, stop immediately, as increased blood pressure from stress will increase the bleeding."
+    },
+    {
+      "question": "What are common causes of epistaxis in cats?",
+      "answer": "Common causes include dental disease, nasal polyps or tumors, trauma, foreign bodies like grass awns, rodenticide toxicity, and systemic diseases like feline leukemia or high blood pressure."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Breathing Over 60 BPM | Veterinary Triage",
+  "meta_desc": "Is your cat breathing over 60 bpm? This is a high-priority veterinary emergency. Learn the signs of respiratory distress and why you must act now.",
+  "content_html": "<h3>What is Tachypnea in Cats?</h3><p>Tachypnea is the medical term for a rapid breathing rate. For a healthy cat at rest or sleep, a normal respiratory rate is typically between 15 and 30 breaths per minute. When a cat's rate exceeds 60 breaths per minute while resting, it is a significant clinical sign that the lungs or heart are struggling to provide enough oxygen to the body.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, a resting breathing rate over 60 bpm is considered a high-priority medical emergency. This often indicates serious conditions such as congestive heart failure, fluid in the chest (pleural effusion), feline asthma, or severe pneumonia. You should not wait for an appointment; proceed to the nearest emergency veterinary hospital immediately, especially if you notice open-mouth breathing or lethargy.</p><h3>Why a Video or Photo Helps Triage</h3><p>If it is safe to do so without delaying your trip to the vet, taking a short video of your cat breathing can be extremely helpful for the triage team. A video allows the veterinarian to assess the \"quality\" of the breath—such as whether the cat is using its abdominal muscles to move air or if the breathing is shallow and rapid. This visual information helps the medical team determine how quickly your cat needs oxygen therapy upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "How do I accurately count my cat's breathing rate?",
+      "answer": "Watch your cat's chest rise and fall while they are resting or sleeping. One rise and one fall counts as one breath. Count the number of breaths in 15 seconds and multiply that number by 4 to get the breaths per minute (bpm)."
+    },
+    {
+      "question": "What if my cat is purring while I count?",
+      "answer": "Purring can make it difficult to get an accurate count and can naturally increase the rate. Try to wait until the cat stops purring, but if the rate remains consistently high or if they look distressed, treat it as an emergency regardless."
+    },
+    {
+      "question": "Should I wait to see if the breathing slows down?",
+      "answer": "No. In cats, respiratory distress can escalate very quickly. A rate over 60 bpm at rest is a clear indicator of physiological stress that requires professional intervention."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

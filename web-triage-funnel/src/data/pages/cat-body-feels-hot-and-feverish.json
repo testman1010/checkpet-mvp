@@ -1,0 +1,20 @@
+{
+  "title": "Cat Body Feels Hot and Feverish: Triage Guide for Pet Owners",
+  "meta_desc": "Is your cat feeling hot? Learn about feline fevers, urgency levels, and how a photo can help a vet triage your pet's condition effectively.",
+  "content_html": "<h3>What Is It?</h3><p>Cats naturally have a higher body temperature than humans, typically ranging between 100.5°F and 102.5°F. However, if your cat feels noticeably hot to the touch, especially on their ears, paws, or belly, they may have a fever (pyrexia). A fever is usually the body's way of fighting off an underlying issue, such as a viral or bacterial infection, inflammation, or an adverse reaction to a toxin.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Medium. A warm body alone is not always a life-threatening emergency, but it does require professional evaluation. If your cat’s temperature exceeds 105°F, it can lead to organ damage and requires immediate veterinary intervention. You should contact a vet within 24 hours if the heat is accompanied by lethargy, shivering, loss of appetite, or decreased grooming. If your cat is panting or has very pale or bright red gums, seek emergency care immediately.</p><h3>Why a Photo Helps Triage</h3><p>When consulting with a veterinary professional, providing a photo or short video can be invaluable. A clear photo of your cat's face and eyes can show signs of dehydration or malaise, while a video of their breathing allows the vet to see if the fever is causing respiratory distress. Additionally, a clear photo of their gums (if safe to take) helps the vet assess their circulation and oxygen levels, ensuring you get the most accurate advice on how quickly your cat needs to be seen.</p>",
+  "faqs": [
+    {
+      "question": "How can I accurately tell if my cat has a fever at home?",
+      "answer": "The only accurate way to check a cat's temperature is with a digital rectal thermometer. Feeling their ears or nose is often unreliable as these can fluctuate based on the environment."
+    },
+    {
+      "question": "Can I give my cat human fever medication like Tylenol?",
+      "answer": "No. Never give cats human medications like Acetaminophen (Tylenol) or Ibuprofen. These are highly toxic to cats and can be fatal even in small doses."
+    },
+    {
+      "question": "What are the common signs of a fever in cats besides heat?",
+      "answer": "Common symptoms include decreased activity, hiding, loss of appetite, shivering, and a rapid heart rate or breathing."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Facial Droop: Causes, Signs, and Triage Advice",
+  "meta_desc": "If your cat has a drooping face, it could be Horner's Syndrome or nerve issues. Learn about the symptoms and when to contact your veterinarian.",
+  "content_html": "<h3>What is Facial Drooping in Cats?</h3><p>Facial drooping, or facial paralysis, occurs when the nerves controlling the muscles of the face—typically the facial nerve or the sympathetic nervous system—are compromised. You may notice one side of the lip sagging, a droopy eyelid, or the third eyelid protruding. This is often associated with conditions like Horner’s Syndrome, middle ear infections, or idiopathic facial paralysis.</p><h3>Is it an Emergency?</h3><p>The urgency level for facial drooping is generally <strong>Medium</strong>. While a drooping face is rarely a life-threatening emergency on its own, it is a sign of an underlying neurological or inflammatory issue that requires a veterinary examination within 24 hours. However, if the droop is accompanied by a head tilt, inability to walk, or sudden trauma, you should seek immediate emergency care.</p><h3>How a Photo Helps Triage</h3><p>Taking a clear, front-facing photo of your cat can be incredibly helpful for your veterinarian. Photos allow the vet to see the exact degree of asymmetry and check for ptosis (droopy eyelid) or miosis (constricted pupil). Because these symptoms can sometimes shift or be subtle during a physical exam, a visual record helps the medical team determine the progression and severity of the condition before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause a cat's face to droop?",
+      "answer": "Yes, deep middle or inner ear infections can inflame the nearby facial nerves, leading to drooping or paralysis on the affected side."
+    },
+    {
+      "question": "What are common signs of Horner's Syndrome in cats?",
+      "answer": "Common signs include a constricted pupil, a drooping upper eyelid, the eye appearing sunken into the socket, and the third eyelid being visible."
+    },
+    {
+      "question": "Is facial paralysis in cats permanent?",
+      "answer": "It depends on the cause. If the underlying issue is treated, such as an infection, some cats regain function. In idiopathic cases, some drooping may remain permanent but typically does not affect the cat's quality of life."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

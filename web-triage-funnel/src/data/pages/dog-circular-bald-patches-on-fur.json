@@ -1,0 +1,20 @@
+{
+  "title": "Dog Circular Bald Patches: Causes and Triage Guide",
+  "meta_desc": "Noticed circular bald spots on your dog? Learn about common causes, urgency levels, and how a photo helps your vet diagnose the issue effectively.",
+  "content_html": "<h3>Understanding Circular Bald Patches in Dogs</h3><p>Finding circular bald spots on your dog’s coat can be worrying, but it is a common skin condition seen in veterinary clinics. These patches, often called alopecia, are frequently caused by ringworm (a fungal infection), bacterial infections, or parasites like mites or fleas. While they may look unsightly or cause your pet some itchiness, they are usually a sign of an underlying skin irritation rather than a systemic illness.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. While you should certainly schedule a veterinary appointment to address the hair loss, it is rarely an emergency. If the skin is not bleeding, oozing, or causing extreme distress, a routine visit within a few days is appropriate. However, if your dog is lethargic, loses their appetite, or the area appears severely infected, contact your vet sooner.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, close-up photo of the circular patches is an excellent way to assist your veterinary team. A photo allows the vet to observe the initial appearance of the lesion before it potentially changes due to scratching or grooming. By sharing a photo during a triage call or before your appointment, the vet can determine how quickly your dog needs to be seen and prepare the necessary diagnostic tools, such as a Wood's lamp or skin scraping kit, in advance.</p>",
+  "faqs": [
+    {
+      "question": "Can humans catch these skin conditions from dogs?",
+      "answer": "Yes, some causes of circular bald patches, like ringworm, are zoonotic, meaning they can spread to humans. It is important to wash your hands after handling your pet until a diagnosis is confirmed."
+    },
+    {
+      "question": "Should I apply an anti-itch cream before my vet visit?",
+      "answer": "It is best to avoid applying any topical treatments or creams before your appointment. These can interfere with diagnostic tests and may even irritate the skin further if the cause is unknown."
+    },
+    {
+      "question": "What will the vet do to diagnose the bald spots?",
+      "answer": "Your vet will likely perform a physical exam and may recommend a skin scraping, a fungal culture, or a cytology to look for bacteria, yeast, or parasites under a microscope."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

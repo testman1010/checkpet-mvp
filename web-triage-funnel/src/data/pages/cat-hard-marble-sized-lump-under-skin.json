@@ -1,0 +1,20 @@
+{
+  "title": "Hard Marble-Sized Lump Under Cat's Skin: Causes and Next Steps",
+  "meta_desc": "Found a hard lump on your cat? Learn about potential causes like cysts or tumors, urgency levels, and why a photo is essential for vet triage.",
+  "content_html": "<h3>What could this lump be?</h3><p>Finding a firm, marble-sized growth under your cat's skin can be concerning. These lumps can represent several different conditions, ranging from benign cysts and lipomas (fatty masses) to more serious concerns such as injection-site granulomas, abscesses, or even malignant tumors. Because many different types of masses feel similar to the touch, a professional diagnosis is necessary to identify the specific cause.</p><h3>Is this an emergency?</h3><p>The urgency level for a hard lump is generally <strong>Medium</strong>. If your cat is eating, drinking, and acting normally, this is typically not an immediate life-threatening emergency. However, you should schedule a veterinary appointment within 48 to 72 hours for a physical exam and possible diagnostics. If the lump is rapidly growing, bleeding, or causing your cat obvious pain, seek veterinary care sooner.</p><h3>Why providing a photo helps triage</h3><p>Taking a clear, well-lit photo of the lump—especially if you can part the fur to show the skin surface—is incredibly helpful for your veterinary team. A visual record allows the vet to assess the location, check for signs of inflammation or discharge, and establish a baseline for the size. This information helps the clinic determine how quickly your cat needs to be squeezed into the schedule and which diagnostic tools, such as a fine needle aspirate, may be required upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if the lump goes away on its own?",
+      "answer": "It is not recommended to wait. While some lumps like small cysts may remain stable, others can be aggressive. Early detection is key to successful treatment if the mass is found to be cancerous."
+    },
+    {
+      "question": "Should I try to squeeze or pop the lump?",
+      "answer": "No, you should never attempt to squeeze or drain a lump at home. If it is an abscess, you could spread the infection; if it is a mast cell tumor, squeezing it can cause a dangerous systemic allergic reaction."
+    },
+    {
+      "question": "What will the vet do to diagnose the lump?",
+      "answer": "The most common first step is a Fine Needle Aspirate (FNA), where a small needle is used to collect cells from the mass for examination under a microscope to check for infection or abnormal cells."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

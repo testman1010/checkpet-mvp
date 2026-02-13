@@ -1,0 +1,20 @@
+{
+  "title": "Cat Wheezing Loudly During Exhale: Emergency Triage Guide",
+  "meta_desc": "Is your cat wheezing on exhale? Learn why this is a high-urgency emergency and how to triage respiratory distress in felines.",
+  "content_html": "<h3>What is Expiratory Wheezing?</h3><p>Wheezing during exhalation is a high-pitched whistling sound produced when air is forced through narrowed or constricted lower airways. In cats, this is often a sign that the small tubes in the lungs, known as bronchi, are inflamed or obstructed. This symptom is most commonly associated with feline asthma, allergic bronchitis, or potentially more serious conditions like congestive heart failure.</p><h3>Urgency Level: High</h3><p>Loud wheezing is considered a high-urgency medical situation. Cats are experts at masking respiratory discomfort until it becomes critical. If the wheezing is accompanied by 'panting' (open-mouth breathing), blue-tinged gums, or a hunched posture with the neck extended, your cat is in severe respiratory distress and needs to be seen by an emergency veterinarian immediately.</p><h3>Why a Video or Photo Helps Triage</h3><p>If it is safe to do so without delaying your trip to the clinic, capturing a 10-second video of your cat breathing can be life-saving. A video allows a veterinarian to observe the 'effort' of the breath—specifically whether the cat is using its abdominal muscles to push air out. Seeing the exact rhythm and sound helps the medical team prioritize your cat for immediate oxygen therapy upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat human asthma medication?",
+      "answer": "No, never administer human medications to a cat. Many human inhalers contain ingredients that can be toxic or fatal to felines. Only use medications prescribed specifically for your pet by a veterinarian."
+    },
+    {
+      "question": "Is wheezing the same as a hairball?",
+      "answer": "Many owners mistake wheezing or the 'asthma crouch' for trying to hack up a hairball. The key difference is that with a hairball, something is usually produced. If your cat is coughing or wheezing without producing anything, it is likely a respiratory issue."
+    },
+    {
+      "question": "What are the common causes of feline wheezing?",
+      "answer": "The most frequent causes include feline asthma, chronic bronchitis, heartworm disease, or fluid buildup in the lungs due to heart disease."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

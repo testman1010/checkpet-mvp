@@ -1,0 +1,20 @@
+{
+  "title": "Dog Restless and Unable to Settle: Causes and Triage Guide",
+  "meta_desc": "Is your dog pacing and unable to rest? Learn common causes for restlessness, when it's an emergency, and how to help your pet stay comfortable.",
+  "content_html": "<h3>What is Restlessness in Dogs?</h3><p>Restlessness occurs when your dog appears unable to find a comfortable position, frequently shifts spots, or paces continuously. It is not a diagnosis in itself but a clinical sign that your dog is experiencing physical discomfort, psychological anxiety, or cognitive changes. While it can sometimes be as simple as needing a potty break, persistent restlessness usually indicates that something is wrong.</p><h3>Is it an Emergency?</h3><p>The urgency level for restlessness is currently rated as <strong>Medium</strong>. While restlessness can be caused by minor issues like mild indigestion or environmental stress, it can also be an early warning sign of life-threatening conditions such as Gastric Dilatation-Volvulus (GDV or Bloat), severe pain, or heart failure. You should monitor your dog closely for secondary symptoms like a distended abdomen, unproductive retching, or labored breathing, which would elevate this to a critical emergency.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a short video of your dog’s behavior is one of the most effective tools for veterinary triage. Dogs often experience an adrenaline surge at the clinic that masks their symptoms, making them appear fine to the vet. A video captures the exact nature of the restlessness—such as specific pacing patterns, signs of abdominal guarding, or respiratory effort—allowing for a much faster and more accurate assessment of your pet's condition.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be restless because of pain?",
+      "answer": "Yes, restlessness is one of the most common signs of hidden pain in dogs, especially pain related to the joints, abdomen, or back."
+    },
+    {
+      "question": "Can older dogs become restless at night?",
+      "answer": "Older dogs may experience restlessness due to Canine Cognitive Dysfunction, which is similar to dementia, or because of discomfort from arthritis."
+    },
+    {
+      "question": "What should I do if my dog is pacing and panting?",
+      "answer": "Pacing combined with panting often indicates high levels of stress or physical distress. If this persists for more than an hour, contact your veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

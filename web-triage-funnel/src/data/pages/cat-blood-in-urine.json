@@ -1,0 +1,20 @@
+{
+  "title": "Blood in Cat Urine (Hematuria): Causes and Triage Guide",
+  "meta_desc": "Learn what to do if you see blood in your cat's urine, the urgency level, and why a photo of the litter box helps your veterinarian with triage.",
+  "content_html": "<h3>What is Blood in Cat Urine?</h3><p>Blood in a cat's urine, known clinically as hematuria, can manifest as a light pink tint, bright red spots, or even small dark clots in the litter box. It is a sign that there is inflammation, irritation, or injury occurring somewhere in the urinary tract, most commonly the bladder or the urethra.</p><h3>Is it an Emergency?</h3><p>The urgency level for blood in cat urine is generally Medium. While seeing blood is alarming, it is often caused by Feline Lower Urinary Tract Disease (FLUTD) or a urinary tract infection which requires a veterinary appointment within 24 hours. However, if your cat is straining and unable to pass any urine at all, this is a life-threatening emergency (a blockage) and requires immediate transport to an ER vet.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the urine—whether it is in the litter box or on a hard floor—is incredibly helpful for your veterinary team. A visual record allows the vet to assess the concentration of blood, identify the presence of mucus or crystals, and gauge the severity of the inflammation. This evidence helps us determine how quickly your cat needs to be seen and what diagnostic tests may be required.</p>",
+  "faqs": [
+    {
+      "question": "Can stress cause blood in my cat's urine?",
+      "answer": "Yes, stress is a leading trigger for Feline Idiopathic Cystitis (FIC), which causes bladder inflammation and bloody urine even without an infection."
+    },
+    {
+      "question": "What if my cat is acting normal otherwise?",
+      "answer": "Even if your cat is eating and playing, blood in the urine indicates discomfort and an underlying issue that needs medical attention to prevent it from worsening."
+    },
+    {
+      "question": "How will the vet diagnose the cause?",
+      "answer": "Vets typically perform a urinalysis to check for bacteria, crystals, and pH levels, and may recommend an ultrasound or X-ray to check for bladder stones."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

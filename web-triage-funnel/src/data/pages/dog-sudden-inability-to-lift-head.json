@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Inability to Lift Head: Triage and Emergency Guide",
+  "meta_desc": "If your dog suddenly cannot lift their head, it is a high-priority emergency. Learn about IVDD, spinal risks, and immediate steps for triage.",
+  "content_html": "<h3>What is Sudden Inability to Lift the Head?</h3><p>A sudden inability to lift the head, often referred to as cervical ventriflexion or neck guarding, occurs when a dog experiences severe pain or neurological impairment in the cervical spine (neck). You may notice your dog keeping their nose tucked toward their chest, yelping when touched, or showing a 'stiff' gait. This condition typically indicates that the nerves or spinal cord are being compressed or compromised.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for this condition is High. A dog that cannot lift its head is often suffering from Intervertebral Disc Disease (IVDD), a spinal fracture, or severe inflammation (meningitis). Because these conditions can progress rapidly to permanent paralysis or affect the dog's ability to breathe, you should seek emergency veterinary care immediately. Do not administer over-the-counter human pain relief, as this can be toxic or complicate treatment.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a quick 10-second video of your dog’s posture and movement can be vital for the triage team. A video allows the veterinarian to see the 'natural' state of the dog before the adrenaline of a clinic visit masks symptoms. It helps them differentiate between muscle weakness, coordination issues (ataxia), and localized spinal pain, allowing for faster stabilization and diagnostic planning upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until morning to see my regular vet?",
+      "answer": "No. Spinal and neurological issues are time-sensitive. Waiting even a few hours can be the difference between a full recovery and permanent loss of mobility."
+    },
+    {
+      "question": "How should I transport my dog to the emergency room?",
+      "answer": "Keep your dog as still as possible. Use a flat, firm surface like a piece of plywood or a rigid pet carrier to minimize movement of the neck and spine during the drive."
+    },
+    {
+      "question": "What are common causes for this symptom?",
+      "answer": "The most common cause is IVDD (a slipped disc), but other possibilities include cervical trauma, fibrocartilaginous embolism (FCE), or infectious diseases affecting the nervous system."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

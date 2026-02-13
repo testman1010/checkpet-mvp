@@ -1,0 +1,20 @@
+{
+  "title": "Why Is My Dog Barking at the Wall? Triage Guide",
+  "meta_desc": "Find out why dogs bark at walls, from sensory issues to cognitive decline, and learn when to seek veterinary advice for this unusual behavior.",
+  "content_html": "<h3>What is Barking at the Wall?</h3><p>When a dog barks at a wall for no apparent reason, it is often referred to as 'staring into space' or environmental fixation. While it may look like they are barking at nothing, dogs have a much keener sense of hearing and smell than humans. They might be reacting to pests inside the wall, reflections, or, in some cases, experiencing a neurological or cognitive shift.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. Barking at the wall is rarely a medical emergency. However, if the behavior is accompanied by seizures, loss of consciousness, or extreme disorientation, you should contact your veterinarian promptly. For most dogs, this is a behavioral or age-related issue that can be discussed during a standard scheduled appointment.</p><h3>How Visuals Help with Triage</h3><p>Taking a video or photo of your dog during these episodes is one of the most helpful things you can do for your veterinarian. Since dogs rarely perform these behaviors on command in the clinic, a video allows the vet to observe the dog’s posture, responsiveness, and eye movements. This helps differentiate between simple boredom, pests in the wall, or Canine Cognitive Dysfunction (CCD).</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be hearing something I can't?",
+      "answer": "Yes, dogs can hear high-frequency sounds from rodents, insects, or even water running through pipes that are completely silent to human ears."
+    },
+    {
+      "question": "Is this a sign of aging?",
+      "answer": "In senior dogs, barking at walls or corners can be a symptom of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans."
+    },
+    {
+      "question": "Should I distract my dog when they do this?",
+      "answer": "Yes, try to gently redirect their attention with a treat or a toy. If they are easily redirected, it is more likely a sensory or behavioral issue than a neurological one."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

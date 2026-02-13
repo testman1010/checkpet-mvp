@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Mothballs: Immediate Steps and Triage Guide",
+  "meta_desc": "If your dog ate mothballs, contact a vet immediately. Learn about naphthalene toxicity, emergency signs, and how to help your pet right now.",
+  "content_html": "<h3>What are Mothballs?</h3><p>Mothballs are small, concentrated balls of chemical pesticides and deodorants used to protect clothing from moth larvae. They are typically composed of one of two chemicals: naphthalene or paradichlorobenzene. While they look like harmless treats to some pets, they are highly toxic when ingested, inhaled, or even absorbed through the skin.</p><h3>Is it an emergency?</h3><p>Yes, this is a High Urgency emergency. If your dog has ingested even a single mothball, you should seek veterinary care immediately. Naphthalene is particularly dangerous as it can cause the destruction of red blood cells (hemolytic anemia) and lead to kidney or liver failure. Paradichlorobenzene can cause severe gastrointestinal upset and neurological symptoms like tremors or seizures. Early intervention is critical to prevent long-term organ damage or death.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging, take a clear photo of the ingredient list and brand name. Because naphthalene and paradichlorobenzene require different treatment approaches, identifying the specific chemical is vital for your veterinarian. A photo of any remaining mothballs can also help the clinical team estimate the dose your dog received based on the size and shape of the product.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of mothball poisoning in dogs?",
+      "answer": "Common symptoms include a strong chemical smell on the breath, vomiting, lethargy, pale or yellowish gums, tremors, and difficulty breathing."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting unless specifically directed by a veterinarian, as the chemicals can cause further damage to the esophagus or lead to aspiration pneumonia."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Gastrointestinal upset can happen within hours, but damage to red blood cells or the liver may not be fully apparent for 2 to 5 days after ingestion."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

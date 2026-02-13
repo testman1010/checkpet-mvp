@@ -1,0 +1,20 @@
+{
+  "title": "Cat Scratching at Phantom Itch: Understanding the Causes and Triage",
+  "meta_desc": "Is your cat scratching an itch that isn't there? Learn about phantom itches, Feline Hyperesthesia, and when to see a vet in our triage guide.",
+  "content_html": "<h3>What is a Phantom Itch?</h3><p>It can be very worrying to watch your cat frantically scratch at the air or a patch of skin that looks perfectly healthy. This 'phantom itch' often points to a condition known as Feline Hyperesthesia Syndrome (FHS) or neuropathic pain. In these cases, the cat's nerves are over-firing, sending signals to the brain that the skin is crawling, itchy, or painful, even when no external irritant is present. Other causes can include deep-seated allergies or a lingering sensitivity after a flea infestation has been treated.</p><h3>Is This an Emergency?</h3><p>The urgency level for this behavior is generally Low. While it is certainly uncomfortable for your cat and distressing for you to witness, it is rarely a life-threatening situation. You should schedule a regular appointment with your veterinarian to discuss these symptoms. However, if your cat is scratching so intensely that they are causing bleeding, deep wounds, or if they seem completely unable to eat or sleep due to the sensation, you should seek a more urgent consultation to provide them with immediate relief.</p><h3>Why Documentation Helps Triage</h3><p>Because these episodes can be intermittent, your cat might act completely normal once they arrive at the veterinary clinic. This is why photos and, more importantly, videos are vital for triage. Capturing a video of the 'phantom itch' behavior allows your vet to see the frequency, intensity, and specific location of the episodes. High-resolution photos of the skin in the affected area can also help the vet rule out subtle rashes or microscopic parasites that might not be obvious at first glance.</p>",
+  "faqs": [
+    {
+      "question": "Can fleas cause a phantom itch even if I don't see any?",
+      "answer": "Yes. Cats with Flea Allergy Dermatitis (FAD) can have an extreme reaction to just one flea bite, and the itchy sensation can persist long after the flea is gone."
+    },
+    {
+      "question": "Is phantom scratching a sign of anxiety?",
+      "answer": "It can be. Stress and anxiety can exacerbate nerve-related sensitivities like Feline Hyperesthesia, leading to more frequent scratching episodes."
+    },
+    {
+      "question": "What are the common treatments for phantom itches?",
+      "answer": "Treatment depends on the cause but often includes nerve-calming medications, anti-inflammatory drugs, or behavioral modifications to reduce stress."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

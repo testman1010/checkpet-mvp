@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Silicone Earplug: Immediate Veterinary Triage Guide",
+  "meta_desc": "Find out what to do if your cat swallowed a silicone earplug. Learn about risks, emergency signs, and why you should contact a vet immediately.",
+  "content_html": "<h3>What happened when your cat ate a silicone earplug?</h3><p>If your cat has ingested a silicone earplug, they have swallowed a foreign body that cannot be digested. Silicone is soft and flexible, but it is also durable and waterproof. Unlike food, it will not break down in the stomach acid, meaning it must either pass through the entire digestive tract or be surgically removed if it becomes stuck.</p><h3>Is this an emergency?</h3><p>Urgency Level: High. While a small earplug might pass in some cats, silicone is a common cause of gastrointestinal obstruction. Because earplugs are designed to expand or grip, they can easily become lodged in the narrow pylorus (the exit of the stomach) or the small intestine. An obstruction is life-threatening and requires immediate veterinary intervention. You should contact an emergency vet right away, especially if your cat is vomiting, lethargic, or refusing food.</p><h3>Why a photo helps triage</h3><p>If you have an identical earplug, take a photo of it next to a common object (like a coin) for scale and send it to your veterinarian. Knowing the exact size, shape, and material density helps the vet determine the likelihood of the object passing naturally versus the risk of it getting stuck. It also helps the radiologist know what to look for on an X-ray, as silicone can sometimes be difficult to see against soft tissue.</p>",
+  "faqs": [
+    {
+      "question": "Will my cat pass the earplug on their own?",
+      "answer": "It is possible but risky. Due to the shape and material of silicone earplugs, they often cause blockages in the intestines. Never 'wait and see' without professional medical advice."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home using hydrogen peroxide or other methods, as this can cause severe esophageal damage or aspiration pneumonia. Only a vet should perform this."
+    },
+    {
+      "question": "What are the signs of a blockage?",
+      "answer": "Watch for repetitive vomiting, loss of appetite, abdominal pain, hiding, or an inability to pass stool. These signs indicate a surgical emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

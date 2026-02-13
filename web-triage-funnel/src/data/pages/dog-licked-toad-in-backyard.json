@@ -1,0 +1,20 @@
+{
+  "title": "Dog Licked a Toad: Emergency Triage and Care Guide",
+  "meta_desc": "Immediate emergency guide for dogs that licked or bit a toad. Learn the signs of toad toxicity and why this is a high-priority veterinary emergency.",
+  "content_html": "<h3>What is Toad Toxicity?</h3><p>Toad toxicity occurs when a dog bites, licks, or even picks up certain species of toads in their mouth. These toads secrete a potent, milky-white substance called bufotoxin from parotoid glands located behind their eyes. This toxin is rapidly absorbed through the mucous membranes of the dog's mouth, entering the bloodstream almost instantly.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, this is considered a high-level veterinary emergency. Depending on the species of toad and the amount of toxin absorbed, symptoms can progress from oral irritation to life-threatening heart arrhythmias, seizures, and respiratory distress within minutes. Immediate intervention is required to prevent permanent damage or death.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so without delaying care, take a quick photo of the toad. Identifying the specific species—such as the highly lethal Cane Toad or the Colorado River Toad—is critical for your veterinarian. Different species have different toxin profiles, and knowing the culprit allows the medical team to anticipate specific complications like cardiac arrest or neurological failure.</p>",
+  "faqs": [
+    {
+      "question": "What are the immediate symptoms of toad poisoning?",
+      "answer": "Common symptoms include heavy drooling, frothing at the mouth, bright red or 'brick-colored' gums, pawing at the face, and vomiting."
+    },
+    {
+      "question": "What should I do while driving to the vet?",
+      "answer": "If possible, have someone gently wipe out the dog's mouth with a damp cloth to remove excess toxin, ensuring the dog does not swallow the rinse water."
+    },
+    {
+      "question": "Can a dog survive licking a toad?",
+      "answer": "Yes, with rapid treatment and decontamination, many dogs survive toad toxicity, though the prognosis depends heavily on the toad species and how quickly veterinary care is received."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Ingested a Sewing Needle",
+  "meta_desc": "If your cat swallowed a sewing needle, this is a high-priority medical emergency. Learn why immediate veterinary care is essential to save their life.",
+  "content_html": "<h3>What is it?</h3><p>A needle ingestion occurs when a cat swallows a sharp metal sewing needle, often because they were attracted to the thread attached to it. Cats have barbed tongues that make it difficult for them to spit out objects once they start swallowing, leading to accidental ingestion of dangerous foreign bodies.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> This is a critical medical emergency. You must contact an emergency veterinarian immediately. Do not attempt to induce vomiting at home, as the needle is sharp and can puncture the esophagus or lungs on the way back up. Swift professional intervention is required to prevent life-threatening internal injuries.</p><h3>Why a photo helps triage</h3><p>If you have a photo of the needle's packaging or a similar needle from the same set, show it to your veterinarian. This helps the medical team understand the size and type of the object. Furthermore, knowing if there was thread attached is vital; thread can cause the intestines to bunch up (a linear foreign body), which is a surgical emergency. Providing these details allows the vet to prepare the necessary diagnostic tools, such as X-rays or endoscopy, before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my cat passes the needle in their stool?",
+      "answer": "No. Because needles are sharp and rigid, they are highly unlikely to pass safely through the digestive tract. They frequently puncture the stomach or intestines, leading to severe infection and internal bleeding."
+    },
+    {
+      "question": "What are the symptoms of needle ingestion?",
+      "answer": "Symptoms may include pawing at the mouth, excessive drooling, gagging, vomiting, abdominal pain, or loss of appetite. However, some cats may show no symptoms at all immediately after ingestion."
+    },
+    {
+      "question": "Will my cat need surgery?",
+      "answer": "If the needle is located in the stomach, it may be possible to remove it via endoscopy (a non-surgical procedure). However, if the needle has moved into the intestines or caused a perforation, emergency surgery is usually required."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

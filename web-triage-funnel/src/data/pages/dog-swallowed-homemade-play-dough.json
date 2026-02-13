@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Homemade Play-Dough? Emergency Salt Toxicity Guide",
+  "meta_desc": "Homemade play-dough is a high-urgency emergency for dogs due to salt toxicity. Learn the symptoms and why you must contact a vet immediately.",
+  "content_html": "<h3>What is Homemade Play-Dough?</h3><p>Homemade play-dough is a common craft material typically made from flour, water, and extremely high concentrations of salt. While these ingredients are food-grade for humans, the salt content is concentrated to levels that are highly toxic to dogs. When ingested, this salt is rapidly absorbed into the bloodstream.</p><h3>Is It an Emergency? (Urgency Level: High)</h3><p>Yes, this is a high-urgency medical emergency. Ingesting homemade play-dough leads to salt poisoning (hypernatremia), which causes water to be drawn out of the dog's cells and brain. This can result in brain swelling, seizures, and organ failure. Because symptoms can escalate in as little as 30 to 60 minutes, you should not wait for symptoms to appear before seeking professional veterinary help.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the play-dough—or the specific recipe used—is incredibly helpful for triage. It allows the medical team to calculate the potential salt-to-weight ratio. Seeing the size of the piece consumed alongside a reference object helps the vet determine the severity of the toxicity and choose the safest method for stabilizing your dog's electrolyte levels.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of salt poisoning in dogs?",
+      "answer": "Symptoms include extreme thirst, vomiting, diarrhea, lethargy, stumbling, tremors, and seizures."
+    },
+    {
+      "question": "Can I give my dog water to flush out the salt?",
+      "answer": "While it seems logical, offering too much water too quickly can actually worsen brain swelling. Only provide small amounts of water as directed by a vet while you are en route to the clinic."
+    },
+    {
+      "question": "Is store-bought play-dough just as dangerous?",
+      "answer": "While store-bought versions still contain salt, homemade recipes often contain significantly higher concentrations, making the homemade version much more life-threatening."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

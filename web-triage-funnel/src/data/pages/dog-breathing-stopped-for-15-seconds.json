@@ -1,0 +1,20 @@
+{
+  "title": "Dog Stopped Breathing for 15 Seconds: Emergency Triage Guide",
+  "meta_desc": "If your dog stopped breathing for 15 seconds, seek emergency care immediately. Learn about apnea, urgency levels, and how to help your pet.",
+  "content_html": "<h3>What Does it Mean When a Dog Stops Breathing?</h3><p>When a dog stops breathing for a period of time, it is known medically as apnea. This can occur due to a variety of serious underlying issues, including upper airway obstructions, heart failure, neurological triggers, or severe respiratory distress. A 15-second pause in breathing is a significant clinical sign that the body's involuntary drive to breathe has been interrupted, which can lead to rapid oxygen depletion in the blood and brain.</p><h3>Urgency Level: High Emergency</h3><p>This situation is a high-level emergency. Even if your dog has resumed breathing and appears normal now, a 15-second lapse is an indicator of a potentially life-threatening condition that could recur at any moment. You should transport your dog to the nearest emergency veterinary clinic immediately. Do not wait for another episode to occur, as the next one could result in full respiratory or cardiac arrest.</p><h3>Why Photos and Videos Help Triage</h3><p>If you are able to safely capture a quick video of your dog's breathing pattern or the episode itself without delaying your trip to the vet, it can be an invaluable tool for the medical team. Visual evidence allows veterinarians to differentiate between different types of respiratory events, such as syncopal episodes (fainting), seizures, or obstructive breathing. Seeing the color of the gums or the specific movement of the chest wall helps the triage nurse prioritize your pet's care the moment you arrive.</p>",
+  "faqs": [
+    {
+      "question": "What should I do if my dog stops breathing again on the way to the vet?",
+      "answer": "Keep the head and neck extended to clear the airway. If you are trained in pet CPR, you may need to provide rescue breaths, but your primary focus should be reaching the emergency clinic as quickly and safely as possible."
+    },
+    {
+      "question": "Could my dog have sleep apnea?",
+      "answer": "While sleep apnea does occur in certain breeds, specifically brachycephalic (flat-faced) dogs, any instance where a dog stops breathing for 15 seconds must be diagnosed by a professional to rule out more acute, life-threatening causes."
+    },
+    {
+      "question": "What are the signs of low oxygen in dogs?",
+      "answer": "Check your dog's gums and tongue. If they appear blue, purple, or greyish rather than a healthy bubblegum pink, your dog is experiencing a critical lack of oxygen and needs immediate medical intervention."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

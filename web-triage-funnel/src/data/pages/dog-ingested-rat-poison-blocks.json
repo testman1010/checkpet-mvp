@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Rat Poison Blocks: Emergency Triage Guide",
+  "meta_desc": "If your dog ate rat poison, act now. This guide covers why rodenticide ingestion is a high-level emergency and the critical steps you must take.",
+  "content_html": "<h3>What is it?</h3><p>Rat poison blocks, or rodenticides, are chemical baits designed to eliminate mice and rats. They are typically formulated to be palatable to animals, which unfortunately makes them attractive to dogs. These blocks usually contain one of three dangerous ingredients: anticoagulants that cause internal bleeding, neurotoxins like bromethalin that cause brain swelling, or high doses of Vitamin D3 (cholecalciferol) which leads to kidney failure.</p><h3>Is it an emergency?</h3><p>Yes. This is a High Urgency emergency. Even if your dog is acting normally right now, rat poison is designed to have a delayed effect. By the time symptoms like lethargy, coughing, or bruising appear, life-threatening internal damage has already occurred. Immediate veterinary intervention within the first hour of ingestion offers the best chance for a successful recovery through decontamination.</p><h3>Why a photo helps triage</h3><p>Different types of rat poison require completely different medical treatments. Because many blocks look identical, a photo of the original packaging—specifically the 'Active Ingredients' list and the EPA registration number—is vital. This allows your veterinarian to identify the exact toxin and administer the correct antidote or treatment protocol immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed to do so by a veterinarian or a pet poison control center. Depending on the dog's health status and the time since ingestion, it may be safer for a professional to do this in a clinical setting."
+    },
+    {
+      "question": "What if I only think my dog ate a small piece?",
+      "answer": "There is no 'safe' amount of rat poison. The toxicity depends on the dog's weight and the concentration of the chemical. Always treat any known or suspected ingestion as a medical emergency."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms vary by toxin type. Anticoagulants may not show effects for 3 to 7 days, while neurotoxins or Vitamin D3 poisons can show signs within hours. Waiting for symptoms to appear significantly decreases the chance of survival."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

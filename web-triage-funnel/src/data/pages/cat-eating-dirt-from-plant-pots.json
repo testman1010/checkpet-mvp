@@ -1,0 +1,20 @@
+{
+  "title": "Why is My Cat Eating Dirt? | Veterinary Triage Guide",
+  "meta_desc": "Is your cat eating soil from plant pots? Learn about pica, potential toxicity risks, and when to seek veterinary care in our comprehensive guide.",
+  "content_html": "<h3>Understanding Why Cats Eat Dirt</h3><p>When a cat consumes non-food items like soil, it is a behavior known as pica. This can be caused by various factors, including boredom, stress, or nutritional deficiencies such as anemia or a lack of specific vitamins and minerals. In some cases, it may also indicate an underlying metabolic disease.</p><h3>Urgency Level: Medium</h3><p>Eating dirt is generally considered a medium-urgency situation. While a single lick might not be fatal, soil often contains fertilizers, pesticides, or potting mix additives (like perlite) that can be toxic. Furthermore, many common houseplants are poisonous to cats. If your cat is also lethargic, vomiting, or has pale gums, you should contact a veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the plant pot and the specific plant involved is highly beneficial for a veterinary triage team. A photo helps professionals identify the plant species to determine if it is toxic and allows them to look for evidence of fertilizer pellets or mold in the soil. This information is critical for determining whether your cat needs induced vomiting or supportive care.</p>",
+  "faqs": [
+    {
+      "question": "Can eating dirt mean my cat is sick?",
+      "answer": "Yes, it can be a sign of feline anemia or a mineral deficiency. If your cat suddenly starts eating soil, a blood test is often recommended."
+    },
+    {
+      "question": "Are there parasites in potting soil?",
+      "answer": "Outdoor soil can contain parasite eggs like roundworms, but even indoor potting soil can harbor bacteria or fungal spores that may upset a cat's stomach."
+    },
+    {
+      "question": "How can I stop my cat from eating dirt?",
+      "answer": "Try covering the soil with large decorative stones, using a cat-safe bitter spray on the pot, or providing 'cat grass' as a safe chewing alternative."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

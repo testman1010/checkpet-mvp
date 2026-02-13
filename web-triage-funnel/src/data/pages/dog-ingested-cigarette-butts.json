@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Cigarette Butts: Nicotine Toxicity and Triage Guide",
+  "meta_desc": "If your dog ingested cigarette butts, they may be at risk for nicotine poisoning. Learn the urgency level, symptoms, and why to call a vet now.",
+  "content_html": "<h3>What is Cigarette Butt Ingestion?</h3><p>When a dog ingests cigarette butts, they are consuming concentrated amounts of nicotine, tobacco residue, and synthetic filter materials. Nicotine is a potent neurotoxin for canines. Even though the tobacco has been burned, the filters often retain a significant portion of the nicotine, making them dangerous if swallowed.</p><h3>Is This an Emergency?</h3><p>The urgency level for cigarette butt ingestion is <strong>Medium</strong>. While ingestion is not always fatal, nicotine is absorbed very rapidly into the bloodstream. You should contact your veterinarian or a pet poison control center immediately. Symptoms can progress from mild drooling to severe tremors or heart issues within 30 to 60 minutes, so proactive medical advice is essential.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to take a photo of the brand packaging or the remaining debris, it can be extremely helpful for the veterinary team. Different brands have varying levels of nicotine, and a photo helps the vet estimate the total dosage your dog may have received. Additionally, knowing if the cigarettes were menthol or contained other additives helps the vet tailor the treatment plan more accurately.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of nicotine poisoning in dogs?",
+      "answer": "Common symptoms include drooling, vomiting, diarrhea, agitation, tremors, constricted pupils, and a rapid heart rate. In severe cases, it can lead to seizures or collapse."
+    },
+    {
+      "question": "How many cigarette butts are toxic to a dog?",
+      "answer": "Toxicity depends on the dog's size. For a small dog, even one or two butts can be toxic. For larger dogs, the risk increases with the number of butts consumed, but any amount should be reported to a vet."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, do not induce vomiting unless specifically directed by a veterinarian. Nicotine can cause rapid neurological changes, and inducing vomiting in a dog that is becoming disoriented can lead to aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

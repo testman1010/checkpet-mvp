@@ -1,0 +1,20 @@
+{
+  "title": "Dog Limping After Running in the Park: Triage and Care Guide",
+  "meta_desc": "Is your dog limping after a park run? Discover common causes, determine the urgency of the injury, and learn how to triage your pet at home.",
+  "content_html": "<h3>What is it?</h3><p>Seeing your dog limp after a vigorous session at the park can be worrying. This condition, often referred to as acute lameness, is typically caused by soft tissue injuries like strains or sprains, paw pad trauma, or more significant issues such as a cranial cruciate ligament (CCL) tear. High-energy environments often lead to dogs pushing past their physical limits, resulting in minor inflammation or sudden orthopedic injury.</p><h3>Is it an emergency?</h3><p>The urgency level for a post-exercise limp is generally <strong>Medium</strong>. While many minor strains improve with rest, you should contact a veterinarian immediately if your dog is completely non-weight-bearing, shows signs of extreme pain (vocalizing), or if there is visible swelling or a limb deformity. If the limp is mild, you can monitor your pet for 12-24 hours, but a veterinary exam is still recommended to rule out underlying structural damage.</p><h3>Why a photo or video helps triage</h3><p>When communicating with a veterinary professional, providing a photo or video is invaluable. A clear photo of the underside of the paw can help identify small cuts, thorns, or broken nails that might be causing the limp. Additionally, a short video of your dog walking helps the vet analyze their gait, identifying exactly which joint is stiff or painful. This visual evidence allows for a much more accurate initial assessment and helps determine if an in-person emergency visit is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog human pain relief like Ibuprofen?",
+      "answer": "No, never give your dog human over-the-counter pain medications. Drugs like Ibuprofen and Naproxen are highly toxic to dogs and can cause stomach ulcers or kidney failure. Only use medications prescribed by your vet."
+    },
+    {
+      "question": "How can I tell if the limp is just a sore muscle?",
+      "answer": "Muscle soreness usually improves with short-term rest (24 hours). If your dog is still limping after a full day of rest, or if they are reluctant to get up at all, it likely indicates a more significant injury than simple soreness."
+    },
+    {
+      "question": "Should I apply ice or heat to the leg?",
+      "answer": "For a fresh injury (within the first 24 hours), a cold compress or ice pack wrapped in a towel can be applied for 10-15 minutes to reduce swelling. Avoid heat in the initial stages of an injury as it can increase inflammation."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

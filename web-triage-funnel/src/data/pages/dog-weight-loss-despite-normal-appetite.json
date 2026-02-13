@@ -1,0 +1,20 @@
+{
+  "title": "Dog Losing Weight Despite Eating Normally: Causes and Triage Guide",
+  "meta_desc": "Is your dog losing weight despite a healthy appetite? Learn about potential causes, urgency levels, and how to prepare for your veterinary visit.",
+  "content_html": "<h3>What is Weight Loss with a Normal Appetite?</h3><p>When a dog loses weight despite consuming their usual amount of food—or even more than usual—it typically suggests that nutrients are either not being absorbed properly or are being consumed too quickly by the body. This condition can stem from various underlying issues, including intestinal parasites, malabsorption disorders like Exocrine Pancreatic Insufficiency (EPI), or metabolic conditions such as diabetes mellitus and hyperthyroidism.</p><h3>Is it an Emergency?</h3><p>The urgency level for weight loss with a normal appetite is <strong>Medium</strong>. While it is rarely a sudden life-threatening emergency, it indicates a significant underlying health problem that requires a veterinary evaluation within the next 24 to 48 hours. You should move to an emergency status if the weight loss is accompanied by extreme lethargy, persistent vomiting, or a complete refusal to drink water.</p><h3>Why Documentation and Photos Help Triage</h3><p>Visual evidence is incredibly valuable for your veterinarian. Taking clear photos of your dog from a birds-eye view and a side profile helps the vet assess their body condition score and muscle wasting. Furthermore, because many causes of weight loss are gastrointestinal, providing photos of your dog's stool can help the vet identify signs of maldigestion, such as grease, blood, or mucus, leading to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can intestinal parasites cause weight loss in dogs who are eating?",
+      "answer": "Yes, parasites like roundworms, hookworms, or tapeworms live in the digestive tract and consume the nutrients from your dog's food before the dog can absorb them."
+    },
+    {
+      "question": "Is diabetes a common cause for this symptom?",
+      "answer": "Yes, dogs with diabetes often have a ravenous appetite but lose weight because their bodies cannot properly utilize the glucose in their bloodstream for energy."
+    },
+    {
+      "question": "What information should I have ready for the vet?",
+      "answer": "Be prepared to share the exact brand and amount of food you feed, any changes in thirst or urination, and the consistency of your dog's bowel movements."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

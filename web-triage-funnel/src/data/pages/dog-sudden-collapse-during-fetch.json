@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Collapse During Fetch: Emergency Triage Guide",
+  "meta_desc": "If your dog suddenly collapsed during fetch, this is a high-priority emergency. Learn what it means and why you must see a veterinarian immediately.",
+  "content_html": "<h3>What happened? Understanding Sudden Collapse</h3><p>A sudden collapse during high-energy activities like fetch is a condition where a dog unexpectedly loses their ability to stand or loses consciousness. This is often related to a failure of the cardiovascular, respiratory, or neurological systems to keep up with the physical demands being placed on the body.</p><h3>Is this an emergency? (Urgency Level: High)</h3><p>Yes. Any instance of sudden collapse is a high-priority medical emergency. Even if your dog appears to recover after a few moments, the underlying cause—such as Exercise-Induced Collapse (EIC), cardiac arrhythmia, internal bleeding, or heatstroke—remains a serious threat. You should proceed to the nearest emergency veterinary clinic immediately.</p><h3>How media helps with triage</h3><p>If it is safe to do so, a quick video of the episode or a photo of your dog's gum color can be incredibly helpful for the veterinary team. A photo of the gums (looking for pale, blue, or deep red colors) helps the vet quickly determine if the issue is related to oxygen levels or blood flow, allowing for faster life-saving interventions upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can heart problems cause collapse during fetch?",
+      "answer": "Yes, underlying heart conditions such as cardiomyopathy can cause a sudden drop in blood pressure or an irregular heartbeat during exercise, leading to collapse."
+    },
+    {
+      "question": "What is Exercise-Induced Collapse (EIC)?",
+      "answer": "EIC is a genetic condition, common in certain breeds like Labradors, where intense exercise causes muscle weakness and collapse. It requires a professional diagnosis to manage."
+    },
+    {
+      "question": "What should I do on the way to the vet?",
+      "answer": "Keep your dog calm and cool. If you suspect heatstroke, you can place cool (not ice-cold) wet towels on their paws, but do not delay transport to the clinic."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

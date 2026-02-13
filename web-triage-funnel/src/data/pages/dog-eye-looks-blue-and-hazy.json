@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eye Looks Blue and Hazy: Causes and Triage Guide",
+  "meta_desc": "Is your dog's eye blue or cloudy? Learn about nuclear sclerosis, cataracts, and when you need to see a vet for your dog's hazy vision.",
+  "content_html": "<h3>What is it?</h3><p>When a dog's eye appears blue, cloudy, or hazy, it is usually a sign of changes within the lens or the cornea. In older dogs, a bluish tint is often 'nuclear sclerosis,' a normal hardening of the lens that does not cause blindness. However, a milky or white haze can indicate cataracts, which block light from reaching the retina. Other causes include corneal edema (swelling of the eye surface) or uveitis (internal inflammation), which can occur due to injury, infection, or underlying health issues.</p><h3>Is it an emergency?</h3><p>The urgency level for a hazy eye is typically Medium. If your dog is acting normally, not squinting, and the eye isn't red, you should schedule a veterinary appointment within the next 24 to 48 hours. However, if the cloudiness is accompanied by signs of pain, such as pawing at the face, keeping the eye shut, or if the eye looks suddenly 'bulgy' or very red, this could be an emergency like acute glaucoma or a corneal ulcer and requires immediate care.</p><h3>Why a photo helps triage</h3><p>A clear, high-resolution photo taken in good lighting helps a veterinary professional determine exactly where the cloudiness is located. By seeing if the haze is on the surface (the cornea) or deep inside the eye (the lens), they can better assess the severity of the condition. A photo also allows the vet to look for subtle signs of discomfort or inflammation that might not be obvious to the owner, helping to prioritize your dog's appointment correctly.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog go blind if their eyes look blue?",
+      "answer": "Not necessarily. If the blue tint is caused by nuclear sclerosis, your dog's vision will remain functional. If it is caused by cataracts, vision may decrease over time, but many cases are manageable or even surgically correctable."
+    },
+    {
+      "question": "Can I use human eye drops on my dog's hazy eye?",
+      "answer": "No. You should never use human eye drops or medications on a dog without a veterinarian's approval. Some drops can worsen certain conditions, especially if a corneal ulcer is present."
+    },
+    {
+      "question": "How can I tell the difference between cataracts and normal aging?",
+      "answer": "It is difficult to tell with the naked eye. Generally, cataracts look more like white, opaque crushed ice, while normal aging (nuclear sclerosis) looks like a translucent blue-grey pearl. A vet must use an ophthalmoscope to confirm."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

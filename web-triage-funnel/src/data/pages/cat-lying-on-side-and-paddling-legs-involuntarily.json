@@ -1,0 +1,20 @@
+{
+  "title": "Immediate Action: Cat Lying on Side and Paddling Legs | Vet Triage",
+  "meta_desc": "If your cat is lying on their side and paddling their legs involuntarily, they may be having a seizure. This is a high-priority medical emergency.",
+  "content_html": "<h3>What is happening to your cat?</h3><p>When a cat lies on their side and performs involuntary paddling motions with their limbs, it is typically a sign of a generalized seizure. This occurs due to a sudden surge of electrical activity in the brain. During such an episode, the cat is usually unconscious and unaware of their surroundings. They may also exhibit jaw chomping, excessive salivation, or involuntary urination and defecation.</p><h3>Is this a medical emergency?</h3><p>Urgency Level: High. This is a critical medical emergency. Even if the episode lasts only a minute or two, it can be a sign of severe underlying issues such as toxins, metabolic disease, or neurological disorders. If the paddling lasts for more than five minutes (status epilepticus), it can lead to permanent brain damage or life-threatening hyperthermia. You should contact the nearest emergency veterinary clinic immediately.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so, capturing a short video of the paddling behavior can be immensely helpful for your veterinarian. Many different conditions, including fainting (syncope) or vestibular episodes, can look similar to seizures. A video allows the vet to analyze the specific motor patterns and the cat's level of consciousness, which helps them differentiate between a neurological event and a cardiovascular one, leading to a faster diagnosis and treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to restrain my cat while they are paddling?",
+      "answer": "No. Never put your hands near your cat's mouth or try to hold them down, as they may bite or scratch involuntarily. Instead, clear away any sharp objects or furniture that might cause injury."
+    },
+    {
+      "question": "What should I do immediately after the episode ends?",
+      "answer": "Keep the lights low and the environment quiet. Cats are often disoriented, blind, or anxious immediately after a seizure (the post-ictal phase). Transport them to a vet immediately even if they seem to be recovering."
+    },
+    {
+      "question": "Could this be something other than a seizure?",
+      "answer": "Yes, while paddling is a classic seizure sign, it can also be associated with severe heart issues or sudden vestibular (balance) failure. This is why immediate professional evaluation is required."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Facial Droop: Is It an Emergency? | Veterinary Triage Guide",
+  "meta_desc": "Is your cat's face drooping on one side? Learn about nerve paralysis, urgency levels, and why a photo helps your vet provide the best care.",
+  "content_html": "<h3>What is Facial Drooping in Cats?</h3><p>When one side of a cat's face appears to sag, it is typically a sign of facial nerve paralysis. This condition affects the muscles that control the eyelids, ears, and lips. You may notice your cat is unable to blink, their ear hangs low, or their lip is slack on one side. Common causes include middle or inner ear infections, trauma, polyps, or idiopathic facial nerve paralysis, which occurs without a clear known cause.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for a drooping face is categorized as <strong>Medium</strong>. While the drooping itself is rarely life-threatening, it is often a symptom of an underlying medical issue that requires professional diagnosis. You should schedule a veterinary appointment within 24 to 48 hours. However, if the facial droop is accompanied by a head tilt, difficulty walking, or sudden vision loss, you should seek emergency care immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>Capturing a clear photo or video of your cat's face is an invaluable tool for your veterinary team. Because cats can become stressed at the clinic, they may hide certain symptoms or hold their head differently. A photo taken in a relaxed home environment provides a baseline of the asymmetry, helping the vet determine the severity of the nerve involvement and how quickly the condition is progressing.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause a cat's face to droop?",
+      "answer": "Yes, the facial nerve passes very close to the middle ear. Severe inflammation or infection in the ear can put pressure on this nerve, leading to paralysis and drooping on the affected side."
+    },
+    {
+      "question": "Will my cat's face return to normal?",
+      "answer": "The prognosis depends on the underlying cause. If the cause is an infection that is treated early, function may return. In some cases, such as idiopathic paralysis, the drooping may be permanent but does not usually affect the cat's quality of life."
+    },
+    {
+      "question": "Does facial drooping mean my cat had a stroke?",
+      "answer": "While facial drooping is a common sign of a stroke in humans, strokes are much less common in cats. Facial asymmetry in felines is more frequently related to local nerve issues or ear disease rather than a vascular event in the brain."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

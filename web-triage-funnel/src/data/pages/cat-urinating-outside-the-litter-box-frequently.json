@@ -1,0 +1,20 @@
+{
+  "title": "Why Your Cat is Urinating Outside the Litter Box: Triage and Tips",
+  "meta_desc": "Find out why your cat is peeing outside the box. Learn about urgency levels, medical causes, and how photos help your vet diagnose the issue.",
+  "content_html": "<h3>What is Inappropriate Urination?</h3><p>Inappropriate urination, or periuria, occurs when a cat stops using their litter box and begins urinating on household surfaces like rugs, furniture, or clothing. This behavior is rarely a sign of spite; instead, it is a communication tool indicating that your cat is experiencing physical discomfort, a urinary tract issue, or significant environmental stress.</p><h3>Is it an Emergency?</h3><p>The urgency level for this issue is classified as <strong>Medium</strong>. You should aim to have your cat seen by a veterinarian within 24 to 48 hours to rule out conditions like crystals, infections, or feline idiopathic cystitis. However, if your cat is straining and producing no urine at all, this is a life-threatening blockage (especially in males) and becomes a <strong>Critical Emergency</strong> requiring immediate care.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a photo of the urine spot can be incredibly helpful for your veterinary team. A clear image allows the vet to assess the volume of urine, check for the presence of blood (hematuria), and see if the urine appears cloudy or contains sediment. These visual cues help determine whether the problem is likely medical or behavioral before diagnostic tests even begin.</p>",
+  "faqs": [
+    {
+      "question": "Can a dirty litter box cause this behavior?",
+      "answer": "Yes, cats are very clean animals and may avoid a box that isn't scooped daily or deep-cleaned regularly."
+    },
+    {
+      "question": "What are common medical causes for peeing outside the box?",
+      "answer": "Common causes include Urinary Tract Infections (UTIs), bladder stones, kidney disease, or Feline Lower Urinary Tract Disease (FLUTD)."
+    },
+    {
+      "question": "Does my cat need a urine sample?",
+      "answer": "Most likely, yes. Your vet will need to perform a urinalysis to check for bacteria, crystals, and pH levels to determine the proper treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

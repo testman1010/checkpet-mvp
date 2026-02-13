@@ -1,0 +1,20 @@
+{
+  "title": "Cat Wobbly Gait (Ataxia): Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your cat walking wobbly? Learn about ataxia, why sudden loss of balance is a high-priority emergency, and how to help your vet during triage.",
+  "content_html": "<h3>What is a Wobbly Gait in Cats?</h3><p>A wobbly gait, medically referred to as ataxia, is a condition where a cat lacks voluntary muscle coordination. It often manifests as swaying, stumbling, or appearing \"drunk\" while walking. This lack of balance typically stems from a disruption in the sensory system, often involving the brain, the inner ear (vestibular system), or the spinal cord.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. If your cat suddenly develops a wobbly gait, it should be treated as a medical emergency. While it can sometimes be caused by a treatable ear infection, it is frequently a symptom of more severe issues such as neurological trauma, ingestion of toxins (like antifreeze or certain plants), blood clots, or sudden organ failure. Immediate veterinary intervention is necessary to prevent permanent damage or life-threatening complications.</p><h3>Why Video and Photos Help Triage</h3><p>Capturing a short video of your cat’s movement is one of the most helpful things you can do for a triage team. Cats are experts at hiding symptoms when they feel stressed or threatened, such as during a car ride or while at a clinic. A video allows the veterinarian to see the behavior in a home environment, helping them differentiate between limb weakness, vestibular circling, or true neurological ataxia, which leads to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can a wobbly gait be caused by an ear infection?",
+      "answer": "Yes, infections of the inner or middle ear can disrupt a cat's vestibular system, leading to a loss of balance and a head tilt."
+    },
+    {
+      "question": "What should I do while transporting my wobbly cat?",
+      "answer": "Keep your cat in a confined, padded carrier to prevent them from falling or injuring themselves further during the trip to the emergency vet."
+    },
+    {
+      "question": "Is ataxia the same as a stroke?",
+      "answer": "While ataxia can be a symptom of a stroke, they are not the same thing. Ataxia is a clinical sign of many different underlying neurological or systemic issues."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Fell From Balcony and Cannot Walk",
+  "meta_desc": "If your cat fell from a balcony and is unable to walk, this is a critical emergency. Learn about High-Rise Syndrome and immediate triage steps.",
+  "content_html": "<h3>What is High-Rise Syndrome?</h3><p>When a cat falls from a balcony or window, the resulting injuries are collectively known as High-Rise Syndrome. This often includes a combination of orthopedic injuries like broken limbs or a shattered jaw, and internal injuries such as a collapsed lung (pneumothorax) or internal bleeding. The inability to walk suggests a serious spinal injury, multiple fractures, or severe neurological shock.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening emergency. Even if you do not see blood, the impact from a fall can cause internal organs to rupture or create air pockets in the chest cavity that make breathing impossible. The inability to use their legs is a red-flag symptom that requires immediate stabilization, pain management, and diagnostic imaging by a veterinarian.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a quick photo or a 5-second video of your cat’s current posture before moving them can be incredibly helpful for the veterinary team. It allows the triage nurse to see exactly how the cat was positioning their limbs and spine immediately after the trauma. This visual evidence helps the vet determine if the issue is neurological or musculoskeletal before they even begin their physical exam, potentially saving precious time during stabilization.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to give my cat pain medication at home?",
+      "answer": "No. Never give human pain relief (like Tylenol or Aspirin) to a cat, as these are highly toxic and can be fatal. The vet will provide safe, fast-acting intravenous pain relief."
+    },
+    {
+      "question": "How should I transport my cat to the emergency room?",
+      "answer": "Minimize movement as much as possible. Gently slide your cat onto a flat, rigid surface like a sturdy piece of cardboard or a flat-bottomed carrier lined with towels to prevent further injury to the spine or limbs."
+    },
+    {
+      "question": "What if my cat is breathing heavily or with an open mouth?",
+      "answer": "Open-mouth breathing in a cat after a fall is a sign of extreme distress or respiratory failure. This indicates a high risk of lung injury and requires oxygen therapy immediately upon arrival at the clinic."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

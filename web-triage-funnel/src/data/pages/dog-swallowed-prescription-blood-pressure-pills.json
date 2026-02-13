@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Swallowed Prescription Blood Pressure Pills",
+  "meta_desc": "Immediate steps for dogs who ingested blood pressure medication. This is a high-urgency emergency requiring professional veterinary care.",
+  "content_html": "<h3>What is it?</h3><p>When a dog ingests human blood pressure medication—such as ACE inhibitors, beta-blockers, or calcium channel blockers—it is a serious toxicological event. These medications are designed to alter blood flow and heart function in humans, and even a single pill can be life-threatening to a pet depending on their size and the specific drug involved.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. Yes, this is a critical emergency. You should contact an emergency veterinarian or a pet poison control hotline immediately. Blood pressure medications can cause a dog's blood pressure or heart rate to drop to dangerously low levels, potentially leading to acute kidney failure, seizures, collapse, or heart failure. Do not wait for symptoms to appear, as internal damage can occur rapidly.</p><h3>Why a photo helps triage</h3><p>If possible, take a clear photo of the medication bottle or the pills themselves before heading to the clinic. This photo allows the veterinary team to quickly identify the active ingredients and the dosage (milligrams). Knowing exactly what was ingested helps the vet calculate the toxicity level for your dog's weight and allows them to prepare the correct antidote or supportive care treatments before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting unless specifically instructed to do so by a licensed veterinarian or poison control expert, as some medications can cause complications if aspirated."
+    },
+    {
+      "question": "What are the early signs of toxicity?",
+      "answer": "Early signs may include extreme lethargy, weakness, stumbling (ataxia), vomiting, or slowed breathing. However, many dogs show no outward signs until their blood pressure has reached a critical low."
+    },
+    {
+      "question": "How long do I have to seek treatment?",
+      "answer": "Minutes matter. Decontamination (like administering activated charcoal) is most effective when performed shortly after ingestion. Contact emergency services immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

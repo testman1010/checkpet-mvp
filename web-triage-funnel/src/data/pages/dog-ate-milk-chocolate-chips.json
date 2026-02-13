@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Milk Chocolate Chips: Emergency Guide & Next Steps",
+  "meta_desc": "Find out what to do if your dog ate milk chocolate chips. Learn about toxicity levels, symptoms to watch for, and why your vet needs a photo.",
+  "content_html": "<h3>What happened when your dog ate milk chocolate chips?</h3><p>Milk chocolate contains two stimulants: theobromine and caffeine. Dogs cannot metabolize these substances as efficiently as humans can, leading to a buildup in their system. While milk chocolate has a lower concentration of these toxins compared to dark chocolate or cocoa powder, it still poses a health risk, especially if your dog is small or consumed a large quantity of chips.</p><h3>Is this an emergency?</h3><p>The urgency level for this situation is categorized as Medium. While small amounts of milk chocolate may only cause mild stomach upset, larger amounts can lead to heart arrhythmias or seizures. Because the danger depends entirely on your dog's weight and the exact amount of chocolate consumed, you should contact a veterinarian or a pet poison control center immediately for a toxicity calculation.</p><h3>Why taking a photo helps triage</h3><p>If you still have the packaging, take a clear photo of the front of the bag and the nutritional information. Different brands have varying levels of cocoa solids, and some 'sugar-free' chocolate chips contain Xylitol, which is life-threatening to dogs. A photo allows your vet to quickly identify the exact ingredients and provide a more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of chocolate poisoning?",
+      "answer": "Common signs include vomiting, diarrhea, increased thirst, restlessness, panting, and a racing heart rate."
+    },
+    {
+      "question": "How long does it take for chocolate to affect a dog?",
+      "answer": "Symptoms of chocolate toxicity typically begin to show within 6 to 12 hours after ingestion and can last for several days."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting unless specifically instructed to do so by a veterinary professional, as this can sometimes lead to aspiration or other complications."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

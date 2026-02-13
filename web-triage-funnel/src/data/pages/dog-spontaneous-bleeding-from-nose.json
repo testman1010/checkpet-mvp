@@ -1,0 +1,20 @@
+{
+  "title": "Dog Nose Bleeds (Epistaxis): Causes and Emergency Triage Guide",
+  "meta_desc": "Spontaneous nose bleeds in dogs are a high-urgency concern. Learn about epistaxis, when to seek emergency care, and how to help your vet triage.",
+  "content_html": "<h3>What is Spontaneous Nasal Bleeding in Dogs?</h3><p>Spontaneous bleeding from the nose, clinically known as epistaxis, is the sudden discharge of blood from one or both nostrils without an obvious external injury. This condition is not a disease in itself but rather a symptom of an underlying medical issue that could range from a localized infection to a serious systemic clotting disorder.</p><h3>Is it an Emergency?</h3><p>The urgency level for spontaneous nasal bleeding is <strong>High</strong>. While some cases are caused by minor irritants, many are the result of life-threatening conditions such as rodenticide (rat poison) ingestion, nasal tumors, or severe blood-clotting deficiencies. If the bleeding is profuse, does not stop within five minutes, or is accompanied by pale gums and lethargy, you must seek immediate emergency veterinary care.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo or short video of your dog while the bleeding is occurring can be incredibly helpful for your veterinarian. A visual record allows the medical team to assess the volume of blood loss, determine if the bleeding is unilateral (one nostril) or bilateral (both nostrils), and identify the presence of clots. This information helps the clinic prioritize your dog’s case and prepare the necessary diagnostic tools before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What should I do immediately if my dog's nose starts bleeding?",
+      "answer": "Keep your dog as calm as possible to prevent their blood pressure from rising. You may gently apply a cold compress to the bridge of the nose, but do not insert anything into the nostrils."
+    },
+    {
+      "question": "Can I give my dog human medication to stop the bleed?",
+      "answer": "No. Never administer human medications like aspirin or ibuprofen, as these can interfere with blood clotting and significantly worsen the bleeding."
+    },
+    {
+      "question": "What are common causes of epistaxis in dogs?",
+      "answer": "Common causes include nasal trauma, foreign bodies like foxtails, severe dental infections, fungal infections, rodenticide poisoning, and various types of cancer."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

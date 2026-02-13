@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Xylitol Gum: Urgent Help & Triage Guide",
+  "meta_desc": "If your dog ate gum with xylitol, act fast. Xylitol is highly toxic to dogs. Follow this guide for emergency steps and veterinary triage info.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a common sugar substitute found in many sugar-free products, including chewing gum, breath mints, and some peanut butters. While harmless to humans, it is a potent toxin for dogs because it triggers a rapid, massive release of insulin from their pancreas.</p><h3>Is it an Emergency?</h3><p>Yes. This is a life-threatening emergency with a high urgency level. Ingestion of xylitol can cause a sudden, dangerous drop in blood sugar (hypoglycemia) and can lead to acute liver failure or even death if not treated immediately by a professional.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the gum's packaging, specifically the ingredient list and the weight of the product. This information is vital because different brands contain varying concentrations of xylitol. Having a photo allows your veterinarian to calculate the exact toxic dose your dog may have consumed and prioritize treatment accordingly.</p>",
+  "faqs": [
+    {
+      "question": "How quickly do symptoms of xylitol poisoning appear?",
+      "answer": "Symptoms such as vomiting, loss of coordination, or lethargy can appear as quickly as 15 to 30 minutes after ingestion."
+    },
+    {
+      "question": "Can I wait to see if my dog acts sick?",
+      "answer": "No. Waiting for symptoms is dangerous because liver damage or severe hypoglycemia can occur before you notice outward signs."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not attempt to induce vomiting unless explicitly directed by a veterinarian, as this can be dangerous if your dog is already becoming hypoglycemic."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

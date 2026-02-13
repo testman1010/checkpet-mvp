@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate an Unknown Houseplant: A Triage Guide for Pet Parents",
+  "meta_desc": "Find out what to do if your cat chews on an unidentified plant. Learn about urgency levels, symptoms to watch for, and how a photo can save their life.",
+  "content_html": "<h3>What is it?</h3><p>Finding your cat nibbling on a plant you cannot identify is a common but concerning situation for pet owners. Many common indoor plants contain botanical compounds that can cause range of reactions, from mild mouth irritation to severe systemic toxicity. Because cats are obligate carnivores, their digestive systems are not always equipped to process the diverse chemicals found in common household greenery.</p><h3>Is it an emergency?</h3><p>The urgency level for an unidentified plant ingestion is currently <strong>Medium</strong>. While many plants are non-toxic, others—such as lilies—can be fatal even in small amounts. You should immediately monitor your cat for signs of distress, including vomiting, excessive drooling, diarrhea, or lethargy. If your cat appears to be breathing heavily or becomes unresponsive, move them to an emergency clinic immediately. Until the plant is identified, it is best to act with an abundance of caution.</p><h3>Why a photo helps triage</h3><p>In cases of unknown plant ingestion, a photograph is one of the most powerful tools you have. Taking a clear, well-lit photo of the plant's leaves, stems, and any flowers or berries allows a veterinarian or a poison control specialist to accurately identify the species. Rapid identification significantly speeds up the triage process, helping experts determine if the plant is harmless or if immediate medical intervention, such as induced vomiting or fluid therapy, is necessary to save your pet's life.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No, never attempt to induce vomiting in a cat at home unless specifically directed by a veterinarian. Doing so incorrectly can cause aspiration pneumonia or esophageal damage."
+    },
+    {
+      "question": "What parts of the plant are most toxic?",
+      "answer": "Toxicity varies by species; in some plants, the leaves are the most dangerous, while in others (like lilies), even the pollen or the water in the vase can be lethal."
+    },
+    {
+      "question": "Who can I call for help identifying the plant?",
+      "answer": "You can contact the ASPCA Animal Poison Control Center or the Pet Poison Helpline. They have horticultural experts available 24/7 to assist with plant identification and toxicity risks."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Spicy Human Food: What to Do and When to Worry",
+  "meta_desc": "If your dog ate spicy food, learn about symptoms, why it is usually a low-urgency situation, and how to monitor their recovery at home.",
+  "content_html": "<h3>What is it?</h3><p>When a dog consumes spicy human food, they are typically ingesting capsaicin—the compound that gives peppers their heat—along side various seasonings. While dogs do not have the same taste receptors as humans, their digestive systems are highly sensitive to these irritants, often leading to gastrointestinal upset.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. In most cases, eating spicy food is not a life-threatening emergency. Most dogs will experience temporary symptoms such as drooling, gas, or mild diarrhea. However, you should check the ingredients list immediately for toxic additives like onions, garlic, or xylitol, which would increase the urgency level.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the food packaging or the leftovers can be incredibly helpful for a veterinarian or triage assistant. It allows us to identify specific ingredients and spices that might be toxic. Additionally, a photo of any vomit or stool can help determine the severity of the digestive irritation and guide the next steps for care.</p>",
+  "faqs": [
+    {
+      "question": "Will spicy food hurt my dog's stomach?",
+      "answer": "Yes, spicy food can cause irritation to the lining of the stomach and intestines, leading to vomiting, diarrhea, and abdominal pain."
+    },
+    {
+      "question": "What should I do if my dog ate something spicy?",
+      "answer": "Monitor your dog closely for signs of distress. Provide plenty of fresh water to help with the 'burn' and stick to a bland diet like plain white rice and boiled chicken for 24 hours if they have an upset stomach."
+    },
+    {
+      "question": "Are there specific spices in human food that are dangerous?",
+      "answer": "Yes, while the spice heat itself is an irritant, ingredients often found in spicy human food like onion powder and garlic powder are toxic to dogs and require veterinary attention."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

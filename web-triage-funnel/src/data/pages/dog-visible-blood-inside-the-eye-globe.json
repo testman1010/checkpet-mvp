@@ -1,0 +1,20 @@
+{
+  "title": "Blood in Dog's Eye (Hyphema): Emergency Triage Guide",
+  "meta_desc": "Noticed blood inside your dog's eye? This condition, called hyphema, is a high-urgency veterinary emergency. Learn what to do and why timing matters.",
+  "content_html": "<h3>What is Blood Inside the Eye (Hyphema)?</h3><p>When you see visible blood pooling or floating inside the globe of your dog's eye (the area behind the clear cornea), it is a medical condition known as hyphema. This is not a simple 'red eye' or surface scratch; it is internal bleeding within the anterior chamber of the eye. It can appear as a bright red pool at the bottom of the eye, a dark cloudy haze, or even fill the entire front of the eye, obscuring the pupil and iris.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level is High. If you notice blood inside the eye globe, your dog needs to be seen by a veterinarian or an emergency animal hospital immediately. Hyphema is often a symptom of a severe underlying issue, such as blunt force trauma, high blood pressure, blood clotting disorders, or even internal tumors. Left untreated, the pressure inside the eye can rise rapidly (glaucoma), leading to intense pain and permanent blindness within hours.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the affected eye can be incredibly helpful for your veterinary team before you even arrive. A photo allows the triage nurse to assess the volume of blood, check for signs of external trauma, and determine if the internal structures like the pupil are still visible. This visual information helps the clinic prioritize your dog's case and prepare the necessary diagnostic tools, such as an eye pressure monitor (tonopen), before you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog go blind from blood in the eye?",
+      "answer": "Yes. If the underlying cause is not addressed or if the blood causes a spike in intraocular pressure (glaucoma), permanent vision loss can occur very quickly."
+    },
+    {
+      "question": "Should I try to flush the eye with saline at home?",
+      "answer": "No. Because the bleeding is inside the eye globe and not on the surface, flushing will not help and may cause your dog more stress or pain. Seek professional care immediately."
+    },
+    {
+      "question": "What are common causes of hyphema in dogs?",
+      "answer": "Common causes include head trauma, rodenticide (rat poison) ingestion, severe high blood pressure, systemic infections, or intraocular tumors."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

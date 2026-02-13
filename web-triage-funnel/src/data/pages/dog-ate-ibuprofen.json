@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Ibuprofen: Immediate Action Guide & Toxicity Risks",
+  "meta_desc": "If your dog ate ibuprofen, it is a high-urgency medical emergency. Learn the risks of NSAID toxicity and why you must contact a vet immediately.",
+  "content_html": "<h3>What is Ibuprofen?</h3><p>Ibuprofen is a common human non-steroidal anti-inflammatory drug (NSAID) found in brands like Advil and Motrin. While it is effective for human pain relief, it is highly toxic to dogs because their bodies do not metabolize it the same way ours do.</p><h3>Is This an Emergency?</h3><p>Yes. This is a <strong>High Urgency</strong> emergency. Ibuprofen ingestion can lead to severe gastric ulcers, acute kidney failure, and even neurological issues like seizures or coma. There is no 'safe' human dose for a dog, and even a single pill can be fatal depending on the size of your pet.</p><h3>Why a Photo Helps Triage</h3><p>When you call the vet or an animal poison control center, having a photo of the medication packaging is incredibly helpful. A photo allows the medical team to see the exact milligram (mg) strength of the pills and the full list of ingredients, such as xylitol or caffeine, which might also be present. This allows for a much faster and more accurate calculation of the toxicity level.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of ibuprofen poisoning in dogs?",
+      "answer": "Common symptoms include vomiting (sometimes with blood), dark or tarry stools, loss of appetite, lethargy, and increased thirst or urination."
+    },
+    {
+      "question": "How soon should I see a vet?",
+      "answer": "Immediately. Time is of the essence to prevent the medication from being fully absorbed into the bloodstream. Do not wait for symptoms to appear."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian or poison control expert, as it may not always be safe depending on your dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pain When Touching Base of Ear: Causes and Triage Guide",
+  "meta_desc": "Is your dog yelping when you touch their ear? Learn about ear pain causes, urgency levels, and how to help your pet feel better.",
+  "content_html": "<h3>What Is It?</h3><p>Pain at the base of the ear in dogs is most commonly associated with Otitis Externa, an inflammation or infection of the outer ear canal. Because a dog's ear canal is L-shaped, infections often settle deep at the base where the horizontal and vertical canals meet. Other possibilities include aural hematomas (blood-filled swellings), foreign bodies like grass seeds, or a ruptured eardrum. In some cases, the pain may actually stem from the temporomandibular joint (TMJ) or a dental issue radiating toward the ear.</p><h3>Is It an Emergency?</h3><p>The urgency level for ear pain is categorized as <b>Medium</b>. While it is rarely a life-threatening emergency, ear pain is often intense and distressing for dogs. You should aim to see a veterinarian within 24 to 48 hours to prevent the infection from spreading to the middle or inner ear. If your dog is also experiencing a persistent head tilt, loss of balance, or rhythmic eye flicking (nystagmus), you should seek veterinary care more urgently as these are signs of vestibular involvement.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of the ear opening and the surrounding area can be a vital tool for triage. A photo allows a veterinary professional to see the color and consistency of any discharge, the degree of swelling, and whether the ear canal appears \"cobblestoned\" or thickened. This visual evidence helps determine if the issue is a simple surface infection or a more complex case that may require sedation for a proper exam, ensuring your dog gets the right level of care quickly.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter ear drops for my dog?",
+      "answer": "It is not recommended to use OTC drops until a vet has confirmed the eardrum is intact. If the eardrum is ruptured, certain medications can cause permanent deafness."
+    },
+    {
+      "question": "What are the common signs of ear discomfort in dogs?",
+      "answer": "Signs include frequent head shaking, pawing at the ear, rubbing the side of the face on the floor, a foul odor, and whining when the head is touched."
+    },
+    {
+      "question": "Why does my dog's ear smell like yeast or corn chips?",
+      "answer": "A yeasty or 'frito' smell is often a sign of a Malassezia (yeast) overgrowth, which is a common cause of ear infections and requires specific antifungal treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

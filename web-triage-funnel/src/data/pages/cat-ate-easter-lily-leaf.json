@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Easter Lily Leaf: Urgent Veterinary Triage Guide",
+  "meta_desc": "If your cat ate an Easter lily, it is a life-threatening emergency. Seek immediate veterinary care to prevent kidney failure. Learn next steps here.",
+  "content_html": "<h3>What is Easter Lily Toxicity?</h3><p>Easter lilies (Lilium longiflorum) are among the most dangerous plants for domestic cats. Every part of the plant—including the leaves, petals, pollen, and even the water in the vase—contains a highly potent, unidentified toxin. When ingested, this toxin causes rapid and severe destruction of the cells in a cat's kidneys.</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level for this situation is High. Even a single bite of a leaf can lead to fatal kidney failure within 36 to 72 hours. Do not wait for your cat to show symptoms; once a cat shows signs of illness, the kidney damage may already be irreversible. Immediate decontamination and aggressive fluid therapy at a veterinary hospital are the only ways to ensure a positive outcome.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the plant or bring a sample of it with you to the emergency clinic. Many plants are commonly called lilies, but only 'true lilies' (Lilium and Hemerocallis species) cause this specific type of kidney failure. A photo helps your veterinarian quickly confirm the species and determine if your cat requires the intense lily-toxicity protocol or treatment for a less toxic plant variety.</p>",
+  "faqs": [
+    {
+      "question": "What are the early symptoms of lily poisoning?",
+      "answer": "Early signs often include vomiting, drooling, decreased activity levels, and a loss of appetite, typically occurring within 0 to 12 hours of ingestion."
+    },
+    {
+      "question": "Can a cat survive eating an Easter lily?",
+      "answer": "Yes, survival rates are high if the cat receives veterinary treatment (such as induced vomiting and IV fluid therapy) within 18 hours of ingestion. Waiting longer significantly decreases the prognosis."
+    },
+    {
+      "question": "Is the pollen dangerous too?",
+      "answer": "Yes. If a cat brushes against the lily and later grooms the pollen off its fur, it can suffer the same severe kidney damage as if it had eaten a leaf."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

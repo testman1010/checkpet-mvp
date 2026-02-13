@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Kitten Bleeding from Umbilical Cord Guide",
+  "meta_desc": "Is your kitten bleeding from the umbilical cord? Learn why this is a high-priority emergency and how to seek immediate veterinary triage.",
+  "content_html": "<h3>What is Umbilical Cord Bleeding?</h3><p>Umbilical cord bleeding occurs when the vessels within the cord—which connected the kitten to the placenta—fail to seal properly after birth. This can happen if the mother cat severs the cord too close to the kitten's body or if there is a trauma to the site during or after delivery.</p><h3>Is It an Emergency?</h3><p>Yes. The urgency level for umbilical bleeding is high. Newborn kittens have a very small total blood volume, meaning even a few drops of blood loss can quickly lead to life-threatening anemia, weakness, and shock. If the bleeding is active or if the area is severely inflamed, you must contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the umbilical area can be vital for remote triage. A veterinarian can use the image to determine if the bleeding is coming from the cord itself or an associated umbilical hernia. It also helps the clinical team assess the severity of the blood loss and prepare the necessary medical supplies before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "How can I stop the bleeding while driving to the vet?",
+      "answer": "You can use a piece of clean, non-flavored dental floss or sturdy thread to tie a knot around the cord about one inch from the kitten's body. Apply very gentle pressure with a clean cloth."
+    },
+    {
+      "question": "What are the signs of an infected umbilical cord?",
+      "answer": "Watch for redness, swelling, discharge (pus), or a foul odor around the navel. These are signs of omphalophlebitis, which requires urgent antibiotic treatment."
+    },
+    {
+      "question": "Is it normal for the cord to be slightly damp?",
+      "answer": "It is normal for a fresh cord to be slightly moist, but there should never be active dripping or pooling of blood. The cord should dry up and fall off naturally within 3 to 5 days."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

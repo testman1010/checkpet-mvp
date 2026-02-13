@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Half a Tylenol Pill? Immediate Emergency Steps & Toxicity Guide",
+  "meta_desc": "If your cat ate Tylenol (acetaminophen), this is a life-threatening emergency. Seek immediate veterinary care to prevent fatal liver damage.",
+  "content_html": "<h3>What is Tylenol Toxicity in Cats?</h3><p>Tylenol contains the active ingredient acetaminophen, which is a common human pain reliever. While safe for humans, it is highly toxic to cats. Felines lack the specific liver enzyme (glucuronyl transferase) required to break down this medication. When ingested, it creates toxic metabolites that destroy red blood cells and cause severe liver failure.</p><h3>Is it an Emergency?</h3><p>Yes. This is a critical, life-threatening emergency with a High Urgency level. Even half of a standard pill (typically 162.5mg to 250mg) is more than enough to be fatal to an adult cat. You must take your cat to an emergency veterinary clinic immediately. Do not wait for symptoms to appear, as the damage to the blood and liver begins within hours.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a quick photo of the medication packaging or the remaining pill fragments. Showing this to the veterinarian helps them identify the exact strength (e.g., Regular Strength vs. Extra Strength) and any other active ingredients involved. This information allows the medical team to calculate the exact toxic dose and initiate life-saving treatments like N-acetylcysteine or oxygen therapy more quickly.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of Tylenol poisoning in cats?",
+      "answer": "Symptoms include brownish-colored gums (methemoglobinemia), difficulty breathing, swelling of the face or paws, vomiting, and extreme lethargy."
+    },
+    {
+      "question": "Can I give my cat a small piece of Tylenol for pain?",
+      "answer": "No. Never give a cat acetaminophen. There is no safe dose for cats, and even a tiny fragment can lead to death."
+    },
+    {
+      "question": "What will the vet do for my cat?",
+      "answer": "The vet may induce vomiting if ingestion was recent, provide oxygen, perform blood transfusions, and administer an antidote called N-acetylcysteine to protect the liver."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

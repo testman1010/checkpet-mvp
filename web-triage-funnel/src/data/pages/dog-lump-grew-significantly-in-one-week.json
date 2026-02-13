@@ -1,0 +1,20 @@
+{
+  "title": "Rapidly Growing Dog Lumps: Veterinary Triage and Next Steps",
+  "meta_desc": "If your dog's lump grew significantly in one week, learn about potential causes, urgency levels, and why documenting the growth is essential.",
+  "content_html": "<h3>What could a rapidly growing lump be?</h3><p>Finding a growth that has changed significantly in just seven days can be alarming for any pet owner. Rapid expansion often points toward an inflammatory response rather than a slow-growing mass. Common causes for quick changes include an abscess (a localized infection), a ruptured sebaceous cyst, or an acute allergic reaction to a sting or bite. However, some aggressive forms of cancer, such as mast cell tumors, can also fluctuate in size quickly. Because the appearance alone cannot tell us what is happening beneath the skin, a veterinary examination is the only way to get a definitive answer.</p><h3>Is it an emergency?</h3><p>The urgency level for a lump growing this quickly is considered Medium. While it may not require an immediate visit to an emergency hospital in the middle of the night, you should aim to have your dog seen by a veterinarian within the next 24 to 48 hours. If you notice secondary symptoms such as the lump being hot to the touch, oozing fluid, or causing your dog significant pain, or if your dog is acting lethargic, the situation becomes more urgent and you should seek care as soon as possible.</p><h3>Why taking a photo helps triage</h3><p>Visual documentation is one of the most powerful tools you have as a pet owner. Taking a clear photo of the lump—ideally with a ruler or a common object like a coin next to it for scale—provides your vet with an objective baseline. Since lumps can change shape or size during the car ride or due to stress, having a photo from the moment you noticed the growth helps the veterinary team track the rate of change and determine the most appropriate diagnostic tests, such as a fine needle aspirate.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to pop or drain the lump at home?",
+      "answer": "No, you should never attempt to squeeze, pop, or drain a growth yourself. If the lump is a mast cell tumor, squeezing it can release dangerous amounts of histamine into the bloodstream, and if it is an infection, you may push the bacteria deeper into the tissue."
+    },
+    {
+      "question": "What is a Fine Needle Aspirate (FNA)?",
+      "answer": "An FNA is a common diagnostic tool where your vet uses a small needle to collect a sample of cells from the lump. These cells are then examined under a microscope to determine if the growth is a cyst, an infection, or a tumor."
+    },
+    {
+      "question": "Can a benign lump grow that fast?",
+      "answer": "Yes, certain benign growths like fatty lipomas generally grow slowly, but things like histiocytomas or inflamed cysts can appear and grow quite rapidly in a short period of time."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

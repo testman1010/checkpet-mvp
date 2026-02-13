@@ -1,0 +1,20 @@
+{
+  "title": "Puppy Vomiting Roundworms: A Triage Guide for Pet Owners",
+  "meta_desc": "Find out what to do if your puppy is vomiting roundworms. Learn about urgency levels, home care, and how to help your vet with the diagnosis.",
+  "content_html": "<h3>What Are Roundworms?</h3><p>Seeing spaghetti-like organisms in your puppy's vomit can be alarming, but these are most likely roundworms (Toxocara canis). These are common intestinal parasites in young dogs. When a puppy vomits them up, it usually indicates a significant number of adult worms are present in the digestive tract, leading some to migrate into the stomach.</p><h3>Is This an Emergency?</h3><p>The urgency level for a puppy vomiting roundworms is generally <strong>Low</strong>. While the sight is unpleasant, it is a common veterinary issue that can be resolved with standard medication. However, if your puppy is also extremely lethargic, unable to keep water down, or has a severely distended and painful abdomen, you should contact a vet more urgently.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you can safely do so, take a clear photo of the vomit and the parasites. Sharing this photo with your veterinary team via email or during your appointment allows them to provide a rapid visual confirmation of the parasite type. This ensures your puppy receives the specific deworming medication needed for roundworms rather than a broad-spectrum treatment that might not be as effective for this specific infestation.</p>",
+  "faqs": [
+    {
+      "question": "Can I catch roundworms from my puppy?",
+      "answer": "Yes, roundworms are zoonotic, meaning they can be transmitted to humans. Always wash your hands thoroughly after handling your puppy or cleaning up waste."
+    },
+    {
+      "question": "How did my puppy get roundworms?",
+      "answer": "Most puppies are born with roundworms or contract them through their mother's milk. They can also pick them up by ingesting larvae found in contaminated soil."
+    },
+    {
+      "question": "What is the typical treatment?",
+      "answer": "Your veterinarian will prescribe a safe, oral deworming medication. Because these medications usually only kill adult worms, a second dose is often required 2-4 weeks later to kill any larvae that have matured in the meantime."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

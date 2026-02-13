@@ -1,0 +1,20 @@
+{
+  "title": "Cat Excessive Licking of Belly Fur: Causes and Triage Guide",
+  "meta_desc": "Is your cat licking its belly fur off? Learn about overgrooming, urgency levels, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What is Excessive Belly Licking?</h3><p>Excessive licking of the abdomen, also known as overgrooming or psychogenic alopecia, occurs when a cat grooms a specific area until the hair thins or disappears entirely. This behavior is typically a response to physical discomfort, such as itchy skin from allergies or internal pain, but it can also be a compulsive behavior triggered by stress and anxiety.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is <strong>Low</strong>. While the sight of a bald belly can be concerning, it is rarely a medical emergency. You should schedule a routine appointment with your veterinarian to rule out medical causes. However, if the skin becomes bright red, starts bleeding, or emits an odor, you should seek care sooner to treat a secondary infection.</p><h3>Why a Photo Helps Triage</h3><p>Taking a high-quality photo of your cat's belly is incredibly helpful for veterinary triage. It allows the clinical team to see the exact pattern of hair loss and the condition of the skin without the cat hiding or overgrooming during the stress of a car ride. Photos also serve as a baseline to determine if the area is getting larger or more inflamed over time.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat be licking its belly because of fleas?",
+      "answer": "Yes, flea allergy dermatitis is a very common cause of overgrooming. Even if you do not see fleas, a single bite can cause an intense allergic reaction leading to excessive licking."
+    },
+    {
+      "question": "Does belly licking indicate pain?",
+      "answer": "It can. Sometimes cats lick the skin directly over a site of internal discomfort, such as the bladder in cases of cystitis or joints affected by arthritis."
+    },
+    {
+      "question": "How do I stop my cat from licking until the vet appointment?",
+      "answer": "You can try using a soft recovery collar or a 'kitty onesie' to physically prevent access to the area, but it is important to address the underlying itch or stress quickly."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

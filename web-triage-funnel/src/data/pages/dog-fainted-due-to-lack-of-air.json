@@ -1,0 +1,20 @@
+{
+  "title": "Dog Fainted from Lack of Air: Emergency Care & Triage Guide",
+  "meta_desc": "If your dog fainted due to breathing issues, seek immediate veterinary care. Learn about causes, emergency steps, and how to help your vet.",
+  "content_html": "<h3>What is Respiratory-Related Fainting?</h3><p>When a dog faints because they cannot get enough air, it is often a sign of severe respiratory distress or syncope. This occurs when the brain is temporarily deprived of oxygen, leading to a sudden, brief loss of consciousness. It can be caused by physical obstructions in the airway, heart failure, or severe lung disease.</p><h3>Urgency Level: High (Immediate Emergency)</h3><p>Any instance where a dog loses consciousness due to a lack of oxygen is a life-threatening emergency. Even if your dog appears to recover and wakes up quickly, the underlying condition that caused the collapse remains. You should proceed immediately to the nearest emergency veterinary hospital.</p><h3>How Photos and Videos Help Triage</h3><p>While your priority is getting to the vet, having a photo of your dog's gum color or a brief video of their breathing pattern can be incredibly helpful for the triage team. Blue, purple, or very pale gums indicate a critical lack of oxygen (cyanosis). A video allows the veterinarian to see the specific type of respiratory effort your dog is making, which helps them localize the problem to the upper airway, lower airway, or heart.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep the car cool, minimize stress, and try to keep your dog's head and neck extended to keep the airway as open as possible. Do not attempt to give water or food."
+    },
+    {
+      "question": "Can a collapsing trachea cause a dog to faint?",
+      "answer": "Yes, in severe cases, a collapsing trachea can almost completely block the airway, leading to a lack of oxygen and subsequent fainting, especially during excitement or exercise."
+    },
+    {
+      "question": "How can I tell if my dog's gums are a healthy color?",
+      "answer": "Healthy gums should be a bubblegum pink. If they appear blue, grey, purple, or white, your dog is in a state of oxygen deprivation and needs immediate help."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

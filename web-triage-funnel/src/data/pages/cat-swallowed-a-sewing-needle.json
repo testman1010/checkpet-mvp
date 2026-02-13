@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Cat Swallowed a Sewing Needle",
+  "meta_desc": "If your cat swallowed a sewing needle, this is a high-priority emergency. Learn the immediate steps to take and why you must see a vet now.",
+  "content_html": "<h3>What is it?</h3><p>When a cat swallows a sewing needle, it is classified as a sharp foreign body ingestion. Often, cats are attracted to the thread attached to the needle, and their backwards-facing tongue barbs make it difficult for them to spit the object out once they start swallowing. This situation is extremely dangerous because the needle can puncture the esophagus, stomach, or intestines.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. This is a life-threatening medical emergency. You should not wait for symptoms to appear. Do not attempt to induce vomiting, as the needle can cause even more damage or pierce the chest cavity on the way back up. Contact your nearest emergency veterinary clinic immediately for an X-ray to locate the object.</p><h3>Why a photo helps triage</h3><p>If you have an identical needle or the spool of thread the cat was playing with, take a clear photo. Showing the veterinarian the size, shape, and type of needle helps them prepare for the specific surgical or endoscopic retrieval process. If there was thread attached, the length and material are also vital pieces of information, as thread can cause the intestines to bunch up like a drawstring, leading to rapid tissue death.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if the needle passes in the stool?",
+      "answer": "No. The risk of the needle perforating the intestinal wall or migrating into the abdominal cavity or vital organs is too high. Professional medical intervention is required immediately."
+    },
+    {
+      "question": "What if I see the thread hanging out of my cat's mouth?",
+      "answer": "Do not pull the thread. Pulling it can cause the needle to hook deeper into tissue or cause the thread to cut through the delicate lining of the esophagus or intestines. Leave it alone and get to a vet."
+    },
+    {
+      "question": "How will the vet remove the needle?",
+      "answer": "Depending on the location found via X-ray, the vet may use an endoscope (a camera with a grabber) to pull the needle out through the mouth while the cat is sedated, or they may require emergency abdominal surgery."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

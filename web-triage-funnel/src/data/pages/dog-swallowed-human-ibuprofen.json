@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Ibuprofen: Emergency Triage Guide",
+  "meta_desc": "If your dog swallowed ibuprofen, it is a medical emergency. Learn the risks of NSAID toxicity and why immediate veterinary care is essential.",
+  "content_html": "<h3>What is Ibuprofen Ingestion?</h3><p>Ibuprofen is a common human non-steroidal anti-inflammatory drug (NSAID) found in brands like Advil and Motrin. While these medications help humans with pain and inflammation, they are highly toxic to dogs. A dog's body cannot break down ibuprofen efficiently, leading to a rapid and dangerous buildup in their bloodstream.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Ibuprofen toxicity can cause severe gastric ulceration, life-threatening internal bleeding, and acute kidney failure. Because dogs are much more sensitive to this drug than humans, even a small dose can be fatal. You must contact a veterinarian or a pet poison control center immediately, even if your dog is not yet showing symptoms.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a quick photo of the medication packaging or bring the bottle with you to the clinic. This is vital because it allows the veterinary team to identify the exact milligram (mg) strength of the tablets and check for other harmful ingredients, such as Xylitol. Having the exact dosage information helps the vet calculate the toxicity level based on your dog's weight and speeds up the delivery of life-saving treatment.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of ibuprofen poisoning in dogs?",
+      "answer": "Symptoms can include vomiting (sometimes containing blood), black or tarry stools, loss of appetite, lethargy, increased thirst, and abdominal pain."
+    },
+    {
+      "question": "Can I give my dog a small dose of ibuprofen for pain?",
+      "answer": "No, you should never give your dog human ibuprofen. There is no safe over-the-counter dose for dogs, and it can cause organ failure very quickly."
+    },
+    {
+      "question": "What will the vet do to treat my dog?",
+      "answer": "Treatment usually involves inducing vomiting if the ingestion was recent, administering activated charcoal to absorb toxins, and providing IV fluids and medication to protect the stomach and kidneys."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Cat Poop: What Should I Do? | Veterinary Triage Guide",
+  "meta_desc": "Find out if it's an emergency if your dog ate cat poop. Learn about coprophagia, risks, and when to contact your vet in this helpful guide.",
+  "content_html": "<h3>What Is It? Coprophagia Explained</h3><p>Eating feces, a behavior medically known as coprophagia, is a common occurrence in the canine world. Dogs are often drawn to cat waste because cat food is high in protein and fat, which can make the resulting stool smell and taste appealing to a scavenger-minded dog.</p><h3>Is It an Emergency?</h3><p>The urgency level for a dog eating cat poop is typically Low. Most dogs will not experience any immediate ill effects. However, there is a small risk of contracting intestinal parasites like roundworms or hookworms, or bacterial infections such as Salmonella. You should monitor your dog for symptoms like vomiting, diarrhea, or a loss of appetite over the next few days.</p><h3>Why a Photo Helps Triage</h3><p>If your dog begins to show signs of illness, or if you noticed something unusual in the cat's litter box (like blood or mucus), taking a clear photo can be incredibly helpful for a veterinarian. A photo allows a professional to identify the presence of visible parasites or assess the consistency of the stool, which helps determine if an in-person exam is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog get worms from cat poop?",
+      "answer": "Yes, dogs can contract intestinal parasites such as roundworms and hookworms if the cat is currently infected and shedding eggs in their stool."
+    },
+    {
+      "question": "Should I brush my dog's teeth after they eat cat poop?",
+      "answer": "Yes, it is recommended to brush your dog's teeth or provide a dental chew to help reduce bacteria and freshen their breath after the incident."
+    },
+    {
+      "question": "How can I prevent my dog from doing this again?",
+      "answer": "The best prevention is management. Use a dog-proof litter box, place the box in a room behind a baby gate, or use a furniture-style enclosure that the dog cannot access."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

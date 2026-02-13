@@ -1,0 +1,20 @@
+{
+  "title": "Cat One Pupil Much Larger Than Other: Anisocoria Triage Guide",
+  "meta_desc": "Is one of your cat's pupils larger than the other? Learn about anisocoria, why it is a high-priority emergency, and how to help your pet right now.",
+  "content_html": "<h3>What is Anisocoria?</h3><p>Anisocoria is the medical term used to describe a condition where a cat's pupils are of unequal size. You may notice one pupil is a thin slit while the other is wide and round, or simply a noticeable difference in diameter between the two. This is not a standalone disease but rather a clinical sign that something is affecting your cat’s eyes or their neurological system.</p><h3>Is it a Veterinary Emergency?</h3><p>Yes. The urgency level for anisocoria is High. Because the cause can range from localized eye issues like glaucoma or uveitis to severe systemic problems such as head trauma, feline leukemia, or neurological disorders, your cat needs to be seen by a veterinarian as soon as possible. If the pupil change is accompanied by sudden blindness, stumbling, or a change in temperament, go to an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear photo of your cat's eyes in normal room lighting can be incredibly helpful for the triage process. Pupils react to light, and by the time you reach the vet, the lighting conditions might change the appearance of the pupils. A photo provides a static record of the imbalance for the veterinary team, allowing them to assess the severity and look for secondary signs like redness, cloudiness, or discharge more effectively.</p>",
+  "faqs": [
+    {
+      "question": "Can anisocoria happen suddenly?",
+      "answer": "Yes, anisocoria often appears suddenly following an injury, a stroke, or an acute flare-up of an underlying condition like glaucoma."
+    },
+    {
+      "question": "Will my cat lose their vision?",
+      "answer": "Vision loss depends entirely on the underlying cause. Early diagnosis and treatment are the best ways to preserve your cat's sight."
+    },
+    {
+      "question": "Are there other symptoms I should look for?",
+      "answer": "Watch for squinting, rubbing at the eye, a change in eye color, or a 'third eyelid' visible in the affected eye."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

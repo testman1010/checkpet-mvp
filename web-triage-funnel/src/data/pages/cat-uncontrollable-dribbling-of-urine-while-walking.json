@@ -1,0 +1,20 @@
+{
+  "title": "Cat Dribbling Urine While Walking: Causes and Triage Guide",
+  "meta_desc": "Is your cat leaking urine while walking? Learn about urinary incontinence, urgency levels, and when to see a vet for your cat's health.",
+  "content_html": "<h3>What Is Urinary Dribbling?</h3><p>Urinary incontinence in cats occurs when a cat loses voluntary control over their bladder sphincter. Unlike intentional urination, where a cat postures in a litter box, dribbling is the passive leaking of urine while the cat is walking, standing, or sleeping. This condition can stem from various causes, including urinary tract infections (UTIs), bladder stones, spinal cord injuries, or age-related weakening of the bladder muscles.</p><h3>Is It an Emergency?</h3><p>The urgency level for uncontrollable dribbling is <strong>Medium</strong>. While it is rarely an immediate life-threatening emergency, it is a sign of an underlying medical issue that requires a veterinary appointment within 24 to 48 hours. However, if your cat is straining to urinate, appears in pain, or is not producing any urine despite effort, this may indicate a blockage, which is a high-level emergency.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo or video can be incredibly helpful for a quick diagnosis. A photo of the urine spots allows the vet to check for signs of blood (hematuria) or cloudiness, which points toward infection. A video of your cat walking while leaking can help the vet determine if the issue is neurological or physical, helping them prioritize your cat's care more effectively.</p>",
+  "faqs": [
+    {
+      "question": "Can older cats develop incontinence naturally?",
+      "answer": "Yes, as cats age, the muscles that control the bladder can weaken, leading to 'sphincter mechanism incompetence,' but it should still be evaluated by a vet to rule out treatable infections."
+    },
+    {
+      "question": "Is urine leaking the same as spraying?",
+      "answer": "No. Spraying is a behavioral action where a cat intentionally marks vertical surfaces. Leaking while walking is an involuntary physical symptom."
+    },
+    {
+      "question": "What are the most common treatments?",
+      "answer": "Treatment varies by cause; it may include antibiotics for infections, surgery for stones, or daily medication to help strengthen bladder control."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

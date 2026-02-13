@@ -1,0 +1,20 @@
+{
+  "title": "Dog Coughing After Boarding: Causes and Triage Guide",
+  "meta_desc": "Is your dog coughing after a kennel stay? Learn about Kennel Cough, urgency levels, and how to help your pet recover after boarding.",
+  "content_html": "<h3>Understanding the Post-Boarding Cough</h3><p>It is very common for dogs to develop a persistent, hacking cough after spending time in boarding facilities or doggy daycares. This is most often caused by Canine Infectious Respiratory Disease Complex (CIRDC), commonly known as Kennel Cough. This condition is highly contagious and spreads quickly through airborne droplets, shared water bowls, or direct contact in communal environments.</p><h3>Is it an Emergency?</h3><p>The urgency level for a post-boarding cough is typically Medium. While most cases are similar to a human cold and resolve with rest, the condition can progress to more serious issues like pneumonia. You should contact a veterinarian promptly if your dog appears lethargic, loses their appetite, has difficulty breathing, or if the cough is accompanied by thick yellow or green nasal discharge.</p><h3>Why a Video Helps Triage</h3><p>Providing a video of your dog during a coughing episode is one of the most helpful tools for a veterinary triage team. Dogs often stop coughing once they arrive at a clinic due to the excitement or stress of the environment. A recording allows the vet to hear the specific sound of the cough—such as a dry \"honk\" or a moist rattle—and observe your dog's respiratory effort, which is vital for determining the severity of the illness.</p>",
+  "faqs": [
+    {
+      "question": "How long does it take for kennel cough to show up after boarding?",
+      "answer": "Symptoms typically appear 3 to 10 days after exposure to an infected dog or contaminated environment."
+    },
+    {
+      "question": "Can my dog get kennel cough if they were vaccinated?",
+      "answer": "Yes. Similar to the human flu vaccine, the Bordetella vaccine protects against the most common strains but cannot prevent every single respiratory virus or bacteria."
+    },
+    {
+      "question": "Is kennel cough contagious to other pets?",
+      "answer": "Yes, it is highly contagious to other dogs. It is best to keep your coughing dog isolated from other canines until they have been cleared by a vet."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

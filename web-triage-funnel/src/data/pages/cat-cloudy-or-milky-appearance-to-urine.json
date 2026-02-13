@@ -1,0 +1,20 @@
+{
+  "title": "Cloudy or Milky Cat Urine: Causes and Veterinary Advice",
+  "meta_desc": "Discover why your cat has cloudy or milky urine, the urgency of the situation, and how a photo can help your veterinarian with triage.",
+  "content_html": "<h3>What is Cloudy or Milky Cat Urine?</h3><p>Normal cat urine should be clear with a pale yellow to amber hue. When urine appears cloudy, milky, or turbid, it typically indicates the presence of particles that do not belong there. These particles are often white blood cells (pus), bacteria, microscopic crystals, or excess protein. This change is a clinical sign that there is likely inflammation, infection, or a metabolic issue occurring within the urinary tract.</p><h3>Is This an Emergency?</h3><p>Urgency level: Low. In most cases, cloudy urine alone is not a life-threatening emergency, but it does require a veterinary consultation within 24 to 48 hours to prevent the condition from worsening. However, if your cat is also straining to urinate, unable to pass urine, lethargic, or vomiting, you should seek immediate emergency care, as these may be signs of a dangerous urinary blockage.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a clear photograph of the urine can be an invaluable diagnostic tool. A photo allows the veterinary team to assess the degree of opacity and look for visible sediment or discoloration that may have settled. This visual information helps the clinic prioritize your cat’s appointment and gives the vet a baseline for comparison during the physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can a urinary tract infection (UTI) cause cloudy urine?",
+      "answer": "Yes, UTIs are a common cause of cloudy urine in cats because the immune system sends white blood cells to the bladder to fight the infection, resulting in a milky appearance."
+    },
+    {
+      "question": "What are urinary crystals?",
+      "answer": "Urinary crystals are microscopic mineral formations that can make urine look cloudy or gritty. If left untreated, these crystals can clump together to form bladder stones."
+    },
+    {
+      "question": "How should I collect a urine sample for the vet?",
+      "answer": "You can use non-absorbent litter provided by your vet or try to catch a mid-stream sample in a clean container. Always call your clinic first to see if they prefer to collect a sterile sample via cystocentesis."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

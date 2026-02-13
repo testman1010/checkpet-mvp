@@ -1,0 +1,20 @@
+{
+  "title": "Dog Cloudy and Foul-Smelling Urine: Causes and Triage Guide",
+  "meta_desc": "Is your dog's urine cloudy or smelly? Learn about UTIs, urgency levels, and why a photo is a vital tool for your veterinarian's diagnosis.",
+  "content_html": "<h3>Understanding Cloudy and Odorous Urine</h3><p>When a dog's urine becomes cloudy or develops a sharp, foul odor, it is typically an indication of a change in the chemical or biological makeup of the liquid. In most cases, this is caused by a Urinary Tract Infection (UTI), where bacteria, white blood cells, or crystals are present in the bladder. While healthy urine is usually clear and pale yellow, cloudiness suggests the body is fighting an infection or dealing with sediment like bladder stones.</p><h3>Is It an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. If your dog is still eating, drinking, and successfully passing urine, you should schedule a veterinary appointment within the next 24 to 48 hours. However, if your dog is straining without producing any urine, appears to be in significant pain, or is vomiting, this moves to a high-priority emergency as it could indicate a life-threatening urethral obstruction.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photograph of the urine sample can be a vital diagnostic tool for your vet or a triage nurse. A photo taken against a white background or in a clear container helps the medical team visualize the degree of turbidity (cloudiness) and identify the presence of hematuria (blood). This visual evidence allows them to better prioritize your dog’s care and may even provide clues about the severity of the inflammation before laboratory results are finalized.</p>",
+  "faqs": [
+    {
+      "question": "Can I treat a dog's UTI at home with cranberry juice?",
+      "answer": "No, while cranberry supplements are sometimes used for prevention, they cannot cure an active bacterial infection. Your dog will likely need a course of veterinarian-prescribed antibiotics."
+    },
+    {
+      "question": "How can I collect a urine sample for the vet?",
+      "answer": "Use a shallow, clean container (like a plastic lid or a specialized 'free-catch' pole) to catch the mid-stream flow while your dog is urinating outside. Keep the sample refrigerated if you cannot get to the vet within 30 minutes."
+    },
+    {
+      "question": "Could cloudy urine mean kidney failure?",
+      "answer": "While cloudy urine is more commonly associated with bladder infections or stones, persistent urinary changes can sometimes be linked to kidney issues. A full urinalysis and blood work are needed for a definitive diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

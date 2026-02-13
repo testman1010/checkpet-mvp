@@ -1,0 +1,20 @@
+{
+  "title": "Cat Drooping Eyelid (Ptosis): Causes and Vet Triage Guide",
+  "meta_desc": "Is your cat's eyelid drooping? Learn about Ptosis, urgency levels, and why a photo is vital for your veterinarian's triage process.",
+  "content_html": "<h3>What is a Drooping Eyelid in Cats?</h3><p>A drooping upper eyelid, clinically known as ptosis, occurs when the muscles or nerves responsible for keeping the eyelid open are not functioning correctly. This can often be accompanied by other symptoms such as a protruding third eyelid, a constricted pupil, or a sunken appearance of the eye. Common causes include Horner's Syndrome, nerve damage, eye infections, or underlying systemic issues.</p><h3>Is it an Emergency?</h3><p>The urgency level for a drooping eyelid is generally classified as Medium. While ptosis itself is rarely an immediate life-threatening condition, it is often a symptom of an underlying neurological or inflammatory issue that requires a veterinary exam within 24 to 48 hours. However, if the drooping is accompanied by extreme lethargy, loss of balance, or sudden blindness, you should seek emergency care immediately.</p><h3>Why a Photo Helps Triage</h3><p>When you contact your veterinarian, providing a clear, well-lit photo of your cat's face can be incredibly helpful. A photo allows the triage team to compare the two eyes, check for pupil size differences (anisocoria), and see the position of the third eyelid. This visual information helps the vet determine if the issue is localized to the eye or if it suggests a more complex neurological problem, allowing them to prioritize your appointment effectively.</p>",
+  "faqs": [
+    {
+      "question": "What is Horner's Syndrome in cats?",
+      "answer": "Horner's Syndrome is a common neurological condition resulting from damage to the sympathetic nervous system, often causing a drooping eyelid, constricted pupil, and a visible third eyelid."
+    },
+    {
+      "question": "Can an eye infection cause the eyelid to droop?",
+      "answer": "Yes, severe inflammation or swelling from a bacterial or viral infection can make the eyelid appear heavy or drooped, though this is usually accompanied by discharge or redness."
+    },
+    {
+      "question": "Will my cat's eyelid go back to normal?",
+      "answer": "Recovery depends entirely on the underlying cause. Many cases, such as idiopathic Horner's Syndrome, can resolve on their own over several weeks, while others require specific medication."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

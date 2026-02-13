@@ -1,0 +1,20 @@
+{
+  "title": "Why Does My Dog's Urine Smell So Strong? | Veterinary Triage Guide",
+  "meta_desc": "Is your dog's urine pungent? Learn about causes like UTIs and dehydration, and find out when you need to see a vet in this triage guide.",
+  "content_html": "<h3>What Is Strong Smelling Urine?</h3><p>When your dog's urine has an unusually pungent, ammonia-like, or foul odor, it is typically a sign that the urine is overly concentrated or contains bacteria. Healthy dog urine is generally a pale yellow color with a relatively mild scent. A change in odor often indicates that the body is processing waste differently or that an infection is present within the urinary tract.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is <strong>Medium</strong>. While a strong odor alone is rarely an immediate life-threatening emergency, it is a clear indicator that something is wrong. You should monitor your dog closely and aim to schedule a veterinary appointment within the next 24 to 48 hours. However, if your dog is also vomiting, lethargic, or unable to pass urine at all, you should contact an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>While a photograph cannot capture the smell, it is a vital tool for veterinary triage. Capturing a clear image of the urine on a white or light-colored surface (like a paper towel) allows a professional to assess the color, turbidity, and the presence of any blood or sediment. Providing this visual context alongside your description of the smell helps your vet determine the severity of the issue and how quickly your dog needs to be seen.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just be dehydrated?",
+      "answer": "Yes, dehydration is a common cause of strong-smelling urine. When a dog doesn't drink enough water, the urine becomes highly concentrated with waste products, leading to a darker color and a stronger smell."
+    },
+    {
+      "question": "Is a strong smell a definite sign of a UTI?",
+      "answer": "While a strong or foul odor is a classic symptom of a Urinary Tract Infection (UTI), it can also be caused by kidney issues, bladder stones, or metabolic diseases like diabetes."
+    },
+    {
+      "question": "What should I watch for alongside the smell?",
+      "answer": "Keep an eye out for increased frequency of urination, straining to pee, accidents in the house, or your dog licking their urinary opening excessively."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

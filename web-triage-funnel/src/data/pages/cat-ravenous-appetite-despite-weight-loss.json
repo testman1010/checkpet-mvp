@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ravenous Appetite Despite Weight Loss: Causes and Triage",
+  "meta_desc": "Is your cat always hungry but losing weight? Discover why this happens, the urgency level, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What is Polyphagia with Weight Loss?</h3><p>When a cat experiences a ravenous appetite alongside weight loss, it is medically referred to as polyphagia. This condition occurs when the body is either burning calories at an abnormally high rate or is unable to properly absorb and utilize the nutrients from food. Common underlying causes include hyperthyroidism, diabetes mellitus, inflammatory bowel disease (IBD), or intestinal parasites.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is Medium. While this is generally not an immediate life-threatening emergency like a sudden injury or respiratory distress, it does signify a serious metabolic imbalance that requires a veterinary exam within 24 to 48 hours. Delaying treatment can lead to severe muscle wasting, dehydration, or secondary complications like ketoacidosis.</p><h3>Why a Photo Helps Triage</h3><p>Taking photos of your cat can be incredibly beneficial for your veterinarian. A photo of your cat from a 'top-down' view and a side profile helps the vet assess their Body Condition Score (BCS) and muscle loss. Additionally, if you notice changes in their stool or if they are leaving behind undigested food, photos of the litter box or the feeding area provide vital diagnostic clues that help the vet prioritize your cat's care.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just have worms?",
+      "answer": "Yes, intestinal parasites can steal nutrients, leading to weight loss despite increased hunger. However, in adult cats, metabolic diseases like hyperthyroidism are more common causes."
+    },
+    {
+      "question": "What diagnostic tests will my vet perform?",
+      "answer": "Typically, a vet will start with a 'Senior Screen' or full blood panel, including a T4 test for thyroid function, a blood glucose test for diabetes, and a fecal exam to check for parasites."
+    },
+    {
+      "question": "Why is my cat acting so frantic for food?",
+      "answer": "Diseases like hyperthyroidism increase the metabolic rate, making the cat feel as though they are constantly starving because their body is burning fuel faster than they can consume it."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

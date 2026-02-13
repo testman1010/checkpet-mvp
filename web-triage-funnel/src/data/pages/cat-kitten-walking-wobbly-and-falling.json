@@ -1,0 +1,16 @@
+{
+  "title": "Wobbly Kitten Syndrome: Causes, Triage, and Next Steps",
+  "meta_desc": "Is your kitten walking wobbly or falling over? Learn about ataxia, urgency levels, and why a video can help your vet diagnose the issue quickly.",
+  "content_html": "<h3>What is Ataxia in Cats?</h3><p>When a cat or kitten walks unsteadily, it is medically referred to as ataxia. This condition affects their coordination, balance, and gait. In kittens, this may present as drunk-like walking, swaying, or frequent falling. Common causes range from mild ear infections or minor injuries to more serious issues like neurological disorders, such as Feline Cerebellar Hypoplasia, or exposure to environmental toxins.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Medium. While a wobbly gait is always concerning, it is not always a life-threatening emergency unless accompanied by other severe symptoms. You should schedule a veterinary appointment within 24 to 48 hours for a proper evaluation. However, if your kitten is also experiencing seizures, difficulty breathing, persistent vomiting, or if they are completely unable to stand, you should seek immediate emergency care.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a short video of your kitten's movement is incredibly valuable for your veterinarian during triage. Because cats often become stressed or freeze up at the clinic, they may not exhibit the same wobbly behavior during an in-person exam. A clear video allows the vet to observe the specific type of stumbling—whether it is weakness in the hind legs or a rhythmic head tilt—which helps pinpoint the neurological cause much faster than a verbal description alone.</p>",
+  "faqs": [
+    {
+      "question": "Can a kitten recover from being wobbly?",
+      "answer": "It depends on the underlying cause. If the wobbliness is due to an ear infection or a treatable injury, kittens often recover fully. If it is a congenital condition like Cerebellar Hypoplasia, they will remain wobbly for life but can still live a happy, normal life with minor home adjustments."
+    },
+    {
+      "question": "Is wobbly walking painful for my kitten?",
+      "answer": "Not necessarily. Many neurological conditions that cause ataxia are not painful. However, if the stumbling is caused by a physical injury or a severe inner ear infection, your kitten may be experiencing discomfort and should be evaluated by a professional."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

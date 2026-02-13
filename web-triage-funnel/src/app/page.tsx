@@ -15,6 +15,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { usePostHog } from 'posthog-js/react';
 
 import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
+import Link from 'next/link';
 
 // --- Screen 4: History View ---
 function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
@@ -622,6 +623,7 @@ export default function PanicIntake() {
   const [ageBracket, setAgeBracket] = useState<'BABY' | 'YOUNG' | 'ADULT' | 'SENIOR'>('ADULT');
   const [weightBracket, setWeightBracket] = useState<'TOY' | 'SMALL' | 'LARGE' | 'GIANT'>('SMALL');
   const [symptoms, setSymptoms] = useState('');
+  const [isAutoFilled, setIsAutoFilled] = useState(false);
   // State for History View
   const [showHistory, setShowHistory] = useState(false);
 
@@ -630,6 +632,24 @@ export default function PanicIntake() {
     setShowHistory(false);
     setStep('RESULT');
   };
+
+  // --- Auto-Fill from URL (Page Load) ---
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const qSpecies = params.get('species');
+    const qSymptom = params.get('symptom');
+    const qDesc = params.get('description');
+
+    if (qSpecies && (qSpecies === 'dog' || qSpecies === 'cat')) {
+      setSpecies(qSpecies);
+    }
+
+    if (qSymptom && qDesc) {
+      // Decode and Format
+      setSymptoms(`Potential Issue: ${qSymptom} \n\nDetails: ${qDesc}`);
+      setIsAutoFilled(true);
+    }
+  }, []); // Run once on mount
 
   const [imageBase64, setImageBase64] = useState<string | null>(null);
   const [imagePreview, setImagePreview] = useState<string | null>(null);
@@ -840,13 +860,24 @@ export default function PanicIntake() {
           {/* PRIMARY: Symptom & Photo Input */}
           <div className="w-full max-w-md bg-white p-5 rounded-3xl border border-slate-200 shadow-sm mb-6 space-y-6 relative z-20">
             <div className="flex items-center justify-between border-b border-slate-100 pb-2 mb-2">
-              <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide">1. Describe Problem</h2>
+              <div className="flex items-center gap-2">
+                <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide">1. Describe Problem</h2>
+                {isAutoFilled && (
+                  <Badge variant="secondary" className="bg-blue-50 text-blue-700 hover:bg-blue-100 gap-1.5 px-2 py-0.5 h-5 text-[10px] border border-blue-200">
+                    <span className="relative flex h-2 w-2">
+                      <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                      <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                    </span>
+                    Info Received
+                  </Badge>
+                )}
+              </div>
               <span className="text-[10px] font-bold text-red-500 bg-red-50 px-2 py-0.5 rounded-full uppercase tracking-wider">Required</span>
             </div>
 
             {/* Symptom Text Input (MOVED TO TOP) */}
             <div className="w-full">
-              <Card className="p-4 border-2 border-slate-200 shadow-sm rounded-2xl bg-white min-h-[140px] flex flex-col relative focus-within:ring-2 focus-within:ring-blue-500 transition-all">
+              <Card className={`p-4 border-2 shadow-sm rounded-2xl bg-white min-h-[140px] flex flex-col relative focus-within:ring-2 focus-within:ring-blue-500 transition-all ${isAutoFilled ? 'border-blue-300 ring-4 ring-blue-50/50' : 'border-slate-200'}`}>
                 <Textarea
                   placeholder="e.g. Limping on left paw, not eating..."
                   className="flex-1 w-full text-lg p-0 border-0 focus-visible:ring-0 resize-none placeholder:text-slate-300 min-h-[80px]"
@@ -868,6 +899,12 @@ export default function PanicIntake() {
                   ))}
                 </div>
               </Card>
+              {isAutoFilled && (
+                <p className="text-xs text-blue-600 mt-2 px-1 flex items-start gap-1.5 animate-in fade-in slide-in-from-top-1">
+                  <span className="text-lg leading-none">ℹ️</span>
+                  <span>We've started this for you based on the context. <strong>Please add specific details or a photo</strong> to help the AI.</span>
+                </p>
+              )}
             </div>
 
             {/* Photo Upload (MOVED BELOW TEXT) */}
@@ -917,7 +954,27 @@ export default function PanicIntake() {
 
           {/* SECONDARY: Pet Identity Input */}
           <div className="w-full max-w-md bg-slate-50 p-5 rounded-3xl border border-slate-200 shadow-sm mb-32 space-y-6 opacity-90 hover:opacity-100 transition-opacity">
-            <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide border-b border-slate-200 pb-2 mb-2">2. Pet Details</h2>
+            <div className="flex items-center gap-2 border-b border-slate-200 pb-2 mb-4">
+              <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide">2. Pet Details</h2>
+              {isAutoFilled && (
+                <Badge variant="secondary" className="bg-blue-50 text-blue-700 hover:bg-blue-100 gap-1.5 px-2 py-0.5 h-5 text-[10px] border border-blue-200">
+                  <span className="relative flex h-2 w-2">
+                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                    <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                  </span>
+                  Info Received
+                </Badge>
+              )}
+            </div>
+
+            {isAutoFilled && (
+              <div className="bg-blue-50 border border-blue-100 rounded-xl p-3 mb-4 flex gap-3 text-xs text-blue-800">
+                <span className="text-lg">ℹ️</span>
+                <p>
+                  We've pre-selected <strong>{species}</strong> for you. Please complete the remaining details (Breed, Gender, Fixed, Weight, Age) for an accurate assessment.
+                </p>
+              </div>
+            )}
 
             {/* Row 1: Species (Big Toggles) */}
             <div className="flex mb-3 h-12">

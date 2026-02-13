@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Onset Head Tilt: Emergency Guide and Triage Tips",
+  "meta_desc": "Is your dog suddenly tilting its head? Learn about vestibular disease, emergency signs, and how to help your vet with the triage process.",
+  "content_html": "<h3>What is Sudden Onset Head Tilt?</h3><p>Sudden onset head tilt occurs when a dog's head remains tilted to one side, often appearing as though they are trying to listen to something on the ground. This symptom is most commonly associated with the vestibular system, which is responsible for maintaining balance and orientation. When this system is disrupted—whether by an inner ear infection, inflammatory disease, or idiopathic vestibular syndrome (often called 'Old Dog Vestibular Disease')—the dog loses its sense of where the ground is, leading to the tilt.</p><h3>Urgency Level: High</h3><p>The urgency level for a sudden head tilt is High. While the underlying cause may be a manageable condition, the symptoms are often distressing for the dog and can mirror more serious neurological emergencies. If your dog is also experiencing nystagmus (flicking eye movements), falling, circling, or vomiting, you should seek immediate veterinary care. Prompt professional evaluation is essential to rule out stroke, severe infection, or toxicity.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a photo or a short video of your dog's behavior at home is incredibly valuable for the triage process. Neurological symptoms can sometimes change or subside temporarily due to the stress of travel. A visual record allows the clinical team to observe the exact angle of the tilt and any involuntary eye movements in a relaxed environment, which can significantly speed up the diagnostic process and help prioritize your dog's care upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause a head tilt?",
+      "answer": "Yes, deep inner ear infections can affect the vestibular nerve, leading to a sudden and noticeable head tilt."
+    },
+    {
+      "question": "Will my dog's head tilt stay like this forever?",
+      "answer": "In many cases, the tilt improves as the underlying cause is treated, though some dogs may retain a slight, permanent tilt even after recovery."
+    },
+    {
+      "question": "What is 'Old Dog Vestibular Disease'?",
+      "answer": "It is a common, sudden-onset balance disorder in senior dogs that usually improves with supportive care, though it looks very frightening initially."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

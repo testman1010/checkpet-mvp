@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Paintballs: Urgent Triage Guide & Next Steps",
+  "meta_desc": "If your dog ate paintballs, they may be at risk for electrolyte imbalances. Learn why this is a medium urgency level and how to help your vet.",
+  "content_html": "<h3>What Happens When a Dog Eats Paintballs?</h3><p>Paintballs are typically composed of a gelatin shell filled with a mixture of polyethylene glycol (PEG), mineral oils, and dyes. While these ingredients are usually non-toxic to humans, they are osmotically active. This means they can pull large amounts of water into your dog's intestinal tract, which can lead to severe dehydration or potentially life-threatening electrolyte imbalances, specifically sodium poisoning.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While eating one or two paintballs may only cause a mild upset stomach in a large dog, eating 'several'—especially for a small or medium-sized breed—poses a significant risk. You should contact your veterinarian or a pet poison control hotline immediately. Do not wait for symptoms like tremors or seizures to appear, as these indicate advanced salt poisoning.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you have access to the packaging or any remaining paintballs, take a clear photo to show your veterinarian. Different brands contain varying concentrations of chemicals and dyes. A photo allows the vet to quickly identify the specific product, estimate the total volume of ingredients ingested, and determine the best course of action, such as whether to induce vomiting or start IV fluid therapy.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of paintball toxicity in dogs?",
+      "answer": "Common symptoms include vomiting, diarrhea, extreme thirst, lethargy, stumbling, and in severe cases, tremors or seizures."
+    },
+    {
+      "question": "Can paintballs cause a physical blockage?",
+      "answer": "While the gelatin shell usually dissolves quickly, the primary concern is the chemical effect on the body's salt levels rather than a physical intestinal blockage."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting without a direct instruction from a veterinarian, as it can sometimes lead to aspiration pneumonia or further complications depending on the dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

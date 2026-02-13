@@ -1,0 +1,20 @@
+{
+  "title": "Cat Refusing to Eat and Hiding: Triage Guide for Pet Owners",
+  "meta_desc": "Is your cat hiding and refusing food? Learn when it's an emergency, common causes, and how to triage your cat's health at home.",
+  "content_html": "<h3>What is Hiding and Food Refusal in Cats?</h3><p>When a cat hides and ignores food, it is a significant indicator of stress, pain, or illness. Because cats are solitary predators, their instinct is to conceal vulnerability. Hiding combined with anorexia (refusal to eat) suggests that your cat is feeling unwell enough to abandon their normal survival routines.</p><h3>Is This an Emergency?</h3><p>The urgency level for this behavior is <strong>Medium</strong>. While it may not be an immediate life-threatening crisis in the first few hours, cats are uniquely susceptible to hepatic lipidosis (fatty liver disease) if they do not eat for more than 24 to 48 hours. If your cat has not eaten for a full day or shows other symptoms like lethargy or vomiting, you should seek veterinary care within 24 hours.</p><h3>How a Photo Helps Triage</h3><p>Taking a photo or video of your cat in their hiding spot can be incredibly helpful for a veterinary professional. A clear image allows us to evaluate the cat's posture—such as a 'hunched' position—and look for subtle facial cues like squinting eyes or flattened ears. This visual information helps us determine the severity of their discomfort without requiring you to pull them out and cause further stress.</p>",
+  "faqs": [
+    {
+      "question": "How long can a cat safely go without eating?",
+      "answer": "A cat should never go more than 24 hours without some caloric intake. Beyond this point, they risk developing life-threatening liver issues."
+    },
+    {
+      "question": "Could my cat just be stressed by a change in the house?",
+      "answer": "While environmental changes like new guests or furniture can cause hiding, a healthy cat will usually still emerge to eat. Persistent food refusal usually points to an underlying medical issue."
+    },
+    {
+      "question": "What are other signs I should look for?",
+      "answer": "Check for changes in litter box habits, heavy breathing, or any unusual discharge from the eyes or nose while they are hiding."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

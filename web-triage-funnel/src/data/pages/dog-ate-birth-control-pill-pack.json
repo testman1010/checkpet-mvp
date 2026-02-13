@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Birth Control Pills: Veterinary Advice and Triage Guide",
+  "meta_desc": "If your dog ate birth control, it is usually a low-urgency situation. Learn why, what symptoms to watch for, and how a photo helps your veterinarian.",
+  "content_html": "<h3>What happened?</h3><p>Birth control pills are oral contraceptives designed for humans that typically contain small amounts of estrogen and progesterone. Because these pills are formulated in very low doses for human use, they are generally not highly toxic to dogs if a single pack is consumed.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is Low. While ingesting any medication not prescribed for your pet is a cause for concern, birth control hormones rarely cause acute poisoning in canines. You might notice mild gastrointestinal upset, such as vomiting or diarrhea, but life-threatening complications are extremely rare.</p><h3>Why a photo helps triage</h3><p>If you contact a vet, having a photo of the packaging is essential. A photo allows the professional to identify the specific brand and hormone concentrations. Most importantly, it helps them check if the pills contain Xylitol, an artificial sweetener that is highly toxic to dogs. Seeing the remaining pills also helps the vet estimate exactly how many were ingested.</p>",
+  "faqs": [
+    {
+      "question": "Will birth control pills make my dog sick?",
+      "answer": "Most dogs will show no symptoms or only mild stomach upset. However, if a very large quantity was consumed, there is a small risk of bone marrow suppression, though this is rare."
+    },
+    {
+      "question": "Is the foil packaging a problem?",
+      "answer": "The plastic and foil packaging can pose a minor risk for choking or a gastrointestinal blockage, especially in very small dogs. Monitor your dog for any signs of straining or abdominal pain."
+    },
+    {
+      "question": "What should I do first?",
+      "answer": "Identify the brand name, take a photo of the packaging, and contact your veterinarian or a pet poison control hotline to confirm the safety of that specific medication."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

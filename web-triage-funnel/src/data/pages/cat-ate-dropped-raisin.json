@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Raisin? Why It’s a Veterinary Emergency",
+  "meta_desc": "If your cat ate a raisin, contact a vet immediately. Raisins can cause acute kidney failure in cats. Learn why this is a high-urgency emergency.",
+  "content_html": "<h3>What Happens When a Cat Eats a Raisin?</h3><p>Grapes and raisins are highly toxic to felines. While the exact mechanism of toxicity is still being studied, ingestion can lead to acute renal (kidney) failure. Unlike some toxins that are dose-dependent, some cats appear to be hypersensitive to even a single raisin, making any amount a significant risk to their health.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Yes, this is an immediate medical emergency. You should not wait for symptoms to appear, as internal kidney damage can begin before the cat shows outward signs of illness. Early intervention, such as decontamination and fluid therapy, is the best way to ensure a positive outcome. Contact your local veterinarian or an emergency animal hospital right away.</p><h3>Why a Photo Helps Triage</h3><p>If you still have the box or a photo of the specific raisins consumed, show it to your veterinarian. A photo helps the medical team confirm the exact product (for instance, if they were chocolate-covered or contained other toxic ingredients like xylitol) and helps them estimate the potential toxin load. It also allows the triage nurse to quickly document the incident in your cat's medical record.</p>",
+  "faqs": [
+    {
+      "question": "Can one raisin really kill a cat?",
+      "answer": "Yes, while some cats may show no symptoms, others can develop fatal kidney failure from a single raisin. There is no known safe dose."
+    },
+    {
+      "question": "How soon will symptoms of raisin poisoning appear?",
+      "answer": "Vomiting usually occurs within 6 to 12 hours of ingestion. Signs of kidney failure, such as increased thirst or lethargy, may take 24 to 72 hours to develop."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home unless explicitly directed by a veterinarian, as cats are highly susceptible to aspiration pneumonia and esophageal damage."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

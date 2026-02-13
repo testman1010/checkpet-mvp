@@ -1,0 +1,20 @@
+{
+  "title": "Cat Breathing Stops for Seconds: Understanding Feline Apnea",
+  "meta_desc": "Is your cat pausing their breath? Learn about feline apnea, when to see a vet (Medium Urgency), and why video recordings help with diagnosis.",
+  "content_html": "<h3>What is Feline Apnea?</h3><p>Feline apnea is a condition where a cat temporarily ceases breathing for several seconds. This most commonly occurs during sleep (sleep apnea) but can sometimes happen while the cat is awake. It is often caused by an upper airway obstruction, neurological issues, or even severe obesity which puts pressure on the chest cavity and throat.</p><h3>Is it an Emergency?</h3><p>The urgency level for cat breathing pauses is categorized as Medium. While a few seconds of breath-holding during deep sleep might be related to dreaming, frequent or prolonged pauses require a veterinary consultation. It becomes a High Urgency emergency if you notice blue-colored gums, open-mouth gasping, or if the cat collapses.</p><h3>Why a Video Helps Triage</h3><p>Because breathing pauses are intermittent, your cat will likely breathe normally by the time you reach the clinic. Capturing a video of the episode allows your veterinarian to see the exact duration, frequency, and physical effort involved in the breathing pause. This visual evidence is crucial for determining if the issue is obstructive, central, or behavioral.</p>",
+  "faqs": [
+    {
+      "question": "Can cats have sleep apnea like humans?",
+      "answer": "Yes, cats can experience sleep apnea. It is particularly common in flat-faced (brachycephalic) breeds like Persians or in cats that are significantly overweight."
+    },
+    {
+      "question": "What should I do if my cat stops breathing for more than 10 seconds?",
+      "answer": "If your cat stops breathing for 10 seconds or more, or if their tongue looks purple or blue, you should contact an emergency veterinarian immediately as this indicates a lack of oxygen."
+    },
+    {
+      "question": "Is snoring a sign of apnea in cats?",
+      "answer": "Loud snoring can be a precursor to obstructive apnea, as it indicates that air is not moving freely through the upper respiratory tract."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

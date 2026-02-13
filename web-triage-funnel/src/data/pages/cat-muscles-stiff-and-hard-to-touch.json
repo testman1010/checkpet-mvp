@@ -1,0 +1,20 @@
+{
+  "title": "My Cat's Muscles Feel Stiff and Hard: Triage Guide",
+  "meta_desc": "Is your cat's body stiff or hard to the touch? This high-urgency guide explains potential causes and why you need immediate veterinary care.",
+  "content_html": "<h3>What does it mean when a cat's muscles are stiff?</h3><p>When a cat's muscles feel abnormally hard or rigid to the touch, it is often a sign of involuntary muscle contraction or severe physiological distress. This condition can stem from a variety of serious issues, including electrolyte imbalances, metabolic crises, neurological disorders, or exposure to certain toxins that affect the nervous system. Unlike the typical stiffness seen with arthritis, this hardness often feels like the muscle is 'locked' in place.</p><h3>Is this an emergency?</h3><p><strong>Urgency Level: High.</strong> Muscle rigidity is considered a veterinary emergency. If your cat is unable to relax their muscles, it may lead to a dangerous increase in body temperature (hyperthermia) or organ failure. If you notice accompanying signs such as labored breathing, tremors, inability to walk, or vocalizing in pain, you should transport your cat to the nearest emergency animal hospital immediately.</p><h3>Why a photo or video helps triage</h3><p>Providing your veterinarian with a brief video of your cat's movement or a photo of their posture can be life-saving. Visual documentation allows the triage team to see exactly how the stiffness is affecting your cat's gait and stance. This helps them distinguish between localized pain, such as a spinal injury, and generalized rigidity, such as toxin ingestion, ensuring they are fully prepared for your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can dehydration cause a cat's muscles to feel hard?",
+      "answer": "Yes, severe dehydration can lead to electrolyte imbalances that cause muscles to cramp or become rigid, though this is usually a sign of a very advanced medical crisis."
+    },
+    {
+      "question": "Could my cat have been poisoned?",
+      "answer": "Certain toxins, such as snail bait (metaldehyde) or certain insecticides, can cause severe muscle tremors and rigidity. If you suspect toxin exposure, bring the packaging to the vet."
+    },
+    {
+      "question": "Is muscle stiffness the same as arthritis?",
+      "answer": "No. Arthritis typically causes slow movement or limping due to joint pain, whereas 'hard' muscles indicate a systemic or neurological issue that requires urgent intervention."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Rubber Band: Triage Advice and Next Steps",
+  "meta_desc": "If your cat swallowed a rubber band, it's a medium urgency situation. Learn the risks of intestinal blockage and how to triage your pet at home.",
+  "content_html": "<h3>What happens when a cat eats a rubber band?</h3><p>It is common for cats to be attracted to the texture and elasticity of rubber bands, but ingestion poses a significant health risk. When a cat swallows a rubber band, it becomes a 'foreign body' in their digestive system. The most serious concern is a linear foreign body obstruction, where the band stretches through the intestines, potentially causing the bowels to bunch up or even tearing the delicate intestinal lining.</p><h3>Is this an emergency?</h3><p>The urgency level for a cat eating a rubber band is classified as Medium. While it may not be an instant crisis if your cat is currently acting normal, you should contact your veterinarian immediately for guidance. This situation can quickly escalate to a high-urgency emergency if your cat begins showing signs of distress, such as repeated vomiting, hiding, or a total loss of appetite, which indicate a physical blockage.</p><h3>Why a photo helps with triage</h3><p>If you have a duplicate of the rubber band or the remaining pieces of the one your cat chewed, please take a photo. Providing a visual reference to a veterinary professional helps them determine the size, thickness, and material of the object. This information is vital in deciding whether the band is small enough to pass naturally or if immediate medical imaging, such as an X-ray or ultrasound, is required to locate the object before it causes damage.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No, you should never induce vomiting in a cat at home unless specifically instructed by a veterinarian. Attempting this can lead to aspiration pneumonia or damage to the esophagus."
+    },
+    {
+      "question": "How long does it take for a rubber band to pass?",
+      "answer": "If it passes, it typically takes 10 to 24 hours. However, rubber bands frequently get stuck in the stomach or intestines, making it dangerous to simply 'wait and see' without professional advice."
+    },
+    {
+      "question": "What if I see the rubber band under my cat's tongue or at the other end?",
+      "answer": "If you see a string or rubber band under the tongue or protruding from the anus, do not pull it. Pulling it can cause fatal damage to the internal organs. Seek emergency veterinary care immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

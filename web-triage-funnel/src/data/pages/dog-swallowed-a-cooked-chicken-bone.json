@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed a Cooked Chicken Bone: Emergency Triage Guide",
+  "meta_desc": "If your dog ate a cooked chicken bone, act fast. Learn why this is a high-urgency emergency and how to identify signs of internal injury.",
+  "content_html": "<h3>What Is the Risk of Cooked Chicken Bones?</h3><p>Cooked chicken bones are significantly more dangerous than raw ones because the cooking process makes them brittle. When a dog chews or swallows them, the bones can splinter into sharp, needle-like shards. These fragments can cause choking, tear the lining of the throat, or cause a life-threatening puncture in the stomach or intestines.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> You should treat this as a potential emergency and contact your veterinarian or an emergency animal clinic immediately. Do not wait for symptoms to appear, and do not induce vomiting, as the sharp shards can cause further trauma to the esophagus on the way back up. Immediate professional advice is necessary to determine if the bone can pass safely or if surgical intervention is required.</p><h3>Why a Photo Helps Triage</h3><p>If there are any leftover pieces of the bone or similar bones from the same meal, take a photo. Sharing this image with a veterinary triage professional helps them estimate the size and sharpness of the object your dog ingested. This information is vital for determining the level of risk and deciding whether your dog needs an immediate X-ray, endoscopy, or conservative monitoring.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of a blockage or puncture?",
+      "answer": "Look for immediate signs of distress such as gagging, coughing, or excessive drooling. Over the next 24-48 hours, watch for vomiting, lethargy, abdominal pain, or a total loss of appetite."
+    },
+    {
+      "question": "Can I give my dog bread to cushion the bone?",
+      "answer": "Feeding a piece of plain white bread is a common recommendation to help 'wrap' the bone fragments, but you must call a vet first to ensure your dog is not already showing signs of a blockage."
+    },
+    {
+      "question": "How long does it take for a bone to pass?",
+      "answer": "If a bone is going to pass, it typically takes 24 to 72 hours. However, the risk of it getting stuck or causing internal damage remains high until the bone has completely exited the body."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

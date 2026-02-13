@@ -1,0 +1,20 @@
+{
+  "title": "Cat Screaming and Collapsing: Urgent Veterinary Triage Guide",
+  "meta_desc": "Cat screaming and collapsing is a critical emergency. Learn about potential causes like FATE and why immediate veterinary care is vital for survival.",
+  "content_html": "<h3>What is Happening?</h3><p>When a cat screams in distress and then collapses, it often indicates a sudden, severe medical event. One of the most common and painful causes is Feline Aortic Thromboembolism (FATE), or a 'saddle thrombus,' where a blood clot blocks blood flow to the hind limbs. Other causes may include sudden cardiac failure, severe seizures, or a fainting spell known as syncope. These episodes are often accompanied by vocalization because the animal is experiencing intense pain or a sudden drop in oxygen to the brain.</p><h3>Is This an Emergency?</h3><p>Yes. This is a medical emergency of the highest urgency level. If your cat has collapsed after screaming, you must transport them to the nearest emergency veterinary clinic immediately. Do not wait to see if the symptoms pass. In the case of blood clots, time is of the essence to manage pain and attempt to restore circulation. Keep your cat warm and minimize their movement during transport by placing them in a secure, padded carrier.</p><h3>Why a Photo or Video Helps Triage</h3><p>While your priority is getting to the vet, if you are able to safely capture a very brief video of the episode or a photo of your cat's current posture, it can be incredibly helpful for the veterinary team. Visual evidence allows the vet to see the nature of the collapse—such as whether the limbs were rigid or limp, or if the paw pads appear blue or pale. This helps the medical team differentiate between a neurological event like a seizure and a vascular event like a clot, allowing for faster, more accurate life-saving treatment.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat be in pain even if they are now quiet?",
+      "answer": "Yes. After a collapse, a cat may go into shock or become exhausted, which can lead to silence. However, the underlying cause, especially a blood clot, remains extremely painful and requires immediate professional intervention."
+    },
+    {
+      "question": "What should I do during the drive to the emergency clinic?",
+      "answer": "Keep the car quiet and at a comfortable temperature. Cover the carrier with a light towel to reduce stress, and avoid trying to provide food, water, or oral medication, as their ability to swallow may be compromised."
+    },
+    {
+      "question": "Are certain breeds more prone to this?",
+      "answer": "Cats with underlying heart disease, such as Hypertrophic Cardiomyopathy (HCM), are at higher risk for these episodes. Breeds like Ragdolls, Maine Coons, and Persians are genetically predisposed, but it can happen to any cat."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

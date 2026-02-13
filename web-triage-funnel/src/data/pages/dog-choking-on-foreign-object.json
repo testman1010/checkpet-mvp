@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Dog is Choking",
+  "meta_desc": "Is your dog choking? This guide covers immediate emergency steps, why this is a high-priority emergency, and how to triage foreign object ingestion.",
+  "content_html": "<h3>What is Choking in Dogs?</h3><p>Choking occurs when a foreign object, such as a ball, a piece of a chew toy, or a large chunk of food, becomes lodged in a dog's throat or windpipe. This physical blockage prevents air from reaching the lungs, leading to respiratory distress. It is important to distinguish choking from a cough or 'reverse sneezing'; a choking dog will often paw at their mouth, gag silently, or exhibit a panicked expression.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Choking is a life-threatening emergency that requires immediate intervention. If the airway is completely blocked, your dog can lose consciousness or suffer cardiac arrest within minutes. If you cannot safely remove the object, you must transport your dog to the nearest emergency veterinary clinic immediately while attempting to keep them calm.</p><h3>Why a Photo Helps Triage</h3><p>If the object is partially visible or if you have an identical version of what they swallowed, a photo can be incredibly helpful for the veterinary team. A photo allows the vet to see the size, shape, and texture of the foreign body before you arrive. This information helps them prepare the correct tools, such as specialized forceps or an endoscope, ensuring they can act the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I perform the Heimlich maneuver on a dog?",
+      "answer": "Yes, a modified Heimlich maneuver can be performed on dogs. For small dogs, hold them against your chest and push up under the ribcage. For large dogs, place your arms around their waist and thrust upward and forward while they are standing or lying on their side."
+    },
+    {
+      "question": "What if my dog is coughing but still breathing?",
+      "answer": "If your dog is coughing forcefully, their airway is only partially blocked. Encourage them to keep coughing to see if they can clear it. However, you should still contact a vet immediately as the object could shift and cause a full blockage."
+    },
+    {
+      "question": "Should I reach into my dog's mouth to pull the object out?",
+      "answer": "Only attempt a 'finger sweep' if you can clearly see the object and are certain you won't push it further down. Be very careful, as a panicked dog may accidentally bite."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Puppy Not Gaining Weight: Common Causes and Triage Advice",
+  "meta_desc": "Is your puppy struggling to gain weight? Learn about causes, when to see a vet, and why a photo is essential for a remote triage assessment.",
+  "content_html": "<h3>What Does it Mean if a Puppy is Not Gaining Weight?</h3><p>Failure to gain weight, or \"failure to thrive,\" in a puppy means they are not hitting expected growth milestones for their age and breed. This can happen because they are not getting enough calories, or because their body is unable to absorb or utilize those calories properly. Common underlying issues include intestinal parasites, poor quality diet, or congenital conditions like heart or liver defects.</p><h3>Is This an Emergency?</h3><p>The urgency level for a puppy not gaining weight is generally <strong>Medium</strong>. If your puppy is otherwise playful, eating, and drinking, you should schedule a veterinary appointment within the next 24 to 48 hours. However, if the lack of weight gain is accompanied by extreme lethargy, vomiting, or a complete loss of appetite, this can quickly escalate to a high-priority emergency since puppies have very low energy reserves.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of your puppy—specifically one taken from directly above while they are standing—is incredibly helpful for veterinary triage. It allows a professional to assess the Body Condition Score (BCS) by looking for visible ribs, spine, or a severe abdominal tuck. A photo helps us differentiate between a naturally lean puppy and one who is clinically emaciated, ensuring we prioritize your pet's care appropriately.</p>",
+  "faqs": [
+    {
+      "question": "Can intestinal worms stop a puppy from growing?",
+      "answer": "Yes, heavy parasite loads are a very common cause of weight loss or lack of gain because the worms consume the nutrients the puppy needs for growth."
+    },
+    {
+      "question": "How often should I weigh my puppy?",
+      "answer": "Ideally, you should weigh your puppy once a week to ensure they are on a steady upward trend according to their breed-specific growth chart."
+    },
+    {
+      "question": "Should I just feed my puppy more food?",
+      "answer": "While increasing food may help if the issue is caloric intake, it is vital to see a vet first to rule out medical issues that more food cannot fix, such as malabsorption or organ dysfunction."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

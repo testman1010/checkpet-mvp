@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pupils Different Sizes (Anisocoria): Emergency Triage Guide",
+  "meta_desc": "If your dog's pupils are different sizes, it is a high-priority medical emergency. Learn about anisocoria causes and why you need a vet immediately.",
+  "content_html": "<h3>What is Anisocoria?</h3><p>Anisocoria is a medical condition where a dog's pupils are unequal in size. One pupil may be constricted (small) while the other is dilated (large). This phenomenon is not a disease in itself but rather a clinical sign that something is affecting your dog's eye, the nerves leading to the eye, or the brain.</p><h3>Urgency Level: High Emergency</h3><p>Uneven pupils are considered a high-priority veterinary emergency. This symptom can be caused by a wide range of serious issues, including head trauma, glaucoma (increased eye pressure), corneal ulcers, or internal inflammation (uveitis). Because some of these conditions can lead to permanent blindness or indicate severe neurological damage, your dog needs to be evaluated by a veterinarian as soon as possible.</p><h3>Why Taking a Photo Helps Triage</h3><p>When you contact an emergency clinic, having a clear photo of your dog's eyes can be incredibly helpful for the triage team. A photo allows the staff to see the severity of the pupil disparity and check for other visible symptoms like redness, cloudiness, or discharge. This visual information helps the medical team prioritize your pet's care before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just be born with different sized pupils?",
+      "answer": "While minor variations can exist, a noticeable difference in pupil size that appears suddenly is never normal and should always be treated as a medical emergency."
+    },
+    {
+      "question": "What other symptoms should I look for?",
+      "answer": "Watch for squinting, pawing at the eye, redness, a change in eye color, or any signs of disorientation and stumbling, which could indicate a neurological issue."
+    },
+    {
+      "question": "What should I do on the way to the vet?",
+      "answer": "Keep your dog calm and prevent them from rubbing their face. If you have an Elizabethan collar (cone), place it on them immediately to prevent self-injury to the eye."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

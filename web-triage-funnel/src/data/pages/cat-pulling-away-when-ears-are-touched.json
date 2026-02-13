@@ -1,0 +1,20 @@
+{
+  "title": "Cat Pulling Away When Ears Are Touched: Causes & Triage Guide",
+  "meta_desc": "Is your cat sensitive about their ears? Learn why cats flinch, when it's an emergency, and how to identify signs of ear infections or mites.",
+  "content_html": "<h3>What is it?</h3><p>When a cat pulls away, flinches, or hisses when their ears are touched, it is a primary clinical sign of ear pain, also known as otalgia. This sensitivity usually indicates inflammation or an infection within the ear canal. Common causes include ear mites, yeast or bacterial infections, allergies, or the presence of a foreign object like a grass seed. Because cats are masters at hiding pain, a visible reaction to touch suggests the discomfort is significant.</p><h3>Is it an emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While ear discomfort is rarely an immediate life-threatening emergency, it is a localized medical issue that requires professional treatment. If left untreated, a simple external ear infection can progress to the middle or inner ear, potentially causing permanent hearing loss or balance issues. You should schedule a veterinary visit within 24 to 48 hours. If you notice your cat is also tilting their head, stumbling, or showing unusual eye movements, contact a clinic more urgently.</p><h3>Why a photo helps triage</h3><p>Capturing a clear photo or video can be vital for your veterinarian's initial assessment. A high-quality photo of the inner ear flap and the opening of the ear canal allows the vet to see the type and color of discharge—for example, dark, crumbly debris often suggests mites, while yellow or green discharge suggests a bacterial infection. A video of your cat shaking their head or scratching provides a better understanding of their pain level, helping the vet determine how quickly they need to be seen.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter ear drops for my cat?",
+      "answer": "It is not recommended to use OTC drops without a diagnosis. If your cat has a ruptured eardrum, certain medications can be toxic to the inner ear and cause permanent damage."
+    },
+    {
+      "question": "How can I tell if my cat has ear mites?",
+      "answer": "Ear mites often produce a dark, dry discharge that looks like coffee grounds. However, only a microscopic exam by a vet can definitively distinguish mites from a yeast infection."
+    },
+    {
+      "question": "What if my cat's ear is swollen like a pillow?",
+      "answer": "This is likely an aural hematoma, caused by a burst blood vessel from excessive head shaking. This requires veterinary attention to drain the fluid and treat the underlying ear irritation."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

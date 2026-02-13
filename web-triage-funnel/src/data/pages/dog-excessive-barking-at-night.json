@@ -1,0 +1,20 @@
+{
+  "title": "Dog Barking at Night: Causes, Triage, and When to Call the Vet",
+  "meta_desc": "Is your dog barking excessively at night? Learn about common causes, urgency levels, and how to help your pet get a better night's sleep.",
+  "content_html": "<h3>What is Excessive Nighttime Barking?</h3><p>Excessive barking at night, or nocturnal vocalization, occurs when a dog barks, whines, or howls persistently during hours when they—and you—should be sleeping. This behavior can stem from various sources, including environmental triggers like outdoor wildlife, separation anxiety, or underlying medical conditions such as Cognitive Dysfunction Syndrome in senior dogs, pain, or sensory loss.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. While nighttime barking is disruptive and can be a sign of distress, it is rarely a medical emergency. However, if the barking is accompanied by signs of acute pain, such as panting, trembling, or an inability to find a comfortable position, you should contact a veterinarian sooner rather than later. If the behavior is chronic, a scheduled appointment is appropriate to rule out health issues.</p><h3>How Photos and Videos Help Triage</h3><p>Taking a video of your dog during these barking episodes is one of the most effective tools for your veterinarian. Seeing your dog’s body language—whether they are pacing, staring into space, or appearing disoriented—helps the vet distinguish between a behavioral issue, like anxiety, and a neurological issue, like canine dementia. A photo of their sleeping environment can also help identify potential stressors or triggers.</p>",
+  "faqs": [
+    {
+      "question": "Could my older dog have dementia?",
+      "answer": "Yes, Canine Cognitive Dysfunction (CCD) often causes dogs to become restless, disoriented, and vocal at night as their internal clock becomes disrupted."
+    },
+    {
+      "question": "Should I use a bark collar at night?",
+      "answer": "We generally do not recommend bark collars, especially if the barking is caused by anxiety or pain, as this can increase your dog's distress and worsen the underlying problem."
+    },
+    {
+      "question": "Can joint pain cause barking at night?",
+      "answer": "Absolutely. If a dog is in pain from arthritis, they may find it difficult to get comfortable or stay asleep, leading to whining or barking as a sign of discomfort."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

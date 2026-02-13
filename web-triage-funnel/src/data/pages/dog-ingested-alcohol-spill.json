@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Alcohol Spill: Emergency Guide & Next Steps",
+  "meta_desc": "If your dog drank spilled alcohol, act fast. Alcohol toxicity is a high-urgency emergency. Learn the signs and why immediate vet care is required.",
+  "content_html": "<h3>What is Alcohol Toxicity in Dogs?</h3><p>Alcohol toxicity, or ethanol poisoning, occurs when a canine consumes beverages like beer, wine, or liquor, or household items like hand sanitizer and unbaked bread dough. Dogs are much smaller than humans and their livers are not equipped to process ethanol, meaning even a small amount can rapidly impact their central nervous system.</p><h3>Is it an Emergency?</h3><p>Yes, this is a <strong>High Urgency</strong> situation. Alcohol is absorbed very quickly into a dog's bloodstream. It can cause dangerous drops in blood sugar, blood pressure, and body temperature. Without immediate veterinary intervention, ingestion can lead to seizures, respiratory failure, or even death. If you suspect your dog has ingested alcohol, you should contact an emergency vet or pet poison control immediately.</p><h3>Why a Photo of the Spill or Bottle Helps</h3><p>When you are in a panic, it can be hard to remember specifics. Taking a quick photo of the bottle, the label, or the remains of the spill provides your veterinarian with critical data. This helps them determine the Alcohol by Volume (ABV) and identify if other toxic ingredients—like xylitol, grapes, or chocolate—were mixed into the drink. A photo of the bottle size also helps the clinical team calculate the maximum potential dose your pet received.</p>",
+  "faqs": [
+    {
+      "question": "What are the first signs of alcohol poisoning in dogs?",
+      "answer": "Initial symptoms include staggering, lethargy, excessive drooling, and vomiting. As it progresses, you may notice labored breathing or tremors."
+    },
+    {
+      "question": "Can a dog survive drinking alcohol?",
+      "answer": "Yes, with prompt veterinary care, most dogs can recover. Treatment usually involves IV fluids, blood sugar monitoring, and supportive care to manage symptoms."
+    },
+    {
+      "question": "How much alcohol is toxic to a dog?",
+      "answer": "There is no 'safe' amount. Toxicity depends on the dog's weight and the concentration of the alcohol. A small amount of hard liquor is far more dangerous than a small amount of beer."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

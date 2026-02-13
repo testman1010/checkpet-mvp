@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Cat Swallowed an Ibuprofen Pill",
+  "meta_desc": "If your cat swallowed ibuprofen, it is a life-threatening emergency. Learn the risks, why time is critical, and how a triage photo can save lives.",
+  "content_html": "<h3>What is Ibuprofen Toxicity?</h3><p>Ibuprofen is a common human non-steroidal anti-inflammatory drug (NSAID) used to treat pain and fever. However, cats lack the specific liver enzymes needed to break down this medication. Even a single 200mg tablet can be fatal to an adult cat, causing rapid damage to the stomach lining and the kidneys.</p><h3>Is this an emergency?</h3><p>Yes. Ingestion of ibuprofen is a high-level medical emergency. You must contact an emergency veterinarian or a pet poison control center immediately. Do not wait for symptoms to appear, as irreversible organ damage can occur within hours of ingestion.</p><h3>Why a photo helps triage</h3><p>If you still have the medication packaging, take a clear photo of the label and any remaining pills. Sharing this photo with your vet allows them to identify the exact strength (milligrams) and the specific formulation of the drug. This information is critical for calculating the toxicity level relative to your cat's weight and helps the medical team prepare the correct treatment before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the common signs of ibuprofen poisoning in cats?",
+      "answer": "Symptoms include vomiting (which may contain blood), abdominal pain, lethargy, loss of appetite, increased thirst, and in severe cases, tremors or seizures."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat using hydrogen peroxide or other home remedies unless specifically instructed by a veterinarian, as this can cause severe esophageal damage."
+    },
+    {
+      "question": "What will the veterinarian do for my cat?",
+      "answer": "Treatment typically involves gastric lavage (pumping the stomach), administering activated charcoal to absorb toxins, and providing aggressive IV fluid therapy to protect the kidneys."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

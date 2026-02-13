@@ -1,0 +1,20 @@
+{
+  "title": "Managing Yeasty Odors in Dog Skin Folds: A Triage Guide",
+  "meta_desc": "Is your dog smelling like corn chips? Learn why skin folds get yeasty, if it is an emergency, and how photos help your vet provide better care.",
+  "content_html": "<h3>What is the Yeasty Odor?</h3><p>That distinctive, musty smell—often compared to corn chips—is typically caused by an overgrowth of yeast (Malassezia) or bacteria trapped within your dog's skin folds. This condition, known as skin fold dermatitis or intertrigo, occurs when moisture and heat are trapped in the folds, creating a perfect environment for microorganisms to thrive. While common in breeds with extra skin, it can lead to irritation and infection if left untreated.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. In most cases, a yeasty odor from skin folds is a chronic or sub-acute issue rather than a medical emergency. You should schedule a regular veterinary appointment to address the underlying overgrowth. However, if you notice signs of a secondary infection such as oozing pus, extreme pain when the area is touched, or if your dog seems lethargic, you should contact a clinic sooner.</p><h3>Why a Photo Helps Triage</h3><p>Sharing a high-quality photo with your veterinary team is a vital step in the triage process. Because skin conditions can range from mild redness to deep ulceration, a clear image allows the vet to assess the severity of the inflammation and the presence of discharge. This visual information helps them determine how quickly your pet needs to be seen and ensures they are prepared with the right diagnostic tools when you arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human wet wipes to clean the folds?",
+      "answer": "It is best to avoid human wipes as the pH of canine skin is different, and some scents or chemicals can cause further irritation. Use a vet-approved antiseptic wipe instead."
+    },
+    {
+      "question": "Which breeds are most likely to have this issue?",
+      "answer": "Breeds with prominent skin folds, such as English Bulldogs, French Bulldogs, Pugs, and Shar-Peis, are most susceptible to intertrigo and yeast overgrowth."
+    },
+    {
+      "question": "Will a bath fix the smell?",
+      "answer": "While a bath may temporarily reduce the odor, specialized medicated shampoos or wipes are usually necessary to actually treat the yeast overgrowth and prevent it from returning."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Not Pooping for 3 Days: Is It an Emergency? | Vet Triage Guide",
+  "meta_desc": "If your cat hasn't had a bowel movement in 3 days, it may be a medical emergency. Learn the signs of feline constipation and when to seek a vet.",
+  "content_html": "<h3>What is Feline Constipation?</h3><p>When a cat has not had a bowel movement for three days, they are experiencing feline constipation. This occurs when waste remains in the colon for too long, losing moisture and becoming hard and painful to pass. If left untreated, this can progress to obstipation, where the cat is physically unable to empty their bowels, potentially leading to permanent damage to the colon.</p><h3>Urgency Level: High</h3><p>A cat not pooping for 72 hours is considered a high-priority situation. While it may start as simple dehydration or lack of fiber, it can quickly escalate into a life-threatening blockage or megacolon. If your cat is also vomiting, refusing food, or straining excessively in the litter box, you must seek emergency veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo can be a vital tool for a triage assistant or veterinarian. A photo of your cat's posture while in the litter box can help distinguish between a digestive blockage and a urinary emergency, which often look similar. Additionally, if your cat has passed any very small, hard, or bloody stool, a photo of the waste allows us to assess the level of dehydration and irritation in the intestinal tract.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait one more day to see if my cat poops?",
+      "answer": "Waiting longer than three days is not recommended. The longer the waste stays in the colon, the harder it becomes to pass, increasing the risk of serious complications and the need for invasive procedures."
+    },
+    {
+      "question": "How can I tell if my cat is straining or just sitting?",
+      "answer": "Straining usually involves a hunched back, intense focus, and sometimes vocalization. If your cat visits the litter box multiple times without producing anything, they are likely straining."
+    },
+    {
+      "question": "Should I give my cat milk to help them poop?",
+      "answer": "No. Many cats are lactose intolerant, and while milk might cause diarrhea, it can also lead to painful cramping and dehydration, making the underlying problem worse."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

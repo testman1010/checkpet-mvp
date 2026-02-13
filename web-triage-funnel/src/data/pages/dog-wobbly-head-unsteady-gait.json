@@ -1,0 +1,20 @@
+{
+  "title": "Dog Wobbly Head and Unsteady Gait: Triage and Care Guide",
+  "meta_desc": "Is your dog wobbly or walking strangely? Learn about ataxia, when it is an emergency, and how to help your vet diagnose the cause.",
+  "content_html": "<h3>What is Ataxia?</h3><p>When a dog has a wobbly head or an unsteady gait, it is clinically known as ataxia. This is a sensory dysfunction that results in a loss of coordination in the limbs, head, or trunk. It often looks like your dog is \"drunk\" or dizzy. This can be caused by issues within the inner ear (vestibular system), the spinal cord, or the brain.</p><h3>Is it an Emergency?</h3><p>The urgency level for a wobbly gait is typically Medium. While it may not always be a critical emergency, you should contact your veterinarian for an appointment within the next 24 hours. However, if your dog is also experiencing a seizure, persistent vomiting, or is unable to stand at all, you should seek immediate emergency care.</p><h3>Why a Video or Photo Helps</h3><p>It is very helpful to take a short video of your dog’s wobbly behavior or head movement before you head to the vet. Neurological symptoms can sometimes be intermittent; your dog might act normally by the time they reach the clinic. A video allows the vet to see the exact nature of the gait or tilt, which is vital for distinguishing between a middle-ear infection, toxin exposure, or a spinal issue.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have been poisoned?",
+      "answer": "Yes, certain toxins like marijuana, xylitol, or certain human medications can cause sudden wobbliness and loss of coordination."
+    },
+    {
+      "question": "What is 'Old Dog' Vestibular Disease?",
+      "answer": "This is a common condition in senior dogs that affects their sense of balance, often causing a head tilt and stumbling. It usually improves with supportive care."
+    },
+    {
+      "question": "How can I keep my dog safe right now?",
+      "answer": "Keep your dog in a small, carpeted area where they cannot fall down stairs or bump into sharp furniture corners while they are unsteady."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

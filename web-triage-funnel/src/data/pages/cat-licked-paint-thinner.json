@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Paint Thinner: Immediate Steps and Emergency Triage",
+  "meta_desc": "If your cat licked paint thinner, it is a high-priority medical emergency. Follow this guide to understand the risks and necessary immediate actions.",
+  "content_html": "<h3>What is Paint Thinner Poisoning?</h3><p>Paint thinner is a chemical solvent, often containing petroleum distillates like mineral spirits, turpentine, or acetone. Because cats are small and have unique metabolic pathways, these substances are highly toxic. Ingestion or even licking the fur contaminated with thinner can lead to severe chemical burns in the mouth and esophagus, as well as systemic toxicity affecting the liver, kidneys, and central nervous system.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening emergency. You should contact an emergency veterinarian or a pet poison control center immediately. Do not wait for symptoms to appear, as internal damage and respiratory distress can occur rapidly. Do not attempt to induce vomiting at home, as the corrosive nature of the solvent can cause further damage to the throat or lead to aspiration pneumonia if inhaled into the lungs.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the product label and the ingredients list before heading to the vet. Different solvents contain different active chemicals, and knowing the exact composition helps the veterinary team determine the specific toxicity risk. This information allows them to prepare the correct neutralizing treatments or supportive care protocols before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat milk or water to wash it down?",
+      "answer": "Do not give your cat anything by mouth unless specifically instructed by a veterinarian, as this can increase the risk of vomiting and subsequent lung aspiration."
+    },
+    {
+      "question": "What if it is only on their fur?",
+      "answer": "If it is on the fur, the cat will likely lick it off. Prevent them from grooming by using an E-collar or wrapping them in a towel, then seek professional advice on the safest way to remove the chemical."
+    },
+    {
+      "question": "What are the common symptoms of solvent poisoning?",
+      "answer": "Symptoms include excessive drooling, pawing at the mouth, gagging, difficulty breathing, unsteadiness (ataxia), and lethargy."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargic and Drinking Excessive Water: Triage Guide",
+  "meta_desc": "Is your dog lethargic and drinking too much water? Learn about potential causes, urgency levels, and why these symptoms require a veterinary exam.",
+  "content_html": "<h3>What is it?</h3><p>When a dog displays lethargy alongside excessive thirst (known medically as polydipsia), it indicates that their body is struggling to maintain its internal balance. This combination of symptoms is often a sign that the kidneys, endocrine system, or metabolic processes are under stress. Common causes include diabetes mellitus, kidney disease, Cushing's disease, or even a serious infection like pyometra in unspayed females.</p><h3>Is it an emergency?</h3><p>The urgency level for lethargy combined with increased water intake is <strong>Medium</strong>. While it may not always be a sudden life-threatening crisis, these symptoms are never considered normal and signify an underlying health issue that needs professional diagnosis. You should schedule a veterinary appointment within the next 12 to 24 hours. However, if your dog is also vomiting, has a bloated abdomen, or is unable to stand, you should treat it as an immediate emergency.</p><h3>Why a photo helps triage</h3><p>During a triage consultation, providing a photo or video of your pet can be a vital diagnostic tool. A clear photo of your dog's face and eyes helps us assess their level of consciousness and engagement, while a photo of their gums can help identify dehydration or poor circulation. Additionally, a photo of any unusual urine or a video of their gait can help a veterinarian prioritize your pet's needs before you even walk through the clinic doors.</p>",
+  "faqs": [
+    {
+      "question": "How much water is considered excessive for a dog?",
+      "answer": "Generally, if a dog drinks more than 90-100ml per kilogram of body weight per day, it is considered polydipsia. If you notice you are refilling the water bowl significantly more than usual, it warrants a vet visit."
+    },
+    {
+      "question": "Can a change in diet cause increased thirst and lethargy?",
+      "answer": "While high-sodium foods can increase thirst, lethargy is not a typical side effect of a diet change and usually points toward a more systemic medical issue."
+    },
+    {
+      "question": "What tests will the vet perform?",
+      "answer": "Expect your veterinarian to recommend a urinalysis and blood work (CBC and chemistry panel) to check organ function and blood glucose levels."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

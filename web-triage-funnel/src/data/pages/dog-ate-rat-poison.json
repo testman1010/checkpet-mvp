@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Rat Poison? Immediate Steps & Emergency Veterinary Guide",
+  "meta_desc": "If your dog ate rat poison, act now. This is a high-priority emergency. Learn why immediate vet care and product photos are critical for survival.",
+  "content_html": "<h3>What is Rat Poison Ingestion?</h3><p>Rat poison ingestion occurs when a dog consumes rodenticides, which are chemicals designed to kill mice and rats. These substances come in various forms, such as pellets, blocks, or pastes, and often contain ingredients like anticoagulants (which cause internal bleeding), bromethalin (which affects the brain), or cholecalciferol (which causes kidney failure).</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level is High. Even if your dog is acting normally right now, rat poison is life-threatening. Many toxins do not show outward symptoms for 2 to 7 days, but by that time, significant internal damage or life-threatening bleeding may have already occurred. Early intervention is the key to a successful recovery.</p><h3>Why a Photo Helps Triage</h3><p>When you contact your veterinarian or an animal poison control center, having a photo of the product packaging is incredibly helpful. Because different brands use different active ingredients, the treatment protocol varies significantly. A clear photo of the 'Active Ingredients' list and the EPA registration number allows the medical team to identify the specific toxin and prepare the correct antidote or treatment plan before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my dog gets sick?",
+      "answer": "No. Waiting for symptoms like lethargy or bleeding is dangerous. By the time symptoms appear, the toxin has likely already caused severe internal damage."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian. Depending on the toxin and how long ago it was ingested, inducing vomiting could potentially cause more harm."
+    },
+    {
+      "question": "What if I don't have the original packaging?",
+      "answer": "If the packaging is gone, take a photo of the poison itself (if any remains) and try to remember the color and shape of the bait. This can still provide clues to the veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

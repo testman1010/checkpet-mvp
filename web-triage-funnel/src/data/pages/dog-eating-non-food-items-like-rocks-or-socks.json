@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate a Rock or Sock: Emergency Triage and Next Steps",
+  "meta_desc": "If your dog swallowed a non-food item like a rock or sock, urgency is high. Learn the risks, symptoms of blockage, and why photos help your vet.",
+  "content_html": "<h3>What is Foreign Body Ingestion?</h3><p>When a dog consumes non-food items such as clothing, stones, or plastic, it is known as foreign body ingestion. This behavior is sometimes referred to as pica. Unlike food, these materials cannot be broken down by the digestive system, leading to the risk of the item becoming trapped in the stomach or intestines.</p><h3>Urgency Level: High</h3><p>This situation is considered a high-priority medical emergency. While very small items may occasionally pass, objects like socks and rocks are primary culprits for life-threatening intestinal obstructions. A blockage can cut off blood flow to the gut and cause the intestines to rupture. If your dog is vomiting, refusing food, or acting lethargic, you must head to an emergency clinic immediately.</p><h3>How Photos Help Triage</h3><p>If you have a photo of the object, or a photo of an identical item (such as the matching sock), show it to your veterinarian. Visual confirmation allows the medical team to assess the item's size, texture, and edges. This information is critical in determining whether the item can be safely retrieved via induced vomiting, an endoscope, or if emergency surgery is the only safe option.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if the item passes in my dog's stool?",
+      "answer": "Waiting is extremely risky for items like rocks or fabric. If the object is too large to pass through the pylorus (the exit of the stomach), it will cause a total obstruction. Consult a vet immediately rather than waiting for symptoms to worsen."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinary professional. Some items, especially sharp rocks or large fabric bundles, can cause choking or esophageal damage if brought back up."
+    },
+    {
+      "question": "What are the signs of a complete intestinal blockage?",
+      "answer": "Common signs include repeated vomiting (especially after drinking water), abdominal pain, straining to defecate without success, and a sudden loss of appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

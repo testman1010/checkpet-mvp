@@ -1,0 +1,20 @@
+{
+  "title": "Dog Squinting and Pawing at Eye: Causes and Triage Guide",
+  "meta_desc": "Is your dog squinting or pawing at their eye? Learn about potential causes, urgency levels, and how a photo helps your vet provide the right care.",
+  "content_html": "<h3>What is it?</h3><p>When a dog squints or paws at their eye, it is a clear clinical sign of ocular pain or irritation. This behavior, known as blepharospasm, suggests that the sensitive nerves of the eye are being stimulated. Common causes include corneal ulcers (scratches on the surface), foreign objects like grass seeds trapped under the eyelid, conjunctivitis, or high intraocular pressure such as glaucoma.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is Medium. While it may not be a systemic life-threatening emergency, eye issues can progress very quickly from minor irritation to permanent vision loss. If your dog is squinting, you should aim to have them seen by a veterinarian within 12 to 24 hours. If you notice a change in the color of the eye or sudden swelling, contact an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo to a veterinary professional can be incredibly helpful for triage. A clear image allows the vet to look for signs of redness, cloudiness, or visible debris without needing to handle the painful eye immediately. This visual information helps determine if your dog needs to be seen urgently or if there are protective measures, like an Elizabethan collar, you should implement immediately to prevent further self-trauma.</p>",
+  "faqs": [
+    {
+      "question": "Should I let my dog keep pawing at their eye?",
+      "answer": "No. Pawing can lead to secondary injuries like deep corneal ulcers. If you have an Elizabethan collar (the 'cone of shame'), place it on your dog immediately to protect the eye until a vet can examine them."
+    },
+    {
+      "question": "Can I use human saline solution to wash the eye?",
+      "answer": "You can use a simple, preservative-free saline flush to gently rinse away debris, but avoid any medicated human eye drops, as these can be dangerous for dogs depending on the underlying cause."
+    },
+    {
+      "question": "What are the warning signs of a more serious eye problem?",
+      "answer": "Seek immediate care if you see a sudden change in eye color (bluish or red), a difference in pupil size, or if the eye appears to be bulging or sunken."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

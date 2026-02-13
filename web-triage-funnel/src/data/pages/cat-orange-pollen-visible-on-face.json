@@ -1,0 +1,20 @@
+{
+  "title": "Cat with Orange Pollen on Face: Why It’s a Veterinary Emergency",
+  "meta_desc": "Seeing orange pollen on your cat? It could be toxic lily pollen. Learn why this is a high-priority emergency and why you must act immediately.",
+  "content_html": "<h3>What is the Orange Dust on My Cat?</h3><p>If you notice bright orange or yellow dust on your cat’s face, nose, or paws, it is likely pollen from a lily. While many flowers are harmless, species in the Lilium (True Lily) and Hemerocallis (Daylily) families are profoundly toxic to cats. The pollen is particularly dangerous because it easily clings to fur and is ingested when the cat grooms itself.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. Yes, this is a life-threatening emergency. Every part of a lily plant—the petals, leaves, water in the vase, and especially the pollen—contains a toxin that causes rapid, acute kidney failure in cats. Even a microscopic amount can be fatal if not treated within hours. Do not wait for symptoms like vomiting or lethargy to appear, as internal damage begins almost immediately upon ingestion.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a quick, clear photo of the plant the pollen came from and the pollen on your cat before heading to the clinic. Different lily species carry different levels of toxicity. Providing a photo allows the veterinary team to identify the specific plant and prepare the appropriate treatment protocol or consult with poison control experts before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I just wash the pollen off at home?",
+      "answer": "While you should gently wipe off visible pollen to prevent further grooming, this does not replace a vet visit. If the cat has already licked even a small amount, they require immediate medical intervention."
+    },
+    {
+      "question": "Which lilies are the most dangerous?",
+      "answer": "Easter lilies, Tiger lilies, Daylilies, Asiatic lilies, and Stargazer lilies are among the most lethal. If you are unsure of the type, treat it as a high-level emergency."
+    },
+    {
+      "question": "What are the early signs of lily poisoning?",
+      "answer": "Early signs include vomiting, drooling, loss of appetite, and lethargy. However, kidney damage can occur even if the cat appears normal initially."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

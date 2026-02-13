@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sleeping Significantly More Than Usual: Causes & Triage Advice",
+  "meta_desc": "Is your dog sleeping more than usual? Learn when lethargy is a concern, how to monitor your pet, and when to seek veterinary advice.",
+  "content_html": "<h3>What is it?</h3><p>Increased sleep, often referred to as lethargy, occurs when a dog lacks their normal energy levels or enthusiasm for typical activities like walking or playing. While it is normal for dogs to sleep between 12 to 14 hours a day, a significant shift in their baseline behavior can indicate underlying issues ranging from minor fatigue or aging to more serious chronic health conditions.</p><h3>Is it an emergency?</h3><p>Urgency Level: Low. In most cases where a dog is simply sleeping more but is still eating, drinking, and moving normally when awake, this is not an immediate emergency. You should monitor your pet closely for any secondary symptoms such as loss of appetite, vomiting, or a reluctance to move. If your dog remains responsive and alert when prompted, a scheduled appointment with your veterinarian is the appropriate next step.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of your dog while they are resting or showing their movement when they finally wake up is incredibly helpful for veterinary triage. Visual evidence allows a professional to observe your dog's respiratory rate, resting posture, and gait. This helps differentiate between simple tiredness and signs of physical pain or neurological issues that may not be obvious during a physical exam at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "How much sleep is considered normal for an adult dog?",
+      "answer": "Most healthy adult dogs sleep between 12 and 14 hours per day, though this can increase based on age, size, and activity level."
+    },
+    {
+      "question": "Can weather or season change affect my dog's sleep?",
+      "answer": "Yes, very hot weather can cause dogs to be less active and sleep more to conserve energy and stay cool."
+    },
+    {
+      "question": "When does lethargy become an emergency?",
+      "answer": "If your dog is 'obtunded' (difficult to wake up), has pale gums, or is struggling to breathe, you should seek emergency veterinary care immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Cat Swallowed an Ibuprofen Tablet",
+  "meta_desc": "Ibuprofen is highly toxic to cats. This is a high-priority emergency requiring immediate veterinary care to prevent kidney failure or ulcers.",
+  "content_html": "<h3>What is Ibuprofen Toxicity?</h3><p>Ibuprofen is a common human non-steroidal anti-inflammatory drug (NSAID). While safe for humans, cats are extremely sensitive to it because their livers cannot break the medication down efficiently. Even a single 200mg tablet can lead to severe gastrointestinal ulceration, permanent kidney damage, and neurological distress.</p><h3>Is This an Emergency?</h3><p>Yes. This is a <strong>High-Priority Emergency</strong>. Do not wait for symptoms like vomiting, lethargy, or loss of appetite to appear. By the time symptoms are visible, significant internal damage may have already occurred. Immediate veterinary intervention is necessary to perform decontamination, such as gastric lavage or administering activated charcoal, and to start supportive IV fluids.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the medication packaging and the tablet (if any remain). A photo of the label allows the veterinarian to confirm the exact milligram dosage and check for other active ingredients, such as decongestants or caffeine, which may require additional specific treatments. Having this information ready can save vital minutes during the intake process.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a small piece of ibuprofen for pain?",
+      "answer": "No. Ibuprofen is never safe for cats in any dosage. Human medications should never be administered to pets without direct veterinary supervision."
+    },
+    {
+      "question": "What are the signs of ibuprofen poisoning in cats?",
+      "answer": "Common signs include vomiting (sometimes with blood), drooling, abdominal pain, weakness, and dark, tarry stools. However, treatment should begin before these signs emerge."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "Do not attempt to induce vomiting in a cat at home using hydrogen peroxide or other methods unless specifically directed by a veterinarian, as this can cause severe damage to the cat's esophagus."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

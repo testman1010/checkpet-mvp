@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Facial Swelling and Hives: Emergency Triage Guide",
+  "meta_desc": "Cat facial swelling and hives are often signs of a severe allergic reaction. Learn why this is a high-urgency emergency and how to help your pet.",
+  "content_html": "<h3>What is causing my cat's facial swelling and hives?</h3><p>Sudden facial swelling, known as angioedema, and hives (urticaria) are classic signs of an acute allergic reaction in cats. These symptoms occur when the immune system overreacts to a trigger, causing blood vessels to leak fluid into the skin and deeper tissues. Common triggers include insect stings from bees or wasps, spider bites, reactions to medications, or recent vaccinations.</p><h3>Is this a veterinary emergency?</h3><p>Urgency Level: High. While facial swelling might look like a cosmetic issue, it is a significant warning sign. In cats, these reactions can quickly progress to anaphylaxis, a life-threatening condition. If the swelling affects the throat or tongue, it can cause a physical airway obstruction. You should seek immediate veterinary care, especially if you notice rapid breathing, wheezing, vomiting, or extreme lethargy.</p><h3>Why taking a photo helps triage</h3><p>If your cat is stable enough to transport, take a quick, clear photo of their face and the hives on their body. This photo provides your veterinarian with a crucial baseline to determine if the swelling is worsening or improving once treatment begins. It also helps the medical team differentiate between an allergic reaction and other causes of swelling, such as a localized abscess or a dental infection, which require different treatments.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat Benadryl for swelling?",
+      "answer": "You should never administer human medications to your cat without a veterinarian's direct instructions. Many human formulations contain additives like xylitol which are toxic to cats, and the dosage for felines is very specific."
+    },
+    {
+      "question": "How quickly do allergic reactions occur in cats?",
+      "answer": "Most acute allergic reactions happen within minutes to a few hours after exposure to the allergen. Because they can progress so rapidly, immediate monitoring is essential."
+    },
+    {
+      "question": "What will the vet do for facial swelling?",
+      "answer": "A veterinarian typically treats these reactions with fast-acting injectable corticosteroids and antihistamines. If the cat is in respiratory distress, oxygen therapy and epinephrine may be required."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

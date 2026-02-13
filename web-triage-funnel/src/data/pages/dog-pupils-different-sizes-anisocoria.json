@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pupils Different Sizes (Anisocoria): Emergency Triage Guide",
+  "meta_desc": "If your dog's pupils are different sizes, it could be a medical emergency. Learn about anisocoria, urgency levels, and why a photo is vital for triage.",
+  "content_html": "<h3>What is Anisocoria?</h3><p>Anisocoria is a clinical condition where a dog's pupils are unequal in size; one pupil may be dilated (large) while the other is constricted (small). This visual symptom is not a disease in itself but is a significant indicator of an underlying medical issue involving the eye or the neurological pathways connecting the eye to the brain.</p><h3>Urgency Level: High</h3><p>Unequal pupil sizes are considered a high-priority veterinary emergency. Because the eyes are so closely linked to the central nervous system, sudden anisocoria can be a sign of severe conditions such as head trauma, brain tumors, glaucoma, or internal inflammation (uveitis). If you notice this change, you should contact an emergency veterinarian immediately. Delaying treatment can lead to permanent vision loss or signify worsening neurological damage.</p><h3>Why a Photo Helps Triage</h3><p>When you call a veterinary clinic, having a clear, well-lit photo of your dog's eyes can be a life-saving tool. Pupil sizes can fluctuate based on lighting or stress levels during transport. A photo provides the triage team with a static reference of the asymmetry, allowing them to assess the severity and prepare the necessary diagnostic equipment before you even walk through the door. It also helps the vet see if there are other accompanying signs like redness, cloudiness, or a drooping eyelid.</p>",
+  "faqs": [
+    {
+      "question": "Can anisocoria happen suddenly?",
+      "answer": "Yes, anisocoria often appears quite suddenly, especially if it is caused by physical trauma, an acute spike in eye pressure, or a neurological event."
+    },
+    {
+      "question": "Are there other symptoms I should look for?",
+      "answer": "Watch for squinting, pawing at the face, cloudiness in the eye, or changes in how your dog walks. These signs help the vet determine if the cause is localized to the eye or related to the brain."
+    },
+    {
+      "question": "Is it possible for a dog to be born with different sized pupils?",
+      "answer": "While rare, some dogs have congenital anisocoria. However, unless your vet has previously confirmed this is normal for your pet, any new difference in pupil size should be treated as an emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

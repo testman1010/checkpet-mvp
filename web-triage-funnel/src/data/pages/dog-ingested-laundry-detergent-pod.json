@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Laundry Detergent Pod: Emergency Triage Guide",
+  "meta_desc": "If your dog swallowed a laundry pod, it is a high-priority emergency. Learn the immediate steps to take and why you must contact a vet now.",
+  "content_html": "<h3>What is laundry detergent pod toxicity?</h3><p>Laundry detergent pods contain highly concentrated surfactants and chemicals designed to break down tough stains. When a dog bites into a pod, the pressure causes the concentrated liquid to burst. This can lead to chemical burns in the mouth, esophagus, and stomach, or more dangerously, the liquid can be inhaled into the lungs (aspiration), causing severe respiratory distress.</p><h3>Is it an emergency?</h3><p>Yes, the urgency level for laundry pod ingestion is High. Unlike standard liquid detergent, the concentrated nature of pods makes them significantly more toxic. Common risks include airway obstruction from foaming, chemical pneumonia, and severe gastrointestinal ulceration. You should contact a veterinarian or an animal poison control center immediately.</p><h3>Why a photo helps triage</h3><p>If possible, safely take a quick photo of the product packaging or the specific brand of pod. Different brands use varying concentrations of chemicals. Providing this image to your veterinarian allows them to identify the exact ingredients and prepare the necessary treatments or neutralizing agents before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. You should never induce vomiting if your dog ingested a detergent pod unless specifically instructed by a veterinarian. The detergent foams easily and can be inhaled into the lungs during vomiting, leading to life-threatening aspiration pneumonia."
+    },
+    {
+      "question": "What are the immediate signs of detergent poisoning?",
+      "answer": "Common symptoms include excessive drooling, gagging, persistent coughing, vomiting, and lethargy. If your dog is struggling to breathe or has a bluish tint to their gums, seek emergency care immediately."
+    },
+    {
+      "question": "Can I give my dog water or milk?",
+      "answer": "A small amount of water or milk may help rinse the mouth, but do not force liquids if your dog is coughing or struggling to breathe, as this can worsen respiratory issues."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

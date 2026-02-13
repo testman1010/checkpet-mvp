@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Garlic Powder Spill: Triage and Immediate Steps",
+  "meta_desc": "If your cat ate spilled garlic powder, take action now. Learn why garlic is toxic to cats and what to tell your vet during this medium-urgency event.",
+  "content_html": "<h3>What is Garlic Powder Ingestion?</h3><p>Garlic is a member of the Allium family, which contains compounds that are highly toxic to felines. When a cat ingests garlic powder, these compounds cause oxidative damage to their red blood cells, potentially leading to a serious condition called hemolytic anemia. Because garlic powder is a concentrated form of the vegetable, even a small spill can represent a significant toxic dose for a small animal.</p><h3>Is it an Emergency? (Urgency: Medium)</h3><p>This situation is classified as a Medium Urgency level. While your cat may appear perfectly fine immediately after eating the powder, the toxic effects on the blood cells often take several days to manifest. It is critical to contact your veterinarian or a pet poison control hotline immediately rather than waiting for symptoms to appear. Early intervention, such as decontamination, can prevent severe complications.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the spill and the ingredient label on the garlic powder container before cleaning it up. This visual evidence helps the veterinary team estimate the exact volume ingested and identify any other potentially harmful ingredients (like onion powder or salt) mixed into the seasoning. Having this information ready can significantly speed up the triage process and help the vet decide on the best course of action.</p>",
+  "faqs": [
+    {
+      "question": "How much garlic powder is toxic to cats?",
+      "answer": "There is no 'safe' amount of garlic for cats. Due to its concentrated nature, even less than a teaspoon can cause toxicosis in an average-sized cat."
+    },
+    {
+      "question": "What symptoms should I look for if my cat ate garlic?",
+      "answer": "Initial signs may include vomiting or diarrhea, but the more serious signs of anemia—such as pale gums, lethargy, rapid heart rate, and dark orange or red-tinted urine—may not appear for 2 to 5 days."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting in a cat at home unless specifically instructed to do so by a licensed veterinarian, as this can lead to aspiration pneumonia or other complications."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

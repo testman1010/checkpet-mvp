@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed a Chicken Bone: Emergency Triage Guide",
+  "meta_desc": "Immediate steps and emergency advice if your dog swallowed a chicken bone. Learn why this is high-urgency and how a photo helps your veterinarian.",
+  "content_html": "<h3>Understanding the Risks</h3><p>When a dog swallows a chicken bone, it poses several serious health risks. Unlike recreational chew bones, chicken bones—especially cooked ones—are hollow and brittle. This means they can easily splinter into sharp shards as they pass through your dog's digestive system, potentially causing punctures or tears in the esophagus, stomach, or intestines.</p><h3>Urgency Level: High</h3><p>If your dog has ingested a chicken bone, this is considered a high-urgency situation. While some bones may pass safely, the risk of a life-threatening gastrointestinal perforation or a complete bowel obstruction is significant. You should monitor your dog closely and contact an emergency veterinarian immediately if you observe symptoms such as gagging, repetitive vomiting, a bloated abdomen, or signs of intense pain.</p><h3>The Importance of Visual Evidence</h3><p>If you have access to the rest of the meal or a similar bone to the one ingested, please take a clear photo. A photograph helps the triage team and the veterinarian assess the size, sharpness, and type of bone involved. This visual information is critical in determining whether the dog needs to be induced to vomit (which can be dangerous with sharp objects) or if immediate surgical intervention is required to prevent internal damage.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "No. Never induce vomiting unless specifically instructed by a veterinarian. If the bone is sharp, it can cause more damage to the throat or esophagus coming back up than it would staying in the stomach."
+    },
+    {
+      "question": "How long does it take for a bone to pass?",
+      "answer": "It typically takes 24 to 48 hours for objects to pass through a dog's system. However, if the bone is stuck, it will not pass on its own and requires medical intervention."
+    },
+    {
+      "question": "What are the warning signs of internal injury?",
+      "answer": "Watch for lethargy, loss of appetite, straining to defecate, bloody stools, or a painful, hunched-over posture. These are signs of a potential emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

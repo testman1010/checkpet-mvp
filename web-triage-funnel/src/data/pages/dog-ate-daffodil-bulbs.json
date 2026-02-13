@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Daffodil Bulbs: Veterinary Triage & Toxicity Guide",
+  "meta_desc": "If your dog ate daffodil bulbs, it's a medium-level emergency. Learn about lycorine toxicity symptoms and why you should call your vet immediately.",
+  "content_html": "<h3>What Happens When a Dog Eats Daffodil Bulbs?</h3><p>Daffodils (Narcissus species) contain several toxic compounds, most notably lycorine, an alkaloid that triggers severe gastrointestinal distress. While the flowers and leaves are toxic, the highest concentration of these toxins is found in the bulb itself. If your dog has dug up and consumed these bulbs, they have ingested the most potent part of the plant, which can irritate the lining of the mouth and stomach.</p><h3>Is This an Emergency?</h3><p>Ingestion of daffodil bulbs is classified as a <strong>Medium Urgency</strong> situation. While it is rarely fatal if treated promptly, it can cause significant pain and illness. You should contact your veterinarian or a pet poison control hotline immediately. Common symptoms include intense vomiting, drooling, diarrhea, and abdominal pain. In large quantities or in small dogs, it can lead to more severe issues like low blood pressure, tremors, or cardiac arrhythmias.</p><h3>Why Taking a Photo Helps Triage</h3><p>If possible, safely take a clear photo of the plant, any remaining bulb fragments, or the packaging if the bulbs were recently purchased. Providing this photo to your veterinary team helps them confirm the species and estimate the potential dose of toxin your dog received. This visual evidence is vital for determining the best course of treatment, such as whether it is safe to induce vomiting or if your dog needs immediate intravenous fluid therapy and monitoring.</p>",
+  "faqs": [
+    {
+      "question": "How long does it take for symptoms of daffodil poisoning to appear?",
+      "answer": "Symptoms of daffodil toxicity usually begin within 15 minutes to a few hours after ingestion."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, do not induce vomiting unless specifically instructed to do so by a veterinarian. The toxins can be very irritating, and doing so improperly can lead to aspiration or further esophageal damage."
+    },
+    {
+      "question": "What is the typical treatment for a dog that ate daffodil bulbs?",
+      "answer": "Veterinary treatment often includes decontamination (like gastric lavage or activated charcoal), intravenous fluids to prevent dehydration, and medications to control vomiting and protect the stomach lining."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

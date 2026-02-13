@@ -1,0 +1,20 @@
+{
+  "title": "Why Has My Cat Not Moved in 12 Hours? Veterinary Triage Guide",
+  "meta_desc": "If your cat hasn't moved for 12 hours, they may be in pain or ill. Learn the urgency level and how to help your vet triage the situation.",
+  "content_html": "<h3>Understanding Prolonged Immobility</h3><p>When a cat remains in the exact same spot for 12 hours or more, it is a clinical sign of significant lethargy, weakness, or hiding behavior. Cats are naturally stoic and often hide physical pain or illness by remaining stationary and silent. This behavior suggests that the cat may lack the energy to access essential resources like food, water, or the litter box, or that movement itself has become painful.</p><h3>Is It an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While your cat may be stable in the moment, staying in one position for half a day is not normal feline behavior and indicates an underlying issue that requires professional assessment. You should schedule a veterinary visit within the next few hours. However, if this immobility is accompanied by labored breathing, vocalizing in pain, or an inability to use their limbs, the urgency increases to <strong>High</strong> and you should visit an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a photo or a brief video of your cat in their current state is an invaluable tool for veterinary triage. A visual allows a professional to assess the cat's posture—such as a 'hunched' stance indicating abdominal pain—their facial expression, and their level of alertness to their surroundings. This information helps the veterinary team determine if your cat needs to be fast-tracked for immediate care or if they can be seen during a standard appointment window.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to move my cat to see if they can walk?",
+      "answer": "You can gently encourage them with a favorite treat or toy. If they refuse to move or react with aggression or crying when touched, they are likely in pain and should be handled with extreme care while being placed in a carrier for the vet."
+    },
+    {
+      "question": "Could my cat just be having a very long nap?",
+      "answer": "While cats sleep up to 16 hours a day, they typically shift positions, groom, or move to different areas of the house. Staying in the exact same spot for 12 hours without any change is a red flag for illness or injury."
+    },
+    {
+      "question": "What other signs should I look for?",
+      "answer": "Check for rapid or shallow breathing, dilated pupils, a cold sensation in the paws, or any unusual odors. These symptoms can provide your vet with more clues about whether the issue is cardiovascular, metabolic, or physical trauma."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

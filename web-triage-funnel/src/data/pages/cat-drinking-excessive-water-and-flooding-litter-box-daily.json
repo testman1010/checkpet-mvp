@@ -1,0 +1,20 @@
+{
+  "title": "Increased Thirst and Urination in Cats: A Veterinary Triage Guide",
+  "meta_desc": "Is your cat drinking too much water and flooding the litter box? Learn about common causes, urgency levels, and when to seek veterinary care.",
+  "content_html": "<h3>What is Polyuria and Polydipsia?</h3><p>When a cat begins drinking excessive amounts of water (polydipsia) and producing a high volume of urine (polyuria), it is often a sign that their internal systems are struggling to maintain balance. We understand how concerning it is to see your feline friend's behavior change so suddenly. These symptoms are frequently associated with underlying conditions such as chronic kidney disease, diabetes mellitus, or hyperthyroidism, all of which require professional diagnosis and management.</p><h3>Is This an Emergency?</h3><p>The urgency level for increased thirst and urination is currently <strong>Medium</strong>. While this is likely not a life-threatening crisis in this exact moment, it is a significant clinical sign that should not be ignored. You should schedule a veterinary appointment within the next 24 to 48 hours. However, if your cat stops eating, begins vomiting, or becomes extremely lethargic, please seek emergency care immediately, as these could be signs of a more acute crisis like diabetic ketoacidosis.</p><h3>Why a Photo Helps Triage</h3><p>It can be difficult to describe exactly how much 'too much' is during a consultation. Taking a photo of the litter box before you scoop it—specifically showing the size and number of urine clumps—provides your veterinarian with a clear visual metric of the severity of the polyuria. These photos help the medical team prioritize your cat's case and determine which diagnostic tests, such as blood work or urinalysis, are the most urgent.</p>",
+  "faqs": [
+    {
+      "question": "Should I restrict my cat's water intake to stop the flooding?",
+      "answer": "No, you should never restrict your cat's access to fresh water. Their body is drinking more to compensate for a physiological need or to flush out toxins; restricting water can lead to rapid, life-threatening dehydration."
+    },
+    {
+      "question": "What are the most common causes for these symptoms?",
+      "answer": "The most common culprits in middle-aged to senior cats are chronic kidney disease, feline diabetes, and hyperthyroidism. In some cases, a urinary tract infection or liver issues may also be responsible."
+    },
+    {
+      "question": "What will the vet do during the appointment?",
+      "answer": "The veterinarian will likely perform a physical exam and recommend a 'senior' blood panel and a urinalysis. These tests allow them to check organ function, glucose levels, and the concentration of the urine to pinpoint the cause."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Coffee Ground Texture: Emergency Triage Guide",
+  "meta_desc": "If your dog's vomit looks like coffee grounds, it indicates internal bleeding. This is a veterinary emergency. Learn what to do and when to seek help.",
+  "content_html": "<h3>What Does Coffee Ground Vomit Mean?</h3><p>When a dog's vomit resembles dark, gritty coffee grounds, it is a clinical sign known as hematemesis. This texture is caused by blood that has been partially digested by stomach acid. The acid oxidizes the iron in the blood, turning it dark brown or black and creating a granular appearance. This indicates that bleeding is occurring somewhere in the upper gastrointestinal tract, such as the stomach or the beginning of the small intestine.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes, this is considered a high-urgency veterinary emergency. Coffee ground emesis is a sign of internal bleeding and cannot be managed at home. Potential causes include stomach ulcers, ingestion of toxins (such as rodenticides or human NSAIDs), severe infections, or gastrointestinal obstructions. Because internal bleeding can lead to shock or organ failure, you should transport your dog to an emergency veterinary clinic immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the vomit before cleaning it up. This visual evidence provides the veterinary team with critical information regarding the volume of blood lost and the level of digestion that has occurred. A photo allows the triage nurse to more accurately assess the severity of your dog's condition and may help the veterinarian narrow down the potential cause of the bleeding more quickly.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until tomorrow to see my regular vet?",
+      "answer": "No. Because the presence of digested blood indicates an active or recent internal hemorrhage, your dog needs immediate stabilization and diagnostic testing to prevent the condition from becoming life-threatening."
+    },
+    {
+      "question": "What are other symptoms I should look for?",
+      "answer": "Watch for pale gums, extreme lethargy, a racing heart rate, or black, tarry stools (melena). These are all signs of significant blood loss and worsening shock."
+    },
+    {
+      "question": "Should I withhold food or water?",
+      "answer": "Do not give your dog anything by mouth, as this could trigger more vomiting or interfere with emergency surgery if it is required. Head straight to the clinic."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

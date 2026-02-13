@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chewing Paws Until Raw and Bleeding: Veterinary Triage Guide",
+  "meta_desc": "Is your cat chewing their paws until they bleed? Learn about causes, urgency levels, and how to help your pet find relief with our veterinary guide.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat chews their paws until they are raw, hairless, or bleeding, it is typically a sign of intense pruritus (itching) or pain. This behavior can be caused by various underlying issues, including environmental or food allergies, parasitic infestations like fleas or mites, or fungal and bacterial infections. In some cases, it may be a behavioral condition known as psychogenic alopecia, where stress or anxiety leads to compulsive over-grooming. Regardless of the cause, the resulting open wounds are at high risk for secondary infections.</p><h3>Is It an Emergency?</h3><p>This situation is classified as a Medium Urgency level. While your cat is likely not in immediate life-threatening danger, open sores and active bleeding are painful and can quickly lead to severe infection or cellulitis. You should aim to have your cat seen by a veterinarian within 24 to 48 hours. If you notice significant swelling, a foul odor, or if your cat stops eating or becomes lethargic, you should seek veterinary care as soon as possible.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, high-resolution photo of your cat's paws can be an invaluable tool for your veterinary team. Because cats are often stressed at the clinic, they may hide their symptoms or resist a physical exam of sensitive areas. A photo captures the exact appearance of the lesion at its worst, showing the vet the level of inflammation, the presence of any discharge, and the specific distribution of the wounds. This helps the vet prioritize your pet's case and prepare the necessary diagnostic tools before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I put human antiseptic cream on my cat's paws?",
+      "answer": "No, you should avoid applying human medications or ointments unless specifically directed by a vet. Cats are meticulous groomers and may ingest ingredients that are toxic to them, such as zinc oxide or certain steroids."
+    },
+    {
+      "question": "What can I do at home to stop the chewing immediately?",
+      "answer": "The most effective way to prevent further self-trauma until your vet appointment is to use an Elizabethan collar (often called a 'cone'). This physically prevents the cat from reaching their paws to chew or lick the wounds."
+    },
+    {
+      "question": "Is it possible my cat is doing this because of stress?",
+      "answer": "Yes, stress can trigger compulsive grooming behaviors. However, veterinarians must first rule out medical causes like allergies or parasites through skin scrapings or blood tests before confirming a behavioral diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

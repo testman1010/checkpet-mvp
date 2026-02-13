@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Dog Swallowed a Hearing Aid Battery",
+  "meta_desc": "If your dog ate a hearing aid battery, act now. This high-priority emergency requires immediate veterinary care to prevent internal chemical burns.",
+  "content_html": "<h3>What is it?</h3><p>Hearing aid batteries are typically small, disc-shaped objects known as button cell batteries. While they appear small, they contain concentrated chemicals and can generate an electrical current when they come into contact with the moist environment of your dog's mouth, esophagus, or stomach.</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level for this situation is High. If the battery is punctured or if it remains in contact with the lining of the digestive tract, it can cause severe corrosive burns, internal bleeding, and even tissue death within just a few hours. This is a critical medical emergency that requires immediate professional intervention.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so, take a clear photo of the battery packaging or an identical spare battery. Veterinary teams need to know the specific chemistry (such as lithium or zinc-air) and the size of the battery. Providing a photo allows the vet to quickly determine the risk of electrical versus chemical burns and helps them prepare the correct treatment plan before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting if your dog swallowed a battery unless explicitly directed by a veterinarian. If the battery is brought back up, it can cause further corrosive damage to the esophagus or even become lodged."
+    },
+    {
+      "question": "What are the early signs of battery ingestion?",
+      "answer": "You may notice excessive drooling, oral pain, pawing at the mouth, or a blackish residue on the tongue. However, internal damage can occur without any visible outward symptoms, which is why immediate imaging (X-rays) is necessary."
+    },
+    {
+      "question": "Are 'dead' batteries still dangerous?",
+      "answer": "Yes. Even a battery that no longer powers a hearing aid often holds enough residual charge to cause significant electrical burns to the internal tissues of a pet."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

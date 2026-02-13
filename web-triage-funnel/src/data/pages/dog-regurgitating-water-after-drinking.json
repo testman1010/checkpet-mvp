@@ -1,0 +1,20 @@
+{
+  "title": "Dog Regurgitating Water After Drinking: Causes and Triage Guide",
+  "meta_desc": "Is your dog spitting up water? Learn the difference between vomiting and regurgitation, and when you should contact your veterinarian for help.",
+  "content_html": "<h3>What is Water Regurgitation?</h3><p>Regurgitation is the passive expulsion of water or food from the esophagus before it ever reaches the stomach. Unlike vomiting, which involves forceful abdominal contractions and retching, regurgitation often happens suddenly and without warning. If your dog leans over and water simply spills out of their mouth immediately after drinking, they are likely regurgitating.</p><h3>Is This an Emergency?</h3><p>The urgency level for this issue is Medium. While a single instance of drinking too fast might cause a dog to spit up, frequent regurgitation can be a sign of underlying conditions like megaesophagus or an esophageal obstruction. The primary danger is aspiration, where the fluid is inhaled into the lungs, potentially leading to pneumonia. You should consult a vet if this happens more than once or is accompanied by coughing.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of the event or taking a photo of the expelled liquid can be incredibly helpful for your veterinary team. Seeing the posture of the dog and the consistency of the fluid helps the vet distinguish between vomiting and regurgitation. This visual evidence allows for a much faster triage process and helps determine whether your pet needs immediate diagnostic imaging or a change in feeding habits.</p>",
+  "faqs": [
+    {
+      "question": "What is the difference between vomiting and regurgitation?",
+      "answer": "Vomiting is an active process involving stomach contractions and heaving, while regurgitation is a passive, sudden ejection of contents from the esophagus."
+    },
+    {
+      "question": "Can drinking too fast cause a dog to regurgitate?",
+      "answer": "Yes, drinking a large amount of water very quickly can cause the esophagus to become overwhelmed, leading to the water being expelled almost immediately."
+    },
+    {
+      "question": "Should I be worried about aspiration pneumonia?",
+      "answer": "Yes, aspiration is a serious risk with regurgitation. If your dog starts coughing, wheezing, or acting lethargic after spitting up water, seek veterinary care immediately."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

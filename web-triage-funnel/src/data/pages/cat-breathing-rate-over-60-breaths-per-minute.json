@@ -1,0 +1,20 @@
+{
+  "title": "Cat Breathing Rate Over 60: Emergency Triage Guide",
+  "meta_desc": "A cat breathing over 60 times per minute at rest is a medical emergency. Learn why this happens and how to get help immediately.",
+  "content_html": "<h3>What is Tachypnea in Cats?</h3><p>Tachypnea is the clinical term for a rapid breathing rate. In a healthy, resting cat, the normal respiratory rate typically ranges from 15 to 30 breaths per minute. When a cat reaches or exceeds 60 breaths per minute while at rest or sleeping, it is an indication that the body is working significantly harder than normal to oxygenate the blood or is experiencing severe internal distress.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, this is considered a high-level medical emergency. A resting respiratory rate over 60 often signifies life-threatening conditions such as congestive heart failure, feline asthma, pneumonia, or pleural effusion (fluid around the lungs). If your cat is also breathing with an open mouth, panting like a dog, or showing a blue or purple tint to the gums, do not wait. Transport your cat to the nearest 24-hour emergency veterinary hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a short 10-second video of your cat's breathing can be life-saving. By showing this video to the triage staff upon arrival, you allow them to visualize the 'effort' behind the breathing—such as abdominal breathing or chest wall retractions—which may be masked by the stress of the car ride. This helps the veterinary team prioritize your cat for immediate oxygen therapy or stabilization.</p>",
+  "faqs": [
+    {
+      "question": "How do I accurately count my cat's breathing rate?",
+      "answer": "While your cat is resting or sleeping, watch the rise and fall of their chest. One rise and one fall counts as one breath. Count the number of breaths in 15 seconds and multiply that number by 4 to get the breaths per minute."
+    },
+    {
+      "question": "What if my cat is purring while I try to count?",
+      "answer": "Purring can make it difficult to get an accurate count. Try to wait until the cat stops purring, or look for the movement of the abdomen. However, if the breathing looks visibly labored, skip the count and head to the vet immediately."
+    },
+    {
+      "question": "Could my cat just be hot or stressed?",
+      "answer": "While heat and stress can increase respiratory rates, cats rarely pant like dogs. A resting rate over 60 is abnormal regardless of the environment and warrants professional evaluation to rule out heart or lung failure."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

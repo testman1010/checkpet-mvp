@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat with Limp Tail and Dragging Hind Legs",
+  "meta_desc": "If your cat has a limp tail and is dragging its hind legs, seek emergency vet care immediately. Learn about saddle thrombus and spinal injuries.",
+  "content_html": "<h3>What is happening to your cat?</h3><p>When a cat suddenly loses the use of its hind legs and the tail becomes limp, it typically signifies a severe disruption in the neurological or vascular systems. This condition is often associated with Feline Aortic Thromboembolism (FATE), also known as a saddle thrombus, where a blood clot blocks blood flow to the lower extremities. It can also be caused by severe spinal trauma or a 'tail pull' injury that has damaged the nerves at the base of the spine.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> This is a life-threatening medical emergency. If your cat's back legs feel cold, the paw pads appear blue or pale, or your cat is vocalizing in extreme pain, you must transport them to an emergency veterinary hospital immediately. Rapid intervention is the only way to manage pain and attempt to restore function.</p><h3>How a photo helps triage</h3><p>Capturing a quick photo or video of your cat’s posture and how they are moving can be incredibly helpful for a triage team. A photo of the paw pads can show the veterinarian the current status of blood circulation (cyanosis), while a video of the movement helps them distinguish between a neurological issue and a vascular blockage before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What is a saddle thrombus?",
+      "answer": "A saddle thrombus occurs when a blood clot, usually originating from the heart, travels through the aorta and lodges where the artery branches to the hind legs, cutting off all circulation."
+    },
+    {
+      "question": "Can my cat recover from hind leg paralysis?",
+      "answer": "Recovery depends entirely on the underlying cause and how quickly treatment begins. While some cats regain mobility after intensive therapy, others may have permanent damage."
+    },
+    {
+      "question": "How can I keep my cat comfortable during transport?",
+      "answer": "Place your cat in a secure carrier lined with soft towels. Avoid moving their spine or legs more than necessary, and get to the nearest emergency facility as quickly as possible."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Fell Down Stairs: Emergency Triage and Injury Guide",
+  "meta_desc": "If your dog fell down the stairs, they may have hidden injuries. Learn how to assess the situation and when to seek immediate veterinary care.",
+  "content_html": "<h3>What Happens When a Dog Falls Down Stairs?</h3><p>A fall down the stairs is a traumatic event that can result in a variety of injuries ranging from minor soft tissue bruising to life-threatening internal damage. Because dogs are resilient, they may attempt to mask their pain, making it difficult to determine the severity of the fall through observation alone. Potential issues include bone fractures, joint luxations, spinal cord compression, or internal organ trauma.</p><h3>Is It an Emergency? (Urgency Level: High)</h3><p>Yes, any significant fall down a staircase should be treated as a high-urgency situation. While some dogs may only suffer minor scrapes, others may experience internal bleeding or head trauma that isn't immediately visible. You should seek emergency veterinary care immediately if your dog is unable to stand, exhibits labored breathing, has pale gums, shows signs of disorientation, or is vocalizing in pain. Even if they appear normal, a professional evaluation is recommended to rule out hidden complications.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a photo of any visible wounds or a brief video of your dog's gait (if they are mobile) can be incredibly helpful for the triage process. Visual evidence allows the medical team to see the exact nature of the trauma and any neurological deficits, such as knuckling of the paws or uneven pupils, before you even arrive at the clinic. This helps them prepare the necessary equipment and prioritize your dog's care upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I give my dog aspirin for pain after a fall?",
+      "answer": "No. Never give human medications to your dog without veterinary approval, as many are toxic. Additionally, some medications can interfere with the treatments a vet may need to administer."
+    },
+    {
+      "question": "What if my dog seems fine but is acting quiet?",
+      "answer": "Lethargy or 'acting quiet' after a fall can be a sign of shock, a concussion, or internal pain. It is best to have them examined to ensure there is no slow internal bleeding."
+    },
+    {
+      "question": "How should I transport my dog to the vet after a fall?",
+      "answer": "If you suspect a spinal or limb injury, keep your dog as still as possible. Use a flat board or a thick, folded blanket as a makeshift stretcher to prevent further injury during transport."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Puppy Ate a Chocolate Brownie",
+  "meta_desc": "If your puppy ate a chocolate brownie, it is a high-priority emergency. Learn why chocolate is toxic and what immediate steps you should take now.",
+  "content_html": "<h3>What is Chocolate Toxicity?</h3><p>Chocolate contains caffeine and a chemical compound called theobromine. While humans metabolize these easily, dogs process them much more slowly, allowing them to build up to toxic levels in their system. Brownies are particularly dangerous because they often contain cocoa powder or baker's chocolate, which have much higher concentrations of theobromine than standard milk chocolate.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, this is an emergency. Because puppies have smaller body weights and developing organs, even a small piece of a brownie can lead to severe poisoning. Symptoms can include vomiting, diarrhea, increased thirst, panting, restlessness, a racing heart rate, muscle tremors, and even seizures. You should contact a veterinarian or an animal poison control center immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging or a sample of the brownie, taking a quick photo can be life-saving. A photo helps the veterinary team identify the specific type of chocolate (dark, milk, or cocoa) and any additional hazards like xylitol or raisins. Seeing the size of the portion helps them calculate the exact dose of toxicity your puppy may have ingested, allowing for faster and more precise treatment.</p>",
+  "faqs": [
+    {
+      "question": "How soon will I see symptoms after my puppy eats chocolate?",
+      "answer": "Symptoms of chocolate poisoning usually appear within 6 to 12 hours, but they can start as early as one hour after ingestion. Do not wait for symptoms to appear before seeking help."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should never induce vomiting at home without direct instructions from a veterinarian. Doing so incorrectly can lead to aspiration pneumonia or other serious complications."
+    },
+    {
+      "question": "What if the brownie was sugar-free?",
+      "answer": "Sugar-free brownies often contain Xylitol (birch sugar), which is extremely toxic to dogs and can cause life-threatening low blood sugar and liver failure. This increases the urgency of the situation."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

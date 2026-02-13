@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sneezing Fits and Head Shaking: Triage and Care Guide",
+  "meta_desc": "Find out why your dog is sneezing and shaking their head. Learn about urgency levels, common causes, and how to help your vet with triage.",
+  "content_html": "<h3>What is it?</h3><p>Sneezing fits combined with head shaking typically indicate an irritation localized in the upper respiratory tract or the ear canals. When a dog experiences a sudden tickle or obstruction in their nasal passages, they sneeze to clear it. Because the nasal cavity and ears are closely linked via the Eustachian tubes, a dog will often shake their head simultaneously to relieve pressure or discomfort. Common causes include environmental allergens, 'reverse sneezing' episodes, or a foreign body like a grass seed caught in the nose or ear.</p><h3>Is it an emergency?</h3><p>The urgency level for these symptoms is generally low. Most cases are caused by minor irritants or seasonal allergies that do not require immediate life-saving intervention. However, you should monitor your pet closely. If you notice any blood in the nasal discharge, extreme lethargy, or if the head shaking becomes constant and frantic, you should contact your veterinarian for a prompt appointment. If the symptoms are mild and intermittent, a routine visit within 24 to 48 hours is usually sufficient.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a video of the sneezing fit or a clear, well-lit photo of your dog's nose and ears can significantly speed up the diagnostic process. Visual evidence helps the veterinary team distinguish between a standard sneeze and a reverse sneeze, and allows them to check for visible swelling or discharge before you even arrive at the clinic. This documentation ensures the clinical team can prioritize your pet's needs effectively.</p>",
+  "faqs": [
+    {
+      "question": "Can a dog have a 'reverse sneeze' and shake its head?",
+      "answer": "Yes. A reverse sneeze is a common and usually harmless occurrence where a dog pulls air in sharply through the nose. The unusual sensation can cause them to shake their head in confusion or to clear the airway."
+    },
+    {
+      "question": "What if my dog only shakes their head after sneezing?",
+      "answer": "This is often a physical reflex to the force of the sneeze. However, if the head shaking persists independently, it may indicate an underlying ear infection or a foreign object stuck in the ear canal."
+    },
+    {
+      "question": "Are certain breeds more prone to sneezing fits?",
+      "answer": "Brachycephalic (flat-faced) breeds like Pugs and Bulldogs are more prone to respiratory irritations and reverse sneezing due to their unique airway anatomy."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

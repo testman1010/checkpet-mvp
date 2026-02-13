@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Help: My Cat Is Unable to Stand Up | Veterinary Triage",
+  "meta_desc": "If your cat cannot stand up, it is a high-priority medical emergency. Learn the potential causes and why you must seek immediate veterinary care.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat is physically unable to stand, it is known as recumbency. This condition occurs when a cat cannot support their own weight or coordinate their limbs to rise. It can manifest as sudden paralysis in the hind legs, generalized weakness across all four limbs, or a complete collapse. This is often a sign of a severe underlying issue affecting the spinal cord, brain, heart, or metabolic system.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is an absolute medical emergency. If your cat cannot stand, they are likely experiencing significant distress or a life-threatening failure of a major bodily system. Conditions such as a 'saddle thrombus' (a painful blood clot), severe trauma, or acute neurological failure require immediate intervention. Do not wait for symptoms to 'clear up' on their own; contact the nearest emergency veterinary hospital right away.</p><h3>How a Photo or Video Helps Triage</h3><p>Providing a quick video of your cat's attempts to move can be vital for the veterinary team. A 5-to-10 second clip allows a triage nurse to see if the weakness is localized (such as dragging the back legs) or systemic (total collapse). This visual information helps the clinic prepare for your arrival, ensuring they have the right specialists and equipment ready the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat pain medication at home?",
+      "answer": "No. Never administer human medications like aspirin or ibuprofen, as these are highly toxic to cats and can complicate their emergency treatment."
+    },
+    {
+      "question": "What if my cat doesn't seem to be in pain?",
+      "answer": "Even if your cat is not crying out, the inability to stand is a sign of a critical failure. Cats often mask pain, and neurological issues may result in a loss of feeling rather than acute pain."
+    },
+    {
+      "question": "How should I transport my cat to the vet?",
+      "answer": "Gently slide your cat onto a flat, rigid surface like a sturdy piece of cardboard or keep them level in a carrier lined with soft towels to prevent further injury during transit."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

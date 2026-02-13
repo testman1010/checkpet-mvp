@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Cat Feces: Risks, What to Do, and Triage Advice",
+  "meta_desc": "Find out why dogs eat cat poop, the health risks involved, and when to contact your vet. Generally, the urgency level for this behavior is low.",
+  "content_html": "<h3>What Is Coprophagia?</h3><p>Eating feces, medically known as coprophagia, is a common albeit unpleasant behavior in dogs. Because cat food is high in protein and fat, feline waste often retains a scent that dogs find appealing. While it is a natural scavenging instinct, it can be a source of frustration and concern for pet owners.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the vast majority of cases, a dog eating cat feces is not a medical emergency. Most dogs will experience no symptoms at all, or perhaps only mild gastrointestinal upset. However, you should contact a veterinarian if you notice persistent vomiting, bloody diarrhea, or extreme lethargy, as these could indicate a parasitic infection or a reaction to the cat litter itself.</p><h3>How Photos Help Triage</h3><p>If you are consulting a vet or a triage service, providing a photo can be very beneficial. A photo of the cat's stool helps the professional look for signs of visible parasites or blood. Additionally, a photo of the litter packaging is helpful; while most litters pass through the digestive tract safely, clumping clay or silica-based litters can occasionally cause issues if a very large volume is ingested by a small dog.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog get worms from eating cat poop?",
+      "answer": "Yes, dogs can contract internal parasites such as roundworms or hookworms if the cat is infected. Regular parasite preventatives for your dog can help mitigate this risk."
+    },
+    {
+      "question": "Is cat litter toxic to dogs?",
+      "answer": "Most commercial litters are non-toxic, but clumping litter can absorb moisture and expand. If your dog ate a significant amount of litter along with the feces, monitor them for signs of constipation or abdominal pain."
+    },
+    {
+      "question": "What should I do immediately after my dog eats cat feces?",
+      "answer": "Wipe your dog's mouth with a damp cloth and offer them fresh water. Do not induce vomiting unless specifically directed to do so by a veterinary professional."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

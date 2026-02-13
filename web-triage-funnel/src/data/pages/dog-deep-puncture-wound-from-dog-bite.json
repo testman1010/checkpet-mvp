@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bite Puncture Wounds: Triage and Care Guide",
+  "meta_desc": "Learn how to handle deep puncture wounds from dog bites. Understand the urgency level and why professional veterinary triage is necessary.",
+  "content_html": "<h3>What is a Dog Bite Puncture Wound?</h3><p>A deep puncture wound occurs when a dog's canine teeth penetrate the skin and underlying tissues. While the surface wound may look small, the pressure from the jaw often causes significant damage to the muscle, nerves, and blood vessels beneath. Because dog mouths harbor various bacteria, these wounds frequently seed infection deep inside the body where it cannot be easily cleaned.</p><h3>Is it an Emergency?</h3><p>The urgency level for a puncture wound is Medium. While a single puncture may not appear to be an immediate life-and-death situation, it is never something that should be handled solely at home. If the wound is near a vital organ, joint, or the neck, or if there is active, heavy bleeding, the urgency increases to High. Most bite wounds require veterinary intervention within 12-24 hours to prevent severe abscesses or systemic infection.</p><h3>How a Photo Assists in Triage</h3><p>Providing a clear, well-lit photo of the injury helps veterinary professionals determine the severity of the trauma. A photo allows a triage assistant to look for signs of 'pocketing' (where the skin is pulled away from the muscle), bruising, or proximity to sensitive areas like the eyes or throat. This visual information ensures your dog is prioritized correctly and helps the medical team prepare the necessary treatments before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I bandage a deep puncture wound at home?",
+      "answer": "Generally, no. Puncture wounds should not be sealed or tightly bandaged as this can trap bacteria inside. If there is active bleeding, apply gentle pressure with a clean cloth, but otherwise, leave it open until seen by a vet."
+    },
+    {
+      "question": "What are the signs that a bite wound is getting worse?",
+      "answer": "Watch for spreading redness, significant swelling, heat in the area, or a foul-smelling discharge. If your dog becomes lethargic or loses their appetite, the infection may be spreading."
+    },
+    {
+      "question": "Why does my vet need to 'probe' the wound?",
+      "answer": "Vets probe puncture wounds to determine how deep they go and if there is a 'pocket' under the skin. This helps them decide if the wound needs a surgical drain or extensive flushing."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

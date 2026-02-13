@@ -1,0 +1,20 @@
+{
+  "title": "Cat Intense Itching and Self-Biting: Causes and Triage Guide",
+  "meta_desc": "Is your cat scratching or biting themselves? Learn about the causes of intense itching, when it becomes an emergency, and how photos help triage.",
+  "content_html": "<h3>What is it?</h3><p>Intense itching, or pruritus, is a condition where a cat excessively scratches, licks, or bites their skin to the point of causing hair loss or injury. This behavior is often a response to extreme discomfort. Common causes include external parasites like fleas or mites, allergic reactions to food or environmental triggers, and secondary skin infections. When a cat begins self-biting, it often indicates the itch has become painful or intolerable.</p><h3>Is it an emergency?</h3><p>The urgency level for intense itching and self-mutilation is <strong>Medium</strong>. While rarely an immediate life-threat, it represents a significant quality-of-life issue and can lead to severe secondary bacterial infections if the skin is broken. You should schedule a veterinary appointment within 24 to 48 hours. If you notice signs of systemic illness, such as lethargy, loss of appetite, or foul-smelling discharge from the skin, you should seek care more urgently.</p><h3>Why a photo helps triage</h3><p>Capturing a high-quality photo of the affected skin, rashes, or areas of hair loss is incredibly helpful for a veterinary triage professional. A photo allows them to see the distribution of the lesions, check for the presence of parasites like flea dirt, and identify signs of inflammation or infection. This visual information is crucial for determining how quickly your cat needs to be seen and whether any immediate at-home soothing measures can be recommended.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat Benadryl for the itching?",
+      "answer": "You should never give your cat any over-the-counter human medication without a specific dosage and approval from your veterinarian, as many human formulations contain additives like xylitol or decongestants that are toxic to cats."
+    },
+    {
+      "question": "What if my cat is bleeding from biting themselves?",
+      "answer": "If your cat has created an open wound that is actively bleeding, clean the area gently with mild soap and water and use an Elizabethan collar (cone) to prevent further self-trauma until you can reach a vet."
+    },
+    {
+      "question": "Could this be caused by stress?",
+      "answer": "Yes, psychogenic alopecia is a condition where cats over-groom due to stress or anxiety. However, a veterinarian must first rule out all physical causes, such as allergies or parasites, before a behavioral diagnosis is made."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Frequent Urination in Small Amounts: Guide and Triage",
+  "meta_desc": "Is your cat making frequent trips to the litter box? Learn about FLUTD, urinary blockages, and when to seek urgent veterinary care for your pet.",
+  "content_html": "<h3>What is Frequent Urination in Cats?</h3><p>When a cat frequently attempts to urinate but only produces very small amounts, it is often a sign of inflammation or irritation in the lower urinary tract. This condition is frequently associated with Feline Lower Urinary Tract Disease (FLUTD), which encompasses several issues including urinary tract infections (UTIs), bladder stones, or Feline Idiopathic Cystitis (FIC). The cat feels a constant, urgent need to go, even if the bladder is nearly empty.</p><h3>Is it an Emergency?</h3><p>The urgency level for frequent urination is generally <strong>Medium</strong>. You should schedule a veterinary appointment within 24 hours. However, it can become a <strong>High</strong> urgency emergency if your cat is a male. Male cats are at a high risk for urethral obstructions, which are life-threatening. If your cat is straining and producing absolutely no urine, or if they are vomiting and acting lethargic, you must visit an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the litter box or the area where your cat has urinated can provide vital information to your veterinarian. A photo allows the vet to see the exact volume of urine produced, the color (to check for blood), and the frequency of the spots. Additionally, a photo or short video of your cat's posture while straining can help the vet distinguish between urinary distress and constipation, ensuring a more accurate and faster diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat be behaving this way due to stress?",
+      "answer": "Yes, Feline Idiopathic Cystitis (FIC) is a common condition where stress triggers bladder inflammation, leading to frequent urination in small amounts."
+    },
+    {
+      "question": "What if I see blood in the small drops of urine?",
+      "answer": "Blood in the urine, or hematuria, is a sign of significant inflammation, infection, or stones and should be evaluated by a veterinarian as soon as possible."
+    },
+    {
+      "question": "Is frequent urination the same as marking territory?",
+      "answer": "No, marking is usually done on vertical surfaces with a normal volume of urine. Frequent, small amounts in a squatting position indicate a medical issue rather than a behavioral one."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

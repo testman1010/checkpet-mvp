@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eating Drywall or Plaster: Causes and Triage Steps",
+  "meta_desc": "Is your dog eating drywall? Learn why this happens, the risks involved, and why this is considered a medium-urgency veterinary situation.",
+  "content_html": "<h3>What is Drywall Eating?</h3><p>When a dog consumes non-food items like drywall or plaster, it is clinically referred to as pica. This behavior may be triggered by several factors, including puppy teething, boredom, separation anxiety, or an underlying nutritional deficiency such as anemia. Drywall is primarily composed of gypsum, which is generally non-toxic, but the physical structure of the material can still pose significant health risks to your pet.</p><h3>Is it an Emergency?</h3><p>The urgency level for ingesting drywall is classified as Medium. While the material itself isn't a poison, the primary concern is the risk of a gastrointestinal blockage. Large chunks of plaster or drywall can become lodged in the digestive tract, necessitating surgical removal. You should seek immediate veterinary care if your dog displays symptoms of distress, such as repeated vomiting, a bloated abdomen, lethargy, or a total loss of appetite.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting a vet or a triage service, taking a photo of the damage is highly beneficial. A clear image allows a professional to estimate the volume of material ingested and identify potential hidden dangers. Drywall often contains nails, screws, joint compound, or fiberglass mesh tape that your dog may have swallowed along with the plaster. Seeing the site helps the vet determine the level of risk and whether an X-ray is required.</p>",
+  "faqs": [
+    {
+      "question": "Is drywall toxic to dogs?",
+      "answer": "Standard gypsum drywall is not considered toxic, but it can contain additives, adhesives, or paint that may be irritating. The greatest risk is physical blockage rather than chemical poisoning."
+    },
+    {
+      "question": "Why would my dog suddenly start eating the wall?",
+      "answer": "Sudden pica can be caused by boredom, a lack of environmental stimulation, or medical issues like mineral deficiencies and gastrointestinal disorders. Consult your vet to rule out health problems."
+    },
+    {
+      "question": "What should I monitor for after my dog eats plaster?",
+      "answer": "Keep a close eye on their bowel movements for the next 48 hours. Watch for straining, constipation, or any signs of abdominal pain and discomfort."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

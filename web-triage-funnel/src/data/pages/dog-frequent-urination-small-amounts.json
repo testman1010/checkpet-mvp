@@ -1,0 +1,20 @@
+{
+  "title": "Dog Frequent Urination (Small Amounts): Causes and Triage Guide",
+  "meta_desc": "Is your dog urinating small amounts frequently? Learn about potential causes, urgency levels, and how a photo can help your vet provide better care.",
+  "content_html": "<h3>What is Frequent Urination in Small Amounts?</h3><p>When a dog frequently attempts to urinate but only produces a small amount each time, it is medically referred to as pollakiuria. This is often a sign of irritation, inflammation, or a sensation of fullness in the bladder or urethra. Common causes include urinary tract infections (UTIs), bladder stones, crystals, or even stress-related behaviors. Unlike polyuria (producing large volumes of urine), pollakiuria suggests the problem is likely in the lower urinary tract.</p><h3>Urgency Level: Medium</h3><p>The urgency level for this condition is Medium. While it is rarely a life-threatening emergency in the first few hours, it is often very uncomfortable and painful for your dog. You should aim to have your dog evaluated by a veterinarian within 24 to 48 hours. However, if your dog is straining and unable to produce any urine at all, this could indicate a urinary blockage, which is a critical emergency requiring immediate veterinary attention.</p><h3>How a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the urine (especially if it is on a light-colored surface or in a clear container) can be incredibly helpful for triage. A photo allows the medical team to visually inspect the color, clarity, and the presence of any blood or visible sediment. This information helps the vet determine the severity of the inflammation and prioritize your dog’s appointment based on the clinical signs shown.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just be marking their territory?",
+      "answer": "While marking is possible, a sudden change where a dog is straining or going more frequently than usual often points to a medical issue like an infection or stones."
+    },
+    {
+      "question": "Should I bring a urine sample to the vet?",
+      "answer": "Yes, if possible, collect a fresh sample in a clean container right before your appointment. This can speed up the diagnostic process significantly."
+    },
+    {
+      "question": "Is blood in the urine normal with this condition?",
+      "answer": "Blood (hematuria) is a common symptom of UTIs or bladder stones, but it always indicates that the dog is experiencing significant irritation and needs medical care."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

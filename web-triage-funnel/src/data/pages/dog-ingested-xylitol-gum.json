@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Xylitol Gum: Immediate Emergency Action Guide",
+  "meta_desc": "If your dog ate sugar-free gum containing xylitol, this is a high-priority emergency. Learn why immediate veterinary care is essential for survival.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a sugar alcohol commonly used as a sweetener in sugar-free chewing gum, candies, and breath mints. While perfectly safe for human consumption, it is a potent toxin for dogs. When a dog ingests xylitol, it triggers a rapid and massive release of insulin from the pancreas, leading to a dangerous drop in blood sugar levels.</p><h3>Is it an Emergency? (Urgency: High)</h3><p>Yes, this is a life-threatening emergency. Ingestion of xylitol requires immediate veterinary intervention. There is no 'wait and see' period. Within 30 to 60 minutes, a dog may experience profound hypoglycemia (low blood sugar), which can lead to seizures, coma, and even death. In higher doses, xylitol can also cause acute, irreversible liver failure. You should contact your local emergency veterinarian or a pet poison control hotline immediately.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a clear photo of the gum packaging, specifically the ingredient list and the nutritional information. Different brands contain varying concentrations of xylitol. Having a photo allows your veterinarian to calculate the exact toxic dose based on your dog's weight, which is critical for determining whether the treatment plan requires basic monitoring or intensive life-support measures.</p>",
+  "faqs": [
+    {
+      "question": "What are the early symptoms of xylitol poisoning?",
+      "answer": "Early signs include vomiting, followed by symptoms of low blood sugar such as lethargy, stumbling, weakness, and collapse."
+    },
+    {
+      "question": "How much xylitol is toxic to a dog?",
+      "answer": "As little as 0.1 grams per kilogram of body weight can cause hypoglycemia, while higher amounts can lead to liver failure. One or two pieces of gum can be toxic to a small dog."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian, as it can be dangerous if the dog is already becoming weak or disoriented."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

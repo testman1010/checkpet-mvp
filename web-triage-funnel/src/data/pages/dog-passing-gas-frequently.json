@@ -1,0 +1,20 @@
+{
+  "title": "Dog Passing Gas Frequently: Causes and Triage Guide",
+  "meta_desc": "Is your dog passing gas often? Learn about canine flatulence, when it's an emergency, and how to triage your pet's digestive health safely.",
+  "content_html": "<h3>What is Canine Flatulence?</h3><p>Flatulence is the accumulation of gas in the digestive tract that is eventually expelled through the rectum. In dogs, this is often caused by the bacterial fermentation of nutrients in the colon or by aerophagia, which is the swallowing of excessive air while eating or drinking. While it may be unpleasant, it is a common part of the digestive process.</p><h3>Is it an Emergency?</h3><p>The urgency level for frequent gas is generally <strong>Low</strong>. Most cases are related to diet, such as high-fiber ingredients or a recent change in food. However, if your dog's gas is accompanied by a distended (bloated) abdomen, visible pain, or unproductive vomiting, you should contact an emergency veterinarian immediately, as these can be signs of more serious conditions.</p><h3>Why a Photo or Video Helps Triage</h3><p>Since gas itself isn't visible, providing a photo of your dog standing from a side and top-down view helps a professional assess if the abdomen appears abnormally distended. Additionally, a photo of your dog's most recent stool or a video of their posture can help determine if the flatulence is associated with gastrointestinal distress or pain.</p>",
+  "faqs": [
+    {
+      "question": "Can certain ingredients cause my dog to have more gas?",
+      "answer": "Yes, diets high in soybeans, peas, beans, or high-fiber grains can increase fermentation and gas production in the gut."
+    },
+    {
+      "question": "How can I reduce my dog's gas at home?",
+      "answer": "Try using a slow-feeder bowl to reduce air swallowing and avoid feeding table scraps, which can disrupt your dog's digestive balance."
+    },
+    {
+      "question": "When should I be worried about my dog's flatulence?",
+      "answer": "You should seek veterinary advice if the gas is accompanied by weight loss, diarrhea, vomiting, or a noticeable change in appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

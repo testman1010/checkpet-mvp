@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Dark Chocolate: Emergency Triage and Advice",
+  "meta_desc": "If your dog ate dark chocolate, it is a high-urgency situation. Learn why dark chocolate is toxic and what immediate steps you must take now.",
+  "content_html": "<h3>What is dark chocolate toxicity?</h3><p>Dark chocolate contains high concentrations of theobromine and caffeine, both of which are methylxanthines. While humans metabolize these compounds easily, dogs do not. Because dark chocolate has a much higher cocoa content than milk chocolate, it is significantly more dangerous and can lead to severe poisoning even in small amounts.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, eating a dark chocolate bar is considered a veterinary emergency. Unlike milk chocolate, the high concentration of toxins in dark chocolate can rapidly cause heart arrhythmias, tremors, seizures, and in severe cases, death. You should contact your local emergency veterinarian or a pet poison control hotline immediately.</p><h3>Why a photo helps triage</h3><p>When you contact a professional, having a photo of the chocolate's packaging is incredibly helpful. The label provides the exact cocoa percentage and the net weight of the bar. This allows the veterinarian to calculate the exact dose of theobromine your dog may have ingested based on their body weight, which determines the necessary level of medical intervention.</p>",
+  "faqs": [
+    {
+      "question": "How soon will symptoms of chocolate poisoning appear?",
+      "answer": "Signs of toxicity usually appear within 6 to 12 hours but can start as early as 1 hour after ingestion."
+    },
+    {
+      "question": "What are the common symptoms of chocolate toxicity?",
+      "answer": "Common symptoms include extreme thirst, pacing or restlessness, vomiting, diarrhea, a racing heart, and muscle tremors."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian, as this can sometimes lead to aspiration pneumonia or other complications."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

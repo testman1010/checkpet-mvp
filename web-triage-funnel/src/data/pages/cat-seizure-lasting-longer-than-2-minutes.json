@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Seizure Lasting Over 2 Minutes",
+  "meta_desc": "A seizure lasting over 2 minutes in a cat is a medical emergency. Read our guide on immediate steps to take and why you must seek urgent vet care.",
+  "content_html": "<h3>What is a Feline Seizure?</h3><p>A seizure is a sudden, uncontrolled electrical disturbance in your cat's brain. During an episode, you may witness your cat collapsing, stiffening, paddling their legs, or losing control of their bladder. It is a distressing experience for both you and your pet, but understanding what is happening is the first step in providing help.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Any seizure lasting longer than two minutes is considered a critical medical emergency. This state, often referred to as status epilepticus, prevents the brain from cooling down and can lead to permanent organ damage or hyperthermia. If your cat is currently seizing for this duration, please stop reading and contact your nearest emergency veterinarian immediately.</p><h3>How Capturing a Video Helps Triage</h3><p>While your priority must be keeping your cat safe from falling or hitting sharp objects, recording a short video of the event (if another person is available to help) can be incredibly useful. Veterinarians use these videos to differentiate between a true neurological seizure and other conditions like fainting, heart issues, or vestibular disease. This visual evidence allows for a faster, more accurate diagnosis once you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to restrain my cat during a seizure?",
+      "answer": "No. Do not try to restrain your cat or put your hands near their mouth, as they may accidentally bite or scratch you. Instead, clear the area of furniture or sharp objects to prevent injury."
+    },
+    {
+      "question": "What happens after the seizure ends?",
+      "answer": "Your cat will likely enter a 'post-ictal' phase where they appear disoriented, blind, or wobbly. Keep them in a dark, quiet room and continue to seek veterinary advice even if they seem to be recovering."
+    },
+    {
+      "question": "Can a cat recover from a long seizure?",
+      "answer": "With immediate veterinary intervention to stop the seizure activity and manage brain swelling, many cats can recover, though the underlying cause will need to be identified and managed."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

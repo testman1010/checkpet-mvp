@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Unknown Wild Mushrooms: Emergency Triage Guide",
+  "meta_desc": "If your dog ate unknown wild mushrooms, this is a high-priority emergency. Learn the immediate steps to take and why photo identification is vital.",
+  "content_html": "<h3>What is it?</h3><p>Mushroom ingestion occurs when a dog consumes wild-growing fungi in a yard, park, or wooded area. While many mushrooms are non-toxic, several common species contain lethal toxins that can cause rapid liver failure, kidney damage, or severe neurological distress. Because many poisonous varieties look nearly identical to harmless ones, all wild mushroom ingestions must be treated as potentially life-threatening.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> This is a critical medical emergency. You should not wait for symptoms to develop before seeking help. Some of the most dangerous mushrooms, such as the Amanita species, have a 'latent period' where the dog may appear completely normal for 6 to 12 hours while internal organ damage is already occurring. Immediate veterinary intervention is necessary to prevent the absorption of toxins.</p><h3>Why a Photo Helps Triage</h3><p>Identifying the specific species of mushroom is the fastest way for a veterinarian to determine the correct treatment protocol. Before heading to the clinic, take several clear, high-resolution photos of the mushroom from different angles. Be sure to capture the top of the cap, the gills or pores underneath, and the base of the stem. If possible, safely collect a sample in a paper bag to bring with you, as this helps specialists provide a definitive identification.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without a direct instruction from a veterinarian or poison control expert, as certain conditions or toxins can make this dangerous."
+    },
+    {
+      "question": "What symptoms should I watch for?",
+      "answer": "Common signs of mushroom poisoning include vomiting, diarrhea, excessive drooling, lethargy, stumbling, tremors, or seizures."
+    },
+    {
+      "question": "How do I safely collect a mushroom sample?",
+      "answer": "Use a paper bag rather than plastic to prevent the sample from melting or rotting, and try to include the entire mushroom including the root or base."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

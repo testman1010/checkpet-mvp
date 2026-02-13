@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Undigested Pills: Veterinary Triage Guide",
+  "meta_desc": "If your dog is vomiting undigested medication, it is a high-priority concern. Learn when to seek emergency care and why timing is critical.",
+  "content_html": "<h3>What Is Happening?</h3><p>When a dog vomits undigested pills, it means the medication was expelled from the stomach before it could be fully broken down and absorbed into the bloodstream. This can occur due to primary gastrointestinal irritation, the specific coating of the pill, or an underlying condition that is making your pet nauseous.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is High. While a single episode of vomiting can sometimes be minor, the inability to keep down medication is a major concern, especially if the pill was prescribed for a serious condition like heart disease, seizures, or a severe infection. If your dog is also lethargic, has a bloated abdomen, or continues to retch, seek immediate veterinary care at an emergency clinic.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the vomitus and the expelled pill before cleaning it up. This photo is an invaluable tool for your veterinarian because it allows them to identify how much of the medication was dissolved, whether the pill casing is intact, and if there are other concerning elements like blood or bile. This helps the medical team decide whether it is safe to redose the medication or if a different delivery method, such as an injection, is required.</p>",
+  "faqs": [
+    {
+      "question": "Should I give my dog another pill right away?",
+      "answer": "No. Never redose medication without consulting your veterinarian first. If some of the pill was absorbed before the vomiting occurred, giving a second dose could lead to an accidental overdose."
+    },
+    {
+      "question": "How long does it take for a pill to be absorbed?",
+      "answer": "Most pills begin to break down within 20 to 30 minutes, but full absorption can take several hours. If you see the pill whole in the vomit, it is likely none of the medication was absorbed."
+    },
+    {
+      "question": "Can I hide the pill in different food to stop the vomiting?",
+      "answer": "If your dog is actively vomiting, adding more food may worsen the stomach upset. Check with your vet to see if the medication can be given with a small amount of a bland diet like plain boiled chicken or rice."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

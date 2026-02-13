@@ -1,0 +1,20 @@
+{
+  "title": "Female Dog with Lethargy and Swollen Belly: Emergency Triage Guide",
+  "meta_desc": "If your female dog is lethargic with a swollen belly, this is a high-priority emergency. Learn about potential causes like Pyometra and Bloat.",
+  "content_html": "<h3>What Could This Mean for Your Dog?</h3><p>When a female dog exhibits both lethargy and a swollen or distended abdomen, it is often a sign of a serious internal issue. In unspayed females, a primary concern is Pyometra, a life-threatening infection of the uterus. Other possibilities include Gastric Dilatation-Volvulus (GDV or 'bloat'), internal bleeding, or sudden fluid accumulation due to heart or liver failure. These conditions are painful and can progress rapidly without medical intervention.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> This is a critical medical emergency. If your dog is acting weak, reluctant to move, or has a visibly firm or enlarged belly, you must seek veterinary care immediately. Many of the underlying causes, particularly bloat and Pyometra, can become fatal within hours. Do not wait for the symptoms to resolve on their own; every minute counts in stabilizing your pet.</p><h3>How a Photo Helps Triage</h3><p>If it is safe to do so while you are preparing to head to the clinic, taking a photo of your dog can be extremely helpful for the veterinary team. A clear side-profile photo and a top-down photo of your dog's abdomen allow the triage staff to assess the degree of distension and the specific shape of the swelling. This visual information helps them prepare for your arrival, potentially prioritizing your pet for immediate life-saving diagnostics and treatment.</p>",
+  "faqs": [
+    {
+      "question": "Can a swollen belly wait until the morning?",
+      "answer": "No. A swollen belly combined with lethargy is a sign of acute distress. Waiting several hours can lead to irreversible organ damage or death in cases of bloat or infection."
+    },
+    {
+      "question": "What is Pyometra?",
+      "answer": "Pyometra is a severe, pus-filled infection of the uterus that occurs in intact (unspayed) female dogs. It is a surgical emergency that requires the immediate removal of the infected organ."
+    },
+    {
+      "question": "Are there other signs of Bloat (GDV) to watch for?",
+      "answer": "Besides a swollen belly and lethargy, you may see your dog pacing, panting heavily, or unsuccessfully attempting to vomit (dry heaving). This is a top-tier emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

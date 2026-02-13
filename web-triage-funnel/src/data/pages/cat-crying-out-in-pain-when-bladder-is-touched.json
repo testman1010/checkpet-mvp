@@ -1,0 +1,20 @@
+{
+  "title": "Cat Crying When Bladder is Touched: Emergency Triage Guide",
+  "meta_desc": "If your cat is in pain when their bladder is touched, it may be a life-threatening emergency. Learn about urinary blockages and when to see a vet.",
+  "content_html": "<h3>What is it?</h3><p>When a cat cries out in pain because their bladder or lower abdomen is touched, it is a sign of significant physical distress. This sensitivity usually points to Feline Lower Urinary Tract Disease (FLUTD), severe bladder inflammation (cystitis), bladder stones, or a urinary tract infection. Most critically, it can indicate a urethral obstruction, where the cat is physically unable to pass urine.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> This is considered a veterinary emergency. If your cat is vocalizing in pain and sensitive in the abdominal area, they require immediate medical evaluation. If the cat is also straining to urinate without producing any liquid, it may have a life-threatening blockage. Without treatment, a urinary blockage can lead to kidney failure, a ruptured bladder, or heart failure due to electrolyte imbalances within 24 to 48 hours.</p><h3>Why a Photo Helps Triage</h3><p>In cases of urinary distress, providing a photo or video to your veterinarian can be a vital diagnostic tool. A photo of the litter box showing the size and color of urine clumps (or the lack thereof) helps the vet assess the severity. Additionally, a video of your cat's behavior—such as straining, frequent squatting, or over-grooming their genital area—allows the triage team to quickly identify the difference between a painful infection and a total blockage.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until morning if my cat is still eating?",
+      "answer": "No. Cats are masters at hiding pain, and if they are vocalizing when touched, the pain has become unbearable. A urinary blockage can turn fatal very quickly, so immediate emergency care is necessary."
+    },
+    {
+      "question": "Are male cats at higher risk for bladder pain?",
+      "answer": "Yes, male cats are at a much higher risk for life-threatening urethral obstructions because their urethra is longer and narrower than a female cat's, making it easier for crystals or mucus plugs to get stuck."
+    },
+    {
+      "question": "What are other signs of a urinary emergency?",
+      "answer": "Other signs include blood in the urine, vomiting, lethargy, hiding, and making frequent, unsuccessful trips to the litter box."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

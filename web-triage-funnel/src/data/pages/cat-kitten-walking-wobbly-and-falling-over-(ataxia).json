@@ -1,0 +1,20 @@
+{
+  "title": "Cat or Kitten Walking Wobbly? Understanding Feline Ataxia and What to Do",
+  "meta_desc": "Is your cat stumbling or wobbly? Learn about feline ataxia, why it is a high-priority emergency, and how to help your vet diagnose the cause.",
+  "content_html": "<h3>What is Feline Ataxia?</h3><p>Ataxia is a medical term used to describe a lack of muscle coordination that results in an unsteady, \"drunk-like\" gait. In cats and kittens, this often manifests as swaying of the hind end, head tilting, or frequently falling over. It is not a disease in itself, but rather a clinical sign that something is affecting the cat's nervous system, inner ear, or brain.</p><h3>Is It an Emergency? (Urgency Level: High)</h3><p>Yes, sudden onset of wobbliness or falling over is considered a high-priority medical emergency. Because ataxia can be caused by life-threatening issues such as head trauma, ingestion of toxins (like lilies or certain medications), severe infections, or blood clots, you should contact an emergency veterinarian immediately. Delaying treatment can lead to permanent neurological damage or worse.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you call or visit the vet, providing a short video of your cat attempting to walk can be life-saving. Cats often experience a surge of adrenaline at the clinic which can temporarily mask their symptoms. A video allows the veterinarian to see the exact nature of the movement—whether it is a balance issue, weakness, or a specific type of tremor—helping them reach a diagnosis much faster.</p>",
+  "faqs": [
+    {
+      "question": "Can a wobbly kitten live a normal life?",
+      "answer": "It depends on the cause. Kittens with Cerebellar Hypoplasia (often called 'Wobbly Cat Syndrome') can live long, happy lives with minor adjustments, but other causes like toxins or infections require urgent medical intervention to ensure survival."
+    },
+    {
+      "question": "What are common causes of sudden stumbling in cats?",
+      "answer": "Common causes include vestibular disease (inner ear issues), spinal cord injuries, exposure to household toxins, low blood sugar, or infectious diseases like FIP."
+    },
+    {
+      "question": "What should I do while transporting my wobbly cat to the vet?",
+      "answer": "Keep your cat in a well-padded, secure carrier to prevent them from hurting themselves if they fall. Minimize noise and light to keep their stress levels low during the trip."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

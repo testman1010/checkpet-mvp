@@ -1,0 +1,20 @@
+{
+  "title": "Dog Squinting or Holding Eye Closed: Triage and Care Guide",
+  "meta_desc": "Find out why your dog is squinting and holding their eye closed. Learn about urgency levels and how to help your pet before visiting the vet.",
+  "content_html": "<h3>What Is Eye Squinting in Dogs?</h3><p>When a dog squints or holds their eye shut, it is medically referred to as blepharospasm. This is almost always a sign of pain or significant irritation. It occurs when the muscles around the eye spasm in response to discomfort. Common causes include a foreign body like a grass seed, a scratch on the surface called a corneal ulcer, or internal inflammation like uveitis.</p><h3>Is It an Emergency?</h3><p>Squinting is considered a Medium Urgency level. While it may not be a life-threatening situation in the immediate minutes, eye conditions can deteriorate rapidly, leading to permanent vision loss or the loss of the eye itself if left untreated. If you notice the eye looks cloudy, has bloody discharge, or if the eye looks sunken or bulging, you should seek veterinary care within 12 to 24 hours.</p><h3>How a Photo Helps Triage</h3><p>Capturing a clear, well-lit photo of your dog's eye can be a vital tool for a veterinary triage team. A photo helps professionals identify the location of redness, the type of discharge present, and any visible abnormalities on the cornea. This visual evidence allows the vet to better prioritize your dog's case and provide specific instructions on how to protect the eye until you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I use my own eye drops on my dog?",
+      "answer": "No. Never use human over-the-counter eye drops or leftover prescription drops on a dog. Some ingredients, like steroids, can cause a corneal ulcer to worsen rapidly, potentially causing the eye to rupture."
+    },
+    {
+      "question": "What can I do at home to help?",
+      "answer": "The most important step is to prevent your dog from rubbing or pawing at the eye. Using an Elizabethan collar (cone) is highly recommended. You can also keep your dog in a dimly lit room to help with light sensitivity."
+    },
+    {
+      "question": "Is discharge from the eye normal?",
+      "answer": "A small amount of clear tearing is common with irritation, but thick yellow, green, or bloody discharge is a sign of infection or more severe trauma and should be evaluated by a vet immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

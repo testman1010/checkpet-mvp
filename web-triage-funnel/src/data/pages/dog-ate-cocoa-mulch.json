@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Cocoa Mulch: Emergency Triage & Toxicity Guide",
+  "meta_desc": "If your dog ate cocoa mulch, it is a high-priority emergency. Learn why cocoa bean shells are toxic and what steps to take right now to save them.",
+  "content_html": "<h3>What is Cocoa Mulch?</h3><p>Cocoa mulch, often called cocoa bean shell mulch, is a byproduct of chocolate production used for landscaping. While it has a pleasant chocolate aroma, it contains concentrated amounts of theobromine and caffeine. These chemicals are methylxanthines, which are highly toxic to dogs and can cause severe neurological and cardiac distress.</p><h3>Is it an Emergency?</h3><p>Ingesting cocoa mulch is a high-priority emergency. Because the concentration of toxins in the shells can be much higher than in standard chocolate candy, even a small amount can lead to life-threatening symptoms. Immediate veterinary intervention is required to prevent seizures, heart arrhythmias, and other fatal complications.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the mulch or its packaging. Providing your veterinarian with a visual aid or a brand name allows them to identify the specific type of shell and estimate the toxin concentration. This helps the medical team calculate the risk level and start the appropriate decontamination or treatment protocol more quickly.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of cocoa mulch poisoning?",
+      "answer": "Symptoms typically include vomiting, diarrhea, rapid heart rate, extreme restlessness, muscle tremors, and in severe cases, seizures."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Signs of toxicity can appear within 2 to 12 hours after ingestion, though internal damage can begin sooner."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting unless specifically directed to do so by a veterinarian, as it can lead to aspiration or other complications depending on your dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

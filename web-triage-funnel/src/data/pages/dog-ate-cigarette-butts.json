@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Cigarette Butts: Triage Guide and Risks",
+  "meta_desc": "If your dog ate cigarette butts, they may be at risk for nicotine poisoning. Learn about urgency levels, symptoms, and when to call a vet.",
+  "content_html": "<h3>What Is Nicotine Poisoning from Cigarette Butts?</h3><p>Nicotine is a potent toxin for dogs, and cigarette butts can be surprisingly dangerous. Although the tobacco is partially burned, the filter actually traps and concentrates nicotine. When a dog ingests these butts, the nicotine is rapidly absorbed into their bloodstream through the stomach and intestinal lining, which can lead to a variety of neurological and cardiovascular issues.</p><h3>Is It an Emergency? (Urgency Level: Medium)</h3><p>This situation is classified with a Medium Urgency level. While a single cigarette butt might only cause mild gastrointestinal upset in a very large dog, it can be life-threatening for a small dog or puppy. Because nicotine acts quickly, you should monitor your pet for signs of toxicity such as vomiting, drooling, tremors, or an elevated heart rate. It is highly recommended to contact a veterinarian or a pet poison control hotline immediately to determine if treatment is necessary.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you can, take a clear photo of the brand of cigarettes or the remaining butts. A photo helps the veterinary team identify the specific product, which allows them to estimate the nicotine concentration. Seeing the size and number of butts remaining can also help the vet calculate the potential dose your dog received, leading to faster and more accurate treatment decisions.</p>",
+  "faqs": [
+    {
+      "question": "How many cigarette butts are toxic to a dog?",
+      "answer": "Toxic doses depend on the dog's weight. For a small puppy, even one or two butts can cause serious symptoms, whereas a large breed may tolerate a small amount better. Always consult a vet regardless of size."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms of nicotine poisoning usually appear very quickly, often within 30 to 60 minutes of ingestion."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian, as nicotine can cause seizures or other complications that make vomiting dangerous."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

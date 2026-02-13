@@ -1,0 +1,20 @@
+{
+  "title": "Dog Foreign Object Under Skin: Symptoms and Triage Advice",
+  "meta_desc": "Find out what to do if your dog has a foreign object under their skin. Learn why a photo helps vets and when to seek urgent veterinary care.",
+  "content_html": "<h3>What is a Foreign Object Under the Skin?</h3><p>A foreign object under the skin occurs when an external material—such as a wood splinter, thorn, grass seed (like a foxtail), piece of glass, or metal fragment—penetrates the skin and becomes lodged in the subcutaneous tissue. Sometimes these objects are visible, while other times they cause a localized lump, swelling, or a draining tract where the skin attempts to expel the material.</p><h3>Is It an Emergency?</h3><p>The urgency level for a foreign object is generally classified as Medium. While rarely an immediate life-threatening emergency, it is a condition that requires a veterinary appointment within 24 to 48 hours. If left untreated, the object can migrate deeper into the body, cause a painful abscess, or lead to a systemic infection. You should seek immediate emergency care if the object is large, located near the eye, or if your dog is showing signs of extreme lethargy or respiratory distress.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the affected area is incredibly helpful for veterinary triage. A visual allows a professional to assess the level of inflammation, look for a visible entry wound, and determine if the object appears to be a biological material (like a plant) or a sharp material (like glass). This helps the clinic decide how quickly your pet needs to be seen and whether a standard appointment or an urgent care slot is more appropriate.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to remove the object myself at home?",
+      "answer": "It is generally not recommended to remove a deeply embedded object yourself. You risk breaking the object and leaving fragments behind, which can lead to chronic infection and make surgical removal much more difficult for your veterinarian."
+    },
+    {
+      "question": "What are the signs that the area is becoming infected?",
+      "answer": "Watch for increased redness, heat coming from the skin, significant swelling, foul-smelling discharge or pus, and your dog excessively licking or biting at the site."
+    },
+    {
+      "question": "Could a lump under the skin be something other than a foreign object?",
+      "answer": "Yes, lumps can also be cysts, tumors, insect stings, or localized reactions to vaccines. This is why a veterinary exam is necessary to differentiate between a foreign body and other medical issues."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

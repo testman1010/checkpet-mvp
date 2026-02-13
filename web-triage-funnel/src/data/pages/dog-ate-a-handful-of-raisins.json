@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ate Raisins - Immediate Steps",
+  "meta_desc": "Raisins are highly toxic to dogs and can cause sudden kidney failure. If your dog ate raisins, this is a high-urgency emergency. Call a vet now.",
+  "content_html": "<h3>What Is Raisin Toxicity in Dogs?</h3><p>Grapes and their dried counterparts, raisins, are highly toxic to dogs. Even a small amount can trigger an idiosyncratic reaction that leads to acute kidney failure. Unlike other toxins where the dose is strictly based on weight, some dogs can be severely affected by just one or two raisins, making any ingestion a serious concern.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for raisin ingestion is High. Because there is no established safe dose and the onset of kidney damage can be rapid, you should not wait for symptoms to appear. Immediate veterinary intervention, such as induced vomiting or the administration of activated charcoal, is most effective when performed shortly after ingestion.</p><h3>How a Photo Helps Triage</h3><p>If possible, take a photo of the raisins or the packaging they came in. Providing a visual to your veterinarian helps them estimate the volume consumed and check for other dangerous additives, such as chocolate coating or xylitol. This information allows the clinical team to prepare the correct treatment protocol before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "How many raisins are toxic to a dog?",
+      "answer": "There is no known safe amount. Because some dogs are more sensitive than others, even a single raisin can cause kidney failure in certain individuals."
+    },
+    {
+      "question": "What are the symptoms of raisin poisoning?",
+      "answer": "Early symptoms include vomiting, diarrhea, and lethargy. As kidney failure progresses, you may notice increased thirst, followed by a total lack of urination."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting at home without direct instruction from a veterinarian or pet poison control expert, as it can lead to aspiration pneumonia if performed incorrectly."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swollen Paw: Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your cat's paw twice its normal size? Learn about causes like abscesses or stings, the urgency level, and how photos help veterinary triage.",
+  "content_html": "<h3>What causes a cat's paw to swell?</h3><p>A paw that has swollen to twice its normal size is typically a sign of localized inflammation or infection. Common causes include an abscess resulting from a bite or scratch, an allergic reaction to an insect sting, a foreign body like a thorn or splinter embedded in the pad, or a structural injury such as a fracture or severe sprain. In some cases, it may be a condition known as plasma cell pododermatitis, also called pillow paw.</p><h3>Is it an emergency?</h3><p>The urgency level for a significantly swollen paw is considered Medium. While usually not an immediate life-threatening emergency, a paw this size indicates significant pain and potential infection. You should schedule a veterinary visit within 12 to 24 hours. However, if your cat is lethargic, hiding, refusing to eat, or if the limb feels cold to the touch, you should seek emergency care immediately.</p><h3>Why a photo helps triage</h3><p>Sending a clear, well-lit photo of the affected paw to your veterinarian can provide vital clues before you even arrive at the clinic. Photos allow professionals to check for visible puncture wounds, drainage, or specific patterns of redness that distinguish a simple sting from a deep-seated infection. This visual information helps the triage team determine how quickly your cat needs to be seen and prepares them for the necessary diagnostic steps.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to drain the swelling at home?",
+      "answer": "No, you should never attempt to lance or drain a swollen paw yourself. Doing so can cause extreme pain, risk a deeper infection, and may lead to a bite or scratch from your stressed pet."
+    },
+    {
+      "question": "Can I give my cat human pain relievers?",
+      "answer": "Absolutely not. Many human medications, such as Ibuprofen or Acetaminophen (Tylenol), are highly toxic to cats and can be fatal even in small doses."
+    },
+    {
+      "question": "How can I keep my cat comfortable until the vet visit?",
+      "answer": "Keep your cat indoors in a quiet, confined space to limit their movement. You can try a cool compress if they tolerate it, but do not force it if it causes them distress."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

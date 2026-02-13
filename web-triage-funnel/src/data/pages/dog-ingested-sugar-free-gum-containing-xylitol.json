@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ate Sugar-Free Gum (Xylitol Poisoning)",
+  "meta_desc": "If your dog ate gum with xylitol, this is a life-threatening emergency. Learn the risks, symptoms, and immediate steps to save your pet.",
+  "content_html": "<h3>What is Xylitol Poisoning?</h3><p>Xylitol is a common sugar substitute found in sugar-free gums, mints, and toothpastes. While perfectly safe for humans, it is extremely toxic to dogs. When ingested by a dog, xylitol causes a rapid, massive release of insulin, which leads to a life-threatening drop in blood sugar (hypoglycemia) and, in some cases, acute liver failure.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Xylitol is one of the most dangerous substances a dog can consume. Symptoms like vomiting, weakness, or seizures can appear in as little as 30 minutes, but internal damage can occur even before symptoms are visible. You must contact a veterinarian or an animal poison control center immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging, take a clear photo of the ingredients list and the brand name. Different brands contain different concentrations of xylitol. Providing this photo to your veterinarian allows them to calculate the exact toxic dose your dog may have received, which is vital for determining the intensity of the treatment required.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of xylitol poisoning in dogs?",
+      "answer": "Common symptoms include vomiting, followed by signs of low blood sugar such as lethargy, stumbling, collapse, and seizures."
+    },
+    {
+      "question": "How much xylitol is toxic to a dog?",
+      "answer": "Even very small amounts are dangerous. As little as 0.1 grams per kilogram of body weight can cause hypoglycemia, while higher doses can cause liver failure."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian, as it can be dangerous depending on your dog's current neurological state."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

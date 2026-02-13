@@ -1,0 +1,20 @@
+{
+  "title": "Cat House Soiling: Causes, Triage, and Solutions",
+  "meta_desc": "Is your cat missing the litter box? Understand the health and behavioral causes of house soiling and when you should seek veterinary care.",
+  "content_html": "<h3>What is Cat House Soiling?</h3><p>House soiling occurs when a cat that was previously litter box trained begins urinating or defecating in areas outside of their designated box. This is rarely a sign of 'spite.' Instead, it is typically a communication tool used by your cat to indicate physical discomfort, environmental stress, or dissatisfaction with the litter box itself.</p><h3>Is it an Emergency?</h3><p>The urgency level for house soiling is generally considered Medium. While it can be a behavioral response to stress, it is frequently the first sign of medical issues such as Urinary Tract Infections (UTIs), Feline Lower Urinary Tract Disease (FLUTD), or kidney issues. However, if your cat is straining to urinate and nothing is coming out, this is a High Emergency (life-threatening blockage) and requires immediate veterinary intervention.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the 'accident' can be incredibly helpful. Seeing the color of the urine (checking for blood or cloudiness) or the consistency of the stool helps differentiate between a medical infection and a behavioral issue. Additionally, a photo of the location can help the vet understand if the cat is 'marking' vertical surfaces or simply unable to reach the box in time due to mobility issues like arthritis.</p>",
+  "faqs": [
+    {
+      "question": "Can stress cause my cat to stop using the litter box?",
+      "answer": "Yes, cats are very sensitive to changes in their environment, such as a new pet, a move, or even a change in your work schedule, which can lead to stress-induced house soiling."
+    },
+    {
+      "question": "How many litter boxes should I have?",
+      "answer": "The general rule of thumb is to have one more litter box than the number of cats in your household, distributed in different locations."
+    },
+    {
+      "question": "Should I change the type of litter I use?",
+      "answer": "If your cat is avoiding the box, they may have a substrate preference. However, avoid making sudden changes; instead, offer a 'litter cafeteria' with different types to see which one your cat prefers."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Seizures and Convulsions: Emergency Triage and Care Guide",
+  "meta_desc": "Learn how to recognize cat seizures, why they require high-urgency veterinary care, and how to document episodes to help your vet diagnose the cause.",
+  "content_html": "<h3>What is a Seizure or Convulsion?</h3><p>A seizure is a sudden, uncontrolled electrical disturbance in your cat's brain. This can result in localized twitching (focal seizures) or full-body convulsions (generalized seizures) where the cat may collapse, lose consciousness, and exhibit paddling movements with their legs. It is a frightening experience for any pet owner, but remaining calm is the best way you can support your pet during this time.</p><h3>Urgency Level: High</h3><p>Any seizure activity is considered a high-priority medical emergency. While a single, brief seizure may not be immediately fatal, it is often a symptom of an underlying health issue such as toxins, metabolic disease, or neurological conditions. You should seek veterinary care immediately if the seizure lasts more than two minutes, if your cat has multiple seizures in a row, or if this is the first time your cat has ever experienced a convulsion.</p><h3>Why a Video Helps Triage</h3><p>While it is difficult to think about filming during such a stressful moment, a video is one of the most valuable tools you can provide to a veterinarian. Because seizures often stop by the time you arrive at the clinic, a video allows the vet to see the exact nature of the movements, the duration, and the severity. This visual evidence helps them distinguish between a true seizure and other conditions like fainting, inner ear issues, or heart problems, ensuring a more accurate and rapid diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is convulsing?",
+      "answer": "Clear away any furniture or sharp objects to prevent injury, but do not try to restrain your cat or put your hands near their mouth, as they may bite involuntarily."
+    },
+    {
+      "question": "Are seizures painful for cats?",
+      "answer": "Generally, seizures are not painful, though the cat is unconscious and unaware of their surroundings. They may feel confused or anxious during the recovery phase."
+    },
+    {
+      "question": "What happens after the seizure stops?",
+      "answer": "Your cat will enter the 'post-ictal' phase, where they may appear disoriented, wobbly, or even temporarily blind. Keep them in a safe, quiet area until you can get them to a veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

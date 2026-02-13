@@ -1,0 +1,20 @@
+{
+  "title": "Cat or Kitten Chewed on Electrical Cord: Emergency Triage Guide",
+  "meta_desc": "If your kitten chewed an electrical cord, it is a high-priority emergency. Learn the risks of electric shock and why immediate vet care is vital.",
+  "content_html": "<h3>What is Electrical Cord Injury?</h3><p>An electrical cord injury occurs when a pet, often a curious kitten, bites through the protective insulation of a live wire. This creates an immediate circuit through the animal's body. While the most visible signs are often burns on the tongue or gums, the primary danger lies in the internal damage caused by the current, which can affect the heart's rhythm and cause fluid accumulation in the lungs.</p><h3>Is it an emergency?</h3><p>Yes, this is a High Urgency emergency. Even if your cat appears normal or only has minor redness in the mouth, the systemic effects of an electric shock can be delayed. Fluid in the lungs (pulmonary edema) can develop several hours after the event, leading to life-threatening respiratory distress. You should contact an emergency veterinarian immediately for an evaluation.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so—only after ensuring the device is unplugged and there is no further risk of shock—taking a photo of the damaged cord can help the veterinary team estimate the potential voltage involved. Additionally, a clear photo of any burns inside your cat's mouth can provide the vet with an initial assessment of the tissue damage while you are in transit to the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the immediate symptoms of electric shock in cats?",
+      "answer": "Common symptoms include burns or charring on the lips and tongue, excessive drooling, rapid breathing, and general distress or hiding."
+    },
+    {
+      "question": "Can I wait a few hours to see if my cat acts differently?",
+      "answer": "No. The most dangerous complications, such as fluid in the lungs or heart arrhythmias, are often delayed. Professional monitoring is required to ensure the cat remains stable."
+    },
+    {
+      "question": "What should I do first if I see my cat chewing a cord?",
+      "answer": "Do not touch the cat or the cord until you have safely turned off the power at the source or unplugged the device to avoid being shocked yourself. Once the area is safe, transport your cat to a vet."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Why Is My Dog Spinning in Circles? Causes & Veterinary Triage Guide",
+  "meta_desc": "Discover why dogs spin compulsively, when circling becomes a medical concern, and how to help your vet diagnose the issue through video triage.",
+  "content_html": "<h3>Understanding Compulsive Spinning in Dogs</h3><p>Compulsive spinning, or circling, is a behavior where a dog repeatedly moves in a circular path. Unlike a playful zoomie or a quick turn before lying down, compulsive spinning is often repetitive, difficult to interrupt, and may appear frantic. This behavior can be rooted in neurological issues, inner ear imbalances, or deep-seated behavioral compulsions.</p><h3>Is It an Emergency?</h3><p>The urgency level for compulsive spinning is Medium. While it is rarely an immediate life-threatening emergency in the first few minutes, it is a sign of significant distress or physical dysfunction. You should contact your veterinarian within 24 to 48 hours for an evaluation. If the spinning is accompanied by a head tilt, falling over, rhythmic eye flickering, or a loss of consciousness, you should seek immediate emergency care.</p><h3>Why a Video or Photo Helps Triage</h3><p>Capturing a clear video of your dog during a spinning episode is one of the most valuable tools you can provide to a veterinary team. Dogs often experience 'white coat syndrome' at the clinic, where adrenaline causes them to temporarily stop the behavior. A video allows the vet to observe the direction of the spin, the dog's level of awareness, and any associated physical tremors, which helps distinguish between a neurological seizure, a vestibular (balance) issue, or a behavioral compulsion.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause my dog to spin?",
+      "answer": "Yes, a deep inner ear infection can affect a dog's vestibular system, which controls balance, leading to circling, leaning, or a head tilt."
+    },
+    {
+      "question": "Is spinning a sign of dementia in older dogs?",
+      "answer": "In senior dogs, compulsive circling can be a symptom of Canine Cognitive Dysfunction (CCD), similar to Alzheimer's in humans."
+    },
+    {
+      "question": "Could my dog be spinning because of anxiety?",
+      "answer": "Yes, some dogs develop obsessive-compulsive behaviors due to chronic stress, confinement, or lack of mental stimulation, manifesting as repetitive spinning or tail chasing."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

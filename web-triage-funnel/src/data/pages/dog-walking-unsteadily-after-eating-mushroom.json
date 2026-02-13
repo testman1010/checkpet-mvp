@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking Unsteadily After Mushroom Ingestion: Emergency Triage Guide",
+  "meta_desc": "If your dog is walking unsteadily after eating a mushroom, this is a high-urgency emergency. Learn the risks and immediate steps to take.",
+  "content_html": "<h3>What is it?</h3><p>When a dog walks unsteadily—often described as appearing 'drunk' or wobbly—after consuming a mushroom, it is a clinical sign known as ataxia. This suggests that the mushroom contained toxins that are affecting the dog's central nervous system, liver, or kidneys. Mushroom poisoning in canines can range from mild gastrointestinal upset to fatal organ failure depending on the species of fungi ingested.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. This is a critical veterinary emergency. Neurological symptoms like unsteadiness, tremors, or disorientation indicate that toxins have already entered the bloodstream and are affecting bodily functions. You should contact an emergency veterinarian or a pet poison control hotline immediately. Do not wait for the symptoms to clear on their own, as some mushroom toxins cause irreversible organ damage within hours.</p><h3>Why a photo helps triage</h3><p>Identification is the most important factor in determining the course of treatment. If it is safe to do so, take a clear photo of the mushroom your dog consumed, ensuring you capture the cap, the gills underneath, and the base of the stem. This photo allows veterinarians or mycologists to identify the specific toxin (such as amanitin or muscarine), which dictates whether your dog needs specific antidotes, aggressive IV fluids, or supportive neurological care.</p>",
+  "faqs": [
+    {
+      "question": "How quickly do mushroom toxins affect dogs?",
+      "answer": "Symptoms can appear as quickly as 15 to 30 minutes for some species, while others, like the deadly Death Cap, may cause a delay of 6 to 12 hours before severe symptoms manifest."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Never induce vomiting unless specifically instructed to do so by a licensed veterinarian. If your dog is already walking unsteadily, they may be at risk of inhaling vomit into their lungs (aspiration)."
+    },
+    {
+      "question": "What if I can't find the mushroom they ate?",
+      "answer": "If you cannot find a sample or photo, go to the vet immediately anyway. The clinical signs (unsteadiness, drooling, or vomiting) will help the vet provide the necessary supportive care even without a species identification."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

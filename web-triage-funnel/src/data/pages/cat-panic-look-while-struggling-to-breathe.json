@@ -1,0 +1,20 @@
+{
+  "title": "Cat Struggling to Breathe: Emergency Guide to Respiratory Distress",
+  "meta_desc": "If your cat has a panicked look and difficulty breathing, this is a medical emergency. Learn why immediate veterinary care is critical for survival.",
+  "content_html": "<h3>What is Respiratory Distress in Cats?</h3><p>When a cat exhibits a panicked expression while struggling for air, they are experiencing dyspnea, or respiratory distress. Unlike dogs, cats rarely pant for fun; open-mouth breathing or gasping in a cat is a sign that their body is not receiving enough oxygen, leading to a natural physiological state of fear and panic.</p><h3>Urgency Level: High (Immediate Emergency)</h3><p>This is a critical medical emergency. If your cat is gasping, using their abdomen to help pull in air, or has a blue-tinged tongue or gums, you must transport them to the nearest emergency veterinary clinic immediately. Cats are experts at masking pain, so by the time they appear panicked, their condition has reached a dangerous tipping point.</p><h3>Why a Photo or Video Helps Triage</h3><p>While you should not delay transport to take pictures, having a quick 5-second video of your cat's breathing can be life-saving for the triage team. It allows the veterinarian to see the exact pattern of the distress—such as whether the effort is coming from the chest or the abdomen—and helps them prepare the necessary oxygen therapy or stabilization equipment before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Is open-mouth breathing ever normal for a cat?",
+      "answer": "Generally, no. While a cat might pant briefly after extreme exertion or intense heat, it is almost always a sign of a severe underlying issue like heart failure, asthma, or fluid in the chest."
+    },
+    {
+      "question": "What should I do while transporting my cat to the vet?",
+      "answer": "Keep the car cool and quiet. Minimize stress as much as possible, as panic increases the body's demand for oxygen, which can worsen the respiratory crisis."
+    },
+    {
+      "question": "Can I give my cat an inhaler at home?",
+      "answer": "Do not administer any medications, including human asthma inhalers, unless specifically prescribed by your veterinarian for this current episode, as the wrong treatment could be fatal."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

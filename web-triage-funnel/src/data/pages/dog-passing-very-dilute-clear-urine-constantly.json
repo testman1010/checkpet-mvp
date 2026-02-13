@@ -1,0 +1,20 @@
+{
+  "title": "Dog Passing Clear, Dilute Urine: Causes and Veterinary Triage Guide",
+  "meta_desc": "Is your dog passing clear urine constantly? Learn about polyuria, why it's a medium-urgency issue, and how to help your vet with triage documentation.",
+  "content_html": "<h3>What is Dilute Urine in Dogs?</h3><p>When a dog passes urine that is consistently clear and looks like water, it is a clinical sign known as polyuria. This occurs when the kidneys are unable to concentrate urine properly, often resulting in the dog needing to urinate much more frequently and in larger volumes. This is frequently paired with polydipsia, or excessive thirst, as the body tries to compensate for the fluid loss.</p><h3>Is This an Emergency?</h3><p>The urgency level for constant dilute urine is classified as Medium. While it may not be a life-threatening emergency this second, it is not something that should wait more than 24 to 48 hours for a veterinary evaluation. If your dog is also experiencing vomiting, extreme lethargy, or a loss of appetite, the urgency should be upgraded to High, and you should seek immediate care.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the urine—ideally on a light-colored surface or collected in a clear container—is a vital triage tool. It helps the medical team visually confirm the lack of color and turbidity (cloudiness). Seeing the urine alongside a description of how often the dog is going helps the vet differentiate between a simple urinary tract infection and more complex metabolic issues like diabetes or kidney disease.</p>",
+  "faqs": [
+    {
+      "question": "Can I just wait to see if it clears up on its own?",
+      "answer": "Because constant dilute urine often points to systemic issues like kidney dysfunction, diabetes, or hormonal imbalances (such as Cushing's or Addison's), it is best to get a urinalysis performed by a vet as soon as possible rather than waiting."
+    },
+    {
+      "question": "Should I restrict my dog's water intake?",
+      "answer": "No, you should never restrict your dog's access to water. If their body is unable to concentrate urine, they are losing water rapidly; restricting intake can lead to severe and life-threatening dehydration."
+    },
+    {
+      "question": "What will the vet do at the appointment?",
+      "answer": "The vet will likely perform a 'Urinalysis' to check the specific gravity (concentration) and a 'Blood Panel' to evaluate organ function and glucose levels to find the underlying cause."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

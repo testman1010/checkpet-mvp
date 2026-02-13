@@ -1,0 +1,20 @@
+{
+  "title": "Dog Diarrhea with Mucus and Blood: Veterinary Triage Guide",
+  "meta_desc": "Seeing blood and mucus in your dog's stool is alarming. Learn if it is an emergency, potential causes, and why you should take a photo for your vet.",
+  "content_html": "<h3>Understanding Mucus and Blood in Dog Diarrhea</h3><p>Finding mucus and blood in your dog's stool is a sign of inflammation in the lower gastrointestinal tract, specifically the colon. Mucus is normally produced by the intestines to help stool pass, but excessive amounts indicate irritation. Bright red blood, known as hematochezia, typically suggests that the bleeding is occurring in the large intestine or rectum. This can be caused by anything from dietary indiscretion and parasites to more severe infections or inflammatory diseases.</p><h3>Is This an Emergency?</h3><p>The urgency level for diarrhea containing blood and mucus is high. While a single mild episode in an otherwise energetic dog might be managed with a prompt vet visit, you must seek emergency care if your dog is lethargic, vomiting, has pale gums, or appears to be in pain. If the stool looks like raspberry jam or is dark and tarry, or if your dog is a puppy, immediate intervention is required to prevent life-threatening dehydration and to rule out serious conditions like Parvovirus or Hemorrhagic Gastroenteritis (HGE).</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a clear photo of the stool can significantly aid in the triage process. A visual reference allows the clinical team to accurately assess the volume of blood, the consistency of the mucus, and the overall color, which provides vital clues about where the irritation is occurring. This information helps the vet determine how quickly your pet needs to be seen and which diagnostic tests should be prioritized upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "What is the difference between bright red and dark blood?",
+      "answer": "Bright red blood (hematochezia) usually indicates a problem in the lower digestive tract or colon. Dark, tarry-looking blood (melena) suggests bleeding higher up in the stomach or small intestine, which is often considered more transitionally urgent."
+    },
+    {
+      "question": "Can I give my dog human anti-diarrheal medication?",
+      "answer": "Never give your dog human medications without a veterinarian's explicit instruction. Some human drugs are toxic to dogs or can mask symptoms of a much more serious underlying condition."
+    },
+    {
+      "question": "Should I withhold food if I see blood in the stool?",
+      "answer": "While 'gut rest' was once common advice, many vets now prefer specific bland diets. Consult your veterinarian before fasting your dog, especially for puppies or small breeds who are at risk for low blood sugar."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

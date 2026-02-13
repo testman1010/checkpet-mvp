@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking Uncoordinated and Stumbling: Emergency Triage Guide",
+  "meta_desc": "If your dog is stumbling or uncoordinated, it could be a serious emergency. Learn about ataxia, when to see a vet, and how a video can help.",
+  "content_html": "<h3>What is Ataxia?</h3><p>When a dog begins walking as if they are intoxicated, stumbling, or wobbling, it is medically known as ataxia. This loss of coordination occurs when the brain, spinal cord, or inner ear is not communicating correctly with the body. It can manifest as a swaying gait, head tilting, or the legs crossing over one another.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, a sudden onset of uncoordinated movement is considered a veterinary emergency. While some causes like ear infections are less severe, others such as toxin ingestion, strokes, or spinal cord compression can be life-threatening if not treated immediately. If your dog cannot stand, has rhythmic eye movements, or appears distressed, seek emergency care right away.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you contact a vet, providing a short video of your dog attempting to walk can be invaluable. Symptoms of ataxia can sometimes be intermittent or may change due to the stress of being at a clinic. A video allows the veterinarian to analyze the specific pattern of the movement, helping them differentiate between neurological issues, orthopedic pain, or vestibular disease before they even begin the physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog's stumbling be caused by something they ate?",
+      "answer": "Yes, ingestion of certain toxins, such as marijuana, xylitol, or certain human medications, can cause a dog to lose coordination and stumble."
+    },
+    {
+      "question": "Is stumbling just a normal sign of aging?",
+      "answer": "While senior dogs may slow down due to arthritis, sudden uncoordinated movement or 'drunken' walking is never normal and indicates a medical issue rather than simple aging."
+    },
+    {
+      "question": "What should I do while waiting to get to the vet?",
+      "answer": "Keep your dog confined to a small, safe area with no stairs or sharp corners to prevent them from falling and injuring themselves further."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

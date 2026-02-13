@@ -1,0 +1,20 @@
+{
+  "title": "Help for Dogs Having Difficulty Rising from a Lying Position",
+  "meta_desc": "Is your dog struggling to stand? Learn about common causes, urgency levels, and how to help your vet diagnose mobility issues.",
+  "content_html": "<h3>What is Difficulty Rising?</h3><p>When a dog has trouble getting up from a resting position, it is often a sign of physical discomfort, joint stiffness, or neurological weakness. This behavior typically manifests as your dog needing several attempts to stand, using their front legs to 'drag' their hindquarters up, or appearing very stiff during their first few steps. While it is common in senior pets, it should always be evaluated to improve their quality of life.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is generally Low. In most instances, difficulty rising is a chronic, slow-developing issue related to conditions like osteoarthritis or age-related muscle loss. While it requires a veterinary appointment to manage pain and mobility, it is not typically a life-threatening emergency unless your dog suddenly loses the use of their legs entirely or is in visible respiratory distress.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of your dog attempting to rise from a lying position is one of the most helpful tools you can offer. Pets often experience a surge of adrenaline at the clinic which can temporarily mask their stiffness or pain, making them appear more mobile than they are at home. A video allows the vet to observe the natural movement in a stress-free environment, helping them pinpoint exactly which joints or muscle groups are affected.</p>",
+  "faqs": [
+    {
+      "question": "What are the most common causes of this behavior?",
+      "answer": "Common causes include osteoarthritis, hip dysplasia, intervertebral disc disease (IVDD), or general muscle atrophy in senior dogs."
+    },
+    {
+      "question": "Can I give my dog human pain relief like Ibuprofen?",
+      "answer": "No. Human non-steroidal anti-inflammatory drugs (NSAIDs) are toxic to dogs and can cause life-threatening kidney failure or stomach ulcers. Only use medications prescribed by your vet."
+    },
+    {
+      "question": "What can I do at home to help my dog stand up?",
+      "answer": "Placing non-slip yoga mats or rugs over hardwood floors can provide better traction. You can also use a supportive harness or a towel looped under their belly to gently assist them in standing."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

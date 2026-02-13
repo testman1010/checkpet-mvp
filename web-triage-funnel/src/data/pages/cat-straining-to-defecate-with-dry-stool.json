@@ -1,0 +1,20 @@
+{
+  "title": "Cat Constipation Guide: Straining and Dry Stool Triage",
+  "meta_desc": "Is your cat straining to poop? Learn about feline constipation, why dry stool occurs, and when to seek veterinary care. Urgency Level: Medium.",
+  "content_html": "<h3>What is Feline Constipation?</h3><p>When a cat strains to defecate and produces dry, hard stools, it is typically a sign of constipation. This condition occurs when waste moves too slowly through the digestive tract, causing the colon to absorb too much moisture. This makes the stool difficult and painful to pass. It can be caused by dehydration, low-fiber diets, or underlying health issues like kidney disease.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Medium. While mild constipation is not usually an immediate life-threatening emergency, it requires a veterinary exam within 24 hours to prevent complications like megacolon. Note: If your cat is straining but not producing anything, it is vital to ensure they are not suffering from a urinary blockage, which is a critical emergency, especially in males.</p><h3>How a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the stool (if any is produced) and a video of the straining behavior can be extremely helpful. These visuals allow the vet to assess the severity of the straining and the exact consistency of the feces, helping them differentiate between simple constipation, colitis, or more serious obstructions.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a laxative at home?",
+      "answer": "You should never give your cat human laxatives or home remedies without a veterinarian's direct advice, as some can be toxic or cause severe dehydration."
+    },
+    {
+      "question": "How do I know if it's a urinary blockage instead?",
+      "answer": "A cat with a urinary blockage will often visit the litter box frequently, cry out in pain, and may lick their genital area excessively. If no urine is being produced, seek emergency care immediately."
+    },
+    {
+      "question": "What are common signs of discomfort in a constipated cat?",
+      "answer": "Aside from straining, you may notice a decreased appetite, lethargy, or vomiting if the constipation is becoming severe."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

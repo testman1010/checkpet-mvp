@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargic and Vomiting Yellow Bile: Triage and Next Steps",
+  "meta_desc": "Is your dog lethargic after vomiting yellow bile? Learn why this happens, the urgency level, and how to help your pet today.",
+  "content_html": "<h3>What Does Vomiting Yellow Bile Mean?</h3><p>Vomiting yellow bile, often referred to as bilious vomiting syndrome, typically occurs when a dog's stomach is empty for too long, causing bile to irritate the stomach lining. However, when this is accompanied by lethargy, it suggests that your dog's body is fighting an underlying issue beyond simple hunger. This combination could point toward dietary indiscretion, gastrointestinal inflammation, or more systemic concerns like pancreatitis or metabolic issues.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Medium. While vomiting yellow bile once might not be cause for panic, the addition of lethargy indicates your dog is feeling significantly unwell. You should monitor them closely and schedule a veterinary appointment within 12 to 24 hours. If the lethargy progresses to a state where they are unresponsive, or if they begin vomiting blood or lose the ability to keep water down, you should seek emergency care immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>It may feel unusual, but taking a clear photo of the vomit can be a vital tool for your veterinarian. A photo allows the medical team to see the exact shade, consistency, and volume of the fluid. This visual evidence helps the vet differentiate between simple bile and other substances, allowing for a faster and more accurate triage process during your visit.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog food after they vomit bile?",
+      "answer": "It is usually best to wait a few hours before offering a small, bland meal like boiled chicken and rice. However, if your dog is lethargic, consult your vet before feeding to ensure there isn't an obstruction."
+    },
+    {
+      "question": "What if my dog is also shaking or trembling?",
+      "answer": "Shaking combined with lethargy and vomiting can indicate pain or a more serious metabolic reaction. If you notice trembling, you should move from a Medium to a High urgency level and contact a vet sooner."
+    },
+    {
+      "question": "How can I keep my dog hydrated?",
+      "answer": "Offer small amounts of water or unflavored Pedialyte frequently. Do not force fluids if they are actively vomiting, as this can lead to further irritation or aspiration."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Bleach: Immediate Action and Triage Guide",
+  "meta_desc": "Emergency guide for cats that licked bleach. Learn symptoms, why this is a high-urgency situation, and how to triage with your veterinarian.",
+  "content_html": "<h3>What is Bleach Residue Ingestion?</h3><p>Bleach contains sodium hypochlorite, a corrosive chemical that can cause irritation or chemical burns upon contact with sensitive tissues. When a cat licks bleach residue, even if it appears dry, the chemicals can react with the moisture in their mouth and throat, leading to painful lesions, gastrointestinal distress, and potential respiratory issues if fumes were inhaled.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, this is a high-priority emergency. Corrosive substances like bleach can cause progressive damage to the lining of the mouth and esophagus. Symptoms may not appear immediately but can worsen over several hours. You should contact your veterinarian or a pet poison control center immediately. Important: Do not attempt to induce vomiting, as the caustic substance can cause additional burns on the way back up.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the product label is one of the most helpful things you can do. Different brands have varying concentrations of sodium hypochlorite and may contain additional surfactants or fragrances that change the toxicity profile. Additionally, a clear photo of your cat's tongue and gums can help the triage team assess the immediate severity of any chemical burns before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I wash my cat's mouth out with water?",
+      "answer": "You can gently wipe the fur around the mouth with a damp cloth to remove external residue, but do not force water into the cat's mouth as this can lead to aspiration or choking. Wait for professional veterinary instructions."
+    },
+    {
+      "question": "What are the common symptoms of bleach ingestion?",
+      "answer": "Look for excessive drooling (ptyalism), redness or white patches on the gums or tongue, pawing at the mouth, vomiting, and a lack of appetite."
+    },
+    {
+      "question": "Is 'color-safe' bleach less dangerous?",
+      "answer": "Color-safe bleaches often contain hydrogen peroxide instead of sodium hypochlorite. While different, they are still oxidizers that can cause significant irritation and vomiting, and should still be treated as an emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

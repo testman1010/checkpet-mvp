@@ -1,0 +1,20 @@
+{
+  "title": "Cat Constipated for 48+ Hours: Triage Guide & Next Steps",
+  "meta_desc": "Is your cat struggling to poop? Learn the signs of feline constipation, when it becomes an emergency, and how to help your pet today.",
+  "content_html": "<h3>What is Feline Constipation?</h3><p>Feline constipation occurs when stool moves too slowly through the digestive tract or becomes stuck in the colon. When stool remains in the colon for too long, the body continues to absorb water from it, making the waste hard, dry, and difficult to pass. If your cat hasn't used the litter box in over 48 hours, they are likely experiencing significant discomfort and require intervention.</p><h3>Is it an Emergency?</h3><p>The urgency level for this situation is Medium. While it may not be a life-threatening crisis in the first 48 hours, it can quickly escalate. If your cat is still eating and acting normally, you should schedule a veterinary appointment within the next 24 hours. However, if you notice vomiting, a tense or painful abdomen, or if your cat is straining repeatedly without producing anything, this could indicate a complete blockage or a more serious condition like megacolon, which requires immediate attention.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of your cat’s most recent stool (if any) or a short video of them in the litter box can be incredibly helpful for your veterinarian. A photo of the stool allows the vet to assess the level of dehydration and consistency. More importantly, a video of the cat straining helps the vet differentiate between constipation and a life-threatening urinary blockage, as the physical behaviors for both can look remarkably similar to the untrained eye.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a human laxative?",
+      "answer": "No. Never give your cat human medications or home remedies like mineral oil without a veterinarian's direct advice, as these can cause aspiration pneumonia or toxicity."
+    },
+    {
+      "question": "How do I tell the difference between constipation and a urinary blockage?",
+      "answer": "It is very difficult to tell the difference at home. If your cat is a male and is frequently visiting the box but producing nothing, treat it as a critical emergency, as urinary blockages are fatal if not treated immediately."
+    },
+    {
+      "question": "What are common signs of constipation in cats?",
+      "answer": "Signs include straining in the litter box, producing small, hard 'pebbles' of stool, crying while trying to defecate, or losing interest in food."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

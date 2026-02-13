@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hyperventilating Due to Stress: Triage Guide & Next Steps",
+  "meta_desc": "Is your dog hyperventilating from stress? Learn what it means, the urgency level, and how to help your pet calm down safely.",
+  "content_html": "<h3>What is Stress-Induced Hyperventilation?</h3><p>When a dog experiences intense fear, anxiety, or emotional distress, their autonomic nervous system triggers a 'fight or flight' response. This often manifests as hyperventilation, which is characterized by rapid, shallow breathing that exceeds the normal rhythm of cooling-based panting. Unlike cooling panting, this behavior is driven by emotional triggers rather than physical temperature.</p><h3>Is Hyperventilation an Emergency?</h3><p>The urgency level for a dog hyperventilating due to stress is categorized as Medium. While most cases resolve once the stressor is removed and the dog is calmed, prolonged hyperventilation can lead to an imbalance in blood gases or indicate an underlying heart or lung condition that is being exacerbated by the stress. If your dog's gums change color or if they seem unable to catch their breath after 15 minutes of rest, you should contact a veterinarian immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If you are consulting with a veterinary professional, providing a short video of your dog's breathing is extremely valuable. A video allows the vet to observe the effort of the chest wall, the rhythm of the breaths, and the dog's overall posture. This visual evidence helps them quickly distinguish between behavioral anxiety and a physical respiratory emergency, ensuring your pet gets the correct level of care.</p>",
+  "faqs": [
+    {
+      "question": "How can I tell the difference between stress and heatstroke?",
+      "answer": "Stress-induced breathing usually stops once the dog is in a calm, familiar environment. Heatstroke involves a high body temperature, drooling, and bright red gums. If in doubt, check your dog's temperature rectally."
+    },
+    {
+      "question": "What should I do to calm my hyperventilating dog?",
+      "answer": "Move your dog to a quiet, cool, and dark room. Avoid hovering over them or panicking, as dogs often mirror their owner's emotions. Speak in low, soothing tones."
+    },
+    {
+      "question": "When does stress hyperventilation become a 'High' urgency?",
+      "answer": "It becomes a high-priority emergency if you notice blue, purple, or pale gums, extreme lethargy, or if the dog starts using their abdominal muscles to force breaths."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

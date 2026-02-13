@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Bright Green Substance: Emergency Triage Guide",
+  "meta_desc": "Is your dog vomiting bright green? Learn why this is a high-urgency emergency and why you should contact a vet immediately.",
+  "content_html": "<h3>What is the bright green substance?</h3><p>Bright green vomit in dogs typically indicates the presence of bile, a digestive fluid produced by the liver and stored in the gallbladder. While bile is naturally yellow-green, a vibrant or neon green color often suggests that the substance has moved very quickly through the digestive tract or that the dog has ingested something specific, such as rodenticides (rat poison), toxic plants, or blue-green algae.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level for this symptom is High. Because bright green vomiting can be a primary clinical sign of life-threatening issues—including gastrointestinal blockages, severe pancreatitis, or ingestion of neurotoxic rat poisons—you should seek immediate veterinary care. Do not wait for a 'wait and see' approach if the vomit is persistent or accompanied by lethargy and loss of appetite.</p><h3>Why a photo helps triage</h3><p>If it is safe to do so, take a clear photo of the vomit to show your veterinarian. Visual evidence allows the medical team to assess the exact shade and consistency, which helps them differentiate between simple bile, undigested grass, or chemical dyes found in certain poisons. This information is vital for the triage team to prioritize your dog's case and prepare the correct diagnostics or antidotes upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can eating grass cause bright green vomit?",
+      "answer": "While grass contains chlorophyll that can tint vomit, grass-related vomiting usually contains visible blades of plant matter. Liquid, neon-green vomit is more likely to be bile or a chemical toxin."
+    },
+    {
+      "question": "Is green vomit always a sign of poisoning?",
+      "answer": "Not always, but it is a common sign of certain types of rat poisons (rodenticides). Because the risk is so high, vets treat bright green vomit as a potential toxicity until proven otherwise."
+    },
+    {
+      "question": "What should I do if my vet is closed?",
+      "answer": "Since this is a high-urgency situation, you should immediately contact the nearest 24-hour emergency animal hospital."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

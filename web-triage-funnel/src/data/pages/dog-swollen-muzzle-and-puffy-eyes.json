@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swollen Muzzle and Puffy Eyes: Emergency Triage Guide",
+  "meta_desc": "Is your dog's face swollen? Learn about allergic reactions, why it is a high-priority emergency, and how to help your vet triage the situation.",
+  "content_html": "<h3>What is causing my dog's swollen face?</h3><p>Sudden swelling of the muzzle and puffy eyes in dogs is most often a sign of an acute allergic reaction, known as facial edema or angioedema. This occurs when the immune system overreacts to a trigger, causing fluid to leak into the tissues. Common culprits include insect stings, spider bites, or contact with environmental allergens.</p><h3>Is this an emergency?</h3><p><strong>Urgency Level: High.</strong> Facial swelling should always be treated with caution. While the swelling itself is uncomfortable, the primary concern is that it can be a precursor to anaphylaxis or lead to the swelling of the throat and airway. If your dog is struggling to breathe, coughing, vomiting, or acting lethargic, you must transport them to the nearest emergency veterinarian immediately.</p><h3>Why a photo helps with triage</h3><p>If you are calling a clinic or using a telehealth service, taking a clear photo of your dog's face is extremely beneficial. A photo allows the veterinary team to assess the severity of the inflammation instantly and provides a baseline to determine if the swelling is getting worse or responding to treatment once you arrive at the hospital.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog Benadryl for the swelling?",
+      "answer": "While diphenhydramine is often used for allergies, you should never administer medication without a vet's specific dosage instructions, as some brands contain xylitol which is toxic to dogs."
+    },
+    {
+      "question": "How quickly does facial swelling occur?",
+      "answer": "Allergic reactions in dogs typically appear very rapidly, often within minutes to an hour after exposure to the allergen."
+    },
+    {
+      "question": "What if the swelling is only on one side?",
+      "answer": "One-sided swelling can still be an allergy, but it may also indicate a localized issue like a tooth root abscess or a specific sting site that needs professional cleaning."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

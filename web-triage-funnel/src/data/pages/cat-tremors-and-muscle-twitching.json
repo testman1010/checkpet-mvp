@@ -1,0 +1,20 @@
+{
+  "title": "Cat Tremors and Muscle Twitching: A Veterinary Triage Guide",
+  "meta_desc": "Learn what cat tremors and muscle twitching mean, why they are often emergencies, and how to document symptoms to help your veterinarian diagnose.",
+  "content_html": "<h3>What are Cat Tremors and Muscle Twitching?</h3><p>Tremors and muscle twitching in cats are involuntary, rhythmic muscle contractions that can range from localized (a single limb or the face) to generalized (the entire body). While occasional skin twitching can be normal, persistent shaking or uncontrollable movements usually indicate an underlying neurological, metabolic, or toxicological issue that requires immediate attention.</p><h3>Is it an Emergency?</h3><p>The urgency level for cat tremors is High. If your cat is experiencing muscle twitching, especially if accompanied by confusion, drooling, vomiting, or a high body temperature, you should contact an emergency veterinarian immediately. Common causes include exposure to toxins like lilies or permethrin (found in some dog flea medications), low blood sugar, or severe electrolyte imbalances. Because these conditions can lead to seizures or permanent damage, they must be addressed by a professional right away.</p><h3>Why Video and Documentation Help Triage</h3><p>If it is safe to do so, capturing a quick video of the twitching can be incredibly helpful for your vet. Cats often hide symptoms or stop twitching due to the adrenaline of a clinic visit. A video allows the veterinary team to see the exact pattern, frequency, and severity of the movements in a home environment, which helps them distinguish between tremors, focal seizures, or behavioral responses, leading to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be cold?",
+      "answer": "While cats do shiver if they are hypothermic, true muscle tremors are usually distinct from shivering and often occur regardless of the room temperature. If they are shivering and also acting lethargic, seek medical care."
+    },
+    {
+      "question": "Can certain flea treatments cause twitching?",
+      "answer": "Yes, products containing pyrethroids or permethrins (common in dog treatments) are highly toxic to cats and frequently cause severe muscle tremors and seizures."
+    },
+    {
+      "question": "What should I do while waiting to get to the vet?",
+      "answer": "Keep your cat in a quiet, dark, and padded area (like a carrier with blankets) to prevent injury from falls. Do not try to give them food or water as they may choke."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

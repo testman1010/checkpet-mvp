@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Dog Food: Managing an Upset Stomach and Triage Guide",
+  "meta_desc": "Is it an emergency if your cat ate dog food? Learn why dietary indiscretion happens and how to manage mild symptoms at home. Urgency Level: Low.",
+  "content_html": "<h3>What Is Dietary Indiscretion from Dog Food?</h3><p>When a cat consumes dog food, it is known as dietary indiscretion. While dog food is not inherently toxic to felines, it is formulated with different nutrient ratios, higher carbohydrate content, and lacks essential amino acids like taurine that cats require. For a sensitive feline stomach, this sudden change in diet or the ingestion of richer fats can lead to gastrointestinal irritation, resulting in vomiting or diarrhea.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for a cat eating dog food is generally <strong>Low</strong>. Most cases result in mild, self-limiting upset stomach symptoms. However, you should monitor your cat closely. If the vomiting is frequent, if there is blood in the stool, or if your cat becomes lethargic and refuses their regular water and food for more than 24 hours, you should contact your veterinarian for a check-up.</p><h3>Why a Photo Helps Triage</h3><p>During a virtual triage or a call to your clinic, providing a photo can be incredibly helpful. Taking a clear picture of the dog food packaging (specifically the ingredient list) and any vomit or stool produced helps professionals determine the severity of the irritation. Photos allow us to see the consistency and color, which can indicate whether the issue is simple irritation or something requiring more immediate medical intervention.</p>",
+  "faqs": [
+    {
+      "question": "Can dog food be a permanent substitute for cat food?",
+      "answer": "No. Cats are obligate carnivores and require specific nutrients like taurine, arachidonic acid, and Vitamin A that are found in proper levels only in feline-specific formulas."
+    },
+    {
+      "question": "What are the common symptoms of an upset stomach in cats?",
+      "answer": "Common signs include mild vomiting, diarrhea, decreased appetite, and occasionally a slightly gassy or bloated abdomen."
+    },
+    {
+      "question": "How can I soothe my cat's stomach at home?",
+      "answer": "Ensure they have plenty of fresh water to prevent dehydration. If your vet approves, you may offer a small amount of a bland diet, such as plain boiled chicken, until symptoms subside."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Open Abscess Triage: Causes, Urgency, and Next Steps",
+  "meta_desc": "If your cat has a large open abscess draining pus, learn about urgency levels, why it happens, and how photos help your vet provide better care.",
+  "content_html": "<h3>What is an Abscess?</h3><p>An abscess is a localized pocket of infection under the skin, usually filled with pus. When you see a large open wound that is draining, it means the pressure from the infection has caused the skin to rupture. This most commonly occurs following a bite or scratch from another animal, which introduces bacteria deep into the tissue.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Medium. While an open abscess looks alarming, the rupture often provides some relief from the painful pressure. However, it is not a condition that can be treated at home. You should seek veterinary care within 24 hours to ensure the infection is fully cleared and to prevent the wound from closing over while bacteria are still trapped inside.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of the wound helps your veterinary team assess the severity of the tissue damage. It allows them to see the color of the discharge, the size of the pocket, and whether there is any necrotic (dead) tissue that needs surgical removal. This visual information helps prioritize your cat's appointment and prepares the staff for the specific treatment required.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to squeeze the rest of the pus out?",
+      "answer": "No, you should avoid squeezing the area, as this can push the bacteria deeper into the surrounding healthy tissue or bloodstream. Let it drain naturally and keep your cat from licking the area until seen by a vet."
+    },
+    {
+      "question": "Can I use hydrogen peroxide to clean the wound?",
+      "answer": "It is best to avoid hydrogen peroxide or alcohol, as these can be painful and actually damage the healthy tissue needed for healing. You may gently wipe the area with warm water on a clean cloth."
+    },
+    {
+      "question": "What are signs that this is becoming a high-priority emergency?",
+      "answer": "If your cat becomes extremely lethargic, refuses to eat, has a high fever, or if the skin around the wound is turning black or purple, seek emergency veterinary care immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

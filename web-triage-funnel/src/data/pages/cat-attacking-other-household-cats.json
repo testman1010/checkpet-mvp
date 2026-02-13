@@ -1,0 +1,20 @@
+{
+  "title": "Inter-cat Aggression: Managing Cats Attacking Each Other",
+  "meta_desc": "Understand inter-cat aggression in multi-cat homes, its causes, and how to manage behavior issues safely with expert veterinary triage advice.",
+  "content_html": "<h3>What is Inter-cat Aggression?</h3><p>Inter-cat aggression refers to hostile behavior between cats living in the same household. This behavior can manifest as hissing, growling, chasing, or physical fighting. It often stems from territorial disputes, redirected frustration, or changes in the social hierarchy. Understanding whether the behavior is play-fighting or true aggression is the first step in restoring peace to your home.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. While a fight between cats is stressful for the family, it is generally not a medical emergency unless one of the cats has sustained a deep puncture wound, a bite, or an injury that causes limping or bleeding. If your cats are fighting, separate them immediately using a physical barrier like a piece of cardboard to avoid getting bitten yourself.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a photo of the cats' body language or a brief video of the interaction can be extremely beneficial for a veterinary professional. Subtle cues like ear position, tail movement, and pupil dilation help us determine the level of aggression and the specific triggers involved. Visual documentation allows for a more precise behavioral assessment than a verbal description alone.</p>",
+  "faqs": [
+    {
+      "question": "What should I do during an active cat fight?",
+      "answer": "Never use your hands to break up a fight. Use a loud noise, a distraction, or slide a large piece of cardboard between them to separate them safely."
+    },
+    {
+      "question": "Could my cat's aggression be caused by a medical problem?",
+      "answer": "Yes. Sudden changes in behavior can be linked to pain, hyperthyroidism, or neurological issues. A veterinary check-up is recommended to rule out underlying health problems."
+    },
+    {
+      "question": "What is redirected aggression?",
+      "answer": "This occurs when a cat is agitated by something they cannot reach, such as a bird outside, and lashes out at a housemate instead."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

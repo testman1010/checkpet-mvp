@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chronic Asthma and Wheezing: Management and Triage Guide",
+  "meta_desc": "Understand feline asthma symptoms, urgency levels, and how to help your cat breathe easier with our veterinary-led guide.",
+  "content_html": "<h3>What is Feline Asthma?</h3><p>Feline asthma is a chronic inflammatory condition of the lower airways. Much like in humans, a cat's immune system overreacts to inhaled allergens, causing the small airways to swell and constrict. This results in the characteristic wheezing sound, coughing, or a hunched posture where the cat looks like they are trying to hack up a hairball that never comes.</p><h3>Is it an Emergency?</h3><p>The urgency level for chronic wheezing is categorized as Medium. If your cat has a persistent cough or intermittent wheeze but is still eating, drinking, and active, you should schedule a veterinary appointment within the next 48 hours. However, if your cat displays open-mouth breathing, blue-tinted gums, or heavy abdominal panting, this is a respiratory crisis and requires immediate emergency care.</p><h3>Why a Video Helps Triage</h3><p>It is incredibly helpful to provide your veterinarian with a video of your cat's wheezing episodes. Because cats are often stressed at the clinic, their breathing patterns may change or symptoms may temporarily disappear due to adrenaline. A clear video of the event at home allows the vet to assess the effort involved in breathing and distinguish between a cardiac issue, a hairball, or true asthma.</p>",
+  "faqs": [
+    {
+      "question": "Can cat asthma be cured?",
+      "answer": "There is no permanent cure for feline asthma, but it can be successfully managed long-term with corticosteroids and bronchodilators to keep your cat comfortable."
+    },
+    {
+      "question": "What environmental changes can I make?",
+      "answer": "Minimize triggers by switching to dust-free litter, avoiding scented candles or perfumes, and using HEPA air filters to remove allergens from the home."
+    },
+    {
+      "question": "Does my cat need an inhaler?",
+      "answer": "Many cats benefit from inhaled medications using a special spacer device. This delivers medicine directly to the lungs with fewer systemic side effects than oral medications."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

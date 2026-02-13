@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Garbage: Triage Guide & When to See a Vet",
+  "meta_desc": "Did your dog raid the trash? Learn about 'garbage gut,' urgency levels, and why photos of the trash help your vet provide better care.",
+  "content_html": "<h3>What is Garbage Gut?</h3><p>When a dog raids the trash, they are at risk of what veterinarians call 'garbage gut,' or dietary indiscretion. This occurs when a pet consumes spoiled food, non-food items, or rich, fatty scraps that their digestive system isn't equipped to process. The result can range from mild gas to severe inflammation of the pancreas (pancreatitis) or bacterial poisoning from decomposing organic matter.</p><h3>Is it an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While a simple upset stomach is common, the trash often contains hidden dangers like cooked bones, toxic ingredients (such as onions, grapes, or xylitol), or plastic packaging that can cause internal blockages. You should monitor your pet closely; however, if your dog exhibits a painful abdomen, repeated vomiting, or extreme lethargy, you should seek veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you discover the mess, try to take a photo of the remaining trash or any torn packaging before cleaning it up. Photos provide your veterinarian or a triage assistant with crucial clues about what was ingested, the potential volume of the material, and the presence of specific toxins. This visual evidence allows for a much faster and more accurate risk assessment than a verbal description alone.</p>",
+  "faqs": [
+    {
+      "question": "What are the common signs of 'garbage gut'?",
+      "answer": "Common symptoms include vomiting, diarrhea, decreased appetite, and abdominal discomfort. These usually appear within 2 to 24 hours after ingestion."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without consulting a professional first. If your dog swallowed sharp objects, bones, or caustic chemicals, inducing vomiting can cause more damage to the esophagus."
+    },
+    {
+      "question": "How can I help my dog recover at home?",
+      "answer": "If your vet advises home monitoring, they may suggest a brief fast followed by a bland diet of boiled chicken and white rice. Always ensure your dog has access to fresh water to prevent dehydration."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

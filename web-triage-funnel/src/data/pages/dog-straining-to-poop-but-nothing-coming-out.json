@@ -1,0 +1,20 @@
+{
+  "title": "Dog Straining to Poop: Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your dog straining to defecate? Learn about tenesmus, the urgency of the situation, and how photos help your vet provide a faster diagnosis.",
+  "content_html": "<h3>What Does It Mean When a Dog Strains to Poop?</h3><p>Straining to defecate, medically known as tenesmus, occurs when a dog feels a frequent or continuous urge to empty their bowels, even if little to nothing is produced. This sensation can be caused by various issues ranging from simple constipation or dietary indiscretion to more complex problems like colitis, anal gland inflammation, or even a gastrointestinal obstruction.</p><h3>Is This an Emergency?</h3><p>The urgency level for straining to poop is typically Medium. While the behavior is uncomfortable for your pet, it is rarely an immediate life-threat if the dog is otherwise acting normally. However, urgency increases to High if your dog is also vomiting, has a distended abdomen, or is lethargic, as these can be signs of a life-threatening intestinal blockage. If the straining persists for more than 24 hours, a veterinary exam is necessary to prevent further complications.</p><h3>Why a Photo Helps with Triage</h3><p>Taking a clear photo of your dog’s rear area or any small amount of discharge, mucus, or stool they manage to produce can be incredibly helpful for a triage team. A photo allows a veterinary professional to assess the severity of inflammation or identify the presence of blood, which helps them determine how quickly your pet needs to be seen and what diagnostic tests may be required upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be straining for a reason other than constipation?",
+      "answer": "Yes, dogs often strain similarly when they have diarrhea (due to irritation of the colon) or when they are having trouble urinating. If your dog is a male and cannot pass urine, this is a critical emergency."
+    },
+    {
+      "question": "Can I give my dog a human laxative?",
+      "answer": "No, you should never administer human medications or enemas to a dog without veterinary supervision. Some human products are toxic to pets or can cause severe dehydration and electrolyte imbalances."
+    },
+    {
+      "question": "When should I call an emergency vet?",
+      "answer": "Call an emergency vet immediately if the straining is accompanied by persistent vomiting, extreme lethargy, a hard or painful belly, or if you know your dog ingested a foreign object like a toy or clothing."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

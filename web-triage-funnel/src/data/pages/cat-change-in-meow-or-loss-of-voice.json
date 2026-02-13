@@ -1,0 +1,20 @@
+{
+  "title": "Cat Voice Change or Loss (Dysphonia): Causes & Triage Guide",
+  "meta_desc": "Is your cat's meow sounding raspy or gone? Learn about dysphonia in cats, when it is an emergency, and how to help your pet recover their voice.",
+  "content_html": "<h3>What is it?</h3><p>When a cat’s meow changes in pitch, becomes raspy, or disappears entirely, it is medically referred to as dysphonia or aphonia. This happens when the vocal cords in the larynx (voice box) become inflamed, irritated, or obstructed. It is essentially the feline version of laryngitis or a sore throat, though it can stem from various causes ranging from simple strain to respiratory infections.</p><h3>Is it an emergency?</h3><p>The urgency level for a change in meow is generally <strong>Low</strong>. If your cat is acting normally—eating, drinking, and playing—this is typically not a medical emergency and can be addressed during a scheduled veterinary appointment. However, if the voice change is accompanied by open-mouth breathing, gasping for air, or a blue tint to the gums, you should seek immediate emergency care as these are signs of respiratory distress.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of your cat attempting to vocalize or breathe can be a vital diagnostic tool. Cats often hide their symptoms in a stressful clinic environment, so seeing the behavior at home helps the vet determine the severity of the issue. A video allows a professional to listen to the specific sound of the meow and observe the movement of the throat and chest, which helps differentiate between a simple sore throat and more serious conditions like laryngeal paralysis.</p>",
+  "faqs": [
+    {
+      "question": "Can a cat lose its voice from meowing too much?",
+      "answer": "Yes, excessive vocalization due to stress, being in heat, or being trapped in a carrier can cause temporary vocal cord strain and laryngitis."
+    },
+    {
+      "question": "What are the common causes of a raspy meow?",
+      "answer": "Common causes include upper respiratory infections (the cat flu), allergies, inhaled irritants like smoke, or even acid reflux."
+    },
+    {
+      "question": "When should I be worried about my cat's voice loss?",
+      "answer": "You should be concerned if the voice loss lasts more than a few days, or if it is paired with coughing, sneezing, lethargy, or a loss of appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

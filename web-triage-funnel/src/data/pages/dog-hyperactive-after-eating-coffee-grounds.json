@@ -1,0 +1,24 @@
+{
+  "title": "Dog Hyperactive After Eating Coffee Grounds: Emergency Triage Guide",
+  "meta_desc": "If your dog is hyperactive after eating coffee grounds, they may have caffeine poisoning. This is a high-urgency emergency requiring immediate care.",
+  "content_html": "<h3>What is Caffeine Toxicity?</h3><p>Caffeine belongs to a group of chemicals called methylxanthines. While humans can process caffeine easily, dogs are much more sensitive to its effects. When a dog consumes coffee grounds, the caffeine is rapidly absorbed into their bloodstream, causing severe overstimulation of the central nervous system, the cardiovascular system, and the kidneys.</p><h3>Is it an Emergency?</h3><p>Yes. This is a High Urgency situation. Hyperactivity is one of the first clinical signs that your dog has ingested a toxic dose. Because coffee grounds are concentrated, even a small amount can lead to life-threatening symptoms such as an elevated heart rate, tremors, seizures, and cardiac arrest. You should contact an emergency veterinarian or a pet poison control center immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to safely do so, taking a photo of the coffee packaging or the amount of grounds remaining can be incredibly helpful for the veterinary team. A photo of the label helps the vet identify the specific caffeine concentration, while a photo of the spill helps them estimate the total volume ingested. This data allows the medical team to calculate the exact level of risk and move straight to the most effective treatment.</p>",
+  "faqs": [
+    {
+      "question": "How quickly do symptoms of caffeine poisoning appear?",
+      "answer": "Symptoms typically begin to manifest within 30 to 60 minutes of ingestion."
+    },
+    {
+      "question": "What are the common signs of caffeine toxicity in dogs?",
+      "answer": "Common signs include extreme restlessness, rapid breathing, heart palpitations, muscle tremors, and vomiting."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian, as this can be dangerous if the dog is already showing neurological symptoms."
+    },
+    {
+      "question": "Is decaf coffee safe for dogs?",
+      "answer": "While decaf contains significantly less caffeine, it still contains trace amounts and should be avoided entirely to prevent any risk of upset stomach or toxicity."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

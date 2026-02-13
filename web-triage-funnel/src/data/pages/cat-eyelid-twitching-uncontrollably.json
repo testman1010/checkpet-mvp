@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eyelid Twitching: Causes, Urgency, and Triage Advice",
+  "meta_desc": "Is your cat's eye twitching? Learn about blepharospasm, urgency levels, and why capturing a photo can help your vet diagnose the issue quickly.",
+  "content_html": "<h3>What is Cat Eyelid Twitching?</h3><p>An uncontrollable twitching of the eyelid in cats is medically known as blepharospasm. This is not usually a disease itself, but rather a clinical sign that the eye or the surrounding nerves are being irritated. It can range from a tiny flutter to a complete squinting of the eye. Common causes include environmental allergens, minor irritants like dust, or more specific conditions like an ingrown eyelash or a dry eye.</p><h3>Is it an Emergency?</h3><p>The urgency level for an isolated eyelid twitch is generally <strong>Low</strong>. If your cat is acting normally and the eye appears clear with no redness or discharge, you can often monitor the situation for 24 to 48 hours. However, if the twitching is accompanied by cloudiness, yellow or green discharge, or if your cat is constantly pawing at the eye, you should seek veterinary care promptly to rule out a corneal ulcer or infection.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a high-quality photo or a short video of the twitching is a powerful tool for your veterinary team. Eye issues can be intermittent, and the twitching may stop by the time you reach the clinic. A visual record helps the vet observe the exact nature of the spasm, identify any subtle swelling or redness, and determine how quickly your pet needs to be seen based on the visible severity of the irritation.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have something stuck in its eye?",
+      "answer": "Yes, a foreign body like a seed or a piece of hair is a common cause of sudden twitching and squinting."
+    },
+    {
+      "question": "Can I use human eye drops for my cat's twitching?",
+      "answer": "No, you should never use human eye medications on cats, as some ingredients can cause severe irritation or mask more serious underlying problems."
+    },
+    {
+      "question": "Is eyelid twitching a sign of a stroke?",
+      "answer": "While neurological issues can cause facial tics, isolated eyelid twitching is far more likely to be related to local eye irritation than a stroke."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

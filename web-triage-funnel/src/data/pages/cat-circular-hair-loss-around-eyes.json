@@ -1,0 +1,20 @@
+{
+  "title": "Cat Circular Hair Loss Around Eyes: Causes and Triage Guide",
+  "meta_desc": "Is your cat losing hair around their eyes? Learn about common causes like ringworm and why this low-urgency issue usually isn't an emergency.",
+  "content_html": "<h3>Understanding Hair Loss Around Your Cat's Eyes</h3><p>Noticing circular patches of hair loss near your cat's eyes can be worrying for any pet parent. This condition, often referred to as periocular alopecia, is frequently associated with skin issues like Ringworm (a fungal infection), mites (mange), or allergic reactions. It may also result from your cat over-grooming the area due to irritation or discharge from the eye itself.</p><h3>Is This an Emergency?</h3><p>The urgency level for circular hair loss around the eyes is generally <strong>Low</strong>. While it is not an immediate life-threatening emergency, it does require a scheduled veterinary appointment. These conditions are often contagious to other pets or even humans (in the case of Ringworm) and can become more difficult to treat if left to spread. You should seek more urgent care only if the eye itself appears cloudy, red, or if your cat is constantly squinting.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, close-up photo of the affected area is incredibly helpful for veterinary triage. A high-quality image allows a professional to examine the skin's texture—looking for redness, scaling, or crusting—which helps differentiate between fungal infections and simple irritation. This visual information ensures your cat receives the correct priority level and helps the vet prepare for the specific diagnostic tests needed.</p>",
+  "faqs": [
+    {
+      "question": "Can I catch this from my cat?",
+      "answer": "If the hair loss is caused by Ringworm, yes. Ringworm is a fungal infection that is zoonotic, meaning it can spread from animals to humans."
+    },
+    {
+      "question": "Can I use human eye drops or creams on the area?",
+      "answer": "No. You should never apply human medications or topical creams near a cat's eyes without professional guidance, as many ingredients are toxic to cats or can cause severe ocular irritation."
+    },
+    {
+      "question": "How will a vet diagnose the cause?",
+      "answer": "Vets typically use a specialized UV light called a Wood's lamp, perform a skin scraping, or take a small hair sample for a fungal culture to determine the exact cause."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

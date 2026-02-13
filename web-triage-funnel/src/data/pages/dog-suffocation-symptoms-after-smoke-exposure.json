@@ -1,0 +1,20 @@
+{
+  "title": "Dog Smoke Inhalation Symptoms: Emergency Triage Guide",
+  "meta_desc": "If your dog was exposed to smoke, they may face life-threatening respiratory distress. Learn the symptoms and why this is a high-urgency emergency.",
+  "content_html": "<h3>What is Smoke Inhalation and Suffocation?</h3><p>Smoke inhalation occurs when a dog breathes in the combustion products of a fire, including carbon monoxide, hydrogen cyanide, and irritating soot particles. This causes inflammation of the airways, prevents the blood from carrying oxygen properly, and can lead to fluid buildup in the lungs, known as pulmonary edema.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for smoke exposure is High. Even if your dog appears normal immediately after exposure, symptoms can worsen significantly over the first 24 to 72 hours as internal swelling progresses. If your dog is coughing, wheezing, or has a bright red or blue-tinged tongue, seek emergency veterinary care immediately.</p><h3>How a Photo Helps Triage</h3><p>If you are communicating with a veterinary professional, providing a clear photo of your dog's gums and a short video of their breathing can be life-saving. A photo allows the vet to check the color of the mucous membranes—pale, blue, or cherry-red gums indicate different types of respiratory crises. A video of the chest helps the vet calculate the respiratory rate and identify 'increased effort,' which is a key indicator of internal suffocation.</p>",
+  "faqs": [
+    {
+      "question": "What are the common signs of smoke inhalation in dogs?",
+      "answer": "Common signs include heavy panting, coughing, gagging, soot around the nose, red or squinting eyes, and extreme lethargy."
+    },
+    {
+      "question": "How long after smoke exposure do symptoms appear?",
+      "answer": "While some signs appear immediately, others, such as fluid in the lungs, can take up to 48 hours to fully manifest."
+    },
+    {
+      "question": "What will the vet do for smoke inhalation?",
+      "answer": "Veterinarians typically provide oxygen therapy, intravenous fluids, and medications to reduce airway inflammation and support lung function."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

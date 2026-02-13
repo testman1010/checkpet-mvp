@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eating Litter or Licking Concrete: Causes and Triage Advice",
+  "meta_desc": "Is your cat eating litter or licking concrete? Discover why this happens (pica), the urgency level, and how to help your feline friend today.",
+  "content_html": "<h3>What is Pica in Cats?</h3><p>When a cat eats non-food items such as cat litter or licks porous surfaces like concrete, it is a behavior called pica. In many cases, this is not just a quirk but a physiological response to an underlying health issue. Cats often do this when they are experiencing mineral deficiencies, anemia (low red blood cell count), or other metabolic imbalances.</p><h3>Is it an Emergency?</h3><p>The urgency level for a cat eating litter or licking concrete is Medium. While it is rarely an immediate life-threatening emergency, it is a sign of significant internal distress or illness. You should monitor your cat for other symptoms like pale gums, lethargy, or loss of appetite and contact your veterinarian for an appointment within the next 24 to 48 hours to prevent the condition from worsening.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the specific cat litter your pet is consuming is incredibly helpful for triage. Certain types of litter, particularly clumping clay varieties, pose a high risk of causing a life-threatening intestinal blockage if ingested. Sharing a photo of the litter packaging or a video of the behavior allows your vet to assess the immediate physical risk to your cat's digestive system and determine how quickly they need to be seen.</p>",
+  "faqs": [
+    {
+      "question": "Can anemia cause a cat to eat litter?",
+      "answer": "Yes, anemia is one of the most common medical reasons for pica. Cats may instinctively seek out minerals found in litter or concrete when their red blood cell count is low."
+    },
+    {
+      "question": "What should I do if my cat eats clumping clay litter?",
+      "answer": "Contact a veterinarian immediately. Clumping litter can expand and harden inside the stomach or intestines, which may lead to a dangerous obstruction."
+    },
+    {
+      "question": "Is this behavior always related to a health problem?",
+      "answer": "While often medical, it can sometimes be behavioral due to extreme stress or boredom. However, a vet must always rule out health issues like kidney disease or iron deficiency before assuming it is psychological."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

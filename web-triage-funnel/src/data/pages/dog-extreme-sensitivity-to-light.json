@@ -1,0 +1,20 @@
+{
+  "title": "Dog Extreme Sensitivity to Light (Photophobia): Triage Guide",
+  "meta_desc": "Is your dog squinting or avoiding light? Learn about photophobia, why it is a medium-urgency concern, and how to help your pet today.",
+  "content_html": "<h3>What is Photophobia in Dogs?</h3><p>Photophobia, or extreme sensitivity to light, is not a disease itself but a symptom of an underlying issue. It occurs when light causes physical discomfort or pain to the eye. You may notice your dog squinting, keeping their eyes closed, pawing at their face, or retreating to dark rooms and closets to avoid brightness.</p><h3>Is it an Emergency?</h3><p>Extreme sensitivity to light is categorized as a <strong>Medium Urgency</strong> situation. While it may be caused by minor irritants, it is frequently a sign of serious conditions like corneal ulcers, uveitis (internal inflammation), or glaucoma. If the light sensitivity is accompanied by a change in eye color, excessive tearing, or a visible scratch, you should seek veterinary care within 12 to 24 hours to prevent permanent vision loss.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo of your dog's eyes to a veterinary professional can significantly speed up the triage process. A clear image allows the vet to check for pupil symmetry, redness, and discharge. When taking the photo, ensure you are in a well-lit area but <strong>do not use the flash</strong>, as this will cause your dog pain and may distort the appearance of the eye structure.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog's light sensitivity be caused by allergies?",
+      "answer": "While allergies can cause redness and itching, extreme light sensitivity usually points toward a more significant structural or inflammatory issue within the eye that requires a professional exam."
+    },
+    {
+      "question": "What can I do to help my dog right now?",
+      "answer": "Keep your dog in a dimly lit or dark room to minimize discomfort. Prevent them from pawing at their eyes by using an Elizabethan collar (cone) until you can see a veterinarian."
+    },
+    {
+      "question": "Are certain breeds more prone to light sensitivity?",
+      "answer": "Breeds with prominent eyes, such as Pugs or Bulldogs, are more susceptible to corneal injuries that lead to photophobia, but any dog can develop eye inflammation or secondary light sensitivity."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

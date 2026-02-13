@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Chocolate Chip Cookie: Risk Level & Triage Guide",
+  "meta_desc": "If your cat ate a chocolate chip cookie, learn about the risks of chocolate toxicity and what symptoms to watch for in this veterinary triage guide.",
+  "content_html": "<h3>What happened?</h3><p>When a cat eats a chocolate chip cookie, they are consuming ingredients that are not part of their natural diet, most notably chocolate and sugar. Chocolate contains compounds called methylxanthines (specifically theobromine and caffeine) which are toxic to cats. While a standard chocolate chip cookie usually has a low concentration of actual cocoa compared to a dark chocolate bar, any ingestion by a feline should be taken seriously due to their small body size and inability to metabolize these compounds efficiently.</p><h3>Is this an emergency?</h3><p>Urgency Level: Medium. In many cases, a single chocolate chip cookie may only cause mild gastrointestinal upset, such as vomiting or diarrhea. However, the situation can become an emergency if the cookie contained dark chocolate, cocoa powder, or the sugar-substitute Xylitol (Birch sugar), which is highly toxic. You should monitor your cat for signs of restlessness, rapid breathing, tremors, or an increased heart rate. If these symptoms appear, contact an emergency vet immediately.</p><h3>Why a photo helps triage</h3><p>If you are consulting with a veterinarian or a triage specialist, taking a photo of the cookie packaging is incredibly helpful. The ingredients list allows the professional to see the exact type of chocolate used and identify other hidden toxins like raisins or macadamia nuts. Furthermore, a photo of the remaining cookie pieces can help estimate the total volume consumed, which is vital for calculating potential toxicity levels based on your cat's weight.</p>",
+  "faqs": [
+    {
+      "question": "How much chocolate is toxic to a cat?",
+      "answer": "Toxicity depends on the type of chocolate and the cat's weight. Dark chocolate and baking chocolate are much more dangerous than milk chocolate because they contain higher concentrations of theobromine."
+    },
+    {
+      "question": "What should I do immediately after my cat eats a cookie?",
+      "answer": "Identify the ingredients, estimate how much was eaten, and call your veterinarian or a pet poison helpline. Do not induce vomiting unless specifically instructed to do so by a professional."
+    },
+    {
+      "question": "Are there other dangerous ingredients in cookies?",
+      "answer": "Yes. Beyond chocolate, ingredients like raisins, macadamia nuts, and the artificial sweetener Xylitol are extremely toxic to cats and require immediate veterinary attention."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

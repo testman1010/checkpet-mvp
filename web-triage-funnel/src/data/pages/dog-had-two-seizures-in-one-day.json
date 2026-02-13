@@ -1,0 +1,20 @@
+{
+  "title": "Dog Had Two Seizures in One Day: Emergency Guide & Next Steps",
+  "meta_desc": "If your dog has had two seizures in 24 hours, they are experiencing cluster seizures. This is a high-priority emergency requiring immediate vet care.",
+  "content_html": "<h3>Understanding Multiple Seizures (Cluster Seizures)</h3><p>When a dog experiences two or more seizures within a 24-hour period, it is medically referred to as cluster seizures. A seizure is a sudden surge of electrical activity in the brain that causes involuntary movements, convulsions, or behavioral changes. Even if your dog seems normal between episodes, multiple events in one day suggest an underlying neurological issue that requires professional intervention.</p><h3>Is This an Emergency?</h3><p>Yes, the urgency level is High. Cluster seizures are a serious medical emergency because they increase the risk of status epilepticus—a prolonged seizure state that can lead to permanent brain damage, respiratory failure, or organ failure due to extreme body temperature spikes. You should transport your dog to the nearest emergency veterinary clinic immediately to stabilize their condition and break the seizure cycle.</p><h3>Why Video and Photos Help Triage</h3><p>If it is safe to do so, recording a video of the event can provide vital information to the triage team. Different types of neurological events can look similar, and seeing the specific movements allows the veterinarian to distinguish between a true seizure, a heart-related fainting spell, or a vestibular episode. Photos of the environment or any potential toxins your dog might have ingested can also help the medical team reach a diagnosis more quickly.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is having a seizure?",
+      "answer": "Stay calm and clear the area of sharp objects or furniture. Do not put your hands near the dog's mouth, as they may accidentally bite. Time the seizure and call your vet immediately."
+    },
+    {
+      "question": "Can cluster seizures be stopped at home?",
+      "answer": "No. Cluster seizures require professional medical intervention, often involving intravenous anticonvulsants, to safely stop the brain's repetitive electrical misfiring."
+    },
+    {
+      "question": "What are the most common causes of multiple seizures?",
+      "answer": "Common causes include idiopathic epilepsy, toxin ingestion, low blood sugar, liver disease, or structural issues within the brain. A vet will need blood work or imaging to confirm the cause."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

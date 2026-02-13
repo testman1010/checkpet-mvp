@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Inability to Walk: Emergency Triage Guide",
+  "meta_desc": "If your dog suddenly cannot walk, it is a high-priority emergency. Learn about potential causes and why immediate veterinary care is essential.",
+  "content_html": "<h3>What Is Sudden Inability to Walk?</h3><p>A sudden inability to walk, also known as acute paralysis or paresis, occurs when a dog unexpectedly loses the function of one or more limbs. This may appear as dragging the hind legs, collapsing, or 'knuckling' where the dog walks on the tops of their paws. This condition often stems from a sudden disruption in the communication between the brain and the muscles, frequently involving the spinal cord, nerves, or blood flow.</p><h3>Is It an Emergency?</h3><p>Urgency Level: High. Yes, this is a critical veterinary emergency. When a dog loses mobility suddenly, the window for effective treatment can be very short. Conditions such as Intervertebral Disc Disease (IVDD), spinal trauma, or a Fibrocartilaginous Embolism (FCE) require immediate intervention to prevent permanent nerve damage or paralysis. If your dog's limbs feel cold or they appear to be in significant pain, seek emergency care immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so without delaying your trip to the vet, taking a quick video of your dog's movement (or attempt to move) is incredibly helpful for the clinical team. A video allows the veterinarian to observe the specific gait, the level of coordination, and which limbs are affected before the dog becomes stressed in the exam room. This visual evidence helps the triage team prioritize your pet and prepare the necessary diagnostic equipment, such as an MRI or CT scan, in advance.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog aspirin for the pain?",
+      "answer": "No. Never administer human pain relief to a dog. Many over-the-counter human medications are toxic to pets and can interfere with the emergency medications the veterinarian may need to use."
+    },
+    {
+      "question": "How should I move my dog to the car?",
+      "answer": "Try to keep your dog's spine as still as possible. Use a flat board, a firm pet bed, or a large towel as a makeshift stretcher to support their entire body during transport."
+    },
+    {
+      "question": "What are common causes for sudden paralysis?",
+      "answer": "Common causes include slipped discs (IVDD), spinal cord blood clots (FCE), sudden trauma, or severe neurological conditions like Botulism or Tick Paralysis."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

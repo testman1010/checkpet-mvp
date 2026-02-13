@@ -1,0 +1,20 @@
+{
+  "title": "Cat Urinating on Soft Surfaces: Causes and Triage Guide",
+  "meta_desc": "Learn why cats urinate on soft surfaces, when it's an emergency, and how to help your feline friend with our veterinary triage guide.",
+  "content_html": "<h3>What is it?</h3><p>Inappropriate urination, or periuria, occurs when a cat voids their bladder outside of their designated litter box. When cats specifically target soft surfaces like rugs, laundry, or bedding, it is often a signal of either physical discomfort or environmental stress. Common medical causes include urinary tract infections (UTIs), crystals, or Feline Lower Urinary Tract Disease (FLUTD), while behavioral causes may include litter box aversion or anxiety.</p><h3>Is it an emergency?</h3><p>The urgency level for this behavior is typically Low. If your cat is acting normally, eating well, and producing a normal volume of urine, you should schedule a standard veterinary appointment. However, if your cat is straining, vocalizing while in the box, or unable to pass any urine at all, this is a life-threatening medical emergency known as a urinary blockage and requires immediate care at an emergency hospital.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo of the urine on the soft surface can be a valuable diagnostic tool. A photo allows the vet to assess the color of the urine for signs of blood (hematuria) or excessive dilution. It also helps them see the volume of the spot, which can distinguish between frequent, small amounts of urine (common with irritation) versus a full bladder emptying (often behavioral or metabolic).</p>",
+  "faqs": [
+    {
+      "question": "Is my cat peing on my bed to be spiteful?",
+      "answer": "No, cats do not use urination as a form of spite. They are usually trying to communicate that they are in pain, feel unsafe in their litter box, or prefer the absorbency of soft materials when they have an urgent need to go."
+    },
+    {
+      "question": "Can I use regular household cleaners for these spots?",
+      "answer": "It is best to use an enzymatic cleaner specifically designed for pet waste. Regular cleaners may not fully break down the uric acid, and the lingering scent can attract your cat back to the same spot."
+    },
+    {
+      "question": "What will the vet do to diagnose the issue?",
+      "answer": "A veterinarian will likely perform a physical exam and a urinalysis to check for bacteria, crystals, or blood. They may also suggest blood work or imaging like an X-ray to rule out bladder stones."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

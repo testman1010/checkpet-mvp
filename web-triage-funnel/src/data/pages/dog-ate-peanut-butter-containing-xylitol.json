@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Peanut Butter with Xylitol: Emergency Triage Guide",
+  "meta_desc": "Xylitol is highly toxic to dogs. If your dog ate peanut butter containing xylitol, this is a high-priority emergency. Seek veterinary care now.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a common sugar substitute found in sugar-free products, including certain specialty peanut butters, chewing gum, and sugar-free candies. While perfectly safe for human consumption, it is a potent toxin for dogs. Even small amounts can trigger a massive release of insulin, causing a life-threatening drop in blood sugar (hypoglycemia) and potential acute liver failure.</p><h3>Urgency Level: High Emergency</h3><p>This is a critical, life-threatening situation. If you suspect or know your dog has ingested xylitol, do not wait for symptoms to appear. The effects can begin as quickly as 10 to 60 minutes after ingestion. Immediate veterinary intervention is required to stabilize blood glucose levels and protect the liver from irreversible damage.</p><h3>Why a Photo of the Label Helps</h3><p>If it is safe to do so, quickly grab the peanut butter jar and take a clear photo of the ingredient list and nutritional information. Showing this photo to your veterinarian allows them to calculate the exact concentration of xylitol your dog may have consumed. Because different brands use varying amounts, this data is vital for determining the specific treatment protocol and dosage of medications needed to save your dog’s life.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of xylitol poisoning?",
+      "answer": "Initial symptoms often include vomiting, followed by signs of low blood sugar such as extreme lethargy, staggering, weakness, collapse, and seizures."
+    },
+    {
+      "question": "How much xylitol is toxic to a dog?",
+      "answer": "Even very small amounts are dangerous. As little as 0.1 grams per kilogram of body weight can cause hypoglycemia, while higher doses can lead to liver failure."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian or a pet poison control expert. If your dog's blood sugar is already low, inducing vomiting can be dangerous."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

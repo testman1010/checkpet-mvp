@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ringworm on Ear: Triage Guide & Veterinary Advice",
+  "meta_desc": "Learn about cat ringworm on the ear, its urgency level, and how to help your vet with triage through photos.",
+  "content_html": "<h3>What is Ringworm?</h3><p>Ringworm, or dermatophytosis, is not actually a worm but a highly contagious fungal infection of the skin, hair, and claws. On a cat's ear, it often presents as a circular patch of hair loss, crusty or scaly skin, and sometimes mild redness or inflammation.</p><h3>Is it an Emergency?</h3><p>The urgency level for a suspected ringworm lesion is Medium. While ringworm is rarely a life-threatening medical emergency, it is considered urgent because it is zoonotic, meaning it can easily spread to humans and other pets in your household. Prompt treatment is necessary to stop the cycle of infection and prevent widespread environmental contamination.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo to your veterinarian or triage assistant is incredibly helpful. Clear images allow the professional to see the characteristic 'ring' shape, the degree of hair loss, and any signs of secondary bacterial infection. This helps them prioritize your appointment and provide immediate isolation advice to keep the rest of your family safe while you wait for a clinical diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can I catch ringworm from my cat?",
+      "answer": "Yes, ringworm is highly contagious to humans. It is recommended to wear gloves when handling the affected area and wash your hands thoroughly."
+    },
+    {
+      "question": "How do vets diagnose ringworm?",
+      "answer": "Veterinarians typically use a Wood's lamp (UV light) to look for fluorescence, or perform a fungal culture or PCR test for a definitive diagnosis."
+    },
+    {
+      "question": "Should I keep my cat isolated?",
+      "answer": "Yes, it is best to keep the infected cat in a restricted area that is easy to clean until your veterinarian provides a treatment plan."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

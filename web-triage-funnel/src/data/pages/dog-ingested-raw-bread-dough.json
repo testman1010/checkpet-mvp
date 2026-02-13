@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Raw Bread Dough: Emergency Guide & Triage Steps",
+  "meta_desc": "If your dog ingested raw bread dough, it is a high-priority emergency. Learn about yeast toxicity, bloat risks, and why you must act fast.",
+  "content_html": "<h3>What is Bread Dough Toxicity?</h3><p>Bread dough ingestion occurs when a pet consumes unbaked dough containing live yeast. Once inside the dog's stomach, the warm, moist environment causes the yeast to ferment and rise. This process releases carbon dioxide gas and ethanol (alcohol), both of which are highly toxic to canines.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening veterinary emergency. As the dough expands, it can cause the stomach to distend (bloat) or even twist (GDV), which cuts off blood flow to vital organs. Simultaneously, the alcohol produced by the yeast is rapidly absorbed into the bloodstream, leading to alcohol poisoning. You must contact an emergency veterinarian or a pet poison control center immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you are calling a vet or using a telehealth service, taking a photo of the dough—or the packaging it came from—is incredibly helpful. A photo allows the medical team to estimate the volume of the dough and check the ingredient list for other dangerous additives like raisins, chocolate, or xylitol, which require additional treatment protocols.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of bread dough poisoning?",
+      "answer": "Common signs include a distended or bloated abdomen, unproductive retching, stumbling (ataxia), lethargy, and a drop in body temperature."
+    },
+    {
+      "question": "How quickly does bread dough affect a dog?",
+      "answer": "Symptoms can begin within 30 to 60 minutes as the dough begins to expand and ferment in the warm environment of the stomach."
+    },
+    {
+      "question": "Can I give my dog water to help wash it down?",
+      "answer": "No. Do not give your dog anything by mouth, including water or food, until you have spoken with a veterinarian, as this may complicate the situation."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

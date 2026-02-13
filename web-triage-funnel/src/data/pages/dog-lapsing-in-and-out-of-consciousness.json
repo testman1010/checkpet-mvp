@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lapsing in and out of Consciousness: Emergency Triage Guide",
+  "meta_desc": "If your dog is losing consciousness, it is a high-priority medical emergency. Learn what to do and why immediate veterinary care is vital for survival.",
+  "content_html": "<h3>What is Lapsing Consciousness?</h3><p>When a dog lapses in and out of consciousness, it means they are experiencing periods where they are unresponsive to their name, touch, or surroundings, followed by brief periods of alertness. This can manifest as fainting (syncope), seizures, or profound weakness where the dog appears to 'zone out' or collapse. It often indicates an underlying issue with the heart, brain, or metabolic system, such as low blood sugar or oxygen deprivation.</p><h3>Is This a Medical Emergency?</h3><p>Yes. This is a <strong>High Urgency</strong> emergency. If your dog is losing consciousness, you must transport them to the nearest emergency veterinary hospital immediately. Do not wait for an appointment or monitor them at home. Loss of consciousness suggests that the brain is not receiving adequate blood flow, oxygen, or glucose, and delayed treatment could lead to permanent organ damage or death.</p><h3>How Photos and Video Help Triage</h3><p>While your priority is getting to the vet, if a second person is available to safely record a brief 10-15 second video of the episode, it can be incredibly helpful for the veterinary team. Many conditions—like heart arrhythmias and neurological seizures—look very similar but require completely different treatments. A video allows the vet to see the dog's gum color, breathing pattern, and muscle movements during the event, which provides vital clues that may no longer be visible by the time you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep your dog's airway clear and extend their neck slightly to help them breathe. Keep them warm with a blanket and try to stay calm to avoid stressing the animal further."
+    },
+    {
+      "question": "Can heart problems cause a dog to lose consciousness?",
+      "answer": "Yes, heart disease or arrhythmias can cause sudden drops in blood pressure, leading to fainting spells known as syncope, which can look like the dog is falling asleep or collapsing."
+    },
+    {
+      "question": "Is a seizure the same as losing consciousness?",
+      "answer": "During many types of seizures, a dog will lose consciousness or have an altered state of awareness. Seizures often involve involuntary muscle twitching, paddling of the legs, or loss of bladder control."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

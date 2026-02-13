@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://checkpet.vet
+
+# Sitemaps
+Sitemap: https://checkpet.vet/sitemap.xml

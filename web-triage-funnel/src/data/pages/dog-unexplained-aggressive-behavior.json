@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Sudden Aggression in Dogs: Causes & Triage Guide",
+  "meta_desc": "Is your dog acting suddenly aggressive? Learn why behavioral changes occur, when to see a vet, and how to safely document the behavior.",
+  "content_html": "<h3>What is Unexplained Aggression in Dogs?</h3><p>Sudden or unexplained aggression in dogs refers to a rapid change in behavior where a normally friendly pet displays signs of hostility, such as growling, snapping, or biting, without a clear environmental trigger. This is often not a behavioral issue in the traditional sense, but rather a symptom of an underlying medical condition, acute pain, or neurological distress.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Medium. While a sudden snap may not always seem like a life-threatening crisis, any drastic change in temperament should be evaluated by a veterinarian within 24 to 48 hours to rule out internal injury or disease. However, if the aggression is accompanied by neurological signs like seizures, intense disorientation, or extreme lethargy, it should be treated as an immediate emergency.</p><h3>Why Capturing the Behavior Helps</h3><p>If it is safe to do so, capturing a video of the behavior or a photo of the dog's body language can be incredibly helpful for triage. Because dogs often mask symptoms or act differently in a clinical setting, visual evidence allows your veterinarian to observe specific triggers, posture, and facial expressions. This helps them differentiate between pain-induced irritability, fear-based reactions, or cognitive dysfunction.</p>",
+  "faqs": [
+    {
+      "question": "Can physical pain cause sudden aggression?",
+      "answer": "Yes, pain is one of the most common causes of sudden irritability or defensive behavior. Conditions like arthritis, dental issues, or internal injuries can make a dog snap when touched."
+    },
+    {
+      "question": "Should I punish my dog for acting aggressive?",
+      "answer": "No, you should avoid punishment. If the aggression is caused by pain or fear, punishment will only increase the dog's stress and may lead to a more severe bite."
+    },
+    {
+      "question": "What are common medical causes for temperament changes?",
+      "answer": "Medical causes can include thyroid imbalances, neurological disorders, cognitive dysfunction (in senior dogs), and chronic pain from joints or teeth."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

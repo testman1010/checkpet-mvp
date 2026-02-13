@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Moldy Food: Risks, Symptoms, and Triage Guide",
+  "meta_desc": "If your cat ate moldy food, they may be at risk for mycotoxin poisoning. Learn about symptoms, urgency levels, and how to help your vet.",
+  "content_html": "<h3>What is Mycotoxin Poisoning?</h3><p>When a cat consumes moldy food from the trash, they are often ingesting tremorgenic mycotoxins. These are toxic substances produced by fungi that can cause severe neurological and digestive issues in pets. Even a small amount of moldy bread, cheese, or compost can contain enough toxins to trigger a reaction.</p><h3>Is it an Emergency?</h3><p>The urgency level for mold ingestion is Medium. While some cats may only experience mild gastrointestinal upset, others can develop life-threatening tremors or seizures. If your cat is showing signs of stumbling, shaking, or persistent vomiting, you should contact an emergency veterinarian immediately. Early intervention is key to preventing the toxins from being fully absorbed into the bloodstream.</p><h3>How a Photo Helps Triage</h3><p>If possible, safely take a photo of the moldy item your cat consumed. This visual information is incredibly helpful for veterinary staff and poison control experts. It can help identify the type of mold or the specific food source, allowing the medical team to better predict the severity of the reaction and determine the best course of treatment.</p>",
+  "faqs": [
+    {
+      "question": "What are the first signs of mold poisoning in cats?",
+      "answer": "The most common early signs include vomiting, drooling, agitation, and a slight trembling or twitching of the muscles."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. You should never attempt to induce vomiting in a cat at home unless specifically instructed to do so by a licensed veterinarian, as this can lead to aspiration pneumonia."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms of mycotoxin poisoning usually appear within 30 minutes to a few hours after ingestion."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

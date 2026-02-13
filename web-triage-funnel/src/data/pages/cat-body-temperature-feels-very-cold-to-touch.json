@@ -1,0 +1,20 @@
+{
+  "title": "Cat Body Temperature Feels Very Cold: Emergency Triage Guide",
+  "meta_desc": "If your cat feels cold to the touch, they may be in shock or suffering from hypothermia. Learn why this is a high-urgency veterinary emergency.",
+  "content_html": "<h3>What does it mean if my cat feels cold?</h3><p>If your cat feels cold to the touch, it is often a sign of hypothermia or systemic shock. Unlike humans, a cat's normal body temperature is significantly higher than ours, ranging between 100.5 and 102.5 degrees Fahrenheit. When their temperature drops below this range, their vital organs begin to slow down. This can be caused by environmental exposure, heart disease, severe infection, or internal trauma.</p><h3>Is this a veterinary emergency?</h3><p>Yes, this is a high-priority emergency. If your cat's body temperature is noticeably low, especially if combined with lethargy, pale gums, or shallow breathing, your cat’s life may be at risk. This state suggests that the body is no longer able to maintain its own heat, often due to circulatory collapse. You should contact your nearest emergency veterinarian immediately and prepare for transport.</p><h3>Why a photo or video helps triage</h3><p>When you are dealing with a critical situation, capturing a quick photo or a 10-second video of your cat can be incredibly helpful for the veterinary team. A visual of your cat's gum color, their physical posture, and their effort to breathe allows the triage staff to prioritize your case and prepare the necessary life-saving equipment before you even walk through the clinic doors.</p>",
+  "faqs": [
+    {
+      "question": "What is a normal temperature for a cat?",
+      "answer": "A healthy cat's internal body temperature should be between 100.5°F and 102.5°F (38.1°C to 39.2°C)."
+    },
+    {
+      "question": "Should I use a heating pad to warm them up?",
+      "answer": "Use extreme caution. You can wrap them in a warm towel, but avoid direct contact with heating pads, which can cause severe skin burns if the cat is too weak to move."
+    },
+    {
+      "question": "What are the common signs of shock in cats?",
+      "answer": "Common signs include cold extremities (paws and ears), pale or blue-tinged gums, a weak pulse, and extreme lethargy."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

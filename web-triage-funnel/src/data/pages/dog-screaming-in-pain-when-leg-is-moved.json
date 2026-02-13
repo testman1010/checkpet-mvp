@@ -1,0 +1,20 @@
+{
+  "title": "Dog Screaming in Pain When Leg is Moved: Urgent Care Guide",
+  "meta_desc": "If your dog screams when their leg moves, it is a high-priority emergency. Learn about potential causes and why you must see a vet immediately.",
+  "content_html": "<h3>What is it?</h3><p>When a dog screams or vocalizes sharply upon moving a limb, it indicates acute, severe pain. This is often a sign of a significant underlying injury such as a bone fracture, a joint dislocation (luxation), or a severe soft tissue tear like a ruptured cranial cruciate ligament. In some cases, the pain may actually originate from the spine, such as Intervertebral Disc Disease (IVDD), where nerve compression causes referred pain down the leg.</p><h3>Is it an emergency? (Urgency Level: High)</h3><p>Yes, this is considered a high-priority medical emergency. A dog that is vocalizing in pain is in a state of distress and may eventually go into shock. Immediate veterinary intervention is required to provide professional pain management and to stabilize the injury. Do not attempt to reset the leg or apply a splint yourself, as this can cause further damage and extreme pain. Avoid giving any over-the-counter human pain medications, which can be toxic to pets.</p><h3>Why a photo or video helps triage</h3><p>While you should not delay your trip to the vet, taking a brief video of how your dog is holding their leg or attempting to stand can be very helpful for the triage team. A visual record allows the veterinarian to see the initial symptoms and the degree of lameness before the dog's adrenaline masks the pain or before they are sedated for exams. It helps the clinical team prioritize your dog's case based on the visible severity of the orthopedic or neurological distress.</p>",
+  "faqs": [
+    {
+      "question": "How should I move my dog if they are in this much pain?",
+      "content": "Use a large towel, blanket, or a piece of plywood as a makeshift stretcher to keep the dog's body and limbs as still as possible during transport. Use a muzzle if necessary, as even the gentlest dogs may bite when in extreme pain."
+    },
+    {
+      "question": "Can I give my dog Tylenol or Aspirin?",
+      "content": "No. Human pain relievers are often toxic to dogs and can cause stomach ulcers or kidney failure. They also interfere with the stronger, safer medications the veterinarian will need to administer."
+    },
+    {
+      "question": "What will the vet do to diagnose the problem?",
+      "content": "The vet will likely perform a gentle physical exam and recommend X-rays (radiographs) or possibly a CT scan to look for fractures, dislocations, or spinal issues. They will provide immediate injectable pain relief to make your dog comfortable."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ingested Human Pain Medication: Emergency Guide & Next Steps",
+  "meta_desc": "If your cat ate human pain meds like Tylenol or Advil, it is a life-threatening emergency. Learn why immediate veterinary care is vital.",
+  "content_html": "<h3>What is Human Pain Medication Ingestion?</h3><p>Ingestion occurs when a cat consumes human over-the-counter or prescription painkillers, such as acetaminophen (Tylenol), ibuprofen (Advil/Motrin), or naproxen (Aleve). A cat's liver lacks the specific enzymes needed to safely break down these chemicals. Consequently, even a tiny amount—such as a single pill or a fragment—can cause rapid, severe toxicity and organ failure.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. This is a critical medical emergency. Human medications that are safe for people are often lethal to cats within a very short timeframe. You must not 'wait and see' if symptoms develop. Immediate veterinary intervention is the only way to mitigate the risk of permanent liver damage, kidney failure, or death.</p><h3>Why a Photo Helps Triage</h3><p>If you can do so safely and quickly, take a clear photo of the medication packaging, specifically the brand name, the milligram (mg) strength, and the active ingredients. Showing this photo to the emergency veterinary staff allows them to calculate the exact toxic dose relative to your cat's body weight. This information is vital for selecting the correct antidote or decontamination protocol the moment you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a tiny dose of baby aspirin for pain?",
+      "answer": "No. Never administer human medication to a cat. Feline physiology is unique, and substances like acetaminophen cause a fatal condition where the blood can no longer carry oxygen."
+    },
+    {
+      "question": "What are the common symptoms of medication poisoning in cats?",
+      "answer": "Symptoms may include vomiting, drooling, lethargy, labored breathing, swelling of the face or paws, and gums that appear muddy brown, blue, or pale."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "Do not attempt to induce vomiting in a cat at home. Unlike dogs, cats are highly susceptible to aspiration and throat damage if forced to vomit without professional veterinary supervision."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

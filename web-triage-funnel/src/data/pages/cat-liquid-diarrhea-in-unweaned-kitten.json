@@ -1,0 +1,20 @@
+{
+  "title": "Diarrhea in Unweaned Kittens: Emergency Care & Triage Guide",
+  "meta_desc": "Liquid diarrhea in unweaned kittens is a high-priority emergency. Learn why immediate veterinary care is essential for neonatal kitten survival.",
+  "content_html": "<h3>What is Liquid Diarrhea in Unweaned Kittens?</h3><p>Liquid diarrhea in unweaned or neonatal kittens refers to stool that lacks any solid form and is often watery. For kittens that are still nursing or bottle-feeding, their digestive systems are extremely fragile. Diarrhea at this stage indicates that the kitten is not absorbing nutrients and is rapidly losing essential fluids and electrolytes. This can quickly lead to a state of physical decline.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, this is a life-threatening emergency. Because of their tiny body mass, unweaned kittens can succumb to dehydration, electrolyte imbalances, and hypoglycemia (dangerously low blood sugar) in a matter of hours. You should contact an emergency veterinarian or a specialized neonatal rescue immediately if you notice liquid stools in a kitten under four weeks of age.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear photo of the stool can be incredibly helpful for your veterinary team. The specific color, consistency, and presence of mucus or blood can help the vet differentiate between common neonatal issues like coccidia, giardia, bacterial overgrowth, or formula intolerance. Having this visual evidence allows for faster diagnostic decisions and more targeted treatment when every minute counts.</p>",
+  "faqs": [
+    {
+      "question": "How long can a kitten have diarrhea before it is dangerous?",
+      "answer": "In unweaned kittens, even a single instance of purely liquid diarrhea is dangerous. They lack the body reserves to withstand fluid loss for more than a few hours."
+    },
+    {
+      "question": "Can I give a kitten human anti-diarrheal medicine?",
+      "answer": "No. Never give any medication to an unweaned kitten unless specifically directed by a veterinarian. Many human medications are toxic to cats and can be fatal to neonates."
+    },
+    {
+      "question": "What should I do on the way to the vet?",
+      "answer": "Keep the kitten warm using a safe heat source, such as a warm water bottle wrapped in a towel, and bring any records of their feeding schedule, formula type, and recent weight changes."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

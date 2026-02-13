@@ -1,0 +1,20 @@
+{
+  "title": "Dog Inability to Blink One Eye: Triage and Care Guide",
+  "meta_desc": "If your dog can't blink one eye, it may be facial nerve paralysis. Learn about the medium urgency level and why photos are vital for vet triage.",
+  "content_html": "<h3>What Is Facial Nerve Paralysis in Dogs?</h3><p>When a dog is unable to blink one eye, it is most often due to a condition called facial nerve paralysis. This nerve controls the muscles used for blinking, twitching the nose, and moving the lips. When this nerve is compromised, the eyelid remains stuck open, which prevents the eye from being naturally lubricated and protected.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for an inability to blink is Medium. While this is generally not a life-threatening emergency in the immediate minutes, it requires a veterinary examination within 24 hours. The primary risk is the development of a corneal ulcer; without the ability to blink, the surface of the eye dries out rapidly, which can lead to painful scratches, infection, and even permanent loss of the eye if left untreated.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of your dog's face can be a critical tool for your veterinary team. A photo allows the triage nurse or doctor to see the degree of facial asymmetry, check for signs of ocular inflammation or redness, and determine if there is any drooping of the ear or lip. This visual evidence helps the clinic decide how quickly your dog needs to be squeezed into the schedule for an urgent exam.</p>",
+  "faqs": [
+    {
+      "question": "What are the common causes of a dog not blinking?",
+      "answer": "Common causes include deep ear infections, trauma to the head, hypothyroidism, or idiopathic paralysis where the cause remains unknown."
+    },
+    {
+      "question": "Can I use human eye drops for my dog in the meantime?",
+      "answer": "You should never use medicated human eye drops on a dog. However, a veterinarian may recommend a simple, preservative-free artificial tear lubricant to keep the eye moist until your appointment."
+    },
+    {
+      "question": "Will my dog's ability to blink ever return?",
+      "answer": "The prognosis depends on the underlying cause. If the cause is an infection or underlying condition that can be treated, function may return, though some cases of nerve damage are permanent."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

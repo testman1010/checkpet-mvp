@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Raw Salmon: Triage and Salmon Poisoning Risks",
+  "meta_desc": "If your dog ate raw salmon, they are at risk for Salmon Poisoning Disease. Learn why this is a high-urgency emergency and what steps to take now.",
+  "content_html": "<h3>What is Salmon Poisoning Disease?</h3><p>When a dog eats raw salmon, they are at risk of contracting Salmon Poisoning Disease (SPD). This is not a toxicity from the fish itself, but an infection caused by a parasite called Neorickettsia helminthoeca. This parasite is carried by flukes (small flatworms) that often live in the flesh of raw salmonid fish, including trout and steelhead, found primarily in the Pacific Northwest.</p><h3>Is it an Emergency?</h3><p>Yes, this is considered a high-urgency situation. While symptoms may not appear immediately, Salmon Poisoning Disease is fatal in up to 90% of dogs if left untreated. Because the incubation period can range from 5 to 7 days, it is critical to contact a veterinarian immediately after ingestion rather than waiting for your dog to show signs of illness.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the fish, any packaging it came in, or even the remains of what was eaten can be incredibly helpful for your veterinary team. A photo helps us determine the type of fish and its origin. Additionally, if your dog vomits, a photo of the vomit can help us see if any bones were ingested or if there is evidence of the fluke-carrying tissue, allowing for a more accurate risk assessment.</p>",
+  "faqs": [
+    {
+      "question": "What are the first symptoms of Salmon Poisoning?",
+      "answer": "Early signs include high fever, loss of appetite, vomiting, diarrhea (often bloody), and swollen lymph nodes. These usually appear 5 to 7 days after eating the fish."
+    },
+    {
+      "question": "Is raw salmon from the grocery store safe?",
+      "answer": "No, raw salmon from the grocery store still carries a risk unless it has been commercially flash-frozen to specific temperatures that kill parasites. It is best to assume any raw salmon is potentially infectious."
+    },
+    {
+      "question": "Can I treat my dog at home?",
+      "answer": "No. Salmon Poisoning requires professional veterinary treatment, usually involving specific antibiotics and dewormers. Home care is not effective for this specific parasitic infection."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

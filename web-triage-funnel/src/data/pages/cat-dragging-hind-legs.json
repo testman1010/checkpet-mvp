@@ -1,0 +1,20 @@
+{
+  "title": "Cat Dragging Hind Legs: Emergency Triage Guide",
+  "meta_desc": "If your cat is dragging its back legs, this is a critical medical emergency. Learn why immediate veterinary care is vital and what causes this issue.",
+  "content_html": "<h3>What Does it Mean When a Cat Drags its Hind Legs?</h3><p>Seeing your cat suddenly lose the use of their back legs is a distressing experience. This condition, often referred to as hind-limb paralysis or paresis, occurs when the communication between the brain and the legs is interrupted or when blood flow is severely restricted. A common and serious cause in cats is Feline Aortic Thromboembolism (FATE), or a 'saddle thrombus,' where a blood clot lodges at the base of the aorta.</p><h3>Is This a Medical Emergency?</h3><p>Yes. The urgency level for this condition is <strong>High</strong>. If your cat is dragging their hind legs, it is a life-threatening medical emergency. This condition is often associated with extreme pain and underlying heart disease. Do not wait for symptoms to improve or try at-home remedies; transport your cat to the nearest emergency veterinary hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so without delaying your departure, a brief 10-second video of your cat’s movement can be invaluable for the veterinary team. A video allows the vet to observe the exact nature of the paralysis, the positioning of the limbs, and the cat’s initial neurological state, which may shift during the stress of travel. This visual information helps the triage staff prioritize your cat the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Is my cat in pain if they are dragging their legs?",
+      "answer": "Yes, conditions like saddle thrombus are considered extremely painful. Even if your cat is not vocalizing, the loss of blood flow or nerve function is a severe medical crisis."
+    },
+    {
+      "question": "What are other signs of a saddle thrombus?",
+      "answer": "Common signs include cold back paws, blue or pale nail beds, vocalizing in pain, and a rapid or shallow breathing pattern."
+    },
+    {
+      "question": "Can a cat recover from hind leg paralysis?",
+      "answer": "Prognosis depends entirely on the cause. While some neurological issues or injuries have a path to recovery, others like FATE have a more guarded prognosis and require immediate intervention."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

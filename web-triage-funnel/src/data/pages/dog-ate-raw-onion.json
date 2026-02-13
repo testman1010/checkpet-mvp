@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Raw Onion: What to Do and When to Call a Vet",
+  "meta_desc": "If your dog ate raw onion, learn about N-propyl disulfide toxicity risks, symptoms to watch for, and why this is a medium-priority emergency.",
+  "content_html": "<h3>What Happens When a Dog Eats Raw Onion?</h3><p>Onions, whether raw, cooked, or powdered, contain a compound called N-propyl disulfide. While harmless to humans, this compound is highly toxic to dogs because it causes oxidative damage to their red blood cells. This damage can lead to a serious condition known as hemolytic anemia, where the red blood cells break down faster than the body can replace them.</p><h3>Is This an Emergency?</h3><p>The urgency level for onion ingestion is categorized as Medium. While your dog may not show symptoms immediately, the damage to the blood cells can take several days to manifest. Because the effects are cumulative and potentially life-threatening if left untreated, you should contact your veterinarian or an animal poison control center right away rather than waiting for symptoms to appear.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo of the onion remains or the specific type of onion (such as a large red onion versus a small shallot) can be incredibly helpful for veterinary triage. Seeing the volume and type of onion consumed allows professionals to more accurately calculate the toxicity risk based on your dog's weight and breed, which determines whether immediate decontamination like induced vomiting is necessary.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of onion poisoning in dogs?",
+      "answer": "Symptoms often include vomiting, diarrhea, lethargy, pale gums, increased heart rate, and reddish or brown-colored urine. These signs may take 1 to 5 days to appear after ingestion."
+    },
+    {
+      "question": "How much onion is dangerous for a dog?",
+      "answer": "Toxicity typically occurs when a dog consumes more than 0.5% of their body weight in onions at once, though even small, frequent amounts can cause issues over time."
+    },
+    {
+      "question": "Will my dog be okay if they ate a small piece of raw onion?",
+      "answer": "A tiny sliver may not cause severe illness in a large dog, but it could be dangerous for a small breed. It is always safest to consult a vet to calculate the specific risk for your pet."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

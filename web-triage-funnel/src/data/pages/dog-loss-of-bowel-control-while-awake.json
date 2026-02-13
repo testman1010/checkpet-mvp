@@ -1,0 +1,20 @@
+{
+  "title": "Dog Loss of Bowel Control While Awake: Causes and Triage Guide",
+  "meta_desc": "Is your dog losing bowel control while awake? Learn about fecal incontinence, urgency levels, and why you should see a vet promptly.",
+  "content_html": "<h3>What is Fecal Incontinence in Dogs?</h3><p>When a dog loses bowel control while awake, it is medically referred to as fecal incontinence. Unlike a house-training lapse, this occurs when a dog is physically unable to control the muscles of the anal sphincter or is unaware that they are defecating. It can result from nerve damage, spinal cord issues, or problems within the gastrointestinal tract itself.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden loss of bowel control is Medium. While it may not be an immediate life-threatening crisis in every case, it often indicates an underlying neurological or physical issue that needs to be addressed by a veterinarian within 24 to 48 hours. If the incontinence is accompanied by sudden hind-limb weakness, an inability to stand, or signs of extreme pain, you should seek emergency care immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you are consulting a vet or a triage professional, taking a photo of the stool and the way it was deposited can be very helpful. A photo allows the veterinarian to see the consistency and color of the stool, which helps them determine if the issue is a digestive upset (like severe diarrhea) or a neurological failure where the dog simply 'dropped' normal stool without realizing it.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog's age cause them to lose bowel control?",
+      "answer": "Yes, senior dogs can develop cognitive dysfunction or weakened sphincter muscles, but new symptoms should always be checked by a vet to rule out treatable injuries."
+    },
+    {
+      "question": "What are common causes for a dog losing bowel control while awake?",
+      "answer": "Common causes include spinal cord diseases like IVDD, nerve damage, intestinal parasites, or inflammatory bowel disease."
+    },
+    {
+      "question": "Should I change my dog's diet if this happens?",
+      "answer": "Do not change their diet until you speak with a vet, as sudden food changes can cause further GI upset and make it harder to diagnose the primary cause."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

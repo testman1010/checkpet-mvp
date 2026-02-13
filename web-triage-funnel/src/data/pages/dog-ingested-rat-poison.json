@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Rat Poison: Emergency Guide and Immediate Steps",
+  "meta_desc": "If your dog ingested rat poison, this is a high-priority emergency. Learn the immediate steps to take and why identifying the toxin is critical.",
+  "content_html": "<h3>What is Rat Poison Ingestion?</h3><p>Rat poison ingestion occurs when a dog consumes rodenticides, which are chemicals designed to kill mice and rats. These poisons come in various forms, such as blocks, pellets, or pastes, and are often flavored to be attractive to animals. The active ingredients vary widely, including anticoagulants that cause internal bleeding, neurotoxins that affect the brain, and chemicals that lead to kidney failure.</p><h3>Is It an Emergency?</h3><p>Yes. This is a <strong>High Urgency</strong> emergency. Even if your dog is not currently showing symptoms, many rodenticides have a delayed effect, causing life-threatening internal damage hours or days after consumption. Immediate veterinary intervention is required to prevent the toxin from being fully absorbed into the bloodstream.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the product's packaging, specifically the list of active ingredients and the EPA registration number. Because different poisons require different treatments—such as Vitamin K for anticoagulants versus specific supportive care for neurotoxins—knowing exactly what your dog ate allows the veterinary team to prepare the correct antidote or treatment protocol before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without direct instructions from a veterinarian or poison control expert, as some substances can cause more harm if brought back up."
+    },
+    {
+      "question": "What if I don't have the packaging?",
+      "answer": "If the packaging is gone, try to identify the color and shape of the bait (e.g., green blocks, blue pellets) and tell your vet exactly when and where you found it."
+    },
+    {
+      "question": "How soon will my dog show symptoms?",
+      "answer": "Symptoms depend on the toxin type; some appear within hours, while anticoagulant poisons may not show signs like lethargy or pale gums for 3 to 7 days."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

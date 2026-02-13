@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Moldy Food: Symptoms, Risks, and Emergency Triage",
+  "meta_desc": "If your dog ate moldy food, they may be at risk for tremorgenic mycotoxin poisoning. Learn why this is a high-urgency emergency and what to do now.",
+  "content_html": "<h3>What Is Mycotoxin Poisoning?</h3><p>When a dog ingests moldy food—often found in trash cans, compost piles, or forgotten leftovers—they are at risk of consuming tremorgenic mycotoxins. These are toxic substances produced by certain fungi that specifically target a dog's central nervous system, leading to potentially life-threatening reactions.</p><h3>Is it an Emergency?</h3><p>Yes, this is a High Urgency emergency. Symptoms of mold poisoning can escalate rapidly, often starting with vomiting and progressing to severe muscle tremors, staggering, and full-body seizures. Because these toxins act quickly, immediate veterinary intervention is required to stabilize your dog and prevent long-term neurological damage or death.</p><h3>Why Taking a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the moldy food your dog consumed before heading to the clinic. Showing this photo to your veterinarian or a triage assistant can help them identify the potential type of mold and the severity of the exposure. Knowing whether the mold was on bread, cheese, or compost provides valuable context that can speed up the diagnostic process.</p>",
+  "faqs": [
+    {
+      "question": "How quickly do symptoms of mold poisoning appear?",
+      "answer": "Signs typically begin within 30 minutes to three hours after ingestion, though timing can vary based on the amount eaten and the dog's size."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should never induce vomiting without professional guidance. If your dog is already showing neurological signs like tremors, inducing vomiting can lead to aspiration pneumonia."
+    },
+    {
+      "question": "What are the most common signs of mold toxicity?",
+      "answer": "Look for heavy drooling, vomiting, agitation, high body temperature, flickering eyes, and uncontrollable muscle tremors."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

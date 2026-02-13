@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Household Cleaner Splashed in Cat's Eye",
+  "meta_desc": "Immediate first aid for cats with household cleaner in their eyes. Learn why this is a high-urgency emergency and how to act fast to save their sight.",
+  "content_html": "<h3>What is it?</h3><p>Chemical ocular exposure occurs when household cleaning agents—such as bleach, disinfectants, detergents, or glass cleaners—come into contact with a cat's eye. These substances can be acidic, alkaline, or contain surfactants that aggressively break down the protective layers of the cornea, leading to painful chemical burns and potential blindness.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> This is an absolute medical emergency. Chemical burns can cause irreversible damage within minutes. If your cat has splashed a cleaner in their eye, you must begin flushing the eye immediately with clean water or saline for 10-15 minutes and call your nearest emergency veterinarian while doing so. Do not wait for symptoms like squinting or cloudiness to appear, as the damage is often occurring beneath the surface.</p><h3>Why a Photo Helps Triage</h3><p>When you contact a veterinarian, providing a clear photo of the product's ingredient label and a photo of the affected eye (if safe to do so) can be life-saving. The photo of the label allows the vet to identify the specific pH and chemicals involved to determine the best neutralizing treatment. A photo of the eye helps the triage team assess the degree of inflammation or corneal clouding to prepare the necessary medications before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I use human eye drops to soothe the cat's eye?",
+      "answer": "No. Never use human eye drops, especially those containing redness relievers or steroids, as they can worsen the damage. Use only plain, sterile saline or lukewarm tap water."
+    },
+    {
+      "question": "What if my cat is struggling and won't let me flush the eye?",
+      "answer": "If your cat is too distressed to allow flushing, wrap them snugly in a towel (the 'burrito' method) to safely restrain them. If you still cannot flush the eye, proceed immediately to an emergency vet."
+    },
+    {
+      "question": "Will my cat lose their eye from a cleaner splash?",
+      "answer": "The outcome depends on the chemical's concentration and how quickly the eye is flushed. Prompt irrigation and professional veterinary care significantly improve the chances of saving the eye."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

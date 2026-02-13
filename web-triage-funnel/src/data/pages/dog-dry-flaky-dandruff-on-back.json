@@ -1,0 +1,20 @@
+{
+  "title": "Dog Dandruff: Causes and Triage for Flaky Skin on Your Dog's Back",
+  "meta_desc": "Is your dog's back covered in dry flakes? Learn what causes dog dandruff, why it is usually not an emergency, and how photos help your vet triage.",
+  "content_html": "<h3>What is Dog Dandruff?</h3><p>Dog dandruff, or seborrhea, occurs when the skin's sebaceous glands produce too much sebum or when skin cells turn over too quickly. On a dog's back, this often appears as white, peppery, or yellowish flakes trapped in the fur. Common causes include low humidity, nutritional deficiencies, environmental allergies, or underlying parasites like Cheyletiella mites (often called 'walking dandruff').</p><h3>Is it an emergency?</h3><p>Urgency Level: Low. In most cases, dry flaky skin on the back is a chronic condition rather than an acute emergency. While it can be itchy and uncomfortable for your pet, it does not require an immediate ER visit unless you notice secondary signs of distress, such as extreme lethargy, widespread raw/bleeding skin, or a foul odor indicating a severe bacterial infection. You should schedule a routine appointment with your veterinarian to address the root cause.</p><h3>Why a Photo Helps Triage</h3><p>When consulting a veterinary professional remotely, providing a clear, high-resolution photo is incredibly helpful. A photo allows the professional to see the distribution of the flakes, the size of the scales, and whether the underlying skin is red, inflamed, or showing signs of hair loss. This visual evidence helps differentiate between simple dry skin and more complex issues like fungal infections or parasitic infestations, ensuring your dog gets the right treatment plan quickly.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human anti-dandruff shampoo on my dog?",
+      "answer": "No, you should avoid human shampoos. Dogs have a different skin pH than humans, and ingredients like zinc pyrithione can be toxic if ingested or irritating to their skin. Always use a veterinarian-recommended, dog-specific formula."
+    },
+    {
+      "question": "Could my dog's diet be causing the flakes?",
+      "answer": "Yes, nutritional gaps, particularly a lack of Omega-3 fatty acids, can lead to poor skin and coat health. Your vet may suggest a high-quality diet or fish oil supplements."
+    },
+    {
+      "question": "When should I be concerned about my dog's dandruff?",
+      "answer": "You should seek veterinary care if the dandruff is accompanied by intense scratching, patches of hair loss, a strong 'musty' odor, or if the skin looks red and irritated."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Facial Paralysis: Understanding Drooping Lips and Triage Steps",
+  "meta_desc": "Notice a drooping lip or facial weakness in your dog? Learn about facial paralysis, urgency levels, and how to help your vet with triage.",
+  "content_html": "<h3>What is Dog Facial Paralysis?</h3><p>Facial nerve paralysis occurs when the seventh cranial nerve, which controls the muscles of facial expression, becomes damaged or inflamed. This often results in a drooping lip, an inability to blink the eye, or a slack appearance on one or both sides of the face. It can be caused by inner ear infections, trauma, or can occur spontaneously without a known cause.</p><h3>Is It an Emergency?</h3><p>The urgency level for facial paralysis is classified as Medium. While it is rarely an immediate life-threatening crisis, it requires prompt veterinary attention within 24 to 48 hours. The most significant risk is eye damage, as the dog may be unable to blink properly, leading to dryness and corneal ulcers. Additionally, it is important to rule out more serious neurological conditions or underlying infections.</p><h3>Why Taking a Photo Helps Triage</h3><p>Providing a clear photo or video of your dog's face is incredibly helpful for veterinary triage. It allows the medical team to see exactly which muscles are affected and observe if there are other signs, like head tilting or abnormal eye movements. Visual evidence helps the vet determine how quickly your pet needs to be seen and provides a baseline to monitor for improvement or worsening over time.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog still eat with facial paralysis?",
+      "answer": "Most dogs can still eat, but they may be messy or drop food. You may need to hand-feed or offer softened food while they adjust."
+    },
+    {
+      "question": "Will my dog's face go back to normal?",
+      "answer": "Recovery depends on the underlying cause. Some dogs regain full function, while others may have permanent, mild drooping but live a normal life."
+    },
+    {
+      "question": "What is the most common cause of facial drooping?",
+      "answer": "In many cases, the cause is 'idiopathic,' meaning it happens for unknown reasons, though ear infections are a very frequent secondary cause."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

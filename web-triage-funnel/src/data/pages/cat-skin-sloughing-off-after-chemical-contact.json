@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chemical Burns and Skin Sloughing: Emergency Triage Guide",
+  "meta_desc": "If your cat's skin is sloughing after chemical contact, it is a critical emergency. Learn the signs of chemical burns and how to act immediately.",
+  "content_html": "<h3>What is Chemical Skin Sloughing?</h3><p>Skin sloughing occurs when skin tissue dies (necrosis) and separates from the underlying layers of the body. In the context of chemical contact, this is typically caused by a severe chemical burn from substances like concentrated cleaning agents, automotive fluids, or acids. These substances destroy the cellular structure of the skin on contact, leading to peeling, raw patches, or the loss of large areas of fur and skin.</p><h3>Urgency Level: High Emergency</h3><p>This is a critical medical emergency. Chemical burns are often much deeper than they appear on the surface and can continue to damage the tissue for hours after initial contact. Furthermore, cats have a natural instinct to groom themselves; if they lick the affected area, they may ingest the toxin, leading to life-threatening internal burns and organ failure. Immediate veterinary intervention is required to stabilize the cat and stop the progression of the burn.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, taking a clear photo of the affected area can be incredibly beneficial for the veterinary team. A photo helps the triage nurse assess the extent of the tissue damage and the depth of the burn before you even arrive. It also provides a baseline to determine if the sloughing is spreading. Additionally, if you have a photo of the chemical container's label, it allows the medical team to identify the specific pH and active ingredients to choose the correct neutralizing agent or treatment protocol.</p>",
+  "faqs": [
+    {
+      "question": "Should I attempt to neutralize the chemical at home?",
+      "answer": "No. Never apply other chemicals, such as vinegar or baking soda, to the burn, as this can cause a secondary exothermic reaction that worsens the injury. Only flush with plain, lukewarm water if directed to do so by a professional."
+    },
+    {
+      "question": "What if my cat is acting normally despite the skin peeling?",
+      "answer": "Cats are masters at hiding pain. Even if they are not vocalizing, chemical burns are excruciating and can lead to systemic shock or infection. Seek emergency care regardless of their current behavior."
+    },
+    {
+      "question": "Can I apply ointment to the raw skin?",
+      "answer": "Do not apply any creams, ointments, or butter to the area. These can trap heat and chemicals against the skin and may be toxic if the cat licks them off. Keep the area clean and proceed to a vet."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

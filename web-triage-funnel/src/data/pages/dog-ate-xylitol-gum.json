@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Dog Ate Xylitol Gum",
+  "meta_desc": "Xylitol gum is highly toxic to dogs. Learn why this is a high-priority emergency and how to act fast to save your pet's life.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a natural sugar substitute frequently found in sugar-free gum, breath mints, toothpastes, and some peanut butters. While it is perfectly safe for human consumption, it is extremely dangerous for canines. In dogs, xylitol causes the pancreas to release a massive amount of insulin, leading to a rapid and life-threatening drop in blood sugar.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. Yes, this is an immediate medical emergency. Ingesting even a small amount of xylitol gum can lead to hypoglycemia (low blood sugar), seizures, liver failure, or death. Do not wait for symptoms to appear; if you suspect your dog has eaten gum containing xylitol, you must contact an emergency veterinarian or an animal poison control hotline immediately.</p><h3>Why a photo helps triage</h3><p>When you call or arrive at the vet, having a photo of the gum's packaging—specifically the ingredient list and the weight of the product—is incredibly helpful. Since different brands contain different concentrations of xylitol, this photo allows the veterinary team to calculate the exact toxic dose and prepare the appropriate treatment plan before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How long does it take for xylitol to affect a dog?",
+      "answer": "Symptoms can begin as quickly as 15 to 30 minutes after ingestion, though in some cases, the onset of liver failure may be delayed for up to 12 or 24 hours."
+    },
+    {
+      "question": "What are the symptoms of xylitol poisoning?",
+      "answer": "Common signs include vomiting, followed by symptoms of low blood sugar such as lethargy, stumbling, weakness, tremors, and seizures."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian. If your dog's blood sugar is already low, inducing vomiting can make their condition significantly worse."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

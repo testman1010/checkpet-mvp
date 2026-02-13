@@ -1,0 +1,20 @@
+{
+  "title": "Dog Excessive Drooling: Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your dog drooling excessively? Learn about ptyalism, when it becomes an emergency, and how photos help your vet diagnose the cause.",
+  "content_html": "<h3>What is Excessive Drooling?</h3><p>Excessive drooling, medically known as ptyalism, is the overproduction of saliva or the inability of a dog to effectively swallow the saliva they produce. While some breeds are naturally more prone to 'shoestrings' of drool due to their lip shape, a sudden onset of uncontrolled drooling in a dog that does not usually do so can be a sign of oral pain, nausea, or a reaction to a toxin.</p><h3>Is it an Emergency?</h3><p>The urgency level for uncontrolled drooling is currently rated as <strong>Medium</strong>. While drooling alone is rarely an immediate life-threat, it is frequently a secondary symptom of a condition that requires prompt veterinary attention. You should monitor your dog for secondary signs such as pawing at the mouth, inability to eat, or lethargy. If the drooling is accompanied by a distended abdomen or unproductive retching, this becomes a high-priority emergency (GDV/Bloat) and you should go to an ER immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo or video of the drooling can be vital for your veterinarian. Visual documentation allows the vet to see the consistency of the saliva—whether it is foamy, blood-tinged, or thick—and observe the dog's facial symmetry. This helps differentiate between local issues, like a foreign object stuck in the gums, and systemic issues, such as nausea or neurological dysfunction, before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can heatstroke cause excessive drooling?",
+      "answer": "Yes, heavy panting combined with thick, ropey drool is a common sign of overheating and heatstroke."
+    },
+    {
+      "question": "Could my dog have eaten something toxic?",
+      "answer": "Ptyalism is a frequent reaction to licking or ingesting irritating substances, including certain plants, household chemicals, or even some toads."
+    },
+    {
+      "question": "Should I try to remove an object from my dog's mouth?",
+      "answer": "If you see a visible foreign object, do not attempt to remove it if it is lodged deeply or if your dog is in pain, as you may cause further injury or be bitten."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

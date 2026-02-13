@@ -1,0 +1,20 @@
+{
+  "title": "Why Is My Cat Eating Cat Litter? Causes and Veterinary Triage Guide",
+  "meta_desc": "Is your cat eating litter? Learn about pica, health risks like anemia, and why this behavior requires a medium-priority veterinary consultation.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat consumes non-food items such as cat litter, the condition is medically referred to as pica. This behavior is rarely just a 'bad habit' and is often an instinctive response to a physiological need. It can be a sign that your cat is suffering from anemia, nutritional deficiencies, or underlying metabolic issues like kidney disease or feline leukemia.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: Medium.</strong> While eating litter is generally not a 'run to the ER this second' emergency unless your cat is also vomiting or lethargic, it does require a veterinary appointment within the next 24 to 48 hours. The primary risks include intestinal blockages from clumping litter and the progression of the underlying illness causing the behavior.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a photo of the specific litter brand's ingredient list and a short video of your cat performing the behavior can be incredibly helpful for your veterinarian. A photo of your cat's gums (to check if they are pale) can also help the vet determine if anemia is the likely culprit, allowing them to prioritize your cat's blood work upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Is clumping litter more dangerous if eaten?",
+      "answer": "Yes. Clumping litter is designed to swell and harden when it touches liquid, which can cause life-threatening intestinal blockages if swallowed."
+    },
+    {
+      "question": "Could my cat be eating litter because they are bored?",
+      "answer": "While boredom can cause some behavioral issues, eating litter is more commonly associated with medical deficiencies like iron or vitamin gaps."
+    },
+    {
+      "question": "What should I do while waiting for my vet appointment?",
+      "answer": "Monitor your cat's appetite and bathroom habits closely. If possible, switch to a non-toxic, paper-based litter temporarily to minimize the risk of internal blockages."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

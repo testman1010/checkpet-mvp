@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pupils Unequal in Size: Causes and Emergency Triage Guide",
+  "meta_desc": "Is your dog's pupil size different? Unequal pupils (anisocoria) can be a medical emergency. Learn the causes and why you need a vet immediately.",
+  "content_html": "<h3>What is Anisocoria?</h3><p>Anisocoria is the medical term for when a dog’s pupils are two different sizes. Normally, both pupils should be identical and react to light at the same time. When they are unequal, it is not a disease itself, but rather a significant clinical sign that something is wrong with the eye, the brain, or the nerves connecting the two.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for unequal pupils is <strong>High</strong>. Because this symptom can be caused by life-threatening conditions such as head trauma, brain tumors, or severe internal eye pressure (glaucoma), you should seek veterinary care immediately. Delaying treatment can lead to permanent blindness or worsen a neurological crisis.</p><h3>Why Taking a Photo Helps Triage</h3><p>We understand how stressful it is to see your pet in distress. If it is safe to do so, take a clear photo of your dog's eyes in a normally lit room before heading to the clinic. Pupil size can change rapidly depending on the light or your dog’s stress levels. A photo provides the veterinarian with a snapshot of the exact state of the eyes when the issue was first noticed, which is invaluable for an accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can anisocoria happen suddenly?",
+      "answer": "Yes, it often appears suddenly due to injury, stroke, or acute glaucoma. Any sudden change in pupil size should be treated as an emergency."
+    },
+    {
+      "question": "What are other symptoms to look for?",
+      "answer": "Watch for squinting, cloudiness in the eye, redness, head tilting, or disorientation, as these often accompany unequal pupils."
+    },
+    {
+      "question": "Is Horner's Syndrome the cause?",
+      "answer": "Horner's Syndrome is one common cause involving nerve damage, but only a veterinarian can distinguish it from more dangerous causes like high intraocular pressure."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

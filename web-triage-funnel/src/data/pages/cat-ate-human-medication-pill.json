@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate a Human Pill: Urgent Safety Guide and Triage Steps",
+  "meta_desc": "If your cat swallowed human medication, it is a high-priority emergency. Learn why immediate action and clear identification are vital for survival.",
+  "content_html": "<h3>What is Human Medication Ingestion?</h3><p>Human medication ingestion occurs when a cat accidentally consumes a pill, capsule, or liquid intended for human use. This often happens when pills are dropped on the floor, left on nightstands, or if a curious cat chews through a plastic bottle. Because felines have a unique metabolism and a much smaller body mass than humans, even a single dose of a common over-the-counter drug can be fatal.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is an immediate medical emergency. You should contact your local emergency veterinarian or a pet poison control hotline immediately. Many human drugs, such as Acetaminophen (Tylenol) or Ibuprofen (Advil), are highly toxic to cats and can cause rapid liver failure, kidney damage, or red blood cell destruction. Symptoms may not appear immediately, but internal damage can begin within minutes of ingestion.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so, take a clear photo of the medication bottle, the label, and any remaining pills. This visual information is critical for the veterinary team to identify the exact active ingredients and the strength of the dosage. Having the pill's imprint code or the packaging helps specialists determine the correct antidote or treatment protocol much faster, which can be the difference between a successful recovery and a tragic outcome.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my cat acts sick before calling a vet?",
+      "answer": "No. By the time a cat shows symptoms like vomiting, drooling, or lethargy, significant organ damage may have already occurred. Early intervention is the most effective way to save your cat's life."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "Never induce vomiting in a cat unless specifically instructed to do so by a licensed veterinarian. Cats have a high risk of aspirating fluid into their lungs, and certain medications can cause more damage if brought back up through the esophagus."
+    },
+    {
+      "question": "What if my cat only licked a pill but didn't swallow it?",
+      "answer": "You should still consult a professional. Some medications are highly concentrated, and even a small amount absorbed through the mucous membranes of the mouth can cause a reaction in sensitive felines."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

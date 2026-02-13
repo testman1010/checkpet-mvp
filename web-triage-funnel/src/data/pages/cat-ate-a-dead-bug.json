@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Dead Bug: Is It Dangerous? | Veterinary Triage Guide",
+  "meta_desc": "If your cat ate a dead bug, stay calm. Learn when to worry, what symptoms to watch for, and why identification is key in this veterinary guide.",
+  "content_html": "<h3>What Is It?</h3><p>Cats are natural hunters with a strong predatory drive, and it is very common for them to ingest insects they find around the home. Whether it was a fly, moth, or a small beetle, most insects are composed primarily of protein and chitin. While it may seem unappealing to us, this behavior is a normal part of feline curiosity.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the vast majority of cases, eating a single dead bug is not an emergency. Most common household insects are non-toxic to cats. You should monitor your pet for the next 24 hours for any signs of mild gastrointestinal upset, such as a single episode of vomiting or soft stool, but these usually resolve on their own.</p><h3>Why a Photo Helps Triage</h3><p>If you are concerned because the insect looked unusual or colorful, having a photo is one of the most useful tools for a veterinary triage team. A clear image allows us to identify if the bug was a venomous species, like certain spiders or stinging insects, or if it is a known carrier of parasites like lungworms or stomach worms. If you cannot take a photo of the insect that was eaten, a photo of another one like it from the same area is also helpful.</p>",
+  "faqs": [
+    {
+      "question": "Could the bug have been poisoned by insecticides?",
+      "answer": "There is a small risk of secondary poisoning if the bug recently died from a high concentration of pesticide. However, the amount of toxin in a single insect is usually too low to cause severe symptoms in a cat."
+    },
+    {
+      "question": "What symptoms should I call the vet for?",
+      "answer": "Contact a veterinarian if you notice persistent vomiting, facial swelling, difficulty breathing, or extreme lethargy, as these could indicate an allergic reaction or toxicity."
+    },
+    {
+      "question": "Can cats get worms from eating bugs?",
+      "answer": "Yes, some insects like cockroaches and beetles can act as intermediate hosts for parasites. It is always a good idea to ensure your cat is up to date on their routine deworming medication."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

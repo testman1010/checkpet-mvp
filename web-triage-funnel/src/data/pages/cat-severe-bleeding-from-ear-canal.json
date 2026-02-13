@@ -1,0 +1,20 @@
+{
+  "title": "Cat Bleeding from Ear Canal: Causes and Emergency Triage Guide",
+  "meta_desc": "Severe ear bleeding in cats is a high-priority emergency. Understand the causes, urgency, and why you should contact a veterinarian immediately.",
+  "content_html": "<h3>What Is Bleeding from the Ear Canal?</h3><p>Bleeding from the ear canal, known medically as otorrhagia, occurs when blood originates from the internal structures of the ear rather than a simple scratch on the outer ear flap. This condition often signals damage to the middle or inner ear, a ruptured eardrum, or severe inflammation within the canal itself.</p><h3>Is This an Emergency?</h3><p>Yes. Severe bleeding from the ear canal is classified as a High Urgency emergency. Because the ear is located in close proximity to the brain and contains sensitive neurological and vascular structures, active bleeding can indicate significant trauma, deep-seated infections, or even systemic clotting disorders. Immediate veterinary intervention is required to prevent permanent hearing loss or further complications.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the ear and any discharge can be vital for the veterinary team. A photo allows the vet to see the volume and color of the blood, detect the presence of pus or debris, and assess the level of swelling before the area is cleaned. This helps the clinic prepare the necessary diagnostic tools, such as an otoscope or sedation, before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Should I apply ear drops or cleaners to stop the bleeding?",
+      "answer": "No. You should never put liquids or medications into a bleeding ear canal. If the eardrum is ruptured, these substances can enter the middle ear and cause severe neurological damage or deafness."
+    },
+    {
+      "question": "What are the most common causes of ear canal bleeding?",
+      "answer": "Common causes include severe ear mite infestations, nasopharyngeal polyps, ear canal tumors, foreign objects (like grass seeds), or blunt force trauma to the head."
+    },
+    {
+      "question": "How can I safely transport my cat to the vet?",
+      "answer": "Keep your cat in a dark, quiet carrier to reduce stress. Do not attempt to bandage the head tightly, as this can cause distress; instead, place a soft towel in the carrier to absorb any blood during the trip."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

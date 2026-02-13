@@ -1,0 +1,20 @@
+{
+  "title": "Cat Squinting and Light Sensitivity: Triage Guide for Pet Owners",
+  "meta_desc": "Is your cat squinting or avoiding light? Learn about eye pain in cats, the urgency of care, and how to help your vet triage ocular issues.",
+  "content_html": "<h3>What is Ocular Pain and Light Sensitivity?</h3><p>When a cat squints or avoids bright light, it is experiencing a condition known as blepharospasm and photophobia. These symptoms are clear indicators of eye pain or discomfort. Unlike humans, cats are masters at hiding pain, so visible squinting often suggests a significant underlying issue such as a corneal ulcer, inflammation of the uvea, or an infection. Avoiding light is a natural reflex to reduce the stimulus that triggers pain in the sensitive structures of the eye.</p><h3>Is it an Emergency?</h3><p>The urgency level for a cat squinting or avoiding light is Medium. While it may not be an immediate life-threatening crisis, eye conditions in felines can progress with alarming speed. If left untreated, a minor irritation can turn into a deep ulcer or internal infection that may lead to permanent vision loss or the loss of the eye itself. We recommend seeking veterinary care within 12 to 24 hours, or immediately if you notice extreme redness, bulging, or a change in the color of the eye.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, high-resolution photo of your cat's affected eye can be a vital tool for your veterinary team. A photo allows the triage professional to zoom in and look for signs of corneal scratches, pupil size differences (anisocoria), or foreign bodies that may be tucked under the eyelid. This visual data helps the vet determine the severity of the case before you even arrive at the clinic, ensuring your cat receives the appropriate level of care quickly.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human eye drops on my cat?",
+      "answer": "No, you should never use human medications or over-the-counter eye drops on a cat. Many human products contain ingredients that can cause severe irritation or even permanent damage to a cat's eye."
+    },
+    {
+      "question": "What are the common causes of squinting in cats?",
+      "answer": "Common causes include corneal ulcers (scratches), feline herpesvirus infections, conjunctivitis, glaucoma, or foreign objects like dust or grass seeds trapped in the eye."
+    },
+    {
+      "question": "How can I make my cat comfortable until the vet visit?",
+      "answer": "Keep your cat in a dim or darkened room to reduce light sensitivity. Prevent them from rubbing or scratching at the eye by using an Elizabethan collar (cone) if you have one available."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

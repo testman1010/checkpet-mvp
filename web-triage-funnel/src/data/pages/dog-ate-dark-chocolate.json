@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Dark Chocolate: Emergency Triage & Treatment Guide",
+  "meta_desc": "Dark chocolate is highly toxic to dogs. Learn why this is a high-priority emergency and what steps you need to take immediately to save your pet.",
+  "content_html": "<h3>What Is Dark Chocolate Toxicity?</h3><p>Dark chocolate contains high levels of theobromine and caffeine, two stimulants known as methylxanthines. While humans process these easily, dogs metabolize them very slowly. This leads to a dangerous buildup in their system that can affect the heart, central nervous system, and kidneys.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Because dark chocolate has a much higher concentration of cocoa than milk chocolate, even small amounts can be fatal. If your dog has ingested dark chocolate, you must contact an emergency veterinarian or a pet poison helpline immediately. Do not wait for symptoms to appear, as internal damage can occur quickly.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging, take a clear photo of the wrapper, specifically the ingredients and the cocoa percentage (e.g., 70% Cacao). This allows the veterinary team to calculate the exact dose of theobromine relative to your dog's weight, which determines whether the situation requires immediate decontamination or intensive monitoring.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of chocolate poisoning in dogs?",
+      "answer": "Common symptoms include extreme thirst, vomiting, diarrhea, restlessness, a racing heart rate, tremors, and in severe cases, seizures."
+    },
+    {
+      "question": "How much dark chocolate is too much?",
+      "answer": "For many dogs, as little as a fraction of an ounce of dark chocolate per pound of body weight can cause severe toxicity."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Only induce vomiting if specifically instructed to do so by a licensed veterinarian, as it can be dangerous depending on your dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Red and Swollen Umbilical Cord in Kittens: Triage and Care Guide",
+  "meta_desc": "Is your kitten's umbilical cord red or swollen? Learn about omphalitis, urgency levels, and why a photo is essential for veterinary triage.",
+  "content_html": "<h3>What is Umbilical Cord Swelling?</h3><p>Redness and swelling at the site of a newborn kitten's umbilical cord often indicates a condition called omphalitis, which is an infection of the umbilical stump. While the cord is meant to dry up and fall off naturally within the first week, bacteria can sometimes enter the area, leading to inflammation, discharge, or even an abscess. In some cases, swelling might also indicate an umbilical hernia, where abdominal contents protrude through a small opening in the muscle wall.</p><h3>Is This an Emergency?</h3><p>The urgency level for a red and swollen umbilical cord is Medium. This means that while it may not require an emergency room visit in the middle of the night—provided the kitten is still nursing and active—it does require a veterinary examination within 12 to 24 hours. Neonatal kittens have very fragile immune systems, and an infection at the umbilicus can quickly spread to the bloodstream (sepsis) or the liver if left untreated.</p><h3>Why a Photo Helps Triage</h3><p>Sending a clear, well-lit photo of the umbilical area to your veterinarian can be incredibly helpful for remote triage. A photo allows the medical team to look for specific markers such as the presence of pus, the extent of the redness, or the shape of the swelling. This visual information helps the vet determine if the kitten needs to be seen immediately or if the condition can be managed with oral antibiotics and monitoring.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs that the infection is getting worse?",
+      "answer": "If you notice pus, a foul odor, the area feeling hot to the touch, or if the kitten becomes lethargic and stops nursing, the situation has become an emergency."
+    },
+    {
+      "question": "Should I try to clean the umbilical stump at home?",
+      "answer": "Do not apply any ointments or harsh chemicals like alcohol or peroxide without a veterinarian's instruction, as these can damage delicate tissue or be ingested by the mother or kitten."
+    },
+    {
+      "question": "How long does it usually take for the umbilical cord to fall off?",
+      "answer": "In healthy kittens, the umbilical stump typically dries up and falls off naturally between 3 and 7 days after birth."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

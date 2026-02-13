@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Multiple Cat Seizures Within 24 Hours",
+  "meta_desc": "Multiple seizures in cats within 24 hours are a high-priority emergency. Learn about cluster seizures and why immediate vet care is essential.",
+  "content_html": "<h3>What are Cluster Seizures?</h3><p>When a cat experiences more than one seizure in a 24-hour period, it is medically classified as \"cluster seizures.\" This condition suggests that the cat's brain is unable to reset its electrical activity properly between episodes. Cluster seizures are often more severe than isolated events and require immediate medical intervention to prevent further neurological decline.</p><h3>Is it an emergency? (Urgency Level: High)</h3><p>Yes, this is a high-priority veterinary emergency. Multiple seizures in a short timeframe are significantly more dangerous than a single event because they can escalate into status epilepticus—a life-threatening state of continuous seizing. Without rapid treatment to stop the cycle, your cat is at risk for hyperthermia (dangerously high body temperature), brain swelling, and permanent organ damage. You should contact an emergency veterinarian immediately.</p><h3>Why a Video or Photo Helps Triage</h3><p>If it is safe to do so without getting your hands near the cat's mouth, capturing a short video of the seizure can be incredibly helpful for the veterinary team. A video allows the vet to observe the specific type of muscle movements, the duration of the event, and the severity of the post-seizure recovery phase. This documentation helps the triage staff quickly determine the best course of action and the appropriate medications needed to stabilize your pet upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to restrain my cat during a seizure?",
+      "answer": "No. Never try to hold your cat down or put anything in their mouth, as you may be bitten or scratched unintentionally. Instead, move any hard or sharp objects away from them to prevent injury."
+    },
+    {
+      "question": "What if my cat seems fine between the seizures?",
+      "answer": "Even if your cat appears normal between episodes, cluster seizures are still an emergency. The risk of another seizure occurring soon is very high, and the cumulative stress on the brain and body is significant."
+    },
+    {
+      "question": "What are common causes of multiple seizures in cats?",
+      "answer": "Potential causes include toxin ingestion, metabolic issues (like liver or kidney disease), brain inflammation, or primary epilepsy. A veterinarian will need to perform diagnostics to determine the exact cause."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

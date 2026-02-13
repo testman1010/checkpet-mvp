@@ -1,0 +1,20 @@
+{
+  "title": "Dog Muscle Twitching While Awake: Causes and Triage Guide",
+  "meta_desc": "Is your dog twitching while awake? Learn about causes like tremors or toxins and know when to seek veterinary care for muscle fasciculations.",
+  "content_html": "<h3>What is Dog Muscle Twitching?</h3><p>Muscle twitching while a dog is awake, also known as fasciculations or tremors, refers to involuntary contractions of specific muscle groups. Unlike the common twitching seen during REM sleep, waking twitches occur while the dog is fully conscious and can range from small, localized ripples under the skin to more pronounced shaking of the limbs or head.</p><h3>Is It an Emergency?</h3><p>The urgency level for muscle twitching is generally <strong>Medium</strong>. While some causes are benign, such as muscle fatigue after exercise or simple excitement, others can indicate underlying health issues. You should contact a veterinarian promptly if the twitching is persistent, appears painful, or is accompanied by other symptoms like lethargy, vomiting, or difficulty walking. If the twitching progresses to a full-body seizure, it becomes a high-priority emergency.</p><h3>Why Video and Photos Help Triage</h3><p>Capturing a video of the twitching episode is one of the most helpful things you can do for your veterinarian. Because these involuntary movements often stop by the time you arrive at the clinic, a clear video allows the vet to see exactly which muscles are involved and how the dog behaves during the episode. This helps them differentiate between neurological tremors, behavioral responses, or metabolic issues much more accurately than a verbal description alone.</p>",
+  "faqs": [
+    {
+      "question": "Can dehydration cause muscle twitching in dogs?",
+      "answer": "Yes, electrolyte imbalances caused by dehydration can lead to muscle tremors or twitching."
+    },
+    {
+      "question": "What common toxins cause tremors?",
+      "answer": "Ingestion of chocolate, caffeine, certain essential oils, or snail bait containing metaldehyde can cause severe muscle twitching."
+    },
+    {
+      "question": "Is muscle twitching the same as a seizure?",
+      "answer": "Not necessarily. While some twitches are focal seizures, many are simple muscle fasciculations caused by stress, fatigue, or minor nerve irritation."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

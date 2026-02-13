@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Avocado Skin and Pit: Triage Guide & Next Steps",
+  "meta_desc": "If your dog ate an avocado pit or skin, learn about the risks of blockage, persin toxicity, and when to contact a vet immediately.",
+  "content_html": "<h3>What Is the Risk?</h3><p>If your dog has consumed avocado skin or the pit, there are two primary concerns: persin toxicity and physical obstruction. Persin is a fungicidal toxin found in avocados. While dogs are more resistant to it than other animals, the skin and pit contain the highest concentrations and can cause significant stomach upset or irritation.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. The greatest danger is typically not the toxin itself, but the pit acting as a foreign body. Because the pit is large, hard, and slippery, it can easily become lodged in the esophagus, stomach, or intestines. If your dog is currently choking, gasping for air, or vomiting repeatedly, please proceed to an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you are contacting a vet or a pet poison helpline, providing a photo of the avocado variety or the remaining parts of the fruit is extremely helpful. Seeing the size and shape of the pit allows the veterinary team to estimate the likelihood of it passing through your dog's digestive tract based on your pet's size and weight. A photo of any vomited material can also help them determine if the pit has been partially or fully expelled.</p>",
+  "faqs": [
+    {
+      "question": "Can a dog pass an avocado pit naturally?",
+      "answer": "While it is possible for very large dogs to pass a pit, it is highly risky. The pit can become stuck at any point in the digestive tract, leading to a life-threatening blockage that may require surgery."
+    },
+    {
+      "question": "What symptoms of a blockage should I look for?",
+      "answer": "Watch for signs such as persistent vomiting, inability to keep food or water down, lethargy, abdominal pain, or straining to have a bowel movement."
+    },
+    {
+      "question": "Is the skin of the avocado dangerous?",
+      "answer": "Yes, the skin is difficult to digest and contains higher levels of persin than the flesh. It can cause gastrointestinal upset, including vomiting and diarrhea."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Found Chewing Ant Trap: Triage and Next Steps",
+  "meta_desc": "If your dog chewed an ant trap, stay calm. Learn why toxicity is usually low and what symptoms to monitor in this veterinary triage guide.",
+  "content_html": "<h3>What Is an Ant Trap?</h3><p>Most household ant traps consist of a plastic or metal housing containing a bait mixture. This bait is usually composed of an attractant like sugar or peanut butter combined with a very low concentration of insecticide, such as borax, fipronil, or avermectin. While the word 'insecticide' sounds scary, these products are designed to be used safely around homes.</p><h3>Is It an Emergency?</h3><p>The urgency level for this situation is generally <strong>Low</strong>. The amount of active insecticide in a single bait station is typically too small to cause systemic poisoning in a dog, even a small breed. The primary concerns are usually mild stomach upset from the bait or the risk of the plastic casing causing a minor obstruction or irritation in the digestive tract. You should monitor your pet at home for any unusual behavior.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the trap's packaging and any remaining pieces is one of the most helpful things you can do. A photo allows a veterinarian or toxicologist to identify the exact active ingredients and calculate the potential dose ingested. It also helps determine if your dog swallowed sharp plastic shards that might require a physical exam or imaging to ensure they pass safely through the system.</p>",
+  "faqs": [
+    {
+      "question": "Should I make my dog vomit?",
+      "answer": "No, do not induce vomiting unless specifically directed by a veterinarian. Plastic pieces can cause more damage to the esophagus if they are forced back up."
+    },
+    {
+      "question": "What symptoms should I watch for?",
+      "answer": "Watch for signs of gastrointestinal distress, such as repeated vomiting, diarrhea, or a sudden loss of appetite. If your dog becomes lethargic or seems to be in pain, contact your vet."
+    },
+    {
+      "question": "How long will it take for the plastic to pass?",
+      "answer": "If your dog swallowed plastic, it usually passes within 24 to 48 hours. You can feed a slightly larger meal of their normal food to help 'cushion' the pieces as they move through the gut."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

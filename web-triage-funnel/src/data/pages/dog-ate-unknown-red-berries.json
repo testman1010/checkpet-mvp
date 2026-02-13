@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Unknown Red Berries: Guide to Toxicity and Triage",
+  "meta_desc": "Find out what to do if your dog ate unknown red berries. Learn about toxicity risks, urgency levels, and why identification photos are vital.",
+  "content_html": "<h3>What Are These Berries?</h3><p>Finding your dog snacking on wild or garden plants can be a source of immediate anxiety. Many common plants produce red berries, and while some are benign, others—such as Holly, Yew, or Bittersweet Nightshade—contain compounds that are highly toxic to dogs. Because many red berries look nearly identical to the untrained eye, identifying the specific plant is the first priority for safety.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While your dog may not show symptoms immediately, some toxins take several hours to affect the system. If you notice signs such as persistent vomiting, diarrhea, tremors, lethargy, or excessive drooling, the situation becomes an immediate emergency. You should contact your veterinarian or a pet poison control hotline right away to determine if medical intervention is necessary.</p><h3>Why a Photo Helps Triage</h3><p>One of the most helpful tools you can provide a veterinary professional is a clear photograph of the plant. Try to capture the berries, the shape of the leaves, and the overall structure of the bush or tree. Veterinary teams and poison control specialists can use these images to identify the exact species, which allows them to provide a precise treatment plan rather than guessing based on general symptoms. This can save valuable time and may prevent unnecessary medical procedures.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without a direct instruction from a veterinarian or poison control specialist, as certain toxins or plant materials can cause further damage to the esophagus if brought back up."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms can appear within 30 minutes to several hours depending on the type of berry and the size of your dog. Continuous monitoring is essential even if they seem fine initially."
+    },
+    {
+      "question": "Are all red berries toxic to dogs?",
+      "answer": "No, many are harmless, but because several toxic varieties mimic the appearance of safe ones, it is always safest to treat any unknown berry ingestion as a potential hazard until identified."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Convulsing and Paddling Legs: Emergency Guide and Triage",
+  "meta_desc": "Is your dog convulsing and paddling their legs? Learn why this is a high-priority emergency and how a video can help your veterinarian with triage.",
+  "content_html": "<h3>What Is Happening to Your Dog?</h3><p>If your dog is convulsing and paddling their legs, they are likely experiencing a generalized seizure, also known as a grand mal seizure. This occurs due to a sudden, abnormal burst of electrical activity in the brain. During these episodes, dogs typically lose consciousness, fall on their side, and exhibit involuntary movements that look like they are swimming or paddling in the air.</p><h3>Is This an Emergency?</h3><p>Yes, this is a high-urgency emergency. While a single, brief seizure is rarely fatal, it is a symptom of a serious underlying health issue that requires immediate veterinary assessment. You should seek emergency care immediately if the seizure lasts longer than three minutes, if your dog has more than one seizure in a 24-hour period, or if they do not seem to regain full consciousness between episodes.</p><h3>The Importance of Visual Documentation</h3><p>When you arrive at the clinic, your dog may no longer be seizing, making it difficult for the vet to see exactly what happened. If it is safe to do so without putting your hands near the dog's mouth, capturing a short video of the episode is an invaluable triage tool. This video helps your veterinarian distinguish between a seizure and other neurological or cardiac events, allowing for a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is seizing?",
+      "answer": "Keep your hands away from their mouth to avoid accidental bites. Clear away any sharp objects or furniture they might hit, and try to keep the room quiet and dark."
+    },
+    {
+      "question": "Should I try to hold my dog's tongue?",
+      "answer": "No. Dogs do not swallow their tongues during seizures, and putting your hands in or near their mouth puts you at high risk for a serious bite."
+    },
+    {
+      "question": "How long will my dog be confused after a seizure?",
+      "answer": "The post-seizure phase, or 'post-ictal' period, can last from a few minutes to several hours. Your dog may appear blind, wobbly, or restless during this time."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

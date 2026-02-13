@@ -1,0 +1,20 @@
+{
+  "title": "Cat Losing Balance When Jumping Down: Causes & Triage Guide",
+  "meta_desc": "Is your cat stumbling when landing? Learn why cats lose balance, the urgency level for vet care, and how video triage helps with a diagnosis.",
+  "content_html": "<h3>Understanding Balance Loss in Cats</h3><p>Noticing your cat stumble or lose their footing when jumping down from furniture is naturally worrying. This loss of coordination, medically known as ataxia, often stems from a disruption in the vestibular system—the delicate mechanism in the inner ear and brain that controls balance. It can appear as a slight sway, a \"drunken\" gait upon landing, or a complete inability to stick a landing they previously handled with ease.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for balance issues is typically <strong>Medium</strong>. While it may not always be a critical life-threat, it is a sign that something is wrong and should be evaluated by a veterinarian within 24 to 48 hours. However, if the balance loss is sudden and accompanied by a persistent head tilt, pupils of different sizes, or an inability to stand, you should seek emergency care immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Cats are masters at hiding illness, and the stress of a vet visit often causes them to mask their symptoms. Capturing a short video of your cat jumping or walking at home provides your veterinarian with a clear, objective view of the behavior in a natural environment. This visual evidence is a powerful triage tool, helping the doctor distinguish between neurological issues, inner ear infections, or joint pain that may only manifest during specific movements.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause my cat to lose balance?",
+      "answer": "Yes, infections in the middle or inner ear are one of the most common causes of vestibular disease and balance issues in cats."
+    },
+    {
+      "question": "Could it be arthritis?",
+      "answer": "In older cats, what looks like a balance issue might actually be weakness or pain from arthritis, making the impact of landing difficult to manage."
+    },
+    {
+      "question": "What should I do while waiting for the vet appointment?",
+      "answer": "Keep your cat in a confined, safe area with low furniture to prevent further injury from falling, and ensure their food, water, and litter box are easily accessible."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

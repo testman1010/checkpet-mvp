@@ -1,0 +1,20 @@
+{
+  "title": "Dog Regurgitating Undigested Food: Triage and Care Guide",
+  "meta_desc": "Learn why your dog is regurgitating undigested food, when to call the vet, and why photos of the incident help with a faster veterinary diagnosis.",
+  "content_html": "<h3>What is Regurgitation?</h3><p>Regurgitation is the passive expulsion of food or fluid from the esophagus before it reaches the stomach. Unlike vomiting, which is an active process involving abdominal heaving and nausea, regurgitation often happens suddenly and without warning. The food typically appears undigested and may even be shaped like a tube (the shape of the esophagus).</p><h3>Is it an Emergency?</h3><p>The urgency level for regurgitation is <strong>Medium</strong>. While a single episode may be caused by eating too quickly, frequent or persistent regurgitation can lead to serious complications like aspiration pneumonia. If your dog is also coughing, struggling to breathe, or acting lethargic, you should contact a veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Documenting the incident with a photo or video is one of the most helpful things you can do for your vet. A photo of the expelled material helps the clinical team distinguish between vomit and regurgitated food, while a video of the act itself can help identify the underlying cause, such as an esophageal disorder, leading to a faster and more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How can I tell the difference between vomiting and regurgitation?",
+      "answer": "Vomiting involves active stomach contractions and retching, whereas regurgitation is a passive, sudden movement of food out of the mouth without warning."
+    },
+    {
+      "question": "Should I feed my dog after they regurgitate?",
+      "answer": "It is generally recommended to withhold food for a few hours and consult your veterinarian, as repeated episodes can increase the risk of the dog inhaling food into their lungs."
+    },
+    {
+      "question": "What are common causes of regurgitation?",
+      "answer": "Common causes include eating too fast, esophageal blockages, or underlying medical conditions such as megaesophagus or acid reflux."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

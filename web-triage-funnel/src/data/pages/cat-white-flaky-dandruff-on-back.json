@@ -1,0 +1,20 @@
+{
+  "title": "Cat Dandruff: Causes, Triage, and Care Tips",
+  "meta_desc": "Is your cat showing white flakes on their back? Learn about cat dandruff, why it happens, and how to triage the urgency of skin issues.",
+  "content_html": "<h3>What is Cat Dandruff?</h3><p>White, flaky dandruff on a cat's back is usually a sign of seborrhea, a condition where the skin's sebaceous glands produce an imbalance of oils. In many cats, these flakes are simply dead skin cells shedding excessively. This can be caused by dry winter air, a lack of certain nutrients in their diet, or mobility issues like obesity and arthritis that prevent the cat from grooming their back properly.</p><h3>Is This an Emergency?</h3><p>The urgency level for cat dandruff is generally Low. While it indicates that your cat's skin or grooming routine needs attention, it is rarely a life-threatening situation. However, you should monitor for secondary signs such as intense scratching, hair loss, or redness. If the skin looks raw or infected, schedule a non-emergency appointment with your veterinarian within the week.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, close-up photo of the flakes and the underlying skin helps veterinary professionals significantly. A photo allows us to differentiate between simple dry skin and more concerning issues like 'walking dandruff' (Cheyletiella mites), flea dirt, or fungal infections like ringworm. Capturing the distribution of the flakes also helps us determine if the issue is localized or systemic.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human dandruff shampoo on my cat?",
+      "answer": "No. Human shampoos often contain ingredients like zinc or salicylic acid which can be toxic to cats if ingested during grooming. Only use products specifically formulated for felines."
+    },
+    {
+      "question": "Could my cat's weight be causing the dandruff?",
+      "answer": "Yes. Overweight cats often have difficulty reaching their middle and lower back during grooming, leading to a buildup of oils and dead skin cells in those specific areas."
+    },
+    {
+      "question": "What is 'Walking Dandruff'?",
+      "answer": "Walking dandruff is caused by Cheyletiella mites. If you look closely and the flakes seem to move, your cat likely has a parasitic infestation that requires veterinary treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

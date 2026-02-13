@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Weight Loss Despite Normal Appetite: Triage Guide",
+  "meta_desc": "Is your dog losing weight while eating normally? Learn about causes, urgency levels, and why photos help your vet diagnose the issue quickly.",
+  "content_html": "<h3>What Is Sudden Weight Loss with a Normal Appetite?</h3><p>When a dog loses weight despite eating their usual amount of food—or even more than usual—it is a condition often referred to as malassimilation or increased metabolic demand. This means that while the calories are entering the body, they are either not being absorbed properly in the digestive tract or are being consumed too rapidly by an underlying disease process.</p><h3>Is It an Emergency?</h3><p>The urgency level for sudden weight loss is classified as Medium. It is generally not a 'red alert' emergency requiring an immediate midnight visit to the ER unless your dog is also collapsing, vomiting uncontrollably, or has blue gums. However, it does require a veterinary appointment within 24 to 48 hours. Rapid weight loss can quickly lead to muscle wasting and organ strain if the underlying cause, such as diabetes or organ dysfunction, is left untreated.</p><h3>Why a Photo Helps Triage</h3><p>Visual evidence is a powerful tool for your veterinary team. Providing a photo from a 'birds-eye view' (looking down at your dog's back) and a side profile helps the vet determine their Body Condition Score (BCS). Photos of your dog's stool can also provide vital clues about whether nutrients are being lost due to poor digestion or parasites. This helps the clinic decide how quickly your dog needs to be squeezed into the schedule.</p>",
+  "faqs": [
+    {
+      "question": "Can intestinal parasites cause weight loss in dogs that eat well?",
+      "answer": "Yes, common parasites like roundworms or hookworms can consume the nutrients your dog is eating, leading to weight loss despite a voracious appetite."
+    },
+    {
+      "question": "What are the most common medical causes for this condition?",
+      "answer": "The most frequent culprits include Diabetes Mellitus, Exocrine Pancreatic Insufficiency (EPI), Hyperthyroidism, and certain types of inflammatory bowel disease."
+    },
+    {
+      "question": "Should I increase my dog's food portion immediately?",
+      "answer": "While it is tempting to feed more, you should consult a vet first. If the cause is a condition like EPI or diabetes, simply adding more food without medical treatment will not solve the problem and may cause digestive upset."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eating Plastic Bags: Causes, Risks, and Veterinary Triage Guide",
+  "meta_desc": "Is your cat eating plastic? Learn about Pica, when to call a vet, and why this habit can lead to dangerous intestinal blockages.",
+  "content_html": "<h3>What is it?</h3><p>When a cat habitually eats non-food items like plastic bags, film, or wrappers, it is often a condition called pica. This behavior can stem from several factors, including boredom, dental disease, or nutritional deficiencies. Furthermore, many plastic bags are treated with animal fats (like tallow) or cornstarch during manufacturing, making them smell or taste surprisingly appealing to curious felines.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat eating plastic is <strong>Medium</strong>. While tiny fragments may pass through the system, plastic does not digest and can cause a life-threatening intestinal blockage or a 'linear foreign body.' If your cat is currently showing signs such as repeated vomiting, a lack of appetite, lethargy, or a painful abdomen, this becomes a high-priority emergency. If they are acting normally, you should still contact your vet for guidance and monitor their litter box closely.</p><h3>Why a photo helps triage</h3><p>Sharing a photo of the plastic material with your veterinarian or triage assistant is incredibly helpful. Seeing the thickness, size, and texture of the wrapper helps the medical team determine the risk of it getting stuck. For example, thin cling wrap behaves differently in the intestines than a stiff, sharp-edged candy wrapper. A photo allows the vet to better estimate if the object is likely to pass on its own or if immediate imaging is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Why is my cat suddenly obsessed with plastic?",
+      "answer": "Sudden onset of pica can be triggered by stress, dietary changes, or underlying medical issues like anemia or hyperthyroidism. It is best to have your vet perform a wellness check to rule out health concerns."
+    },
+    {
+      "question": "Should I induce vomiting at home if I saw them eat it?",
+      "answer": "No. Never induce vomiting in a cat at home unless specifically instructed by a veterinarian. Plastic can have sharp edges that could damage the esophagus on the way back up."
+    },
+    {
+      "question": "How long should I wait for the plastic to pass?",
+      "answer": "If your cat is acting 100% normal, you can monitor their stool for 24 to 48 hours. If the plastic has not appeared in the litter box by then, or if they stop eating, call your vet immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

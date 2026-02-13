@@ -1,0 +1,20 @@
+{
+  "title": "Dog Red Raised Welts: Causes, Emergency Signs, and Triage Guide",
+  "meta_desc": "Is your dog covered in red raised welts? Learn about hives (urticaria), when to seek emergency vet care, and why photos are vital for triage.",
+  "content_html": "<h3>What Are These Red Welts?</h3><p>Red, raised welts on a dog's body are most commonly known as hives, or urticaria. These are localized areas of swelling in the skin that occur when the immune system overreacts to an allergen. Common triggers include insect stings, vaccinations, certain plants, or new foods. The welts can vary in size and may cause the hair to stand up in patches, often appearing suddenly across the torso, face, or legs.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for sudden welts is Medium. While hives themselves are often a mild allergic reaction, they can occasionally progress to a life-threatening state called anaphylaxis. If the welts are accompanied by swelling of the muzzle or eyes, labored breathing, persistent vomiting, or sudden weakness, you must transport your dog to an emergency clinic immediately. If your dog is acting normally otherwise, contact your veterinarian to discuss the potential use of antihistamines.</p><h3>Why Taking a Photo Helps Triage</h3><p>Hives are dynamic; they can change shape, migrate across the body, or even disappear entirely by the time you arrive at a veterinary clinic. Taking a clear photo or video as soon as you notice the welts provides your veterinarian with a visual record of the reaction at its peak. This helps the medical team determine the severity of the skin involvement and assists in differentiating hives from other dermatological conditions like bacterial infections or heat rash.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog over-the-counter allergy medication?",
+      "answer": "While certain antihistamines like Benadryl are commonly used for dogs, you should never administer medication without first confirming the correct dosage with a veterinarian, as some human formulations contain toxic additives like xylitol."
+    },
+    {
+      "question": "How long do dog hives typically last?",
+      "answer": "Hives usually resolve within 24 to 48 hours once the allergen is no longer in contact with the dog, though veterinary treatment with corticosteroids or antihistamines can resolve them much faster."
+    },
+    {
+      "question": "Should I bathe my dog if they have welts?",
+      "answer": "A cool water bath may help soothe the skin and wash away potential topical allergens like pollen or chemicals, but avoid using harsh shampoos which might further irritate the skin."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

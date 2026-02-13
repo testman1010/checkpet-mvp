@@ -1,0 +1,20 @@
+{
+  "title": "Cat Involuntary Chewing or Jaw Chattering: Causes and Veterinary Triage",
+  "meta_desc": "Is your cat chattering their jaw or chewing? Learn about potential causes like dental pain or focal seizures and when to contact your veterinarian.",
+  "content_html": "<h3>What is Involuntary Chewing or Jaw Chattering?</h3><p>Involuntary chewing (sometimes called \"fly-biting\") or jaw chattering occurs when a cat makes repetitive mouth movements without the presence of food. This behavior can manifest as clicking teeth, smacking lips, or a rhythmic grinding motion. While it can sometimes be a reaction to a scent (the Flehmen response), persistent or sudden jaw movements often indicate an underlying physical or neurological issue that requires attention.</p><h3>Is it an Emergency?</h3><p>The urgency level for involuntary jaw movements is generally <strong>Medium</strong>. While it is rarely an immediate life-threatening emergency, it is often a sign of significant discomfort or neurological dysfunction. You should schedule an appointment with your veterinarian within 24 to 48 hours. However, if the chattering is accompanied by a full-body seizure, loss of consciousness, or difficulty breathing, you should seek emergency veterinary care immediately.</p><h3>Why Video and Photos Help Triage</h3><p>Because these behaviors are often intermittent, your cat may not perform them during a physical exam at the clinic. Capturing a clear video of the episode is incredibly helpful for your veterinarian. A video allows them to differentiate between dental pain (where the cat may paw at the mouth), nausea, or focal seizures (neurological misfires). Seeing the duration and specific nature of the movement helps the vet determine whether to prioritize dental X-rays or a neurological workup.</p>",
+  "faqs": [
+    {
+      "question": "Can dental problems cause jaw chattering?",
+      "answer": "Yes, dental issues like tooth resorption, gingivitis, or a fractured tooth are the most common causes of jaw chattering in cats as they react to sudden sharp pain."
+    },
+    {
+      "question": "What are focal seizures in cats?",
+      "answer": "Focal seizures are localized electrical disturbances in the brain. Unlike grand mal seizures, they may only affect the face, causing twitching, drooling, or rhythmic chewing motions."
+    },
+    {
+      "question": "Is jaw chattering the same as the Flehmen response?",
+      "answer": "No. The Flehmen response involves a cat holding their mouth slightly open to process a scent. It is a controlled, temporary behavior, unlike involuntary chattering or grinding."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

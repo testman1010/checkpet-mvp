@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ingested Plastic or Rubber Bands: Veterinary Triage Guide",
+  "meta_desc": "If your cat ate a rubber band or plastic, learn why this is a high-priority emergency and how to assist your vet with triage today.",
+  "content_html": "<h3>What is it?</h3><p>When a cat swallows non-food items like plastic film, rubber bands, or hair ties, it is medically referred to as foreign body ingestion. Plastic can have sharp edges or create a physical plug in the digestive tract, while rubber bands are classified as \"linear foreign bodies,\" which are particularly dangerous as they can cause the intestines to bunch up like a drawstring.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Ingestion of these materials should be treated with high priority. While some very small fragments might pass, rubber bands and larger pieces of plastic carry a significant risk of intestinal obstruction or perforation. If your cat is vomiting, acting lethargic, or refusing to eat, you must contact an emergency veterinarian immediately. Do not attempt to induce vomiting at home as this can cause further injury.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to a duplicate of the item your cat swallowed, or a piece of the material they chewed off, take a clear photo of it. This helps the veterinary team understand the texture, size, and potential for the object to show up on an X-ray. Knowing exactly what the cat ingested allows the vet to determine if the object is likely to pass on its own or if surgical intervention is the safest course of action.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if the rubber band passes in the stool?",
+      "answer": "Waiting is risky, especially with rubber bands. Because they are elastic and long, they can get caught under the tongue or at the stomach exit, leading to life-threatening intestinal damage. It is always best to consult a vet immediately."
+    },
+    {
+      "question": "What if I see the plastic or rubber band protruding from my cat's mouth or anus?",
+      "answer": "Never pull on a visible foreign object. Pulling can cause the material to 'saw' through the delicate walls of the esophagus or intestines, leading to fatal internal bleeding or infection. Only a veterinarian should remove these objects."
+    },
+    {
+      "question": "What are the early warning signs of an intestinal blockage?",
+      "answer": "Common symptoms include repeated vomiting, loss of appetite, hiding, abdominal tenderness, and unproductive straining in the litter box."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate an Unknown Mushroom? Immediate Safety & Triage Guide",
+  "meta_desc": "If your cat ate a wild mushroom, it is a high-priority emergency. Learn the immediate steps to take and why photo identification is critical.",
+  "content_html": "<h3>What happened?</h3><p>Finding your cat eating a wild mushroom in your yard is a stressful experience. While some lawn mushrooms are non-toxic, several common varieties are highly poisonous to felines. These fungi can contain toxins that target the liver, kidneys, or nervous system, often leading to severe illness if not treated immediately.</p><h3>Is it an emergency?</h3><p>Yes. This is considered a high-urgency emergency. Because many toxic mushrooms look nearly identical to harmless ones, you should never 'wait and see' if symptoms develop. Some of the most dangerous toxins, such as those found in Amanita species, may not cause visible symptoms for 6 to 24 hours, at which point significant internal organ damage may have already occurred.</p><h3>Why a photo helps triage</h3><p>If it is safe to do so, take several clear photos of the mushroom your cat ingested. Try to capture the top of the cap, the gills underneath, and the base where it meets the soil. Providing these images to your veterinarian or a pet poison control expert allows for rapid identification of the specific toxin, which directly informs the life-saving treatment plan your cat needs.</p>",
+  "faqs": [
+    {
+      "question": "What are common symptoms of mushroom toxicity in cats?",
+      "answer": "Symptoms can include vomiting, diarrhea, excessive drooling, lethargy, yellowing of the skin or eyes (jaundice), uncoordinated movement, or seizures."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home unless specifically instructed by a veterinarian, as this can lead to life-threatening complications like aspiration pneumonia."
+    },
+    {
+      "question": "What should I bring to the emergency vet?",
+      "answer": "Bring any remaining pieces of the mushroom in a paper bag (avoid plastic as it causes rapid decay) and any photos you were able to take of the fungus in its growing environment."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

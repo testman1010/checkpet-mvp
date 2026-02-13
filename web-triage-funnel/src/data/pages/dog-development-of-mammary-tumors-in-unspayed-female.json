@@ -1,0 +1,20 @@
+{
+  "title": "Mammary Tumors in Unspayed Female Dogs: Triage and Care Guide",
+  "meta_desc": "Learn about the risks of mammary tumors in unspayed female dogs, urgency levels for veterinary care, and how to identify symptoms early.",
+  "content_html": "<h3>What are Mammary Tumors?</h3><p>Mammary tumors are growths that develop within the breast tissue of female dogs. These tumors are highly common in unspayed females because their breast tissue is regularly stimulated by hormones like estrogen and progesterone during heat cycles. Statistics show that approximately 50% of these tumors are benign, while the other 50% are malignant (cancerous) and have the potential to spread to the lungs or lymph nodes.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: Medium.</strong> Finding a lump in your dog's mammary chain is not typically a same-hour emergency, but it does require a veterinary examination within 1-2 days. If the lump is rapidly growing, bleeding, or if your dog is showing signs of respiratory distress, you should seek immediate care. Early surgical intervention is often curative for benign cases and the most effective treatment for malignant ones.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the affected area can be incredibly helpful for your veterinary team. A photo allows a professional to assess the size, location, and appearance of the mass—such as whether the skin is ulcerated or inflamed. This visual data helps the clinic prioritize your appointment and provides a baseline to track if the tumor is changing shape or size over time.</p>",
+  "faqs": [
+    {
+      "question": "Does spaying my dog now help if she already has a tumor?",
+      "answer": "Yes, many veterinarians recommend spaying at the time of tumor removal to prevent hormonal influence on any remaining tissue and to prevent other uterine diseases."
+    },
+    {
+      "question": "What are the signs of a malignant mammary tumor?",
+      "answer": "Malignant tumors often feel firm, are fixed to the underlying tissue, grow rapidly, or may have ulcerated skin on the surface."
+    },
+    {
+      "question": "How can I check my dog for mammary lumps?",
+      "answer": "Regularly run your hands along both sides of your dog's abdomen, feeling the tissue around each nipple for any hard nodules, pea-sized lumps, or thickened areas."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

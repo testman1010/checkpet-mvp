@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Human Vitamin Gummy: Emergency Triage and Risks",
+  "meta_desc": "If your cat ate a human vitamin gummy, act quickly. Learn about common toxins like Xylitol and D3, and when to seek veterinary care.",
+  "content_html": "<h3>What Is It?</h3><p>Human vitamin gummies are concentrated dietary supplements designed for human nutritional needs. While they often look and smell like treats, they are formulated with high levels of vitamins and minerals that are not safe for feline metabolism. Many of these gummies also contain sugar substitutes or flavorings that are benign for humans but toxic to cats.</p><h3>Is It an Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While ingestion is not always immediately fatal, certain ingredients can cause severe internal damage if left untreated. You should immediately check for ingredients like Xylitol (a sweetener that causes rapid blood sugar drops) or high doses of Vitamin D3 and Iron, which can lead to organ failure. Watch for symptoms such as vomiting, lethargy, or tremors, and contact your veterinarian immediately for guidance.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of the product's ingredient label and the specific 'Supplement Facts' panel is one of the most helpful things you can do. This allows a veterinary professional to quickly calculate the exact dosage of active ingredients your cat may have consumed relative to their body weight. Having this visual information ready can significantly speed up the triage process and ensure your cat receives the correct treatment protocol without delay.</p>",
+  "faqs": [
+    {
+      "question": "What is the most dangerous ingredient in human gummies for cats?",
+      "answer": "Xylitol is extremely dangerous as it causes a life-threatening surge in insulin. Additionally, excessive Vitamin D3 can lead to acute kidney failure."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home unless specifically instructed by a veterinarian, as it can cause physical trauma or aspiration pneumonia."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms can appear within 30 minutes for sweeteners like Xylitol, while vitamin toxicity (like Vitamin D3) may take 12 to 48 hours to show signs of kidney stress."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

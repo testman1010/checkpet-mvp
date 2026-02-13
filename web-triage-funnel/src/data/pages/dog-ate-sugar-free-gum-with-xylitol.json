@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Sugar-Free Gum with Xylitol: Immediate Emergency Guide",
+  "meta_desc": "If your dog ate gum containing xylitol, this is a life-threatening emergency. Learn why immediate veterinary care is required to save your pet.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a common sugar substitute found in many sugar-free gums, candies, baked goods, and even some peanut butters. While perfectly safe for humans, it is extremely toxic to dogs. Even a very small amount can cause a rapid, life-threatening release of insulin in a dog's body.</p><h3>Is it an Emergency?</h3><p>Yes. This is a high-priority emergency. Xylitol ingestion causes a sudden drop in blood sugar (hypoglycemia) which can lead to seizures, and in higher doses, it can cause acute liver failure and death. Symptoms can appear in as little as 15 to 30 minutes. You should contact your veterinarian or an emergency animal hospital immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you still have the gum packaging, take a clear photo of the ingredients list and the brand name. Showing this to your veterinarian or a triage assistant allows them to calculate the exact concentration of xylitol ingested. Since different brands use different amounts of the sweetener, this information is critical for determining the level of toxicity and the specific treatment plan required for your dog.</p>",
+  "faqs": [
+    {
+      "question": "How much xylitol is dangerous for a dog?",
+      "answer": "As little as 0.1 grams per kilogram of body weight can cause hypoglycemia. For a small dog, even a single piece of gum can be a fatal dose."
+    },
+    {
+      "question": "What are the early signs of xylitol poisoning?",
+      "answer": "Early symptoms include vomiting, followed by signs of low blood sugar such as lethargy, stumbling, weakness, or collapse."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinary professional, as this can be dangerous if the dog is already showing neurological symptoms."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

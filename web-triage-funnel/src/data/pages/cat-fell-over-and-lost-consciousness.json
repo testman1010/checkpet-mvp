@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Cat Collapses or Loses Consciousness",
+  "meta_desc": "If your cat fell over and lost consciousness, it is a high-priority medical emergency. Learn what this means and how to help your pet immediately.",
+  "content_html": "<h3>What is Loss of Consciousness in Cats?</h3><p>A sudden collapse where a cat loses consciousness is often referred to as syncope (fainting) or a seizure. This happens when the brain is temporarily deprived of oxygen, blood flow, or normal electrical signals. It can be caused by underlying heart disease, neurological disorders, or sudden metabolic changes. Because the brain and heart are involved, this is a serious clinical sign that requires professional investigation.</p><h3>Urgency Level: High Emergency</h3><p>If your cat has lost consciousness, even for a few seconds, this is a high-priority emergency. Even if your cat regains consciousness and appears to act normally shortly after, the underlying cause could be life-threatening. Conditions such as heart failure, internal bleeding, or severe arrhythmias often present this way. Please transport your cat to the nearest emergency veterinary hospital immediately.</p><h3>Why Documentation and Photos Help</h3><p>When you arrive at the clinic, providing a photo or a short video of the event (if you were able to capture it safely) is incredibly valuable for the medical team. Visual evidence of your cat's gum color, their limb posture during the collapse, and how they recovered helps the veterinarian differentiate between a cardiac event and a neurological seizure. This information allows for faster triage and more targeted life-saving treatment.</p>",
+  "faqs": [
+    {
+      "question": "Should I perform CPR if my cat is unconscious?",
+      "answer": "Only perform chest compressions if you are certain the cat is not breathing and has no heartbeat. Otherwise, keep them calm and transport them immediately to a vet."
+    },
+    {
+      "question": "How should I move an unconscious cat?",
+      "answer": "Gently place your cat on a flat board or a thick towel to keep their spine neutral and their airway open during transport."
+    },
+    {
+      "question": "Could my cat have just fainted from heat?",
+      "answer": "Yes, heatstroke can cause collapse, but it still constitutes a major emergency that requires professional cooling and stabilization to prevent organ failure."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

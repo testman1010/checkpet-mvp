@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore build artifacts (Crucial for iOS/Python)
+**/DerivedData/**
+**/build/**
+**/dist/**
+**/*.app/**
+**/venv/**
+**/node_modules/**
+
+# Ignore heavy binary files & logs (The 14GB killers)
+**/*.log
+**/*.lock
+**/*.sqlite
+**/*.db

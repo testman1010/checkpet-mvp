@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Moldy Food From Compost: Emergency Guide and Mycotoxin Safety",
+  "meta_desc": "If your dog ate moldy food from a compost bin, they may have mycotoxin poisoning. This is a high-urgency veterinary emergency requiring immediate care.",
+  "content_html": "<h3>What is Tremorgenic Mycotoxin Poisoning?</h3><p>When dogs ingest moldy food from compost bins, they are often exposed to tremorgenic mycotoxins. These are toxic substances produced by fungi growing on decomposing organic matter, such as dairy, grains, and nuts. These toxins directly attack the dog's central nervous system, leading to severe illness.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level is High. If your dog has consumed moldy material, you should contact an emergency veterinarian or a pet poison control hotline immediately. Symptoms can escalate rapidly and include vomiting, agitation, stumbling, severe muscle tremors, and life-threatening seizures. Prompt treatment is necessary to manage these neurological symptoms and prevent long-term damage.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a quick photo of the moldy food or the compost area before heading to the clinic. A photo helps the veterinary team identify the type of mold and the specific food items involved. For instance, moldy walnuts or dairy products can produce different toxins than moldy bread. This visual information allows the vet to better predict the severity of the toxicity and refine the treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How soon will symptoms of mold poisoning appear?",
+      "answer": "Symptoms typically begin within 30 minutes to three hours after ingestion, though they can sometimes take longer to manifest depending on the amount consumed."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting unless specifically instructed to do so by a veterinarian. If your dog is already showing neurological signs like tremors, inducing vomiting can lead to aspiration pneumonia."
+    },
+    {
+      "question": "What is the treatment for mycotoxin poisoning?",
+      "answer": "Treatment usually involves hospitalization, intravenous fluids, activated charcoal for decontamination, and specialized medications to control tremors and seizures."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

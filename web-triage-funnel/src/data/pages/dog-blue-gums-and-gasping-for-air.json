@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog with Blue Gums and Gasping for Air",
+  "meta_desc": "Blue gums and gasping for air in dogs is a critical emergency. Learn why this happens and why you must seek immediate veterinary care.",
+  "content_html": "<h3>What is happening to my dog?</h3><p>When a dog has blue, purple, or grayish gums, it is a clinical condition called cyanosis. This occurs because there is not enough oxygen in the bloodstream. Gasping for air, also known as dyspnea, is a sign that your dog is struggling to breathe. Together, these symptoms indicate that your dog's vital organs are being deprived of life-sustaining oxygen due to a failure in the respiratory or cardiovascular system.</p><h3>Is this an emergency?</h3><p>Urgency Level: High (Critical). Yes, this is a life-threatening emergency. You should not wait for an appointment or monitor the situation at home. Your dog requires immediate oxygen therapy and professional intervention. Please contact your nearest 24-hour emergency veterinary hospital and let them know you are on your way with a patient in respiratory distress.</p><h3>Why a photo helps triage</h3><p>If you have a passenger who can safely take a photo of your dog's gums or a brief video of their breathing while you drive, it can be incredibly helpful for the veterinary team. Sending this media ahead or showing it upon arrival allows the staff to instantly assess the severity of the hypoxia and prepare the oxygen cage, intubation tools, or emergency medications before you even enter the building.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of blue gums in dogs?",
+      "answer": "Potential causes include congestive heart failure, pneumonia, choking on a foreign object, allergic reactions (anaphylaxis), or lung collapse."
+    },
+    {
+      "question": "Can I perform CPR on my dog?",
+      "answer": "CPR should only be performed if the dog has stopped breathing and has no pulse. If they are still gasping, focus entirely on getting them to a vet immediately."
+    },
+    {
+      "question": "Should I try to open my dog's mouth to look for a blockage?",
+      "answer": "Only attempt this if you are certain they are choking and you can see the object clearly. Be extremely careful, as a distressed dog may bite reflexively."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

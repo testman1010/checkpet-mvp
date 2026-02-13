@@ -1,0 +1,20 @@
+{
+  "title": "Dog Gasping for Air: Emergency Triage Guide",
+  "meta_desc": "Is your dog gasping for air? This is a high-priority emergency. Learn the signs of respiratory distress and why you need immediate veterinary care.",
+  "content_html": "<h3>What is Respiratory Distress?</h3><p>Respiratory distress, often referred to as dyspnea, occurs when a dog is physically unable to pull enough oxygen into their lungs. This may appear as frantic gasping, wide-mouth breathing, or an extended neck as they try to straighten their airway. It is a clinical sign that the body is in crisis, potentially due to heart failure, lung disease, trauma, or an obstruction.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Yes, gasping for air is a critical, life-threatening emergency. If your dog is struggling to breathe, you must transport them to the nearest emergency veterinary clinic immediately. Do not wait for the symptoms to pass, as oxygen deprivation can lead to organ failure or sudden death within minutes.</p><h3>Why a Photo or Video Helps Triage</h3><p>If you can safely record a 5-10 second video without delaying your trip to the vet, it can be an invaluable tool for the medical team. Different breathing patterns—such as heavy abdominal movement versus noisy upper-airway gasping—provide immediate clues about the underlying cause. This allows the triage team to prepare the correct life-saving equipment, such as an oxygen cage or a nebulizer, before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What color should my dog's gums be?",
+      "answer": "A healthy dog's gums should be bubblegum pink. If they appear blue, purple, grey, or very pale, your dog is not getting enough oxygen and needs immediate help."
+    },
+    {
+      "question": "Should I perform CPR if my dog stops breathing?",
+      "answer": "If your dog is unconscious and not breathing, you can attempt chest compressions, but your primary focus should be getting them to a veterinary hospital where they can receive professional intubation and oxygen."
+    },
+    {
+      "question": "Can I give my dog an inhaler?",
+      "answer": "No. Never administer human medications or inhalers to a dog unless specifically directed by a veterinarian, as these can cause fatal heart rate spikes or other toxic reactions."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

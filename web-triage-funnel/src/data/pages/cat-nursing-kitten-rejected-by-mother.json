@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care for Rejected Kittens: A Triage Guide",
+  "meta_desc": "Immediate steps for a rejected kitten. Learn why this is a high-urgency situation and how to provide life-saving care until you reach a vet.",
+  "content_html": "<h3>What is Kitten Rejection?</h3><p>Kitten rejection occurs when a mother cat stops nursing, grooming, or providing warmth to one or more of her offspring. This behavior can be caused by maternal stress, illness, or the mother sensing an underlying health issue in the kitten. Because neonates are entirely dependent on their mother for survival, being cast out of the litter is a life-threatening event.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> This is considered a veterinary emergency. Kittens cannot regulate their own body temperature and have very little glucose storage. Without immediate intervention, a rejected kitten can succumb to hypothermia, dehydration, or hypoglycemia (low blood sugar) within a matter of hours. You must keep the kitten warm and contact an emergency vet immediately.</p><h3>Why a Photo Helps Triage</h3><p>When contacting a professional, a clear photo of the rejected kitten can provide vital information. A veterinarian can look for signs of 'fading kitten syndrome,' check the kitten's color and posture, and identify potential congenital issues like a cleft palate. Visuals also help the triage team assess the kitten's hydration levels and overall strength to determine how quickly you need to bring them into the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What should I do immediately if a kitten is rejected?",
+      "answer": "First, gently warm the kitten using your body heat or a heating pad set to low, wrapped in several layers of towels. Do not attempt to feed a cold kitten, as they cannot digest food if their body temperature is too low."
+    },
+    {
+      "question": "Can I feed the kitten cow's milk?",
+      "answer": "No. Never give a kitten cow's milk or human baby formula, as it can cause fatal diarrhea. Only use a specific feline milk replacer (KMR) and a specialized kitten nursing bottle."
+    },
+    {
+      "question": "How do I know if the kitten is warm enough?",
+      "answer": "A healthy newborn kitten should feel warm to the touch and be active. If the kitten's mouth or skin feels cool, or if they are limp and unresponsive, they are dangerously hypothermic and need professional medical help."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

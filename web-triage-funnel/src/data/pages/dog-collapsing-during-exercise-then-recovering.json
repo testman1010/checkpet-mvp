@@ -1,0 +1,20 @@
+{
+  "title": "Dog Collapsing During Exercise and Recovering: Triage Guide",
+  "meta_desc": "If your dog collapses during exercise then recovers, it may indicate a heart or metabolic issue. Learn about urgency and why a video helps your vet.",
+  "content_html": "<h3>What is Exercise-Induced Collapse?</h3><p>When a dog collapses during physical activity but recovers shortly after, it is often a sign of a brief interruption in blood flow, oxygen, or glucose reaching the brain or muscles. This can be caused by various underlying conditions, including cardiac arrhythmias, heart disease, metabolic imbalances, or genetic conditions like Exercise-Induced Collapse (EIC) common in certain breeds. These episodes are often referred to as syncope (fainting) or transient weakness.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. Because your dog recovered, it may not require an immediate trip to the emergency room tonight, but it is not something that should be ignored. You should limit your dog's physical activity and schedule an appointment with your veterinarian within the next 24 to 48 hours. If your dog collapses and does not regain consciousness quickly, has blue-tinged gums, or experiences labored breathing, treat it as a high-level emergency and go to a clinic immediately.</p><h3>Why Video or Photos Help Triage</h3><p>Because these episodes are often over by the time you reach the clinic, your dog may appear perfectly healthy during their physical exam. Providing your veterinarian with a video of the event is one of the most powerful diagnostic tools available. A video helps the vet determine if the event was a seizure, a cardiac syncopal episode, or musculoskeletal weakness, as each looks distinct and requires different diagnostic testing.</p>",
+  "faqs": [
+    {
+      "question": "Can heat cause my dog to collapse during exercise?",
+      "answer": "Yes, heat exhaustion can cause collapse. However, heat-related issues usually involve very heavy panting and a slow recovery, whereas syncope often involves a sudden drop and a relatively quick return to alertness."
+    },
+    {
+      "question": "What should I do immediately after my dog recovers?",
+      "answer": "Stop all exercise immediately and keep your dog calm and cool. Monitor their gum color (they should be pink) and their breathing rate. Do not attempt further exercise until a veterinarian has cleared them."
+    },
+    {
+      "question": "Are certain breeds more prone to this?",
+      "answer": "Yes, certain breeds like Labrador Retrievers are known for a specific genetic condition called EIC. Other breeds may be predisposed to heart conditions that cause fainting. Your vet will consider breed-specific risks during the exam."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

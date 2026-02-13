@@ -1,0 +1,20 @@
+{
+  "title": "Managing Dog Aggression Towards Other Household Pets | Vet Triage Guide",
+  "meta_desc": "Understand dog aggression toward other pets, assess urgency levels, and learn how visual evidence helps your vet provide the best care and training.",
+  "content_html": "<h3>What is Dog-to-Pet Aggression?</h3><p>Aggression between household pets involves one or more dogs displaying threatening behaviors toward other animals living in the same home. This can range from subtle body language, such as staring or stiffening, to more overt actions like growling, snapping, or physical attacks. Common causes include resource guarding, redirected frustration, or changes in social dynamics within the home.</p><h3>Is it an Emergency?</h3><p>The urgency level for household aggression is generally classified as Medium. If your pets have had a physical altercation resulting in puncture wounds, heavy bleeding, or eye injuries, you must seek veterinary care immediately. However, if the aggression is new or escalating without physical injury, you should schedule a consultation within 24 to 48 hours to rule out underlying medical pain or neurological issues that may be triggering the behavior.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing visual evidence can be vital for an accurate diagnosis. Photos of the home environment where conflicts occur help experts identify potential triggers, like narrow hallways or proximity to food bowls. If it is safe to do so, a short video of the dogs' body language—such as ear position, tail tucking, or facial tension—allows your veterinarian or a behaviorist to see exactly what leads up to a conflict, providing much more detail than a verbal description alone.</p>",
+  "faqs": [
+    {
+      "question": "Should I punish my dog for growling at the cat or other dog?",
+      "answer": "No. Growling is a vital communication tool. If you punish a growl, the dog may learn to stop giving a warning and move straight to biting next time. Instead, focus on safely separating the animals and identifying the trigger."
+    },
+    {
+      "question": "Can sudden aggression be caused by a medical problem?",
+      "answer": "Yes, many behavioral changes are rooted in physical discomfort. Conditions such as arthritis, dental pain, or ear infections can make a dog irritable and more likely to lash out at housemates."
+    },
+    {
+      "question": "How can I safely separate fighting pets?",
+      "answer": "Never put your hands or body between fighting animals. Use a physical barrier like a baby gate, a large piece of cardboard, or a loud noise to distract them long enough to move one pet into a different room."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

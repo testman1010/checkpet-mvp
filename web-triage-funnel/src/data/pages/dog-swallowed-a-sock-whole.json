@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed a Sock: Emergency Steps & Triage Guide",
+  "meta_desc": "If your dog swallowed a sock whole, it is a high-priority emergency. Learn the risks of gastrointestinal blockage and what steps to take right now.",
+  "content_html": "<h3>What Happens When a Dog Swallows a Sock?</h3><p>When a dog swallows a sock whole, it is medically classified as a gastrointestinal foreign body. Unlike food, fabric cannot be broken down by stomach acid. Because socks are long and absorbent, they tend to bunch up or stretch out, making them highly likely to become lodged in the narrow transit points of the digestive tract, such as the pylorus (the exit of the stomach) or the small intestines.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is an emergency. A swallowed sock can cause a complete or partial bowel obstruction, which cuts off blood flow to the intestines and can be fatal if left untreated. You should contact an emergency veterinarian immediately. Please do not attempt to induce vomiting at home using hydrogen peroxide without professional guidance, as the sock can become stuck in the esophagus, leading to choking or aspiration.</p><h3>Why a Photo Helps Triage</h3><p>If you have the matching pair of the swallowed sock, take a clear photo of it next to a common object (like a remote or a coin) for scale, or bring the matching sock with you to the clinic. Seeing the size, thickness, and material of the sock helps the veterinarian determine the best course of action. A thin nylon sock might be treated differently than a thick wool hiking sock, and knowing the dimensions helps the team decide between monitoring, inducing vomiting, or preparing for endoscopic retrieval.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of a gastrointestinal blockage?",
+      "answer": "Common symptoms include repeated vomiting, loss of appetite, abdominal pain (hunched posture), lethargy, and an inability to hold down water."
+    },
+    {
+      "question": "How long does it take for a dog to pass a sock?",
+      "answer": "While it can take 24 to 72 hours for an object to pass, the risk of a sock getting stuck is extremely high. Waiting for it to pass naturally is often dangerous."
+    },
+    {
+      "question": "Can a vet get the sock out without surgery?",
+      "answer": "If you act quickly, a veterinarian may be able to retrieve the sock using an endoscope while the dog is under sedation, or they may safely induce vomiting if the ingestion was very recent."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

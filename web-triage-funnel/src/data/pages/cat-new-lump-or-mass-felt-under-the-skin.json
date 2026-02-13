@@ -1,0 +1,20 @@
+{
+  "title": "New Lump or Mass on Your Cat: Triage and Next Steps",
+  "meta_desc": "Found a new lump on your cat? Learn about potential causes, when to see a vet, and how a photo helps triage your pet's condition.",
+  "content_html": "<h3>Understanding New Lumps and Masses in Cats</h3><p>Discovering a new lump or mass under your cat's skin can be a concerning experience. These growths can vary significantly in nature, ranging from harmless fatty tumors (lipomas) or sebaceous cysts to more serious issues like abscesses, inflammatory reactions, or even cancerous tumors. Because it is impossible to determine the nature of a mass by touch alone, a veterinary consultation is necessary to ensure your cat's health and safety.</p><h3>Urgency Level: Medium</h3><p>In most cases, a new lump is considered a medium urgency. While it usually does not require an immediate trip to the emergency room, it should be evaluated by a veterinarian within 24 to 48 hours. If the mass is rapidly changing, discharging fluid, causing your cat pain, or if your cat is acting lethargic or losing their appetite, you should seek veterinary care as soon as possible.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinary team with a clear, well-lit photo of the affected area is a valuable tool for triage. A photo allows the staff to visualize the location, size, and surface characteristics of the mass. Additionally, capturing an image now creates a baseline that helps you and your vet track any changes in the lump's appearance or size while waiting for your appointment.</p>",
+  "faqs": [
+    {
+      "question": "Could the lump be a reaction to a recent vaccination?",
+      "answer": "Yes, it is common for cats to develop a small, firm area of swelling at the site of a recent injection. However, you should still monitor it closely and notify your vet, especially if it persists for more than a few weeks."
+    },
+    {
+      "question": "How will my veterinarian determine if the mass is dangerous?",
+      "answer": "Veterinarians typically perform a Fine Needle Aspirate (FNA), where a small needle collects cells from the mass for microscopic examination. This is a quick and usually painless way to differentiate between infection, inflammation, and tumors."
+    },
+    {
+      "question": "Should I try to drain or squeeze the lump myself?",
+      "answer": "No, you should never attempt to squeeze, pop, or drain a mass at home. Doing so can cause significant pain, worsen an underlying infection, or lead to a severe inflammatory reaction."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

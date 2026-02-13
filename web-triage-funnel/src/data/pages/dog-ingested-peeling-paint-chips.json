@@ -1,0 +1,17 @@
+{
+  "title": "Dog Ingested Peeling Paint Chips: Risk Assessment and Next Steps",
+  "meta_desc": "Find out what to do if your dog eats paint chips. Learn about lead poisoning risks, when to see a vet, and why photos help with triage.",
+  "content_html": "<h3>What Happens When a Dog Eats Paint Chips?</h3><p>When a dog ingests peeling paint chips, the risk level depends largely on the age of the paint and the quantity consumed. Modern household paints are typically latex or acrylic-based and are generally non-toxic, though they can cause mild stomach upset. However, the most significant danger comes from older homes (built before 1978 in the US) which may contain lead-based paint. If ingested, lead can be absorbed into the bloodstream, leading to serious neurological and gastrointestinal issues.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Medium. If your dog has ingested paint chips, you should contact a veterinarian or a pet poison control hotline immediately for guidance. While it may not require an emergency room visit if your dog is acting normally, lead poisoning is a cumulative toxin. If your dog exhibits symptoms such as vomiting, seizures, extreme lethargy, or uncoordinated movement, the situation upgrades to high urgency and requires immediate veterinary intervention.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the area where the paint was consumed, as well as a photo of the chips themselves, is a vital part of the triage process. A veterinarian can use these images to assess the texture, thickness, and number of layers in the paint. This helps them determine the likelihood of the paint being an older, lead-based variety and allows them to provide more accurate advice on whether you need to come in for blood testing or decontamination.</p>",
+  "faqs": [
+    {
+      "question": "Signs include vomiting, diarrhea, abdominal pain, tremors, seizures, and behavioral changes like aggression or anxiety."
+    },
+    {
+      "question": "Modern paints are usually non-toxic but can still cause mild digestive upset or, in rare cases, a physical blockage if a large amount of dried material is swallowed."
+    },
+    {
+      "question": "Do not induce vomiting at home unless specifically directed to do so by a veterinary professional, as this can sometimes lead to aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

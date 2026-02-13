@@ -1,0 +1,20 @@
+{
+  "title": "Purple Spots or Bruising on a Cat's Belly: Triage Guide & Next Steps",
+  "meta_desc": "If your cat has purple spots or bruising on their belly, it may be a medical emergency. Learn about petechiae, ecchymosis, and when to seek care.",
+  "content_html": "<h3>What Are Purple Spots on a Cat’s Belly?</h3><p>Purple or dark red spots on a cat's skin, particularly in areas with less fur like the abdomen, are usually signs of internal bleeding under the skin. Smaller, pin-prick spots are called petechiae, while larger, bruise-like patches are known as ecchymosis. These marks indicate that blood is leaking from the vessels, which can be caused by clotting disorders, immune-mediated diseases, or exposure to toxins.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for this condition is High. Unexplained bruising is rarely a minor issue and often points to a life-threatening systemic problem, such as a dangerously low platelet count or the ingestion of anticoagulant rodenticides (rat poison). If you notice these spots, you should contact an emergency veterinarian immediately, especially if your cat is also acting lethargic, has pale gums, or is breathing rapidly.</p><h3>Why Taking a Photo Helps Triage</h3><p>Capturing a clear, well-lit photograph of the bruising can be an invaluable tool for your veterinary team. A photo allows the doctor to see the exact state of the skin at a specific point in time, helping them determine if the bruising is spreading or worsening during your transit to the clinic. When taking the photo, try to use natural light and gently move the fur aside to provide the clearest possible view of the affected area.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait a few days to see if the bruises fade?",
+      "answer": "No. Because purple spots often indicate a failure in the blood's ability to clot, waiting can lead to fatal internal bleeding. Immediate evaluation is necessary."
+    },
+    {
+      "question": "What could cause sudden bruising in a cat?",
+      "answer": "Common causes include immune-mediated thrombocytopenia (IMT), ingestion of rat poison, severe infections, or organ failure."
+    },
+    {
+      "question": "Will my cat need blood tests?",
+      "answer": "Yes, your veterinarian will likely perform a Complete Blood Count (CBC) and a coagulation profile to check platelet levels and how well the blood is clotting."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

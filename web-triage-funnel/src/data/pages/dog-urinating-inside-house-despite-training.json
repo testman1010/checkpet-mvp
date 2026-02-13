@@ -1,0 +1,20 @@
+{
+  "title": "Dog Urinating Indoors: Causes, When to Worry, and Veterinary Triage",
+  "meta_desc": "Is your house-trained dog suddenly urinating inside? Learn about medical vs. behavioral causes and when to seek veterinary care.",
+  "content_html": "<h3>Understanding Inappropriate Urination in Trained Dogs</h3><p>When a previously house-trained dog begins urinating inside, it is often a sign of an underlying issue rather than a behavioral lapse. This condition, known as inappropriate urination, can stem from medical problems such as urinary tract infections (UTIs), bladder stones, kidney disease, or diabetes. In older dogs, it may also be related to age-related cognitive decline or hormone-responsive incontinence.</p><h3>Is It an Emergency?</h3><p>The urgency level for this issue is generally <strong>Medium</strong>. While it usually does not require an immediate trip to the ER, you should schedule a veterinary appointment within 24 to 48 hours to prevent the condition from worsening. However, if your dog is straining to urinate and nothing comes out, or if they are lethargic and vomiting, this is a <strong>High</strong> urgency situation and requires immediate care.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the urine can be incredibly helpful for a diagnosis. A photo of the puddle on a white paper towel allows the vet to assess the color, clarity, and presence of blood (hematuria) or sediment. Additionally, if you can capture a video of your dog's posture while they are urinating, it helps the vet determine if the dog is actively posturing to go or if they are leaking urine involuntarily while resting.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be urinating inside out of spite?",
+      "answer": "No, dogs do not have the cognitive drive to urinate out of spite. It is almost always a physical medical issue or a stress-related behavioral response."
+    },
+    {
+      "question": "Should I limit my dog's water intake until the vet visit?",
+      "answer": "No. Restricting water can be dangerous, especially if the underlying cause is something like diabetes or kidney disease which requires increased hydration."
+    },
+    {
+      "question": "What is the most common medical cause for this?",
+      "answer": "Urinary tract infections (UTIs) are the most common medical reason for a house-trained dog to begin having accidents indoors."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

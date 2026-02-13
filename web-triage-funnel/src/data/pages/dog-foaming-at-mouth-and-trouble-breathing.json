@@ -1,0 +1,20 @@
+{
+  "title": "Dog Foaming at the Mouth and Trouble Breathing: Emergency Triage Guide",
+  "meta_desc": "If your dog is foaming at the mouth and struggling to breathe, this is a high-priority emergency. Seek immediate veterinary care now.",
+  "content_html": "<h3>What is Foaming and Respiratory Distress?</h3><p>Foaming at the mouth combined with respiratory distress (dyspnea) occurs when a dog is unable to clear fluids or saliva from their airway, or when they are gasping so heavily that saliva aerates into a foam. This can be caused by various underlying issues including congestive heart failure, toxin ingestion, heatstroke, or severe allergic reactions.</p><h3>Is it an Emergency?</h3><p>Yes. This situation is classified with a High Urgency level. Respiratory distress is a life-threatening condition because it indicates that your dog is not receiving enough oxygen to their vital organs. If you notice blue or purple-tinged gums, extreme lethargy, or gasping, you must transport your dog to the nearest emergency veterinary clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so without delaying your transit to the vet, taking a quick photo or a five-second video of your dog's breathing and the foam can be incredibly helpful for the triage team. Seeing the color of the foam (white, pink, or blood-tinged) and the specific effort of the chest muscles allows veterinarians to differentiate between lung issues and upper airway obstructions before they even begin their physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have rabies if they are foaming at the mouth?",
+      "answer": "While foaming is a classic symptom of rabies, it is much more commonly caused by seizures, heatstroke, or oral irritation in modern pets. However, any foaming should be treated as a medical emergency."
+    },
+    {
+      "question": "Should I try to clear my dog's mouth?",
+      "answer": "No. If your dog is struggling to breathe, putting your fingers in their mouth puts you at risk of being bitten and may further distress the dog, worsening their oxygen intake."
+    },
+    {
+      "question": "What if the foam is pink or red?",
+      "answer": "Pink or frothy red foam often indicates the presence of blood or fluid in the lungs (pulmonary edema), which requires immediate oxygen therapy and stabilization by a veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

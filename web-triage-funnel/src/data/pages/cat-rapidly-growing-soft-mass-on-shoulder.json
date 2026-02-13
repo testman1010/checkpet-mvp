@@ -1,0 +1,20 @@
+{
+  "title": "Rapidly Growing Mass on Cat's Shoulder: Triage Guide",
+  "meta_desc": "Is your cat's shoulder mass growing fast? Learn about potential causes, why this is a high-priority vet visit, and how photos help triage.",
+  "content_html": "<h3>What is it?</h3><p>A rapidly growing soft mass on a cat's shoulder can represent several different medical conditions. Common possibilities include an abscess (a pocket of infection), a fluid-filled cyst, or a tumor. In cats, veterinarians are particularly observant of masses in the shoulder or hip area due to the risk of Injection Site Sarcomas (ISS), which are aggressive tumors that can develop where a vaccine or medication was previously administered. Only a veterinarian can determine the exact nature of the growth through diagnostic testing.</p><h3>Is it an emergency?</h3><p>The urgency level for this symptom is <strong>High</strong>. While a soft mass may not seem like an immediate life-threatening crisis if the cat is otherwise acting normal, the fact that it is 'rapidly growing' is a significant red flag. You should contact your veterinarian to schedule an exam within the next 24 to 48 hours. Early detection is vital, especially for aggressive growths, as it significantly increases the success rate of surgical removal and long-term recovery.</p><h3>Why a photo helps triage</h3><p>Taking a clear, well-lit photo of the mass can be an invaluable tool for your veterinary team. A photo helps the triage staff visualize the exact location, size, and appearance (such as redness or discharge) before you even arrive. Additionally, because these masses can change size daily, a photo serves as a baseline to help the doctor track the rate of growth between the time you first noticed it and the time of the physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to drain or squeeze the mass at home?",
+      "answer": "No, you should never attempt to squeeze or pop a mass. If it is an abscess, you may push the infection deeper into the tissue; if it is a tumor, trauma to the area can cause significant pain, inflammation, or bleeding."
+    },
+    {
+      "question": "What diagnostic tests will the vet perform?",
+      "answer": "The most common first step is a Fine Needle Aspirate (FNA). The vet will use a small needle to collect cells from the mass and examine them under a microscope to check for signs of infection, inflammation, or cancerous cells."
+    },
+    {
+      "question": "Can a soft mass be cancerous?",
+      "answer": "Yes. While many people assume cancerous tumors are always hard, some aggressive feline sarcomas can feel soft or 'squishy' to the touch, which is why professional evaluation is necessary regardless of the texture."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

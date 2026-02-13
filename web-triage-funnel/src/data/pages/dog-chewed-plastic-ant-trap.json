@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate an Ant Trap: Triage and Safety Guide",
+  "meta_desc": "If your dog chewed a plastic ant trap, stay calm. Most cases are low urgency. Learn about ingredients, risks, and why a photo helps your vet.",
+  "content_html": "<h3>What is it?</h3><p>Most household ant traps consist of a plastic housing containing a bait made of sugar or grease mixed with an insecticide. Common active ingredients include borax (sodium tetraborate), avermectin, or hydramethylnon. Because these traps are designed to be used around homes, the concentration of the active poison is typically very low.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is generally Low. While the word insecticide is alarming, the amount of toxin in a single trap is usually not enough to cause systemic poisoning in most dogs. The primary risk is actually the plastic casing itself, which can have sharp edges or cause a minor stomach upset. You should monitor your dog for any signs of vomiting, diarrhea, or unusual lethargy, but immediate emergency intervention is rarely required unless multiple traps were consumed or the dog is very small.</p><h3>Why a photo helps triage</h3><p>Taking a clear photo of the trap and its packaging is one of the most helpful things you can do. A photo allows a veterinarian or poison control specialist to quickly identify the specific active ingredient and the exact dosage your dog may have ingested. Additionally, by looking at the remains of the plastic casing in a photo, a vet can estimate if there is a risk of a gastrointestinal blockage or if the pieces are small enough to pass naturally through the digestive tract.</p>",
+  "faqs": [
+    {
+      "question": "Is the bait inside the ant trap toxic to dogs?",
+      "answer": "In small quantities, the bait is usually not toxic to dogs. Most traps use ingredients like Borax which have a wide margin of safety, though they may cause mild drooling or stomach upset."
+    },
+    {
+      "question": "Should I make my dog vomit after eating a trap?",
+      "answer": "No, you should not induce vomiting at home unless specifically directed by a veterinarian. The sharp plastic shards of the trap could cause injury to the throat or esophagus if brought back up."
+    },
+    {
+      "question": "What symptoms indicate a problem?",
+      "answer": "Contact a vet if you notice repeated vomiting, a bloated or painful abdomen, inability to keep food down, or if your dog stops having bowel movements, as these could signal a blockage from the plastic."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

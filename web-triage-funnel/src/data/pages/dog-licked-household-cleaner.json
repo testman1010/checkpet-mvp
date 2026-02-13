@@ -1,0 +1,20 @@
+{
+  "title": "Dog Licked Household Cleaner: Emergency Triage Guide",
+  "meta_desc": "If your dog licked a household cleaner, act quickly. Learn about toxicity risks, emergency steps, and why this requires high-urgency vet care.",
+  "content_html": "<h3>What Is Household Cleaner Ingestion?</h3><p>Household cleaner ingestion occurs when a dog laps up or licks surfaces coated in cleaning agents such as bleach, floor detergents, disinfectants, or multi-purpose sprays. These products often contain surfactants, phenols, or caustic chemicals designed to break down grease and germs, which can be highly irritating or toxic to a dog's sensitive digestive tract and mucosal membranes.</p><h3>Is It an Emergency?</h3><p>Urgency Level: High. Yes, this is a veterinary emergency. Many cleaning products are corrosive and can cause immediate chemical burns to the mouth, throat, and stomach lining. Even if your dog seems fine initially, some toxins cause delayed reactions or systemic organ failure. You should contact a veterinarian or a pet poison helpline immediately before attempting any home remedies.</p><h3>Why a Photo Helps Triage</h3><p>In the heat of the moment, it can be difficult to remember exact brand names or ingredient lists. Taking a clear photo of the product's front label and the ingredient panel (specifically the EPA registration number, if applicable) allows your veterinarian to identify the exact chemical compounds involved. This information is vital for determining the specific treatment protocol, as different chemicals require different neutralizing agents or supportive care.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting if my dog licked cleaner?",
+      "answer": "No. Never induce vomiting unless specifically directed by a veterinarian. If the substance is caustic or corrosive, it can cause a second round of chemical burns to the esophagus and throat as it comes back up."
+    },
+    {
+      "question": "What are the signs of chemical burns in a dog's mouth?",
+      "answer": "Common signs include excessive drooling, redness or white patches on the gums and tongue, pawing at the mouth, and difficulty swallowing."
+    },
+    {
+      "question": "Can I give my dog milk to neutralize the cleaner?",
+      "answer": "While milk or water is sometimes used to dilute certain substances, you must ask a vet first. Giving liquids could potentially cause vomiting or aspiration if not handled correctly."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

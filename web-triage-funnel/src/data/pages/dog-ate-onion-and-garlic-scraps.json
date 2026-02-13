@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Onions and Garlic: Triage Guide & Next Steps",
+  "meta_desc": "If your dog ate onion or garlic scraps, read our triage guide to understand the risks, urgency levels, and why you should call a vet immediately.",
+  "content_html": "<h3>What is Onion and Garlic Toxicity?</h3><p>Onions, garlic, chives, and leeks belong to the Allium family and contain compounds called thiosulfates. While safe for humans, these compounds are toxic to dogs and can cause damage to their red blood cells. This damage leads to a condition known as hemolytic anemia, where the body destroys its own blood cells faster than it can produce them.</p><h3>Is It an Emergency?</h3><p>The urgency level for consuming onion and garlic is Medium. While it may not cause an immediate physical reaction like some other toxins, the damage to red blood cells often develops over several days. Because garlic is significantly more concentrated and toxic than onions, any amount consumed warrants a call to your veterinarian or a pet poison control center for professional calculation of the risk based on your dog's weight.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting a vet remotely or preparing for a visit, taking a photo of the scraps or the leftover food can be incredibly helpful. A photo helps the medical team estimate the volume and concentration of the toxic ingredients. For example, a photo of the scraps can show if the dog ate mostly skin, raw chunks, or cooked pieces mixed with other fats, which helps the vet determine the necessary course of treatment.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for if my dog ate onions?",
+      "content": "Symptoms often don't appear for 2 to 4 days and include pale gums, lethargy, weakness, dark-colored (reddish or brown) urine, and decreased appetite."
+    },
+    {
+      "question": "Is cooked onion safer than raw onion?",
+      "content": "No, cooking, drying, or powdering onions and garlic does not destroy the toxic compounds. In fact, garlic powder is much more concentrated and dangerous than raw garlic."
+    },
+    {
+      "question": "Will my dog be okay if they only ate a small amount?",
+      "content": "Toxicity is dose-dependent and varies by the size of the dog. While a tiny scrap might not harm a large dog, the same amount could be dangerous for a small breed. Always consult a professional to be safe."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

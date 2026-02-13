@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Fear of Familiar Objects: Causes and Triage Guide",
+  "meta_desc": "Is your dog suddenly afraid of common objects? Learn about sudden onset phobias, when to see a vet, and how to help your pet stay calm.",
+  "content_html": "<h3>What Is Sudden Fear of Familiar Objects?</h3><p>When a dog suddenly develops a fear of common items they previously ignored—such as a vacuum, a chair, or even their own water bowl—it is often a sign of an underlying medical or psychological shift. This behavior can stem from sensory changes, such as vision loss or hearing issues, or it could be a sign of neurological discomfort. While it is distressing for owners, your dog is likely reacting to a change in how they perceive their environment rather than the object itself.</p><h3>Is This an Emergency?</h3><p>The urgency level for sudden fear responses is considered Medium. While usually not an immediate life-threatening crisis, a sudden behavioral change is a significant red flag that warrants a veterinary appointment within 24 to 48 hours. If the fear is accompanied by physical symptoms like wobbling, seizing, or extreme lethargy, you should seek emergency care immediately. Otherwise, a scheduled exam to rule out pain, cognitive dysfunction, or sensory impairment is the appropriate next step.</p><h3>Why Documentation and Photos Help</h3><p>Providing your veterinarian with a photo or video of your dog’s reaction can be extremely beneficial for triage. Since dogs often act differently in a clinic setting, visual evidence of their body language—such as whale eyes, tucked tails, or specific avoidance patterns—helps the vet distinguish between a behavioral phobia and a neurological symptom. A photo of the environment where the fear occurs can also help the vet identify if specific lighting or shapes are triggering a vision-related issue.</p>",
+  "faqs": [
+    {
+      "question": "Can sudden fear be caused by pain?",
+      "answer": "Yes, dogs often associate sudden sharp pains with nearby objects. If they felt a twinge of arthritis while walking past a lamp, they may develop a fear of that lamp."
+    },
+    {
+      "question": "Is this common in senior dogs?",
+      "answer": "It is quite common in seniors and can be a symptom of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans."
+    },
+    {
+      "question": "Should I force my dog to approach the object?",
+      "answer": "No, you should never force a fearful dog to interact with a trigger. This can lead to fear-based aggression or increased anxiety. Instead, create a safe space and consult a professional."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

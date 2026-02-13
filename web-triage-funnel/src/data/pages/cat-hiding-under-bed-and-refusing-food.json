@@ -1,0 +1,20 @@
+{
+  "title": "Cat Hiding and Not Eating: Emergency Triage Guide",
+  "meta_desc": "Is your cat hiding and refusing food? This behavior signals high urgency. Learn why your cat is hiding and when to seek emergency veterinary care.",
+  "content_html": "<h3>What Does It Mean When Your Cat Hides and Stops Eating?</h3><p>When a cat retreats to a dark, secluded spot like the area under a bed and refuses food, they are communicating that something is fundamentally wrong. Because cats are both predators and prey in the wild, their natural instinct is to hide when they are vulnerable, sick, or in pain. Anorexia (loss of appetite) combined with hiding behavior is a significant clinical sign that should never be ignored.</p><h3>Is This a Medical Emergency?</h3><p>Urgency Level: High. This situation is considered a veterinary emergency. If a cat stops eating for more than 24 hours, they are at risk for Hepatic Lipidosis, a dangerous and potentially fatal form of liver failure unique to felines. If your cat is also lethargic, breathing heavily, or has not used the litter box, seek immediate veterinary intervention at an emergency clinic.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a photo or a short video of your cat in their current state can be incredibly helpful for remote triage. A clear image of their facial expression, eye clarity, and body posture allows a professional to look for signs of distress, dehydration, or neurological issues. If your cat moves, a video of their gait can help identify hidden injuries or weakness before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "How long can I wait if my cat isn't eating?",
+      "answer": "You should not wait longer than 24 hours. Cats are prone to rapid liver decline when they stop eating, making early intervention critical for their survival."
+    },
+    {
+      "question": "Can stress cause a cat to hide and stop eating?",
+      "answer": "While environmental changes can cause stress, a complete refusal of food usually points to an underlying physical illness. A vet must rule out medical causes before assuming it is behavioral."
+    },
+    {
+      "question": "What are the signs of a true emergency?",
+      "answer": "In addition to hiding and not eating, signs like open-mouth breathing, extreme lethargy, yellowing of the ears or eyes, or inability to walk require immediate emergency care."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

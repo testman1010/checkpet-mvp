@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Swallowed Human Sleeping Pills",
+  "meta_desc": "If your dog ingested human sleeping pills, it is a high-priority emergency. Learn why immediate action and medication photos are critical for triage.",
+  "content_html": "<h3>What is Human Sleeping Pill Ingestion?</h3><p>Human sleeping pills typically include benzodiazepines like Xanax or Valium, or non-benzodiazepine sedatives like Ambien (Zolpidem). While these medications are designed to help humans rest, they act as powerful central nervous system depressants in dogs. In some cases, dogs may experience a 'paradoxical reaction' where they become dangerously agitated instead of sleepy.</p><h3>Is it an emergency?</h3><p>Yes, this is a high-priority medical emergency. Many sleep aids are rapidly absorbed into the bloodstream, and toxicity can lead to severe lethargy, respiratory depression, slowed heart rate, or even coma. Because the window for intervention is small, you should contact an emergency veterinarian or a pet poison control hotline immediately. Do not wait for symptoms to appear before seeking help.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo of the medication bottle, the blister pack, or the remaining pills is incredibly helpful for triage. Different brands and dosages require specific treatment protocols. A clear image allows the medical team to identify the exact active ingredients and calculate the toxicity level based on your dog's weight, ensuring they have the correct life-saving treatments ready the moment you arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog water to flush out the pills?",
+      "answer": "No, do not attempt to give your dog food or water until you speak with a professional, as ingestion of some medications can lead to aspiration if the dog becomes drowsy."
+    },
+    {
+      "question": "How quickly will symptoms start to show?",
+      "answer": "Symptoms can begin in as little as 15 to 30 minutes depending on the type of pill and whether the dog had an empty stomach."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting unless explicitly directed by a veterinarian. If your dog is already showing signs of sedation, inducing vomiting can lead to choking or pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

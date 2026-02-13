@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed Human Antidepressant: Emergency Triage Guide",
+  "meta_desc": "If your cat swallowed an antidepressant, it is a medical emergency. Learn the symptoms of toxicity and why immediate veterinary care is essential.",
+  "content_html": "<h3>What is Antidepressant Ingestion?</h3><p>Antidepressant ingestion occurs when a cat accidentally consumes human medications such as SSRIs (Selective Serotonin Reuptake Inhibitors), SNRIs, or Tricyclic Antidepressants. Because cats have a much lower body weight and a different metabolism than humans, even a single pill can contain a dose that is toxic or even fatal to a feline.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. This is a life-threatening emergency. Human antidepressants can lead to a dangerous condition called Serotonin Syndrome. Symptoms may include extreme agitation, tremors, vomiting, high heart rate, seizures, and collapse. You should not wait for symptoms to appear before seeking help, as early intervention is critical for a positive outcome.</p><h3>Why a Photo Helps Triage</h3><p>When you call or visit the emergency veterinarian, having a photo of the medication bottle or the specific pill can save precious time. A clear image of the label allows the veterinary team to identify the exact active ingredient, the strength (milligrams), and the potential maximum dose ingested. This information is vital for calculating toxicity levels and determining the most effective treatment plan immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my cat acts sick first?",
+      "answer": "No. Many medications are absorbed quickly. Waiting for clinical signs to appear often means the toxin has already entered the bloodstream, making treatment more difficult and expensive."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "Never attempt to induce vomiting in a cat at home without direct instructions from a veterinarian. Cats are very sensitive, and many home remedies can cause more harm than the medication itself."
+    },
+    {
+      "question": "What if my cat only licked the pill?",
+      "answer": "You should still contact a veterinarian or a pet poison control center immediately. Some medications have high toxicity even in trace amounts, and it is difficult to know exactly how much was ingested."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

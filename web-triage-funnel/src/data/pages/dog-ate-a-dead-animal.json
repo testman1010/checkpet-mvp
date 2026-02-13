@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Dead Animal: Risks, Triage, and Next Steps",
+  "meta_desc": "If your dog ate a dead animal, learn about potential risks like bacteria and parasites, when to call a vet, and why a photo helps with triage.",
+  "content_html": "<h3>What is it?</h3><p>Finding that your dog has consumed a dead animal—often referred to as carrion—is a common yet concerning situation for pet owners. While dogs are natural scavengers, eating wildlife carcasses exposes them to harmful bacteria like Salmonella, E. coli, or Clostridium. There are also risks of intestinal parasites, potential exposure to toxins like rodenticide if the animal was poisoned, or even secondary diseases like botulism.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is considered Medium. It is generally not an immediate life-threatening emergency unless your dog is already showing severe symptoms, but you should contact your veterinarian or a pet poison control center right away. You should monitor your dog closely for the next 24 to 72 hours for signs such as persistent vomiting, bloody diarrhea, extreme lethargy, or loss of coordination.</p><h3>Why a photo helps triage</h3><p>If it is safe to do so, taking a clear photo of the carcass can be incredibly helpful for your veterinary team. Identifying the species of the animal helps the vet determine specific risks; for example, certain rodents may carry specific parasites, while others might suggest a higher risk of secondary poisoning from pest control chemicals. A photo allows the vet to assess the state of decay and provide a more accurate risk assessment without you having to handle the remains.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog get rabies from eating a dead animal?",
+      "answer": "The risk of rabies from ingestion is low as the virus does not survive long in a dead host, but it is not zero. If the animal was fresh and your dog has oral wounds, your vet may recommend a rabies booster as a precaution."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting without first consulting a veterinarian. Depending on what was eaten and how long ago, inducing vomiting could potentially cause more harm, such as aspiration pneumonia."
+    },
+    {
+      "question": "What symptoms should I look for after my dog eats carrion?",
+      "answer": "Watch for gastrointestinal upset (vomiting/diarrhea), changes in appetite, drooling, tremors, or weakness. Symptoms of botulism, though rare, can include progressive paralysis starting from the back legs."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

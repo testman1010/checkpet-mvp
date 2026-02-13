@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eating Rocks or Dirt (Pica): Causes, Risks, and Triage Guide",
+  "meta_desc": "Understand why dogs eat rocks or dirt (pica), the risks of intestinal blockage, and how to triage your pet's condition with a veterinarian.",
+  "content_html": "<h3>What is Pica in Dogs?</h3><p>Pica is a medical term used to describe the craving and ingestion of non-food items such as rocks, dirt, clay, or fabric. In dogs, this behavior can be driven by psychological factors like boredom or anxiety, or underlying medical issues such as nutritional deficiencies, anemia, or gastrointestinal disorders. While it may seem like a simple bad habit, it often indicates your pet is seeking something missing in their diet or environment.</p><h3>Is Eating Rocks an Emergency?</h3><p><strong>Urgency Level: Medium.</strong> While eating a small amount of dirt may not require a trip to the ER, ingesting rocks is a serious concern. Rocks can cause life-threatening intestinal blockages (obstructions), choke hazards, or even perforations of the stomach or intestinal lining. If your dog is vomiting, lethargic, has a painful abdomen, or is unable to pass stool after eating rocks, you should contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the material your dog has been eating—or even a photo of their stool if they have already passed some of the material—is incredibly helpful for veterinary triage. A clear image allows the vet to assess the size, shape, and sharpness of the objects. This information helps them determine if the item is likely to pass naturally or if surgical intervention may be required to prevent internal damage.</p>",
+  "faqs": [
+    {
+      "question": "Can nutritional deficiencies cause my dog to eat dirt?",
+      "answer": "Yes, dogs may eat dirt or clay if they are lacking specific minerals in their diet or if they have an underlying condition like anemia that causes them to seek out iron-rich soil."
+    },
+    {
+      "question": "What are the signs of an intestinal blockage from rocks?",
+      "answer": "Common signs include repeated vomiting, loss of appetite, straining to defecate, lethargy, and a visible expression of pain when the belly is touched."
+    },
+    {
+      "question": "How can I stop my dog from eating rocks?",
+      "answer": "Prevention involves close supervision during walks, clearing the yard of small stones, and addressing the root cause through behavioral training or a veterinary check-up to rule out medical issues."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

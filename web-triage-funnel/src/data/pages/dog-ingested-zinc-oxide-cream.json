@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Zinc Oxide Cream: Triage and Care Guide",
+  "meta_desc": "If your dog ate zinc oxide cream (diaper rash ointment or sunscreen), learn why this is a medium-urgency situation and how to triage at home.",
+  "content_html": "<h3>What is Zinc Oxide Cream?</h3><p>Zinc oxide is a common active ingredient found in diaper rash ointments, sunscreens, and certain first-aid creams. It is used to create a moisture barrier on human skin. However, when a dog licks or swallows this cream, the zinc can act as a significant irritant to the delicate lining of their stomach and intestines.</p><h3>Is it an Emergency?</h3><p>The urgency level for ingesting zinc oxide cream is generally <strong>Medium</strong>. In many cases, a single lick will only cause mild gastrointestinal upset, such as vomiting or diarrhea. However, the situation becomes more serious if a large amount is consumed or if the product contains other toxic ingredients like xylitol. Because zinc can be toxic in high concentrations—potentially leading to the destruction of red blood cells—it is important to contact a veterinarian or pet poison helpline right away to assess the risk based on your dog's weight.</p><h3>Why a Photo Helps Triage</h3><p>When you call your vet, having a photo of the product packaging is incredibly helpful. Providing a clear image of the brand name, the percentage of zinc oxide listed in the active ingredients, and the tube size allows the veterinary team to calculate the exact dosage your dog may have ingested. This information is vital for determining whether your dog needs immediate clinical intervention or if they can be monitored safely at home.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Watch for vomiting, diarrhea, lethargy, loss of appetite, or yellowing of the skin and gums (jaundice), which could indicate a more severe reaction."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting unless specifically instructed to do so by a veterinarian, as some cream formulations can cause complications if inhaled into the lungs."
+    },
+    {
+      "question": "How much zinc oxide is toxic to a dog?",
+      "answer": "Toxicity depends on the dog's weight and the concentration of the cream. Even small amounts can cause stomach upset, but large amounts require professional medical attention to prevent systemic zinc poisoning."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

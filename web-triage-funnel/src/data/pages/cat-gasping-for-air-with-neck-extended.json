@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Gasping for Air with Neck Extended",
+  "meta_desc": "If your cat is gasping for air with their neck extended, it is a life-threatening emergency. Seek immediate veterinary care at an emergency clinic.",
+  "content_html": "<h3>What is it?</h3><p>When a cat gasps for air while keeping their neck extended and chin pointed forward, they are exhibiting what is known as orthopneic posture. This is a physical attempt to straighten the airway and reduce resistance to airflow. It is often accompanied by open-mouth breathing, flared nostrils, and visible abdominal effort as the cat struggles to move air into the lungs.</p><h3>Is it an emergency?</h3><p>Yes. This is a High Urgency emergency. Cats are obligate nasal breathers, and open-mouth gasping is a sign of severe respiratory distress or impending respiratory failure. Common causes include feline asthma, congestive heart failure (fluid in the lungs), trauma, or a foreign body obstruction. You must seek veterinary attention immediately; do not wait for an appointment or for symptoms to subside.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so without delaying your departure, a quick 5-second video of your cat's breathing can be extremely helpful for the triage team. Respiratory distress can sometimes change or mask itself under the stress of a car ride. Seeing the specific pattern of the gasping—whether the struggle is during inhalation or exhalation—allows veterinarians to prioritize treatment and prepare oxygen therapy or life-saving medications before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat human asthma medication?",
+      "answer": "No. Never administer human medications to a cat. Many human inhalers contain ingredients that can be toxic or fatal to felines. Only use medications prescribed specifically for your pet by a veterinarian."
+    },
+    {
+      "question": "What should I do during the car ride to the vet?",
+      "answer": "Keep the car cool and quiet. Avoid talking loudly or playing music, as stress increases oxygen demand. Ensure the cat is in a secure carrier but do not restrict their movement or position."
+    },
+    {
+      "question": "What are the signs of low oxygen in cats?",
+      "answer": "In addition to gasping, look for blue, purple, or very pale gums and tongue. This is a sign of cyanosis and indicates that the cat is not receiving enough oxygen to their tissues."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

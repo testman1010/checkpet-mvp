@@ -1,0 +1,20 @@
+{
+  "title": "Dog Drank Cleaning Solution: Immediate Emergency Action Guide",
+  "meta_desc": "If your dog ingested household cleaners, act fast. This guide covers emergency steps and why this is a high-urgency situation for your pet.",
+  "content_html": "<h3>What Is Cleaning Solution Ingestion?</h3><p>Cleaning solution ingestion occurs when a dog licks or swallows household chemicals such as bleach, disinfectants, floor cleaners, or detergents. These products often contain surfactants, alcohols, or corrosive acids and alkalis that are not meant for consumption. Even small amounts can cause irritation or severe internal damage depending on the chemical concentration.</p><h3>Is It an Emergency?</h3><p>Yes. The urgency level is High. If your dog has ingested any cleaning agent, you must contact an emergency veterinarian or a pet poison control hotline immediately. Many cleaners are caustic, meaning they burn the tissue of the mouth, throat, and stomach. Do not wait for symptoms to develop, and do not induce vomiting unless specifically directed by a medical professional, as corrosive substances can cause double the damage when moving back up the esophagus.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the front and back of the product container, specifically the ingredient list and the EPA registration number. This photo allows the veterinary triage team to identify the exact active chemicals and their concentrations. Having this information ready can significantly speed up the treatment process and help the vet determine the most effective neutralizing agents or supportive care required.</p>",
+  "faqs": [
+    {
+      "question": "What are the immediate signs of chemical poisoning?",
+      "answer": "Signs include excessive drooling, pawing at the mouth, redness or burns on the gums, vomiting, and difficulty breathing."
+    },
+    {
+      "question": "Should I give my dog milk to neutralize the cleaner?",
+      "answer": "Do not give your dog anything by mouth—including milk or water—unless a veterinarian specifically tells you to, as some chemicals react poorly to liquids."
+    },
+    {
+      "question": "What if my dog only licked a small amount of diluted cleaner?",
+      "answer": "Even diluted solutions can cause gastrointestinal upset or chemical burns. It is always safest to call a vet to confirm if the specific brand is toxic."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

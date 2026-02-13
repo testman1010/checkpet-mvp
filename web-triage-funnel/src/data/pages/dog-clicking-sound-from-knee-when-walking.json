@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Dog Knee Clicking: Causes and Triage Guide",
+  "meta_desc": "Is your dog's knee clicking? Learn about common causes like luxating patella, urgency levels, and how to help your vet with the right information.",
+  "content_html": "<h3>What is causing the clicking sound?</h3><p>A clicking or popping sound coming from a dog's knee while walking is often related to mechanical movement within the joint. The most common causes include a luxating patella, where the kneecap slips out of its groove, or a tear in the cranial cruciate ligament (CCL). In the case of a CCL injury, the clicking often indicates that the meniscus—the cushioning cartilage in the knee—is being pinched or has been damaged due to joint instability.</p><h3>Is this an emergency?</h3><p>The urgency level for a clicking knee is generally <strong>Low</strong>. While the sound can be distressing to hear, it is rarely a life-threatening emergency. You should monitor your dog for signs of significant distress, such as being completely unable to put weight on the leg or vocalizing in pain. If your dog is otherwise acting normally, you can typically wait to schedule a regular appointment with your veterinarian during business hours.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of your dog walking is one of the most helpful tools for a veterinary professional. It allows us to see the frequency of the click, identify which phase of the stride triggers the sound, and assess the degree of lameness. Additionally, a clear photo of the knee area while your dog is standing can help us look for swelling or postural changes that might point toward a specific diagnosis, ensuring your pet gets the right priority for care.</p>",
+  "faqs": [
+    {
+      "question": "Is my dog in pain if their knee is clicking?",
+      "answer": "Not always. Some dogs with mild luxating patellas experience no pain, while others with meniscus tears can be quite uncomfortable. Changes in behavior or activity levels are the best indicators of pain."
+    },
+    {
+      "question": "Should I stop exercising my dog until the vet visit?",
+      "answer": "It is best to limit activity to short, controlled leash walks for bathroom breaks. Avoid jumping, running, or stairs until a veterinarian has performed an orthopedic exam."
+    },
+    {
+      "question": "Can supplements fix a clicking knee?",
+      "answer": "While joint supplements like glucosamine and chondroitin support overall joint health, they cannot mechanically fix a slipping kneecap or a torn ligament."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

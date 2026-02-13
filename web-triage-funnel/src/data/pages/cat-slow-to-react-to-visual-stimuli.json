@@ -1,0 +1,20 @@
+{
+  "title": "Cat Slow to React to Visual Stimuli: Triage and Care Guide",
+  "meta_desc": "Learn why your cat may be slow to react to visual stimuli, the urgency level for vet care, and how to provide photos for better triage.",
+  "content_html": "<h3>What is Delayed Visual Response?</h3><p>When a cat is slow to react to visual stimuli, it means their ability to track movement or respond to objects in their field of vision is impaired. This may manifest as bumping into furniture, failing to blink when an object approaches the face, or a lack of interest in moving toys. This condition can stem from issues within the eye itself, the optic nerve, or the neurological pathways in the brain that process visual information.</p><h3>Is it an Emergency?</h3><p>The urgency level for this symptom is Medium. If the change has happened gradually, you should schedule a veterinary appointment within the next 24 to 48 hours. However, if the vision loss is sudden, or if your cat is also showing signs of confusion, dilated pupils, or tilting their head, this could indicate a more serious neurological event or high blood pressure, requiring immediate emergency evaluation.</p><h3>How Visual Documentation Helps</h3><p>Taking a clear photo or video of your cat's eyes is incredibly helpful for veterinary triage. A video of your cat trying to follow a slow-moving toy can demonstrate the exact delay in their reflexes. High-resolution photos can also show if there is cloudiness, redness, or pupil inequality, allowing a professional to determine if the issue is a primary eye disease or a secondary symptom of another health problem.</p>",
+  "faqs": [
+    {
+      "question": "Could high blood pressure cause visual delays in cats?",
+      "answer": "Yes, hypertension is a common cause of vision issues in older cats and can lead to retinal detachment if left untreated."
+    },
+    {
+      "question": "How can I test my cat's vision at home?",
+      "answer": "You can perform a 'menace reflex' test by moving your hand toward the eye (without creating a puff of air) to see if the cat blinks, or drop a cotton ball to see if they track it."
+    },
+    {
+      "question": "Are visual delays always permanent?",
+      "answer": "Not necessarily. If the cause is an infection, inflammation, or manageable systemic disease, vision can sometimes be improved or stabilized with medication."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

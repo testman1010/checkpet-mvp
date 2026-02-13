@@ -1,0 +1,20 @@
+{
+  "title": "Cat Nasal Congestion and Loss of Appetite: Triage & Care Guide",
+  "meta_desc": "Find out why your cat has nasal congestion and isn't eating. Learn about urgency levels and how a photo can help with veterinary triage.",
+  "content_html": "<h3>Understanding Nasal Congestion in Cats</h3><p>Nasal congestion in cats often presents as sneezing, noisy breathing, or discharge from the nose and eyes. Unlike humans, cats rely heavily on their sense of smell to stimulate their appetite. When their nasal passages are blocked, they often lose interest in food entirely. This combination is most commonly seen with feline Upper Respiratory Infections (URIs), but can also be caused by polyps, dental disease, or environmental allergies.</p><h3>Is It an Emergency?</h3><p>The urgency level for nasal congestion with a loss of appetite is <strong>Medium</strong>. While a 'cold' may seem minor, cats that stop eating are at risk for hepatic lipidosis (fatty liver disease) and dehydration. You should aim to see a veterinarian within 24 to 48 hours. However, it becomes an <strong>Emergency</strong> if your cat is open-mouth breathing, has a blue-tinged tongue, or is showing extreme lethargy.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-resolution photo of your cat's face and a video of their breathing can be incredibly helpful for remote triage. These visuals allow a professional to see the color and thickness of any discharge, identify facial swelling, and observe the specific effort your cat is using to breathe. This data helps your vet determine whether your cat needs immediate oxygen support or if they can wait for a scheduled appointment.</p>",
+  "faqs": [
+    {
+      "question": "How long can a cat go without eating due to congestion?",
+      "answer": "A cat should not go more than 24 to 48 hours without eating. Prolonged fasting in cats can lead to serious liver complications."
+    },
+    {
+      "question": "Can I give my cat over-the-counter human cold medicine?",
+      "answer": "No. Many human medications, including decongestants and pain relievers, are highly toxic to cats. Only administer medications prescribed by a veterinarian."
+    },
+    {
+      "question": "How can I encourage my congested cat to eat?",
+      "answer": "Try warming up strong-smelling wet food or adding a small amount of tuna juice to their meal. The increased aroma can sometimes bypass their nasal blockage and stimulate their appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

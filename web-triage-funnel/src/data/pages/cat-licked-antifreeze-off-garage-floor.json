@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Licked Antifreeze Off Garage Floor",
+  "meta_desc": "If your cat licked antifreeze, it is a life-threatening emergency. Learn why immediate veterinary care is vital and how to triage the situation now.",
+  "content_html": "<h3>What is Antifreeze Poisoning?</h3><p>Antifreeze typically contains ethylene glycol, a chemical that is extremely toxic to cats even in microscopic amounts. Because it has a sweet taste, cats may be attracted to it, but once ingested, the body metabolizes it into crystals that cause rapid, irreversible kidney failure and central nervous system damage.</p><h3>Is This an Emergency?</h3><p>Yes. This is a <strong>High Urgency</strong> medical emergency. Even a single lick of antifreeze can be fatal to an adult cat. There is a very small window for successful treatment—ideally within 3 hours of ingestion. Do not wait for symptoms like vomiting, lethargy, or uncoordinated movement to appear; by the time clinical signs are visible, the kidneys may already be permanently damaged.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a quick photo of the container or the spill before leaving for the vet. A photo helps the veterinary team identify the specific brand and concentration of ethylene glycol. Some modern antifreeze products use propylene glycol or contain bittering agents, and knowing exactly what your cat was exposed to allows the vet to tailor the treatment plan and antidote dosage more accurately.</p>",
+  "faqs": [
+    {
+      "question": "How much antifreeze is toxic to a cat?",
+      "answer": "As little as one teaspoon of antifreeze can be fatal for a cat. Even a few licks off a garage floor or from their paws can cause acute kidney failure."
+    },
+    {
+      "question": "What are the early signs of antifreeze poisoning?",
+      "answer": "Early signs may include a 'drunk' or wobbly gait, drooling, vomiting, or excessive thirst. However, you should not wait for these signs to appear before seeking help."
+    },
+    {
+      "question": "Can a cat survive antifreeze poisoning?",
+      "answer": "Survival is possible if the cat receives an antidote and aggressive IV fluid therapy within 3 hours of ingestion. After 8 to 12 hours, the prognosis becomes very poor."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

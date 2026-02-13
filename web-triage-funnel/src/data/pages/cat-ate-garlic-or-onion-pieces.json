@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Garlic or Onion: Emergency Guide for Owners",
+  "meta_desc": "If your cat ate garlic or onion, it is a high-priority emergency. Learn why these foods are toxic and what immediate steps you must take.",
+  "content_html": "<h3>What is Garlic and Onion Toxicity?</h3><p>Garlic and onions belong to the Allium family, which contains compounds called N-propyl disulfides. These compounds are highly toxic to cats and cause oxidative damage to their red blood cells. This damage leads to a condition called Heinz body anemia, where the cat's body begins to destroy its own red blood cells faster than it can produce them.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Ingestion of garlic or onion is considered a veterinary emergency for cats. Cats are significantly more sensitive to Allium species than humans or even dogs. Because the symptoms of anemia often don't appear for several days after ingestion, waiting to see if your cat acts 'sick' can be life-threatening. Immediate veterinary intervention is necessary to prevent severe internal damage.</p><h3>Why a Photo Helps Triage</h3><p>If you are contacting an emergency clinic or a telehealth vet, providing a photo of the item consumed is incredibly helpful. A photo of the ingredient list on a package or the remaining pieces of the vegetable allows the veterinary team to estimate the concentration of the toxin. For example, garlic powder is much more concentrated and dangerous than a small slice of raw onion. Seeing the amount also helps the vet determine if they should induce vomiting or begin supportive care immediately.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of garlic or onion poisoning in cats?",
+      "answer": "Symptoms include lethargy, pale or yellowish gums, rapid breathing, elevated heart rate, vomiting, and dark-colored (orange or red) urine."
+    },
+    {
+      "question": "How much garlic or onion is toxic to a cat?",
+      "answer": "There is no safe amount. Even a single clove of garlic or a small amount of powder can cause significant red blood cell damage in an average-sized cat."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home unless specifically directed by a licensed veterinarian, as this can cause aspiration pneumonia or esophageal damage."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

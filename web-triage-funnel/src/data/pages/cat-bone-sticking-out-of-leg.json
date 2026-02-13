@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat Bone Sticking Out of Leg (Compound Fracture)",
+  "meta_desc": "If your cat has a bone sticking out of its leg, it is a high-priority medical emergency. Learn why immediate veterinary care and triage are vital.",
+  "content_html": "<h3>What is a Compound Fracture?</h3><p>When a bone is visible through an open wound, it is known as a compound or open fracture. This occurs when the force of an impact—such as a fall or a vehicle accident—causes the bone to break and pierce through the skin. This injury is extremely painful and exposes the internal structures and bone marrow to bacteria and debris from the environment.</p><h3>Is It an Emergency? (Urgency Level: High)</h3><p>Yes, this is a critical, life-threatening emergency. A cat with an open fracture is at immediate risk of severe infection (osteomyelitis), massive blood loss, and shock. You should not attempt to clean the wound or push the bone back under the skin. Instead, keep your cat as still as possible and transport them to the nearest emergency veterinary hospital immediately for stabilization, pain management, and surgical repair.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely take a quick photo without causing your cat further distress, it can be an invaluable tool for the veterinary triage team. Sending a photo to the clinic while you are en route allows the staff to assess the severity of the break, prepare the necessary surgical suite, and gather the correct stabilization equipment before you even walk through the door. It helps the medical team prioritize your cat’s care based on the visible trauma.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat human pain medication for a broken bone?",
+      "answer": "No. Never give human medications like Tylenol (Acetaminophen) or Advil (Ibuprofen) to cats, as they are highly toxic and can be fatal. The veterinarian will provide safe, fast-acting pain relief upon arrival."
+    },
+    {
+      "question": "Should I wrap the leg before going to the vet?",
+      "answer": "Only if there is life-threatening arterial bleeding. Otherwise, it is best to leave the wound as is and minimize handling, as moving the bone fragments can cause further damage to nerves and blood vessels."
+    },
+    {
+      "question": "What is the recovery process for an open fracture?",
+      "answer": "Recovery usually involves orthopedic surgery (plates or pins), several days of hospitalization, and a long course of antibiotics to prevent bone infection. Physical therapy may be required later."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

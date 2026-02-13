@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Yellow Bile in the Morning: Causes and Triage Guide",
+  "meta_desc": "Understand why your dog vomits yellow bile in the morning, why it's a medium urgency concern, and how photos help your vet provide better care.",
+  "content_html": "<h3>What is Bilious Vomiting Syndrome?</h3><p>If your dog is vomiting yellow fluid specifically in the early morning or late at night, it is often a condition known as Bilious Vomiting Syndrome. This occurs when a dog's stomach remains empty for an extended period, allowing bile to reflux from the small intestine into the stomach. The alkaline nature of the bile irritates the stomach lining, resulting in the expulsion of yellow or greenish foam.</p><h3>Urgency Level: Medium</h3><p>We classify this concern as a medium urgency level. If your dog is otherwise acting normally—meaning they are energetic, eating their regular meals, and having normal bowel movements—it is usually not a life-threatening emergency. However, it does require a veterinary consultation to rule out underlying issues like GI Motility disorders or inflammatory bowel disease and to discuss management strategies like adjusting feeding schedules.</p><h3>Why Taking a Photo Helps Triage</h3><p>It may feel strange, but taking a clear photo of the vomit before cleaning it up is incredibly helpful for your veterinary team. A photo allows us to see the exact color, the presence of any mucus or blood, and the consistency of the fluid. These visual cues help us differentiate between simple bile reflux and more serious concerns like a foreign body obstruction or toxin ingestion, allowing for a more accurate triage over the phone or via digital consultation.</p>",
+  "faqs": [
+    {
+      "question": "Should I be worried if the bile is bright yellow?",
+      "answer": "Bright yellow is the typical color of bile. While it looks alarming, it usually just confirms the stomach was empty. It is the frequency of the vomiting, rather than the brightness of the yellow, that is most concerning."
+    },
+    {
+      "question": "Can I prevent my dog from vomiting bile in the morning?",
+      "answer": "Many veterinarians recommend giving your dog a small, protein-rich snack right before bedtime. This keeps the stomach from staying empty for too long overnight and can often reduce or eliminate morning bile reflux."
+    },
+    {
+      "question": "When does morning vomiting become an emergency?",
+      "answer": "Seek immediate emergency care if the vomiting is accompanied by a bloated or hard abdomen, extreme lethargy, repeated unproductive retching, or if your dog refuses all food and water."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

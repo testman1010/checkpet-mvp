@@ -1,0 +1,20 @@
+{
+  "title": "Cat Inhaled Essential Oil Diffuser Mist: Veterinary Triage Guide",
+  "meta_desc": "Inhaled essential oil mist can be toxic to cats. Learn why this is a medium-level urgency and how to help your cat stay safe.",
+  "content_html": "<h3>Understanding Essential Oil Inhalation in Cats</h3><p>Essential oil inhalation occurs when a cat breathes in the micro-droplets or vapors produced by a diffuser. Cats are uniquely sensitive to these compounds because they lack the essential liver enzymes, specifically glucuronyl transferase, required to metabolize and eliminate many of the chemicals found in concentrated oils. Even short-term exposure can lead to respiratory distress or toxic buildup in their system.</p><h3>Is it an emergency? (Urgency Level: Medium)</h3><p>The urgency level for inhaling essential oil mist is Medium. While it may not always be an immediate life-threatening crisis, it requires prompt veterinary attention or consultation. Cats have highly sensitive respiratory tracts, and certain oils can cause chemical pneumonia or trigger severe asthma-like symptoms. You should move your cat to fresh air immediately and observe them closely for the next 12 to 24 hours.</p><h3>How a Photo Helps the Triage Process</h3><p>If you are contacting a veterinarian or a pet poison helpline, taking a clear photo of the essential oil bottle and its ingredient label is vital. Because different oils contain different concentrations of terpenes and phenols, a photo allows the medical team to identify the exact toxin involved. This specific information helps them determine the level of risk and the most effective treatment plan for your cat's specific exposure.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for if my cat inhaled oil mist?",
+      "answer": "Common signs include coughing, wheezing, rapid breathing, watery eyes, or a runny nose. In more severe cases, you may notice lethargy, vomiting, or a lack of coordination."
+    },
+    {
+      "question": "Which essential oils are most toxic to cats?",
+      "answer": "Tea tree (melaleuca), peppermint, eucalyptus, citrus, cinnamon, and clove oils are particularly dangerous to cats and should never be used around them."
+    },
+    {
+      "question": "Should I induce vomiting if my cat was near a diffuser?",
+      "answer": "No, you should never induce vomiting in a cat unless specifically instructed by a veterinarian, especially in cases of inhalation, as this can cause further respiratory damage."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

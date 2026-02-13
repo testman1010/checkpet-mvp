@@ -1,0 +1,20 @@
+{
+  "title": "Dog Difficulty Swallowing Water: Causes and Emergency Triage Guide",
+  "meta_desc": "Is your dog struggling to swallow water? Learn about dysphagia, why it is a high-priority emergency, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What is Difficulty Swallowing (Dysphagia)?</h3><p>Dysphagia is the medical term used when a dog has trouble moving food or liquid from their mouth into their stomach. When a dog specifically struggles with water, it often indicates a disruption in the complex coordination of the tongue, throat muscles, or the esophagus. This can be caused by neurological issues, foreign objects lodged in the throat, inflammation, or structural abnormalities.</p><h3>Is it an Emergency?</h3><p>Difficulty swallowing water is considered a <strong>High Urgency</strong> situation. The primary concern is the risk of aspiration, where water is accidentally inhaled into the lungs instead of being swallowed. This can lead to life-threatening aspiration pneumonia very quickly. Furthermore, if your dog cannot hydrate themselves, they will rapidly become dehydrated. You should contact an emergency veterinarian immediately if your dog is gagging, coughing while drinking, or seems unable to lap up water.</p><h3>How a Photo or Video Helps Triage</h3><p>Because there are different types of swallowing disorders (oral, pharyngeal, or esophageal), seeing the physical movement of your dog's head, neck, and tongue is incredibly helpful for a veterinary team. If it is safe to do so, a short video of your dog attempting to drink can help the vet distinguish between a physical blockage and a neurological coordination issue. This visual evidence allows for a faster diagnosis and a more targeted treatment plan upon your arrival at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are common signs of swallowing difficulties in dogs?",
+      "answer": "Common signs include excessive drooling, gagging, repeated attempts to swallow, dropping food from the mouth, and coughing immediately after drinking water."
+    },
+    {
+      "question": "Can a foreign object cause my dog to stop swallowing?",
+      "answer": "Yes, sticks, bone fragments, or small toys can become lodged in the back of the throat or esophagus, making it painful or physically impossible for the dog to swallow liquids."
+    },
+    {
+      "question": "Should I try to force my dog to drink water?",
+      "answer": "No, never force water or food into a dog that is having trouble swallowing. Doing so significantly increases the risk of the liquid entering their lungs, which can cause fatal pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

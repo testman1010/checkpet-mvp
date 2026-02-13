@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Tube of Toothpaste: Veterinary Triage and Next Steps",
+  "meta_desc": "If your dog ate a tube of toothpaste, find out why ingredients like Xylitol and fluoride make this a medium urgency emergency for your pet.",
+  "content_html": "<h3>What is toothpaste ingestion?</h3><p>Toothpaste ingestion occurs when a dog punctures or consumes the contents of a toothpaste tube. While some pet-specific pastes are safe, human toothpaste contains several ingredients that are not meant to be swallowed in large quantities, especially by animals.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is Medium. While it may not be an immediate life-and-death crisis in every case, it requires prompt veterinary attention. The primary concern is the presence of Xylitol, an artificial sweetener that is highly toxic to dogs and can cause a rapid drop in blood sugar and liver failure. Additionally, high levels of fluoride and detergents like sodium lauryl sulfate can cause severe gastrointestinal distress or chemical burns to the mouth and stomach.</p><h3>Why a photo helps triage</h3><p>When you contact your vet or an animal poison control center, having a clear photo of the toothpaste tube and the ingredient list is incredibly helpful. This allows the medical team to quickly identify if Xylitol is present and calculate the potential dosage of fluoride your dog consumed relative to their body weight. Knowing the exact brand and formula can change the treatment plan from simple monitoring to immediate induced vomiting or hospitalization.</p>",
+  "faqs": [
+    {
+      "question": "What is the most dangerous ingredient in toothpaste for dogs?",
+      "answer": "Xylitol is the most dangerous ingredient. Even small amounts can cause life-threatening hypoglycemia and liver damage in dogs."
+    },
+    {
+      "question": "What are the signs of toothpaste poisoning?",
+      "answer": "Watch for symptoms like vomiting, lethargy, loss of coordination, tremors, or excessive drooling."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, do not induce vomiting unless specifically instructed to do so by a veterinarian, as some ingredients can cause further irritation or be inhaled into the lungs."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

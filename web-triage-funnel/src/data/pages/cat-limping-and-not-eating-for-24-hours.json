@@ -1,0 +1,20 @@
+{
+  "title": "Cat Limping and Not Eating: Triage Guide & Next Steps",
+  "meta_desc": "Is your cat limping and refusing food? Learn about potential causes, urgency levels, and why you should see a vet within 24 hours.",
+  "content_html": "<h3>What is happening with your cat?</h3><p>When a cat is both limping and refusing to eat for 24 hours, it is a sign that they are experiencing significant pain or a systemic illness. The limping suggests a localized issue such as a soft tissue injury, a fracture, or a painful abscess from a bite. The lack of appetite, or anorexia, is a protective but concerning response to that physical distress or an underlying infection.</p><h3>Is it an emergency?</h3><p>Urgency Level: Medium. This situation typically requires a veterinary examination within the next 12 to 24 hours. While it may not be an immediate life-threat like a respiratory crisis, cats are prone to liver issues (hepatic lipidosis) if they stop eating for even a short period. Furthermore, a limp combined with lethargy often indicates an infection or injury that will not resolve on its own.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of your cat attempting to move or a clear photo of the affected limb can be invaluable for your veterinarian. These visuals allow the medical team to witness the degree of weight-bearing and check for subtle signs of swelling, discharge, or abnormal positioning that might not be as obvious once the cat is stressed in a clinical setting.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat human pain relief medication?",
+      "answer": "No. Human medications like Tylenol (Acetaminophen), Aspirin, or Ibuprofen are extremely toxic to cats and can be fatal even in small doses."
+    },
+    {
+      "question": "What are common causes for limping and loss of appetite?",
+      "answer": "Common causes include infected bite wounds (abscesses), sprains, fractures, or even systemic issues like Feline Calicivirus which can cause 'limping syndrome'."
+    },
+    {
+      "question": "How long can a cat safely go without eating?",
+      "answer": "A cat should not go more than 24 hours without food. Prolonged fasting in cats can lead to a dangerous liver condition called hepatic lipidosis."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

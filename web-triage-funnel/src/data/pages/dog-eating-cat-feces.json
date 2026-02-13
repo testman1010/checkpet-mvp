@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eating Cat Feces: Causes, Risks, and Vet Triage Advice",
+  "meta_desc": "Wondering why your dog is eating cat poop? Learn about coprophagia, potential health risks, and why this common behavior is rarely an emergency.",
+  "content_html": "<h3>What Is This Behavior?</h3><p>The habit of dogs eating the feces of other species, specifically cats, is a form of coprophagia. While distressing to pet owners, it is a common instinctual behavior. Dogs are scavengers by nature and are often drawn to cat feces because cat food is high in protein and fat, which leaves the waste smelling like food to a canine's sensitive nose.</p><h3>Is It a Medical Emergency?</h3><p>The urgency level for a dog eating cat feces is Low. In the vast majority of cases, this does not require immediate veterinary intervention. However, while not an emergency, it can lead to minor gastrointestinal upset or the transmission of internal parasites such as roundworms or hookworms. You should monitor your dog for vomiting, diarrhea, or a loss of appetite over the next 24 to 48 hours.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the cat's stool or the packaging of the cat litter used can be incredibly helpful for a triage professional. A photo of the stool allows a vet to check for visible parasites or abnormal consistency, while the litter packaging helps determine if the litter is a clumping variety that could potentially cause an intestinal blockage if a large amount was ingested along with the feces.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog get worms from eating cat poop?",
+      "answer": "Yes, dogs can contract several types of internal parasites and protozoa, such as Toxoplasma gondii, from consuming infected cat feces."
+    },
+    {
+      "question": "Is clumping cat litter dangerous for dogs?",
+      "answer": "If a dog ingests a significant amount of clumping litter, it can potentially cause a physical obstruction in the digestive tract, though small amounts usually pass safely."
+    },
+    {
+      "question": "How can I prevent my dog from accessing the litter box?",
+      "answer": "Consider using baby gates, a top-entry litter box, or placing the litter box in a room with a 'pet door' that only the cat can fit through."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

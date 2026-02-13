@@ -1,0 +1,20 @@
+{
+  "title": "Cat Seizure-like Twitching or Stiffening: Emergency Triage Guide",
+  "meta_desc": "Is your cat twitching or stiffening? Learn the signs of feline seizures, when to seek emergency care, and why video evidence is vital for your vet.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat exhibits sudden, involuntary twitching, muscle rigidity, or stiffening, it is often a sign of abnormal neurological activity. These episodes may be seizures, which are caused by electrical disturbances in the brain, or they could be related to other conditions such as tremors, vestibular disease, or severe electrolyte imbalances. Seizures can range from focal (twitching in one area, like the face) to generalized (full-body stiffening and loss of consciousness).</p><h3>Is It an Emergency?</h3><p>Urgency Level: High. Any new or sudden seizure-like activity should be evaluated by a veterinarian as soon as possible. It becomes a critical emergency if the episode lasts longer than five minutes, if the cat has more than two episodes in a 24-hour period, or if the cat does not fully recover between events. These situations can lead to brain damage or overheating and require immediate medical intervention.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because most seizure-like episodes are over by the time you reach a veterinary clinic, capturing a video of the event is incredibly helpful. Seeing the exact nature of the twitching or stiffening allows your vet to distinguish between a true seizure and other mimicking conditions. If you can safely record the event, your vet can use that visual data to determine the severity and the most appropriate diagnostic path immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is having an episode?",
+      "answer": "Ensure your cat is on the floor away from stairs or sharp objects. Do not put your hands near their mouth, as they may bite reflexively. Stay calm and record the duration and appearance of the event."
+    },
+    {
+      "question": "Can a cat's diet cause twitching?",
+      "answer": "In some cases, yes. Deficiencies in vitamins like Thiamine or imbalances in calcium can lead to neurological symptoms. However, only a veterinarian can determine if the cause is nutritional or neurological."
+    },
+    {
+      "question": "Will my cat be okay after the twitching stops?",
+      "answer": "After an episode, cats often enter a 'post-ictal' phase where they may appear confused, wobbly, or temporarily blind. While they may seem to recover, the underlying cause still needs to be addressed by a professional."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

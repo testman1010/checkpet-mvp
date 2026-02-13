@@ -1,0 +1,20 @@
+{
+  "title": "Dog Tick on Ear Flap: Triage and Removal Guide",
+  "meta_desc": "Found a tick on your dog's ear? Learn why it is usually a low-urgency issue, how to identify it, and why a photo helps your veterinarian.",
+  "content_html": "<h3>What is a Tick on the Ear Flap?</h3><p>Ticks are parasitic arachnids that latch onto animals to feed on their blood. The ear flap, or pinna, is a common target because the skin is thin and blood vessels are close to the surface, making it an easy feeding spot. If you see a small, rounded bump that looks like a gray, brown, or black bean with legs, it is likely an engorged tick.</p><h3>Is This a Veterinary Emergency?</h3><p>Finding a tick is understandably stressful, but the urgency level is generally <strong>Low</strong>. While ticks can transmit diseases, the transmission process usually takes 24 to 48 hours of attachment. Unless your dog is showing acute signs of distress, such as facial swelling or extreme lethargy, this can be handled at home or during a routine vet visit.</p><h3>Why a Photo Helps Triage</h3><p>Before you attempt to remove the tick, try to take a clear, well-lit photo of it. Triage assistants and veterinarians use these images to identify the specific species of tick. Knowing the species helps determine which diseases your dog might have been exposed to, allowing your vet to recommend the most appropriate preventative care or diagnostic testing.</p>",
+  "faqs": [
+    {
+      "question": "Should I use a hot match to get the tick off?",
+      "answer": "No, you should never use heat, petroleum jelly, or alcohol to 'suffocate' a tick. These methods can cause the tick to regurgitate infected fluids into your dog's bloodstream. Use fine-tipped tweezers or a dedicated tick removal tool instead."
+    },
+    {
+      "question": "What if the tick's head breaks off in the skin?",
+      "answer": "If the head remains embedded, do not dig for it, as this can cause further irritation or infection. The dog's body will often expel it naturally over time, similar to a splinter. Keep the area clean and monitor for swelling."
+    },
+    {
+      "question": "What symptoms should I watch for after removal?",
+      "answer": "Monitor your dog for the next few weeks for signs like fever, loss of appetite, lethargy, or stiff joints. If you notice these symptoms, contact your veterinarian and mention the recent tick bite."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

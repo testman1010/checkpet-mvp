@@ -1,0 +1,20 @@
+{
+  "title": "Help! My Dog Licked a Laundry Detergent Pod: Emergency Guide",
+  "meta_desc": "Is your dog in danger after licking a laundry pod? Learn why detergent pods are high-risk emergencies and what steps you need to take immediately.",
+  "content_html": "<h3>What is Laundry Detergent Ingestion?</h3><p>Laundry detergent pods contain highly concentrated surfactants and chemicals designed to strip stains. When a dog licks or punctures a pod, these concentrated chemicals can cause immediate chemical burns or severe irritation to the mouth, esophagus, and stomach. Because the liquid inside is often under pressure, it can spray into the back of the throat or be inhaled into the lungs.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. You should treat this as an immediate emergency. Even a small lick can cause significant distress, but the greatest risk is aspiration pneumonia, which occurs if the dog inhales the soapy foam into their lungs. Do not attempt to induce vomiting at home, as the bubbling action of the detergent can cause your dog to inhale the chemicals, leading to life-threatening lung inflammation. Contact a veterinarian or pet poison control immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a quick photo of the product packaging is incredibly helpful for the veterinary team. Different brands use different concentrations of ionic and anionic surfactants, and some may contain additional hazardous ingredients like bleach or specific fabric softeners. Seeing the label helps the vet determine the exact toxicity level and choose the most effective rinsing and treatment protocols for your pet.</p>",
+  "faqs": [
+    {
+      "question": "What are the immediate symptoms of detergent poisoning?",
+      "answer": "Common symptoms include excessive drooling, pawing at the mouth, gagging, persistent vomiting, and coughing or labored breathing."
+    },
+    {
+      "question": "Can I give my dog water or milk?",
+      "answer": "You may offer a small amount of water or milk to help rinse the mouth, but only if your dog is fully conscious and not coughing. Never force liquids."
+    },
+    {
+      "question": "What will the vet do for my dog?",
+      "answer": "The vet will likely flush the mouth and eyes, monitor the airway, and may perform X-rays to check for signs of aspiration pneumonia or lung irritation."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

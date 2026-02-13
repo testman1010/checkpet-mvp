@@ -1,0 +1,20 @@
+{
+  "title": "Dog Panic Attacks in Crate: Causes and Emergency Triage Guide",
+  "meta_desc": "Is your dog panicking in their crate? Learn about confinement distress, triage urgency, and how to help your dog feel safe and secure.",
+  "content_html": "<h3>Understanding Crate Anxiety and Confinement Distress</h3><p>When a dog experiences a panic attack in a crate, it is often a clinical condition known as confinement distress or a symptom of separation anxiety. This is not simply a dog being 'difficult'; it is a profound fear response where the dog feels trapped and loses the ability to self-regulate. They may experience racing hearts, extreme drooling, and an uncontrollable urge to escape at any cost.</p><h3>Is This an Emergency?</h3><p>The urgency level for crate-related panic is <strong>Medium</strong>. While it may not require an immediate trip to the ER like a physical trauma would, it is a serious welfare issue that requires prompt attention. Dogs in a state of panic can suffer from self-inflicted injuries, such as broken teeth from biting bars or torn paw pads from scratching. Furthermore, the extreme stress can lead to overheating. If your dog is currently panicking, please remove them from the crate immediately and contact your veterinarian to discuss behavior management.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a short video of the episode or photos of the aftermath (such as damaged bedding or crate bars) is extremely valuable. Because dogs rarely exhibit these behaviors during a clinical exam, visual evidence allows us to see the specific intensity of the panic. This helps us differentiate between a dog that needs basic habituation training and one that requires pharmaceutical intervention to manage their physiological distress.</p>",
+  "faqs": [
+    {
+      "question": "Should I let my dog 'cry it out' in the crate?",
+      "answer": "No. If your dog is experiencing a true panic attack, forcing them to stay in the crate can lead to long-term psychological trauma and physical injury. It is better to stop using the crate temporarily while you work on a behavior modification plan."
+    },
+    {
+      "question": "Can my vet prescribe something for these panic attacks?",
+      "answer": "Yes, veterinarians can prescribe situational anti-anxiety medications that help lower your dog's fear threshold, making it possible to begin the slow process of desensitization and counter-conditioning."
+    },
+    {
+      "question": "How do I know if it is just boredom or a real panic attack?",
+      "answer": "Boredom usually involves intermittent whining or a few minutes of scratching. A panic attack is characterized by continuous high-pitched vocalization, heavy panting, excessive drooling, and frantic, non-stop attempts to escape."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

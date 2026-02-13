@@ -1,0 +1,20 @@
+{
+  "title": "Dog Drinking and Peeing Excessively: A Veterinary Triage Guide",
+  "meta_desc": "Is your dog drinking and peeing more than usual? Learn about PU/PD, urgency levels, and how to prepare for your vet visit.",
+  "content_html": "<h3>What is PU/PD?</h3><p>When a dog drinks an abnormal amount of water and urinates more frequently than usual, veterinarians call this PU/PD (Polyuria and Polydipsia). This is not a disease itself but a clinical sign that your dog's body is struggling to maintain its water balance. Common causes include diabetes mellitus, kidney disease, Cushing's disease, or even a simple urinary tract infection.</p><h3>Urgency Level: Medium</h3><p>Increased thirst and urination are classified as a Medium urgency level. This means that while your dog likely does not need to rush to the emergency room this second, they should be evaluated by a veterinarian within the next 24 to 48 hours. Delaying a check-up can allow underlying conditions to worsen. However, if your dog is also vomiting, refusing food, or acting extremely lethargic, you should seek emergency care immediately.</p><h3>How Photos and Documentation Help</h3><p>Providing your vet with visual evidence can be incredibly helpful for triage. A photo of your dog's urine on a light surface can show the concentration or color, and a photo of their water bowl at the beginning and end of the day helps quantify exactly how much they are consuming. Additionally, a video of any unusual posturing or straining during urination can help the vet distinguish between a behavioral issue and a physical one.</p>",
+  "faqs": [
+    {
+      "question": "How much water is considered 'too much' for a dog?",
+      "answer": "Generally, drinking more than 90-100 milliliters of water per kilogram of body weight per day is considered excessive for most dogs."
+    },
+    {
+      "question": "Could my dog's medication cause increased thirst?",
+      "answer": "Yes, certain medications like steroids (prednisone) or diuretics can significantly increase thirst and urination as a side effect."
+    },
+    {
+      "question": "Should I limit my dog's water intake if they are peeing too much?",
+      "answer": "No, never restrict your dog's access to water if they are thirsty, as this can lead to dangerous dehydration if their body is unable to conserve fluids."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

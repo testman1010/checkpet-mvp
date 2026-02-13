@@ -1,0 +1,20 @@
+{
+  "title": "Cat Begging for Food Constantly: Causes and Triage Guide",
+  "meta_desc": "Is your cat always hungry? Learn the causes of increased appetite in cats, when it is an emergency, and how to triage their behavior effectively.",
+  "content_html": "<h3>What is Constant Food Begging?</h3><p>When a cat begins begging for food constantly, a condition often referred to medically as polyphagia, it means their appetite has increased beyond their normal baseline. This behavior can manifest as persistent meowing, following owners to the kitchen, or attempting to steal human food. While some cats are naturally food-motivated, a sudden or extreme change in hunger levels usually suggests that the body is not properly absorbing nutrients or that their metabolism has accelerated.</p><h3>Is it an Emergency?</h3><p>The urgency level for constant begging is categorized as <strong>Medium</strong>. While a hungry cat is rarely a 'red alert' emergency, it is frequently a clinical sign of underlying metabolic diseases such as hyperthyroidism, diabetes mellitus, or malabsorption issues. If the increased appetite is paired with rapid weight loss, excessive thirst, or changes in litter box habits, you should seek veterinary care within 24 to 48 hours to prevent further complications.</p><h3>Why a Photo Helps Triage</h3><p>Sharing a photo of your cat can be incredibly beneficial for a veterinary professional during triage. A clear image of your cat from a 'bird's eye view' (looking down at their back) allows a professional to assess their Body Condition Score. If your cat is begging for food but looks thin or has lost muscle mass over their spine, it helps the triage team prioritize your case, as it confirms that the calories are not being processed correctly by the body.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be bored?",
+      "answer": "Yes, psychological polyphagia can occur if a cat lacks mental stimulation, leading them to use food as a primary source of activity. However, medical causes should be ruled out first."
+    },
+    {
+      "question": "What are common medical causes for increased hunger?",
+      "answer": "The most common causes in adult and senior cats include hyperthyroidism, diabetes, and intestinal parasites (worms) which steal nutrients from the gut."
+    },
+    {
+      "question": "Should I give in and feed my cat more?",
+      "answer": "If your cat is maintaining a healthy weight, you should stick to their prescribed portion. If they are losing weight despite eating, increasing food is only a temporary fix for a deeper medical problem."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

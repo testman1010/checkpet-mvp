@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargy and Vomiting: When to Seek Emergency Care",
+  "meta_desc": "Is your dog experiencing vomiting and a complete loss of energy? This is a high-priority emergency. Learn what to do and how to triage your pet.",
+  "content_html": "<h3>What is it?</h3><p>Complete loss of energy, often referred to as severe lethargy, paired with vomiting is a critical sign that your dog's body is overwhelmed. Unlike mild stomach upset, the combination of these symptoms suggests a systemic issue where your dog no longer has the physical strength to maintain normal activity or respond to their environment.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level is High. A dog that is both vomiting and unable to stand or move normally is at immediate risk of shock, severe dehydration, or secondary organ damage. This combination of symptoms is frequently associated with life-threatening conditions. You should not wait for symptoms to resolve on their own; contact your nearest emergency animal hospital immediately.</p><h3>Why a photo helps triage</h3><p>Providing a photo of the vomit or a brief video of your dog’s behavior can be incredibly helpful for the veterinary triage staff. Visual evidence of the vomit's color, consistency, or the presence of foreign objects helps vets identify potential toxins or obstructions faster. Similarly, a video showing your dog's breathing pattern or level of responsiveness allows the medical team to prepare the necessary life-saving equipment before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait overnight to see if my dog feels better?",
+      "answer": "No. When lethargy is so severe that a dog has no energy, it indicates a potential life-threatening situation that requires immediate professional intervention."
+    },
+    {
+      "question": "What should I bring to the emergency vet?",
+      "answer": "Bring any samples of what the dog might have ingested, a photo of the vomit, and a list of current medications or pre-existing health conditions."
+    },
+    {
+      "question": "Is vomiting and lethargy always a sign of poisoning?",
+      "answer": "While poisoning is a common cause, these symptoms can also be caused by heatstroke, bloat (GDV), parvovirus, or sudden organ failure."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

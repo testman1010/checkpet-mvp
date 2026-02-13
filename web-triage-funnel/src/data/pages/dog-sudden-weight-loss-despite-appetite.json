@@ -1,0 +1,20 @@
+{
+  "title": "Sudden Weight Loss in Dogs with Normal Appetite: Causes & Triage",
+  "meta_desc": "Is your dog losing weight despite eating well? Learn about potential causes like diabetes or malabsorption and when to see a vet immediately.",
+  "content_html": "<h3>What is Sudden Weight Loss with Normal Appetite?</h3><p>When a dog loses significant body mass while maintaining a normal or even increased appetite (polyphagia), it indicates that the body is unable to properly absorb, process, or retain nutrients. Unlike simple pickiness, this condition suggests that calories are being lost through metabolic dysfunction or digestive malabsorption.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden weight loss is <strong>Medium</strong>. While it typically does not require a midnight trip to the emergency room, it is not a condition that can wait weeks. You should schedule a veterinary exam within the next 24 to 48 hours. If the weight loss is accompanied by extreme lethargy, persistent vomiting, or a distended abdomen, seek care more urgently.</p><h3>Why a Photo Helps Triage</h3><p>Visual evidence is crucial for your veterinarian to assess the severity of the wasting. Providing a photo from a \"bird's-eye view\" (looking down at your dog's back) and a side profile helps the vet determine the Body Condition Score (BCS). Additionally, photos of your dog's stool can help identify signs of malabsorption, such as greasiness or undigested food, which points toward specific digestive disorders.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have intestinal parasites?",
+      "answer": "Yes, heavy infestations of hookworms, roundworms, or whipworms can consume enough nutrients to cause noticeable weight loss even if the dog is eating more than usual."
+    },
+    {
+      "question": "What are common medical causes for this?",
+      "answer": "Common causes include Diabetes Mellitus, where the body cannot use glucose; Exocrine Pancreatic Insufficiency (EPI), where the dog cannot digest food; and certain types of cancer or kidney disease."
+    },
+    {
+      "question": "Will my vet need blood tests?",
+      "answer": "Almost certainly. To diagnose the cause of weight loss, vets typically perform a complete blood count (CBC), a chemistry panel to check organ function, and a urinalysis."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

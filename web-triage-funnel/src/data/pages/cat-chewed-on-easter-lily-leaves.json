@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Chewed Easter Lily Leaves",
+  "meta_desc": "Easter lilies are highly toxic to cats. If your cat chewed a leaf, seek immediate veterinary care to prevent life-threatening kidney failure.",
+  "content_html": "<h3>What is it?</h3><p>Easter lilies (Lilium longiflorum) are part of the 'true lily' family, all of which are extremely toxic to cats. Every part of the plant—including the leaves, petals, stems, and even the pollen—contains a potent toxin that targets a cat's renal system.</p><h3>Is it an emergency?</h3><p>Yes, this is a high-level emergency. Ingestion of even a tiny piece of an Easter lily leaf can cause acute, irreversible kidney failure in cats. You should not wait for symptoms to appear. Immediate veterinary intervention is required to flush the toxins from your cat's system before they reach the kidneys.</p><h3>Why a photo helps triage</h3><p>If you are able to safely do so, take a clear photo of the plant and the chewed area. This helps the veterinary team confirm the plant species and estimate the volume of toxin ingested. Providing this visual evidence allows the clinic to prepare for your arrival and begin the correct life-saving treatment protocol immediately.</p>",
+  "faqs": [
+    {
+      "question": "What if my cat only licked the pollen?",
+      "answer": "Licking pollen is just as dangerous as eating a leaf. Contact an emergency vet immediately, as even trace amounts can lead to fatal kidney damage."
+    },
+    {
+      "question": "Can I wait to see if my cat acts sick?",
+      "answer": "No. By the time symptoms like vomiting, lethargy, or loss of appetite appear, the kidneys may have already begun to fail. Early treatment is the only way to ensure a positive outcome."
+    },
+    {
+      "question": "Are all lilies dangerous to cats?",
+      "answer": "While many lilies are dangerous, the Lilium (True Lily) and Hemerocallis (Daylily) species are the most lethal. Because identification can be difficult, always treat any lily ingestion as a high-priority emergency."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

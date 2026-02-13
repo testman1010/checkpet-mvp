@@ -1,0 +1,20 @@
+{
+  "title": "Cat Guarding the Litter Box: Causes, Solutions, and Triage Tips",
+  "meta_desc": "Is your cat guarding the litter box? Learn why this happens, why the urgency level is low, and how a photo can help your veterinarian triage.",
+  "content_html": "<h3>What is Litter Box Guarding?</h3><p>Litter box guarding is a behavioral issue where one cat prevents another from accessing, using, or exiting the litter tray. It is often a form of resource guarding or territorial display. This behavior can include staring down a housemate, blocking the path to the box, or ambushing the other cat as they attempt to leave. It is most common in multi-cat households where there is competition for territory or limited resources.</p><h3>Is It an Emergency?</h3><p>The urgency level for litter box guarding is generally Low. While the behavior is stressful for both the cats and the owners, it is not an immediate medical crisis. However, it can lead to medical issues over time, such as feline idiopathic cystitis or house soiling, if the victim cat begins holding their urine or finds alternative places to go. You should monitor closely for signs of a blockage, such as straining or crying, which would elevate the situation to an emergency.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian or a behaviorist with a photo or video of the interaction is extremely helpful. Visual evidence allows professionals to see the specific body language of both cats—such as ear position, tail flicking, or tense postures. These cues help differentiate between active aggression, fear-based guarding, or even subtle signs of physical pain that might be contributing to the conflict, allowing for a more accurate triage and treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How many litter boxes should I have?",
+      "answer": "The general recommendation is to have one more litter box than you have cats (e.g., three boxes for two cats), placed in different locations."
+    },
+    {
+      "question": "Can guarding be caused by a medical issue?",
+      "answer": "Yes, sometimes a cat may guard a box if they associate it with pain or if they are feeling vulnerable due to an underlying illness."
+    },
+    {
+      "question": "What is the N+1 rule?",
+      "answer": "The N+1 rule states that you should always have one extra litter box beyond the number of cats (N) to reduce competition and guarding behaviors."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

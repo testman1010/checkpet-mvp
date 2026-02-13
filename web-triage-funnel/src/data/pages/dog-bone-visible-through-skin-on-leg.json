@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bone Visible Through Skin: Emergency Triage Guide",
+  "meta_desc": "If your dog's bone is visible, it is a high-priority emergency. Learn what to do and why immediate veterinary care is required to save their limb.",
+  "content_html": "<h3>What Is It?</h3><p>Seeing a bone protruding through your dog's skin usually indicates a compound fracture (also called an open fracture). This happens when a bone breaks with enough force to pierce the skin, or when a severe trauma like a deep wound or degloving injury exposes the underlying skeletal structure. This is an extremely serious condition that leaves the internal tissues and bone exposed to the environment.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. This is a critical veterinary emergency that requires immediate medical attention. When a bone is exposed, the risk of a deep bone infection (osteomyelitis) and systemic sepsis increases every minute. Additionally, your dog is likely in significant pain and may be at risk of going into shock. You should proceed to the nearest emergency animal hospital immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you can do so safely and without delaying your trip to the vet, taking a quick photo of the injury can be very beneficial. A photo allows the veterinary team to assess the severity of the trauma while you are still in transit. By sending the photo ahead or showing it upon arrival, the staff can prepare the necessary surgical equipment, specialized pain relief, and stabilization tools before your dog even enters the building, saving precious time in their treatment.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to clean the wound or push the bone back?",
+      "answer": "No. Never attempt to push the bone back under the skin or apply any ointments. You can lightly cover the area with a clean, dry cloth or sterile gauze to prevent further contamination, but do not wrap it tightly."
+    },
+    {
+      "question": "My dog isn't whimpering; can it wait until morning?",
+      "answer": "No. Dogs often hide severe pain as a survival instinct, or they may be in shock. An exposed bone is a life-threatening situation due to the high risk of infection and cannot wait."
+    },
+    {
+      "question": "What will the vet do first?",
+      "answer": "The veterinary team will first stabilize your dog for shock, provide aggressive pain management, and then carefully clean the area to prevent infection before discussing surgical repair options."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

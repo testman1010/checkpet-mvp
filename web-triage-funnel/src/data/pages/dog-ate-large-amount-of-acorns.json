@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Large Amount of Acorns? Triage and Safety Guide",
+  "meta_desc": "Is it an emergency if your dog ate acorns? Learn about tannic acid risks, blockage symptoms, and why you should contact a vet immediately.",
+  "content_html": "<h3>What Happens When a Dog Eats Acorns?</h3><p>Acorns contain gallotannins, which are compounds that break down into tannic acid. When a dog consumes a large quantity, these toxins can cause significant irritation to the gastrointestinal lining and, in severe cases, lead to kidney or liver damage. Beyond the chemical risk, acorns are hard and difficult to digest, posing a high risk for intestinal blockages or choking, particularly in smaller breeds.</p><h3>Is This an Emergency?</h3><p>The urgency level for consuming a large amount of acorns is Medium. While a single acorn might only cause mild stomach upset, eating a large volume is a serious concern. You should contact a veterinarian or an animal poison control center right away. Immediate intervention is necessary if you notice frequent vomiting, bloody diarrhea, extreme lethargy, or signs of abdominal pain like guarding the stomach or stretching uncomfortably.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you have access to the acorns or the tree they fell from, taking a clear photo can be incredibly helpful for your veterinary team. Different species of oak trees have varying levels of tannin concentration. Additionally, showing the size and shape of the acorns helps the vet assess the likelihood of a physical obstruction in your dog's digestive tract. If your dog has vomited, a photo of the contents can also help the vet estimate how much was ingested and how much has already been expelled.</p>",
+  "faqs": [
+    {
+      "question": "Are acorns toxic to all dogs?",
+      "answer": "Yes, all acorns contain tannins which are toxic to dogs, but the severity of the reaction depends on the size of the dog and the amount consumed."
+    },
+    {
+      "question": "How long does it take for symptoms to show?",
+      "answer": "Symptoms of gastrointestinal upset usually appear within a few hours, while signs of kidney or liver issues may take several days to develop."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should never induce vomiting at home without direct instructions from a veterinarian, as the sharp shells of the acorns can cause damage to the esophagus on the way back up."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

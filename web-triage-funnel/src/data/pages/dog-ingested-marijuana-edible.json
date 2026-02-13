@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Marijuana Edible: Veterinary Triage & Safety Guide",
+  "meta_desc": "If your dog ate a marijuana edible, learn about THC toxicity, urgency levels, and why packaging photos are vital for veterinary triage.",
+  "content_html": "<h3>What is Marijuana Toxicity in Dogs?</h3><p>Marijuana toxicity, specifically THC ingestion, occurs when a dog eats cannabis products. Dogs have more cannabinoid receptors in their brains than humans, making them significantly more sensitive to the effects of THC. Edibles are particularly risky because they often contain concentrated doses and may include additional toxins like chocolate, macadamia nuts, or the sugar substitute xylitol, which can be life-threatening.</p><h3>Is it an Emergency?</h3><p>The urgency level for THC ingestion is typically classified as Medium. While marijuana toxicity is rarely fatal on its own, it can cause significant distress, stumbling, and secondary complications like aspiration pneumonia if the dog vomits while sedated. However, if the edible contains chocolate or xylitol, the urgency increases to High. You should contact a veterinarian or pet poison control immediately to determine the risk level based on your dog's size and the amount ingested.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging from the edible, take a clear photo of the ingredients list and the dosage information (measured in milligrams). This photo is a critical tool for triage professionals; it allows them to calculate the exact dose of THC your dog received and identify other dangerous ingredients. Having this information ready helps the medical team decide whether your dog needs to be seen immediately for decontamination or if they can be monitored safely at home.</p>",
+  "faqs": [
+    {
+      "question": "What are the common signs of THC toxicity in dogs?",
+      "answer": "Common symptoms include 'glassy' eyes, wobbliness or stumbling (ataxia), dribbling urine, sensitivity to loud noises, and a slow heart rate."
+    },
+    {
+      "question": "Will my veterinarian report me for marijuana ingestion?",
+      "answer": "Veterinarians are health professionals, not law enforcement. Their primary concern is the safety of your pet. Being honest about what was ingested is the best way to ensure your dog receives the correct treatment."
+    },
+    {
+      "question": "How long do the effects usually last?",
+      "answer": "The effects of THC in dogs can last anywhere from 12 to 24 hours, though in cases of high-dose edibles, symptoms may persist for several days."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chemical Burn: Emergency Triage and Immediate Care Guide",
+  "meta_desc": "Immediate guidance for dogs with chemical burn lesions. Learn why this is a high-priority emergency and how professional triage can help.",
+  "content_html": "<h3>What is a Chemical Burn?</h3><p>A chemical burn on a dog occurs when the skin comes into contact with caustic substances such as concentrated household cleaners, pool chemicals, fertilizers, or battery acid. Unlike a heat burn, chemical burns can continue to damage the skin and deeper tissues for as long as the substance remains on the body. These lesions may appear as red, raw skin, or in severe cases, as white or blackened patches where the tissue has been destroyed.</p><h3>Urgency Level: High</h3><p>Chemical burns are considered high-priority medical emergencies. Because chemicals can be absorbed through the skin into the bloodstream, they can cause internal organ damage or systemic toxicity. Furthermore, dogs often try to lick the affected area, which can lead to severe chemical burns in the mouth and esophagus. If you suspect your dog has a chemical burn lesion on its back, contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo of the lesion to a triage professional is crucial for determining the severity of the situation. A photo allows the veterinarian to assess the depth of the tissue damage and the extent of the spread. This visual information helps them provide specific first-aid instructions—such as whether to flush the area with water or if certain neutralizing agents are necessary—while you are in transit to the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I attempt to neutralize the chemical with vinegar or baking soda?",
+      "answer": "No. Neutralizing a chemical can create a heat-producing reaction that worsens the burn. Only use cool, running water to flush the area unless instructed otherwise by a professional."
+    },
+    {
+      "question": "What are common signs of a chemical burn in dogs?",
+      "answer": "Signs include redness, swelling, hair loss, skin peeling, vocalizing in pain, or a distinct chemical odor on the fur."
+    },
+    {
+      "question": "Can I use human burn ointments on my dog?",
+      "answer": "No. Many human medications contain ingredients that are toxic if licked. Do not apply any ointments until your veterinarian has examined the lesion."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

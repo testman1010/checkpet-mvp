@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargic with Excessive Thirst and Swollen Belly: Emergency Guide",
+  "meta_desc": "If your dog is lethargic with a swollen belly and high thirst, seek emergency vet care immediately. These are signs of life-threatening conditions.",
+  "content_html": "<h3>Understanding These Severe Symptoms</h3><p>When a dog exhibits a combination of lethargy, polydipsia (excessive water intake), and a distended or swollen abdomen, it indicates a serious underlying medical crisis. These signs suggest that the body is struggling to maintain homeostasis, often due to organ dysfunction, severe infection, or a physical obstruction.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> This is an absolute veterinary emergency. This cluster of symptoms is frequently associated with life-threatening conditions such as Gastric Dilatation-Volvulus (Bloat/GDV), Pyometra (a severe uterine infection in unspayed females), or Congestive Heart Failure. Do not wait for an appointment; take your dog to the nearest 24-hour emergency clinic immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a clear photo of your dog's abdomen or a short video of their behavior can significantly assist the veterinary triage team. Visuals allow professionals to see the degree of distension and your dog's level of consciousness or distress, helping them prioritize your pet the moment you walk through the clinic doors.</p>",
+  "faqs": [
+    {
+      "question": "What is Gastric Dilatation-Volvulus (Bloat)?",
+      "answer": "Bloat is a life-threatening condition where the stomach fills with gas and twists, cutting off blood supply. It requires immediate surgical intervention."
+    },
+    {
+      "question": "Could a swollen belly be related to the heart?",
+      "answer": "Yes, a swollen belly can be caused by ascites, which is fluid buildup often resulting from right-sided heart failure or liver disease."
+    },
+    {
+      "question": "What should I do if my dog is unspayed and has these symptoms?",
+      "answer": "If your female dog is unspayed, this could be Pyometra. This is an emergency infection of the uterus that is fatal if the uterus is not surgically removed immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

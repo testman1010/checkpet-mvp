@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Collapse or Fainting: Emergency Triage Guide",
+  "meta_desc": "If your cat has suddenly collapsed or fainted, it is a high-priority medical emergency. Learn what to do and why immediate veterinary care is vital.",
+  "content_html": "<h3>What is Sudden Collapse in Cats?</h3><p>Sudden collapse, clinically referred to as syncope or episodic weakness, is a distressing event where a cat loses its ability to stay upright. This often involves a brief loss of consciousness or a sudden slumping to the floor. Unlike normal sleep, the cat cannot be easily roused during the episode, and it may be accompanied by pale gums, vocalization, or labored breathing.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, sudden collapse is considered a high-priority medical emergency. Even if your cat appears to recover and act normally within minutes, the collapse is often a symptom of a serious underlying condition. Potential causes include heart disease, blood clots (thromboembolism), severe anemia, or neurological disorders. Delaying treatment can lead to permanent damage or sudden death. Please contact the nearest emergency veterinarian immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so, capturing a quick video of the episode or a photo of your cat’s immediate posture and gum color can be incredibly helpful for the veterinary team. Because these episodes are often over by the time you reach the clinic, visual evidence helps the vet differentiate between a cardiac event, a seizure, or musculoskeletal weakness, ensuring your cat receives the correct life-saving treatment faster.</p>",
+  "faqs": [
+    {
+      "question": "How can I tell if my cat fainted or had a seizure?",
+      "answer": "Fainting is usually very brief with a quick recovery, while seizures often involve rhythmic paddling of the legs, jaw snapping, and a post-ictal period of confusion or hiding afterward."
+    },
+    {
+      "question": "What should I do while transporting my cat to the vet?",
+      "answer": "Keep your cat in a secure carrier, keep the car environment cool, and try to keep them as calm and still as possible. Do not attempt to give food, water, or medication."
+    },
+    {
+      "question": "Could my cat have collapsed from the heat?",
+      "answer": "Yes, heatstroke is a common cause of collapse. If your cat has been in a hot environment, notify the vet immediately as this requires specific cooling protocols during transport."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

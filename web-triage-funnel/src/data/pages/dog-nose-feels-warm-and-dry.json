@@ -1,0 +1,20 @@
+{
+  "title": "My Dog's Nose is Warm and Dry: Is it a Fever or Normal?",
+  "meta_desc": "Is your dog's nose warm and dry? Learn when this is normal, why the urgency level is low, and how a photo helps veterinary triage.",
+  "content_html": "<h3>What Does a Warm, Dry Nose Mean?</h3><p>It is a common misconception that a dog's nose must always be cold and wet to be healthy. In reality, the moisture and temperature of a dog's nose fluctuate throughout the day based on their environment, hydration levels, and activity. For example, a dog's nose is often warm and dry immediately after waking up from a nap, or after spending time in a room with low humidity or direct sunlight.</p><h3>Is it an Emergency?</h3><p>The urgency level for a warm, dry nose is generally low. On its own, a dry nose is rarely a cause for alarm. However, if the dryness is accompanied by other symptoms such as lethargy, vomiting, diarrhea, loss of appetite, or if the nose is cracked and bleeding, you should contact your veterinarian. If your dog is acting like their usual happy self, it is likely just a temporary physical state.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear, high-resolution photo of your dog's nose can be incredibly beneficial for a triage professional or veterinarian. A photo allows us to look for subtle signs of concern that go beyond temperature, such as skin thickening, unusual crusting, discharge, or changes in pigmentation. Providing a visual reference helps us determine if the dryness is a simple environmental reaction or a dermatological issue that requires a closer look.</p>",
+  "faqs": [
+    {
+      "question": "Does a dry nose mean my dog has a fever?",
+      "answer": "No, a dry nose is not a reliable indicator of a fever. The only way to accurately check a dog's temperature is with a rectal thermometer; a dog's normal temperature is between 101 and 102.5 degrees Fahrenheit."
+    },
+    {
+      "question": "Can dehydration cause a warm, dry nose?",
+      "answer": "Yes, dehydration can cause a dog's nose to feel dry. Ensure your dog has constant access to fresh water, and check their gums—if they feel tacky or sticky, your dog may be dehydrated."
+    },
+    {
+      "question": "Should I apply lotion to my dog's dry nose?",
+      "answer": "You should avoid using human lotions or ointments, as dogs often lick their noses and many human products contain ingredients that are toxic to pets. Always consult a vet before applying any balms."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

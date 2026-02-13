@@ -1,0 +1,20 @@
+{
+  "title": "Why Does Your Cat React Painfully When Their Tail is Lifted?",
+  "meta_desc": "If your cat shows pain when their tail is touched, it could be an injury or infection. Learn about urgency levels and how a vet triage works.",
+  "content_html": "<h3>What Is Tail Pain in Cats?</h3><p>A painful reaction when a cat's tail is lifted usually indicates an underlying injury or medical condition. Because the tail is an extension of the spine, it contains sensitive vertebrae, nerves, and blood vessels. Common causes for this sensitivity include a tail fracture or dislocation, an abscess from a bite wound, anal gland impaction, or even nerve-related issues like Cauda Equina Syndrome. When your cat winces, hisses, or moves away, they are signaling that the area is compromised.</p><h3>Is it an Emergency?</h3><p>The urgency level for tail pain is generally considered Medium. While usually not a sudden life-threatening emergency, it requires a veterinary examination within 24 to 48 hours. However, if your cat is unable to move the tail at all, is dragging their hind legs, or is unable to control their bladder or bowels, this upgrades the situation to high urgency, and you should visit an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear photo of the tail base and the surrounding area can be very helpful for remote triage. A photo allows a veterinary professional to check for signs of external trauma, such as puncture wounds, swelling, or discharge, without needing to physically manipulate the cat and cause more pain. This visual evidence helps the vet determine if the issue is a dermatological problem, an infection, or a deeper structural injury before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have a broken tail?",
+      "answer": "Yes, cats can fracture the small vertebrae in their tails from being caught in a door, stepped on, or pulled. A vet will likely need an X-ray to confirm this."
+    },
+    {
+      "question": "Can I give my cat human pain medication?",
+      "answer": "No, never give a cat human pain relievers like Tylenol or Advil, as these are highly toxic to cats. Only use medications prescribed by your veterinarian."
+    },
+    {
+      "question": "What if there is a lump at the base of the tail?",
+      "answer": "A lump combined with pain is often a sign of an abscess, which is a localized infection frequently caused by a bite. This usually requires antibiotics and sometimes surgical drainage."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

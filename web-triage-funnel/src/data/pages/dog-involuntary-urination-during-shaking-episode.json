@@ -1,0 +1,20 @@
+{
+  "title": "Dog Involuntary Urination During Shaking: Causes and Triage Guide",
+  "meta_desc": "Find out why your dog is shaking and urinating involuntarily. Learn when to see a vet and how to triage this behavior safely at home.",
+  "content_html": "<h3>What is it?</h3><p>When a dog experiences involuntary urination during a shaking episode, it often indicates a temporary loss of conscious control over their bodily functions. This combination of symptoms can be distressing to witness and is frequently associated with neurological events like seizures, intense physical pain, or severe emotional distress such as extreme fear. In these moments, the nervous system may become overwhelmed, causing the muscles that manage the bladder to relax or contract uncontrollably.</p><h3>Is it an Emergency?</h3><p>The urgency level for this situation is classified as <strong>Medium</strong>. If your dog has a single, brief episode and returns to their normal self quickly, you should schedule a veterinary exam within 24 hours. However, this becomes a high-priority emergency if the shaking lasts more than five minutes, if your dog has multiple episodes in a single day, or if they appear confused, aggressive, or unable to stand after the episode ends.</p><h3>Why a Video or Photo Helps Triage</h3><p>It is incredibly helpful to record a video of the episode if it is safe to do so. Because these events are often finished by the time you arrive at the clinic, a video provides your veterinarian with a clear visual of the specific type of shaking, the dog's eye movement, and their level of responsiveness. This visual evidence is crucial for helping the vet distinguish between a seizure, a fainting spell, or a tremors disorder, ensuring your pet gets the correct treatment plan quickly.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be having a seizure?",
+      "answer": "Yes, involuntary urination is a very common 'post-ictal' or 'ictal' sign of a seizure, as the brain loses the ability to signal the bladder muscles to stay closed."
+    },
+    {
+      "question": "What should I do while my dog is shaking?",
+      "answer": "Keep your dog safe by moving them away from stairs or sharp furniture. Do not put your hands near their mouth, as they may bite transitionally without meaning to, and try to time the duration of the event."
+    },
+    {
+      "question": "Can extreme fear cause this?",
+      "answer": "Yes, severe anxiety or 'fear urination' can occur during high-stress events like thunderstorms or fireworks, though the shaking is usually rhythmic trembling rather than a loss of consciousness."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

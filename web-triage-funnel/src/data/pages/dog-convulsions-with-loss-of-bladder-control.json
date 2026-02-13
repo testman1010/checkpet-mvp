@@ -1,0 +1,20 @@
+{
+  "title": "Dog Convulsions and Loss of Bladder Control: Emergency Triage Guide",
+  "meta_desc": "If your dog is having convulsions and lost bladder control, they are likely experiencing a seizure. Learn why this is a high-priority emergency.",
+  "content_html": "<h3>What is happening to your dog?</h3><p>When a dog experiences involuntary convulsions combined with a loss of bladder control, it is typically a sign of a generalized seizure, also known as a grand mal seizure. During these episodes, abnormal electrical activity in the brain causes the muscles to contract uncontrollably and the body to lose its ability to regulate autonomic functions, such as urination.</p><h3>Is this a veterinary emergency?</h3><p><strong>Urgency Level: High.</strong> Any seizure involving loss of consciousness and bodily functions should be treated as a serious medical event. While a single, brief seizure is not always fatal, it is a symptom of an underlying issue that requires immediate professional evaluation. If your dog experiences a seizure lasting more than five minutes, or if they have more than one seizure in a 24-hour period, you must transport them to an emergency veterinary hospital immediately to prevent permanent brain damage.</p><h3>Why capturing a video helps triage</h3><p>During a stressful event, it can be difficult to accurately describe your dog's movements to a veterinarian. If you are able to safely record a video of the episode, it provides the clinical team with vital information. Seeing the pattern of the convulsions, the duration of the event, and the post-seizure behavior helps the vet differentiate between a true seizure and other conditions like fainting or vestibular disease, allowing for a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is actively seizing?",
+      "answer": "Keep your dog away from stairs or sharp corners to prevent injury. Do not put anything in their mouth, as dogs do not swallow their tongues and you may be bitten accidentally."
+    },
+    {
+      "question": "Is my dog in pain during the seizure?",
+      "answer": "While the physical appearance of a seizure is distressing, dogs are typically unconscious and do not feel pain during the event. They may, however, feel confused or anxious once they wake up."
+    },
+    {
+      "question": "What is the 'post-ictal' phase?",
+      "answer": "This is the recovery period following a seizure. Your dog may appear blind, wobbly, disoriented, or unusually hungry. This phase can last from a few minutes to several hours."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

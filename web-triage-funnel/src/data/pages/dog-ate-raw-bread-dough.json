@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Raw Bread Dough: Urgent Triage Guide",
+  "meta_desc": "Eating raw bread dough is a high-priority veterinary emergency for dogs due to yeast fermentation and bloat risks. Learn what to do immediately.",
+  "content_html": "<h3>What is Raw Bread Dough Ingestion?</h3><p>Raw bread dough ingestion occurs when a dog consumes unbaked dough containing active yeast. Inside the dog's warm, moist stomach, the yeast continues to ferment. This process causes the dough to expand rapidly in size and produces ethanol (alcohol) as a byproduct, which is absorbed into the dog's bloodstream.</p><h3>Is It an Emergency?</h3><p>Urgency Level: High. This is a critical, life-threatening emergency. The expanding dough can lead to Gastric Dilatation-Volvulus (GDV), or bloat, where the stomach distends and potentially twists, cutting off blood flow. Simultaneously, the fermentation causes alcohol poisoning, which can lead to seizures, respiratory failure, and death. Immediate veterinary intervention is required.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to safely take a photo of the remaining dough or the recipe/packaging, please do so. A photo helps the veterinary team estimate the volume of dough ingested and identify other potential toxins like raisins, garlic, or xylitol that might be in the recipe. Visual confirmation allows the triage team to prepare the necessary treatments before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of bread dough poisoning in dogs?",
+      "answer": "Common signs include a distended or bloated abdomen, unproductive retching or vomiting, staggering, disorientation, and lethargy."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting unless specifically instructed by a veterinarian. The thick, sticky nature of the dough can cause a choking hazard or aspiration if brought back up."
+    },
+    {
+      "question": "How quickly do symptoms appear?",
+      "answer": "Symptoms can begin within 30 minutes to two hours after ingestion as the yeast begins to react to the body heat in the stomach."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

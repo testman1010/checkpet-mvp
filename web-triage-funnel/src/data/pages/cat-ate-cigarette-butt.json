@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Cigarette Butt? Urgency and Triage Guide",
+  "meta_desc": "If your cat ate a cigarette butt, act fast. Learn about nicotine toxicity, symptoms to watch for, and why this is a medium-level emergency.",
+  "content_html": "<h3>What is cigarette butt ingestion?</h3><p>Cigarette butts are the discarded remains of cigarettes, containing high concentrations of nicotine trapped in the filter and any unburnt tobacco. For a small animal like a cat, even a single butt can contain enough nicotine to cause toxic effects on their nervous and cardiovascular systems.</p><h3>Is this an emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While ingestion is rarely immediately fatal if addressed, nicotine is absorbed very quickly by the feline body. You should contact your veterinarian or a pet poison control hotline immediately. Do not wait for symptoms to appear, as early intervention can prevent the most severe neurological effects.</p><h3>How a photo helps triage</h3><p>If you have access to the original packaging or the remaining cigarette butts, taking a photo can be vital for the veterinary team. A photo helps the vet identify the brand and type of cigarette, allowing them to calculate the potential nicotine dosage and check for additional harmful additives like menthol or flavorings that could complicate your cat's recovery.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of nicotine poisoning in cats?",
+      "answer": "Symptoms often include excessive drooling, vomiting, diarrhea, agitation, rapid breathing, tremors, or weakness. In severe cases, it can lead to seizures or collapse."
+    },
+    {
+      "question": "How long does it take for a cat to show symptoms?",
+      "answer": "Nicotine is fast-acting; symptoms typically begin to appear within 15 to 60 minutes after ingestion."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat without specific instructions from a veterinarian, as cats are highly susceptible to aspiration pneumonia and physical injury during the process."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

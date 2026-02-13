@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sneezing Fits: Causes, Triage, and When to See a Vet",
+  "meta_desc": "Is your dog having occasional sneezing fits? Learn about common causes, urgency levels, and how to triage your pet's symptoms at home.",
+  "content_html": "<h3>What is a Sneezing Fit?</h3><p>An occasional sneezing fit in dogs is typically a rapid-fire succession of sneezes used to clear the nasal passages. This is often a normal physiological response to environmental irritants like dust, pollen, or strong fragrances. Some dogs also engage in 'play sneezing' when they are excited or interacting with other dogs, which is a harmless form of communication.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. Most occasional sneezing fits are not a medical emergency. If your dog is acting like their usual self, maintaining a good appetite, and the sneezing stops quickly, you can generally monitor them at home. However, if the sneezing becomes constant, is accompanied by thick discharge, or if your dog is pawing at their face in distress, you should schedule a non-emergency appointment with your veterinarian.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a video of the sneezing episode is one of the most helpful tools for a veterinary professional. It allows us to distinguish between a regular sneeze, a 'reverse sneeze' (which sounds more like a honk), or a respiratory cough. Seeing the dog's posture and the frequency of the fits helps us determine if the cause is likely an irritant, an allergy, or potentially a foreign object stuck in the nasal passage.</p>",
+  "faqs": [
+    {
+      "question": "Can allergies cause my dog to sneeze?",
+      "answer": "Yes, dogs can be sensitive to environmental allergens such as pollen, mold, and dust, which can trigger occasional sneezing fits."
+    },
+    {
+      "question": "What is a reverse sneeze?",
+      "answer": "A reverse sneeze occurs when air is pulled rapidly inward through the nose, often sounding like a loud snort. While it looks scary, it is usually harmless."
+    },
+    {
+      "question": "When does sneezing require a vet visit?",
+      "answer": "You should contact a vet if you see blood in the mucus, if the sneezing is persistent for more than 24 hours, or if your dog's eye is squinting on the same side as the sneezing."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

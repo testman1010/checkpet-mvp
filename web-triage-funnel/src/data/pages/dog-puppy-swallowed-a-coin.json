@@ -1,0 +1,20 @@
+{
+  "title": "Dog or Puppy Swallowed a Coin? Triage Guide and Emergency Steps",
+  "meta_desc": "If your dog swallowed a coin, it is a high-priority emergency. Learn about zinc toxicity risks, obstruction signs, and why you must call a vet now.",
+  "content_html": "<h3>What happened if my dog swallowed a coin?</h3><p>When a dog or puppy swallows a coin, it is classified as a foreign body ingestion. Unlike food, coins are indigestible and pose several risks to your pet's health. The primary concerns include physical blockages in the digestive tract and chemical poisoning from the metals used to mint the currency.</p><h3>Is this an emergency?</h3><p>Urgency Level: High. You should contact a veterinarian or an emergency animal hospital immediately. While some coins may pass through the system, others cause life-threatening issues. Specifically, pennies minted in the United States after 1982 are made primarily of zinc. If the stomach acid breaks down the coin, the zinc is absorbed into the bloodstream, causing a rapid destruction of red blood cells (hemolytic anemia), kidney failure, and potentially death.</p><h3>Why a photo helps with triage</h3><p>If you can, find a duplicate of the coin your dog swallowed and take a photo of it next to a common object for scale, such as a paperclip or a key. Providing this photo to your vet helps them identify the size and material of the object. Knowing the exact denomination helps the medical team determine if there is a risk of heavy metal toxicity or if the object is large enough to cause a physical bowel obstruction.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my dog poops out the coin?",
+      "answer": "No, waiting is dangerous. Because of the risk of zinc toxicity from pennies and the potential for a gastric obstruction, your dog needs an X-ray to determine the coin's location and type immediately."
+    },
+    {
+      "question": "What are the symptoms of zinc poisoning in dogs?",
+      "answer": "Signs of toxicity include vomiting, lethargy, pale or yellow-tinged gums (jaundice), and dark-colored urine. These symptoms indicate a severe medical crisis."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed by a veterinarian. Depending on the size of the coin and your dog's size, the coin could become lodged in the esophagus, causing a choking hazard."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Shortness of Breath After Play: Triage Guide & When to See a Vet",
+  "meta_desc": "Is your cat panting or struggling to breathe after mild play? Learn about respiratory distress, urgency levels, and how to help your pet.",
+  "content_html": "<h3>What is Shortness of Breath in Cats?</h3><p>Shortness of breath, clinically known as dyspnea, occurs when a cat has difficulty moving air into or out of their lungs. Unlike dogs, cats do not typically pant to cool down after exercise. If your cat is open-mouth breathing or showing heavy chest movements after only mild play, it may indicate an underlying issue with their respiratory or cardiovascular system, such as feline asthma, heart disease, or a respiratory infection.</p><h3>Is it an Emergency?</h3><p>The urgency level for shortness of breath after mild activity is Medium. While it may not be an immediate life-threatening crisis if the cat recovers quickly, it is a significant red flag that requires a veterinary appointment as soon as possible. However, if your cat's gums appear blue or purple, or if the heavy breathing does not stop within a few minutes of rest, this elevates to an Emergency status requiring immediate intervention at a 24-hour clinic.</p><h3>How a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of the breathing episode is incredibly valuable for an accurate diagnosis. Because cats often hide their symptoms in a clinical setting due to stress, a recording allows the vet to observe the specific type of effort (such as abdominal breathing), the rate of respiration, and any unusual sounds or postures. This visual evidence helps differentiate between a primary lung issue and a potential heart condition.</p>",
+  "faqs": [
+    {
+      "question": "Is it normal for cats to pant like dogs after exercise?",
+      "answer": "No, it is generally not normal for cats to pant. While very intense play in a hot environment might cause brief panting, shortness of breath after only mild play is a sign of exercise intolerance and should be evaluated by a vet."
+    },
+    {
+      "question": "What are common causes of breathing difficulties in cats?",
+      "answer": "Common causes include feline asthma, congestive heart failure (often linked to Hypertrophic Cardiomyopathy), pleural effusion (fluid around the lungs), or respiratory infections."
+    },
+    {
+      "question": "How can I count my cat's respiratory rate?",
+      "answer": "While your cat is resting, count how many times their chest rises and falls in 30 seconds, then multiply by two. A normal resting rate is typically between 16 and 30 breaths per minute."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

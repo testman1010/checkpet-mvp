@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested a Chocolate Chip Cookie: Urgency & Triage Guide",
+  "meta_desc": "Guide for dogs that ate chocolate chip cookies. Understand toxicity levels, urgency, and why veterinary triage requires photos for better diagnosis.",
+  "content_html": "<h3>What is it?</h3><p>A chocolate chip cookie ingestion occurs when a canine consumes a baked treat containing chocolate. Chocolate contains methylxanthines, specifically theobromine and caffeine, which dogs cannot metabolize efficiently. This can lead to gastrointestinal upset or more severe neurological and cardiac issues depending on the dose and the size of the dog.</p><h3>Is it an emergency?</h3><p>The urgency level is Medium. While a single cookie may not be life-threatening for a large breed, it can cause significant illness in smaller dogs or if the cookie contains dark chocolate, which has higher concentrations of toxins. You should contact a veterinarian or a pet poison control hotline to determine if the amount ingested reaches a toxic threshold for your pet's specific weight.</p><h3>Why a photo helps triage</h3><p>If possible, take a photo of the remaining cookies or the ingredient label from the packaging. Seeing the size of the chips and the type of chocolate (dark, semi-sweet, or milk) helps the veterinary team calculate the exact risk. Additionally, a photo of the label helps the vet check for other dangerous ingredients like raisins, macadamia nuts, or the sugar-substitute xylitol, which can be even more toxic than chocolate.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of chocolate toxicity?",
+      "answer": "Common symptoms include vomiting, diarrhea, increased thirst, restlessness, panting, and in severe cases, a racing heart or tremors."
+    },
+    {
+      "question": "How long does it take for symptoms to show?",
+      "answer": "Signs of chocolate poisoning typically appear within 6 to 12 hours after ingestion, though they can sometimes appear sooner."
+    },
+    {
+      "question": "Is white chocolate dangerous for dogs?",
+      "answer": "White chocolate contains very little theobromine, but the high fat and sugar content can still cause stomach upset or a serious condition called pancreatitis."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Oxygen Absorber Packet: Triage and Next Steps",
+  "meta_desc": "If your dog ate an oxygen absorber packet, don't panic. These are usually low-risk. Learn why they are used and how to triage your pet safely.",
+  "content_html": "<h3>What Is an Oxygen Absorber?</h3><p>Oxygen absorber packets are those small, square sachets often found in food packaging like beef jerky, dried fruit, or pet treats. Their primary ingredient is iron powder. When exposed to air, the iron oxidizes (rusts), which removes oxygen from the package to keep the food fresh. These are distinct from silica gel packets, which are used to absorb moisture.</p><h3>Is It an Emergency?</h3><p>The urgency level for eating a single oxygen absorber is generally Low. While iron can be toxic in very large quantities, the amount found in a standard food-grade packet is typically not enough to cause serious systemic poisoning in most dogs. The most common side effect is mild gastrointestinal upset, such as vomiting or diarrhea. However, the plastic packet itself could pose a minor choking hazard or cause a localized blockage in very small breeds.</p><h3>Why a Photo Helps Triage</h3><p>If you choose to call your veterinarian or an animal poison control center, having a photo of the packet is vital. There are many types of desiccant and preservative packets; a photo helps the professional identify the specific brand and size. This allows them to calculate the exact amount of iron your dog may have ingested relative to their body weight, providing you with a more accurate risk assessment.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog get iron poisoning?",
+      "answer": "It is unlikely from a single small packet. Most food-grade oxygen absorbers contain only a few grams of iron, which is generally below the toxic threshold for medium to large dogs, though small puppies should be monitored more closely."
+    },
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Keep an eye out for mild vomiting, dark-colored stools (due to the iron), or a temporary loss of appetite. If you notice persistent vomiting, abdominal pain, or extreme lethargy, contact your vet immediately."
+    },
+    {
+      "question": "Should I make my dog vomit?",
+      "answer": "No, you should never induce vomiting at home without a direct instruction from a veterinarian. Doing so can sometimes cause more harm than the original ingestion."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

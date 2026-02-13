@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chewed Electrical Wire: Immediate Triage and Emergency Steps",
+  "meta_desc": "If your dog chewed a live electrical wire, it is a high-priority emergency. Learn the risks of electric shock and when to seek immediate vet care.",
+  "content_html": "<h3>What is Electrical Cord Injury in Dogs?</h3><p>An electrical cord injury occurs when a dog bites through the protective insulation of a wire, allowing a live current to pass through their tissues. This most commonly affects puppies who are teething or curious, but it can happen to any dog. The current causes immediate thermal burns at the point of contact, typically the mouth and tongue, and can disrupt the electrical signals in the heart and lungs.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical emergency. Even if your dog appears normal immediately after the shock, they are at high risk for life-threatening complications. The most dangerous side effect is non-cardiogenic pulmonary edema, where the lungs fill with fluid due to the electrical surge. This condition can develop slowly over several hours, meaning a dog that looks fine now could stop breathing later tonight.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so without touching a live current, taking a photo of the chewed wire and your dog's mouth can be invaluable for the veterinary team. A photo of the damaged cord helps the vet estimate the intensity of the shock. Photos of the burns inside the mouth allow the triage staff to assess the severity of the tissue damage and prepare the necessary equipment before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What should I do first if I see my dog chewing a wire?",
+      "answer": "Do not touch your dog or the wire until the power is turned off at the breaker box. Touching a dog that is still in contact with a live current can cause you to be electrocuted as well."
+    },
+    {
+      "question": "What are the signs of electric shock in dogs?",
+      "answer": "Common signs include visible burns on the lips or tongue, heavy drooling, singed whiskers, difficulty breathing, coughing, and physical collapse."
+    },
+    {
+      "question": "Can I wait and see if my dog feels better?",
+      "answer": "No. Because lung fluid can accumulate hours after the incident, 'waiting and seeing' can be fatal. Immediate veterinary monitoring is necessary to manage potential respiratory failure."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

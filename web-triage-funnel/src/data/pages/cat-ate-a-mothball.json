@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate a Mothball: Emergency Steps and Triage Guide",
+  "meta_desc": "If your cat ate a mothball, it is a high-priority emergency. Learn the risks, toxic ingredients, and why you must seek immediate veterinary care.",
+  "content_html": "<h3>What is Mothball Poisoning?</h3><p>Mothballs are concentrated chemical pesticides designed to repel moths and larvae. They typically contain one of two active ingredients: naphthalene or paradichlorobenzene. Both substances are highly toxic to felines. When a cat licks or ingests a mothball, the chemicals are rapidly absorbed, leading to severe issues such as red blood cell destruction, liver damage, and central nervous system distress.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is High. If you suspect your cat has ingested even a portion of a mothball, you should consider this a life-threatening emergency. Do not wait for symptoms to appear, as internal damage can occur quickly. Immediate veterinary intervention is necessary to stabilize your pet and begin decontamination or supportive care.</p><h3>Why a Photo of the Packaging Helps</h3><p>If it is safe to do so, take a clear photo of the mothball packaging or the ingredient label. Knowing whether the product contains naphthalene or paradichlorobenzene is vital for the veterinary team. Different chemicals require different treatment protocols, and having this information ready can save precious time during triage and diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of mothball toxicity?",
+      "answer": "Common symptoms include vomiting, a strong chemical odor on the breath, lethargy, pale or muddy-colored gums, tremors, and difficulty breathing."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home. This can lead to aspiration pneumonia or further chemical burns to the esophagus. Always wait for a veterinarian's instruction."
+    },
+    {
+      "question": "Is the smell of mothballs alone dangerous to cats?",
+      "answer": "Yes, the fumes from mothballs are also toxic. Prolonged inhalation can cause irritation to the eyes and nose, as well as more serious respiratory issues in sensitive cats."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Vomiting Green Rat Poison",
+  "meta_desc": "If your dog is vomiting green after eating rat poison, this is a critical emergency. Follow these steps and contact a veterinarian immediately.",
+  "content_html": "<h3>What is Rat Poison Ingestion?</h3><p>Rat poisons, or rodenticides, are highly toxic chemicals designed to kill pests. Many of these products contain bright green, teal, or blue dyes. When a dog ingests the poison, these dyes can tint their vomit or stool, providing a clear visual warning that a toxic substance has been consumed. These poisons typically work by preventing blood clotting or causing brain swelling.</p><h3>Is it an Emergency?</h3><p>Yes. This is a <strong>High Urgency Emergency</strong>. If your dog is vomiting green and you suspect rat poison, you must transport them to an emergency veterinary clinic immediately. Do not wait for more severe symptoms like lethargy, nosebleeds, or seizures to appear, as these indicate that internal damage is already occurring.</p><h3>Why a Photo Helps Triage</h3><p>Veterinary teams benefit greatly from seeing the evidence. If it is safe to do so, take a clear photo of the vomit and, most importantly, the packaging of the rat poison. Identifying the specific active ingredient (such as Bromethalin, Cholecalciferol, or an Anticoagulant) allows the vet to start the correct life-saving treatment or antidote immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting unless specifically directed to do so by a veterinarian or a pet poison control expert, as some toxins or the act of vomiting itself can cause further complications."
+    },
+    {
+      "question": "What if my dog is acting normal but the vomit is green?",
+      "answer": "Many rat poisons have a delayed effect, meaning your dog may appear healthy for several days while internal damage progresses. Immediate treatment is still required to prevent a fatal outcome."
+    },
+    {
+      "question": "What information should I have ready for the vet?",
+      "answer": "Try to provide the brand name of the poison, the approximate time of ingestion, how much you think they ate, and your dog's current weight."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

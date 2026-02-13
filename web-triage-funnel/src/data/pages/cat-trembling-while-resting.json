@@ -1,0 +1,20 @@
+{
+  "title": "Cat Trembling while resting: Causes and Triage Guide",
+  "meta_desc": "Is your cat trembling while resting? Learn common causes, urgency levels, and how to help your vet diagnose the issue effectively.",
+  "content_html": "<h3>What is Resting Trembling in Cats?</h3><p>Trembling while resting refers to involuntary, rhythmic muscle contractions that occur when your cat is lying down or appearing to sleep. While it can sometimes be a normal part of the dreaming process (REM sleep), persistent shivering or shaking while awake and resting may indicate physiological stress, pain, or an underlying neurological issue.</p><h3>Is It an Emergency?</h3><p>The urgency level for a cat trembling while resting is <strong>Medium</strong>. In many cases, this behavior is not an immediate life-threatening emergency, but it does require professional evaluation to rule out conditions like toxicity, metabolic imbalances, or chronic pain. However, if the trembling is accompanied by a high fever, inability to stand, or signs of respiratory distress, you should contact an emergency clinic immediately.</p><h3>The Role of Visuals in Triage</h3><p>Providing your veterinarian with a video of the trembling is one of the most effective ways to assist in triage. Because cats often stop showing symptoms once they are stressed by a car ride or a clinic environment, a clear video allows the vet to observe the frequency, intensity, and duration of the episodes in a natural setting. This visual evidence helps differentiate between simple muscle twitches, behavioral anxiety, and more serious seizure activity.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be cold?",
+      "answer": "Yes, cats may shiver to generate body heat if their environment is too chilly. Ensure they have access to a warm, draft-free area to see if the trembling stops."
+    },
+    {
+      "question": "Is it normal for cats to twitch in their sleep?",
+      "answer": "Light twitching of the paws, whiskers, or ears during deep sleep is common and usually signifies dreaming. This is different from a full-body tremor while resting."
+    },
+    {
+      "question": "Can pain cause a cat to tremble?",
+      "answer": "Yes, cats are masters at hiding discomfort. Generalized trembling or localized shaking can be a physical manifestation of significant pain or distress."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

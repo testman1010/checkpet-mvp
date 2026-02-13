@@ -1,0 +1,20 @@
+{
+  "title": "Cat Lethargic and Hiding After Eating a Plant: Triage Guide",
+  "meta_desc": "Is your cat hiding after eating a plant? Learn why lethargy is a concern, if it is an emergency, and how photos help with veterinary triage.",
+  "content_html": "<h3>What is happening to your cat?</h3><p>If your cat is lethargic and hiding after consuming a plant, they are likely experiencing a reaction to toxins or gastrointestinal distress. Cats instinctively hide when they feel unwell or vulnerable. This behavior, combined with lethargy, suggests that the plant material is affecting their system and requires immediate attention to determine if the substance is poisonous.</p><h3>Is this an emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While some household plants only cause mild irritation, others—such as lilies, sago palms, or azaleas—can lead to organ failure very quickly. Because symptoms can escalate rapidly, you should contact your veterinarian or a pet poison helpline immediately rather than waiting for symptoms to clear on their own.</p><h3>Why a photo helps triage</h3><p>A clear photo of the plant is one of the most critical pieces of information for a veterinary team. Since many plants look similar, a visual identification allows experts to pinpoint the exact toxin. This helps the vet determine whether your cat needs a simple stomach protectant or intensive life-saving treatment, potentially saving both time and money during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "What are common signs of plant poisoning in cats?",
+      "answer": "In addition to lethargy and hiding, look for drooling, vomiting, diarrhea, loss of appetite, or tremors."
+    },
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No, you should never induce vomiting in a cat unless specifically instructed to do so by a licensed veterinarian, as it can cause aspiration pneumonia or further esophageal damage."
+    },
+    {
+      "question": "Which plants are the most dangerous for cats?",
+      "answer": "True lilies (Lilium and Hemerocallis species) are extremely toxic to cats and can cause kidney failure from just a small amount of pollen or leaf ingestion."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

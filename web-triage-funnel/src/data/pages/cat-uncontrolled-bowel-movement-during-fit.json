@@ -1,0 +1,20 @@
+{
+  "title": "Cat Seizures and Loss of Bowel Control: Emergency Triage Guide",
+  "meta_desc": "If your cat is having fits and losing bowel control, this is a high-priority medical emergency. Learn what to do and how to help your veterinarian.",
+  "content_html": "<h3>What is Happening?</h3><p>When a cat experiences a 'fit' or seizure, it is the result of abnormal electrical activity in the brain. During these episodes, the cat loses conscious control over their body. This often includes involuntary muscle contractions and the relaxation of the sphincters, leading to uncontrolled bowel movements or urination. This is known as autonomic involvement and is a common, though distressing, symptom of a generalized seizure.</p><h3>Urgency Level: High</h3><p>An uncontrolled bowel movement during a fit indicates a significant neurological event. This is considered a high-priority medical emergency. Even if the cat seems to recover quickly, they need to be evaluated by a veterinarian immediately. Recurrent seizures or a single seizure lasting more than three minutes can lead to permanent brain damage or life-threatening hyperthermia.</p><h3>Why Documentation Helps Triage</h3><p>While your priority is keeping your cat safe, capturing a short video or taking a photo of the aftermath (including the stool) can be incredibly helpful for your vet. A photo helps the clinical team determine if there are other issues, such as gastrointestinal distress or evidence of toxins. Furthermore, a video of the episode allows the vet to distinguish between a true seizure and other conditions like fainting (syncope) or heart issues, ensuring your cat receives the correct treatment faster.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is having a fit?",
+      "answer": "Clear away hard objects to prevent injury and keep the room dark and quiet. Do not put your hands near the cat's mouth, as they may bite transitionally without meaning to."
+    },
+    {
+      "question": "Can a cat die from a seizure?",
+      "answer": "While most seizures are not immediately fatal, 'status epilepticus' (prolonged seizures) or clusters of seizures are life-threatening emergencies that require internal intervention."
+    },
+    {
+      "question": "What causes sudden seizures in cats?",
+      "answer": "Common causes include exposure to toxins (like lilies or flea medication), head trauma, metabolic issues, or underlying neurological conditions like epilepsy."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Dry Eyes with Thick Mucus: Causes, Triage, and Care Tips",
+  "meta_desc": "Noticing thick mucus and dry eyes in your dog? Learn about KCS, urgency levels, and why a veterinary consultation is necessary for your pet.",
+  "content_html": "<h3>What is Dry Eye in Dogs?</h3><p>Dry eye, medically known as Keratoconjunctivitis Sicca (KCS), occurs when a dog's tear glands fail to produce enough aqueous fluid to lubricate the eye. This deficiency leads to chronic irritation, and the body often compensates by producing a thick, ropey, yellowish-green mucus discharge that can stick to the eye and surrounding fur.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is generally <strong>Low</strong>. While KCS is uncomfortable and can lead to vision loss or scarring if left untreated over many weeks or months, it does not typically require an immediate emergency room visit. However, you should schedule an appointment with your primary veterinarian within a few days to begin treatment and ensure your dog is not developing a secondary corneal ulcer.</p><h3>How a Photo Helps Triage</h3><p>If you are consulting a remote triage service, a clear, well-lit photo of your dog's eye is vital. A photo allows a professional to differentiate between simple dry eye and more urgent conditions, such as a deep corneal ulcer or acute glaucoma, by evaluating the color of the discharge, the level of redness, and the clarity of the cornea.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human eye drops for my dog's dry eyes?",
+      "answer": "You should never use medicated human eye drops without a veterinarian's approval. While some preservative-free artificial tears may provide very temporary relief, they do not treat the underlying cause of KCS and some human additives can be irritating to canine eyes."
+    },
+    {
+      "question": "Which breeds are most prone to dry eye?",
+      "answer": "Certain breeds are genetically predisposed to KCS, including American Cocker Spaniels, Bulldogs, West Highland White Terriers, Pugs, and Bloodhounds."
+    },
+    {
+      "question": "What is the common treatment for KCS in dogs?",
+      "answer": "Treatment usually involves lifelong daily topical medications such as Cyclosporine or Tacrolimus to stimulate tear production, often supplemented by frequent applications of veterinary-grade artificial lubricants."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

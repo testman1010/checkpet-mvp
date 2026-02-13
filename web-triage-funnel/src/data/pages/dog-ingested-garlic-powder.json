@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Garlic Powder: Is It Dangerous? | Triage Guide",
+  "meta_desc": "If your dog ate garlic powder, read our guide on toxicity, symptoms, and why this is a medium urgency situation that requires a vet call.",
+  "content_html": "<h3>What is Garlic Powder Ingestion?</h3><p>Garlic powder is a highly concentrated form of garlic, which belongs to the Allium family. While humans enjoy it in cooking, garlic contains thiosulfates and disulfides that are toxic to dogs. Ingestion of garlic powder can cause oxidative damage to a dog's red blood cells, potentially leading to a serious condition called hemolytic anemia. Because powder is more concentrated than fresh cloves, even small amounts can be problematic.</p><h3>Is This an Emergency?</h3><p>The urgency level for garlic powder ingestion is Medium. While your dog may not show symptoms immediately, the toxic effects on red blood cells can take several days to manifest. It is important not to wait for symptoms like lethargy or pale gums to appear. You should contact your veterinarian or a pet poison control hotline immediately to discuss the amount ingested relative to your dog's weight.</p><h3>How a Photo Helps Triage</h3><p>Taking a photo of the garlic powder container, specifically the ingredient list and the weight, is incredibly helpful for your veterinary team. Brands vary in concentration, and some powders may be mixed with other dangerous ingredients like onion powder or high levels of salt. A photo allows the vet to quickly calculate the potential toxicity level and provide more accurate treatment recommendations.</p>",
+  "faqs": [
+    {
+      "question": "How much garlic powder is toxic to a dog?",
+      "answer": "Toxicity depends on the dog's weight and the amount consumed, but garlic is roughly five times more potent than onions. Even a small amount of concentrated powder can be dangerous."
+    },
+    {
+      "question": "What are the symptoms of garlic poisoning?",
+      "answer": "Symptoms include vomiting, diarrhea, lethargy, pale gums, increased heart rate, and exercise intolerance. These symptoms may be delayed by 2 to 4 days."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting without the explicit instruction of a veterinarian, as it can sometimes lead to further complications like aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

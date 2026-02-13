@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bloated Stomach After Eating Dry Food: Emergency Triage Guide",
+  "meta_desc": "If your dog ate a large amount of dry food and has a bloated stomach, this is a high-priority emergency. Learn the risks of GDV and when to seek help.",
+  "content_html": "<h3>What is Happening to Your Dog?</h3><p>When a dog consumes a large volume of dry kibble, the food rapidly absorbs stomach acid and water, causing it to expand significantly. This condition, often called \"food bloat,\" causes the stomach to stretch painfully. The primary danger is that a heavy, distended stomach is at a much higher risk of Gastric Dilatation-Volvulus (GDV), a life-threatening condition where the stomach physically twists inside the abdomen.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is High. A bloated stomach is a medical emergency because it can lead to shock, decreased blood flow to vital organs, and stomach wall necrosis. If your dog is pacing, panting, unsuccessfully trying to vomit, or has a firm, distended belly, you must transport them to an emergency veterinary clinic immediately. Minutes matter when preventing a total stomach torsion.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo of your dog's abdomen to a triage vet (taken from both the side and from above) can be incredibly helpful. It allows the medical team to visually assess the degree of distension and compare it to the dog's breed-standard anatomy. This helps the clinic prepare for your arrival and determines if they need to clear a surgical suite or prepare life-saving decompression tools before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting unless specifically instructed by a veterinarian. If the stomach has already begun to twist (GDV), inducing vomiting can cause a fatal rupture or aspiration."
+    },
+    {
+      "question": "Can I give my dog water or food?",
+      "answer": "Do not provide any more food or water. Additional intake will only increase the volume in the stomach and worsen the pressure and pain."
+    },
+    {
+      "question": "How fast can bloat turn into GDV?",
+      "answer": "The transition from a full stomach to a twisted stomach can happen in minutes. Immediate veterinary intervention is the only way to ensure the stomach remains in its proper position."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

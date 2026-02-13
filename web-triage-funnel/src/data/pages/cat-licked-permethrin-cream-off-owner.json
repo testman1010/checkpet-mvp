@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Permethrin Cream: Emergency Triage and Veterinary Advice",
+  "meta_desc": "Permethrin is highly toxic to cats. If your cat licked permethrin cream, this is a life-threatening emergency. Contact a vet immediately.",
+  "content_html": "<h3>What is Permethrin Toxicity?</h3><p>Permethrin is a synthetic insecticide commonly found in human scabies treatments, insect repellents, and dog flea medications. While generally safe for humans and dogs, cats lack the specific liver enzyme (glucuronosyltransferase) required to break down this chemical. When a cat licks even a small amount of permethrin cream from their owner's skin, it can lead to a rapid and dangerous buildup in their system, affecting their central nervous system.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is considered a high-priority medical emergency. Permethrin toxicity is potentially fatal if not treated immediately. Symptoms such as drooling, ear twitching, skin flicking, and tremors can escalate quickly into full-body seizures and hyperthermia. You should not wait for symptoms to manifest; if you know or suspect your cat has ingested permethrin, contact an emergency veterinarian or a pet poison control hotline right away.</p><h3>Why a Photo Helps with Triage</h3><p>If it is safe to do so, take a clear photo of the product packaging, specifically the ingredient list and the concentration percentage (usually 5% for human creams). Providing this photo to your veterinarian or the poison control specialist allows them to determine the exact dosage your cat may have been exposed to. This information is vital for the medical team to prepare the correct treatments, such as intravenous lipid emulsions or muscle relaxants, before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the first signs of permethrin poisoning in cats?",
+      "answer": "Initial signs often include excessive drooling, agitation, and localized muscle twitches, particularly around the ears and face, which can progress to severe tremors."
+    },
+    {
+      "question": "Can I give my cat anything at home to stop the poisoning?",
+      "answer": "No. Never attempt to induce vomiting or give home remedies to a cat that has ingested permethrin. Only a veterinarian can safely provide the necessary supportive care and medications."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms typically appear within 1 to 6 hours of exposure, but in some cases, they may be delayed for up to 24 hours. Immediate veterinary consultation is required regardless of symptom status."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

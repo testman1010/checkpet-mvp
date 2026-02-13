@@ -1,0 +1,20 @@
+{
+  "title": "Managing Cat Food Aggression Toward Other Pets | Veterinary Triage Guide",
+  "meta_desc": "Learn how to handle cat food aggression with our guide. Understand the causes, urgency levels, and how to help your vet with visual documentation.",
+  "content_html": "<h3>What is Cat Food Aggression?</h3><p>Food aggression, often referred to by behaviorists as resource guarding, occurs when a cat feels the need to protect their meal from perceived threats—in this case, your other pets. This behavior can manifest as growling, hissing, swatting, or even full physical confrontations. It is often rooted in a natural survival instinct where food is a finite resource that must be defended at all costs.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. Generally, food aggression is a behavioral issue rather than a medical emergency. However, it requires consistent management to prevent stress and physical injury to your pets. If a cat suddenly develops food aggression after years of peaceful eating, or if a physical injury occurs during a spat, you should schedule a non-emergency appointment with your veterinarian to rule out underlying health issues like hyperthyroidism or dental pain.</p><h3>Why a Photo or Video Helps Triage</h3><p>While it might seem difficult to capture a moment of tension, providing your veterinarian or a certified behaviorist with a photo or short video of the feeding environment and the cats' body language is incredibly helpful. Visuals allow professionals to see specific triggers, such as the proximity of bowls or the exact posture of the aggressor (e.g., pinned ears, dilated pupils). This documentation helps distinguish between play-related behavior and true territorial aggression, allowing for a more accurate management plan.</p>",
+  "faqs": [
+    {
+      "question": "Should I feed my cats in separate rooms?",
+      "answer": "Yes, feeding cats in separate rooms or behind a physical barrier is one of the most effective ways to reduce tension and ensure every pet feels safe while eating."
+    },
+    {
+      "question": "Can medical issues cause sudden food aggression?",
+      "answer": "Yes, conditions that increase hunger (polyphagia) such as diabetes, hyperthyroidism, or intestinal parasites can cause a cat to become protective or desperate around food."
+    },
+    {
+      "question": "Will my cats ever be able to eat together again?",
+      "answer": "With gradual desensitization and positive reinforcement, some cats can learn to eat in the same room again, though some may always prefer the security of their own dedicated space."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

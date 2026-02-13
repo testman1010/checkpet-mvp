@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed String or Ribbon? Emergency Triage Guide",
+  "meta_desc": "If your cat swallowed string, it is a high-priority emergency. Learn about linear foreign bodies and why you must never pull the string yourself.",
+  "content_html": "<h3>What is a Linear Foreign Body?</h3><p>When a cat ingests a long, thin item such as sewing thread, yarn, holiday ribbon, or dental floss, it is referred to as a linear foreign body. These objects are particularly dangerous because they tend to become anchored at one point—most commonly under the tongue or at the exit of the stomach. As the rest of the string moves through the digestive tract, the intestines begin to bunch up like an accordion, which can lead to severe tissue damage or life-threatening perforations.</p><h3>Urgency Level: High</h3><p>Swallowing string is considered a high-priority veterinary emergency. Even if your cat is acting normally right now, the internal damage can be progressive and silent. If you see a piece of string protruding from your cat’s mouth or rectum, <strong>do not pull it</strong>. Pulling the string can cause it to act like a saw, slicing through the delicate intestinal walls and causing a fatal abdominal infection. You should contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>If there is any leftover material or a similar type of string available, take a clear photo of it next to a ruler or a common object for scale. Showing this to your veterinarian helps them estimate the length, thickness, and material of the object swallowed. This information is critical for the medical team to decide whether they can induce vomiting, attempt an endoscopic retrieval, or if your cat requires immediate emergency surgery.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs that the string is causing a problem?",
+      "answer": "Common symptoms include repeated vomiting, loss of appetite, lethargy, diarrhea, and signs of abdominal pain such as hiding or hunching over."
+    },
+    {
+      "question": "Can a cat pass a long string on its own?",
+      "answer": "While small pieces might pass, long strings are highly likely to become entangled. Because the risk of intestinal rupture is so high, you should never 'wait and see' with linear foreign bodies."
+    },
+    {
+      "question": "What will the vet do to help my cat?",
+      "answer": "The vet will likely perform a physical exam (including checking under the tongue), followed by X-rays or an ultrasound to look for characteristic bunching of the intestines."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Temporary Paralysis After Heavy Exercise: Guide for Pet Owners",
+  "meta_desc": "Understand why your dog may experience temporary paralysis after exercise, the urgency level, and how to document the episode for your veterinarian.",
+  "content_html": "<h3>What is Temporary Paralysis After Exercise?</h3><p>Temporary paralysis or weakness following intense activity is often caused by a condition known as Exercise-Induced Collapse (EIC). This is a genetic neuromuscular disorder where the dog loses control over their hind limbs, or sometimes all four legs, after several minutes of high-intensity exercise. While it is most commonly associated with Labrador Retrievers, it can occur in various athletic breeds. Other potential causes include heat exhaustion, metabolic imbalances, or spinal issues such as IVDD.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. In most cases of EIC, the dog remains mentally alert but simply cannot move, and they typically recover within 10 to 30 minutes of rest. However, you must stop all activity immediately and move your dog to a cool area. It becomes a high-level emergency if the dog's body temperature is dangerously high (heatstroke), if their gums are blue or pale, or if they do not regain movement within an hour.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because these episodes are often over by the time you arrive at the veterinary clinic, your dog may appear perfectly healthy during their physical exam. Taking a video of the episode as it happens provides your vet with invaluable diagnostic evidence. It allows them to observe the specific gait, muscle tone, and neurological signs that occurred, which helps differentiate between EIC, seizures, or cardiovascular fainting.</p>",
+  "faqs": [
+    {
+      "question": "What breeds are most susceptible to exercise-induced collapse?",
+      "answer": "Labrador Retrievers are the most well-known, but it is also seen in Chesapeake Bay Retrievers, Curly-Coated Retrievers, German Wirehaired Pointers, and Old English Sheepdogs."
+    },
+    {
+      "question": "How can I help my dog during an episode?",
+      "answer": "Stop all exercise immediately, move them to a shaded or air-conditioned area, and offer cool water. Do not force them to walk until they have fully regained their strength."
+    },
+    {
+      "question": "Will my dog need surgery for this?",
+      "answer": "Generally, no. EIC is a genetic condition managed through activity modification and avoiding triggers. However, a vet must first rule out spinal issues that might require different treatments."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

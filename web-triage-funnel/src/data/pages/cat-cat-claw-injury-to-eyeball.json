@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eye Injury from Claw: Triage and Emergency Care Guide",
+  "meta_desc": "If your cat has an eye injury from a claw, it is a high-priority emergency. Learn why immediate veterinary care is essential to save their vision.",
+  "content_html": "<h3>What is a Cat Claw Eye Injury?</h3><p>A claw injury to the eyeball usually manifests as a corneal laceration or a deep puncture wound. Because cat claws are sharp and carry significant bacteria, these injuries are not just physical traumas; they are high-risk sites for aggressive infections that can melt the corneal tissue or spread to the internal structures of the eye.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes, this is considered a high-urgency medical emergency. You should seek veterinary care immediately, regardless of the time of day. Eye injuries are notoriously painful and can deteriorate rapidly. Without prompt intervention, a simple scratch can lead to a ruptured globe, permanent blindness, or the need for surgical removal of the eye.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear, close-up photo to your veterinarian or an emergency triage service can be lifesaving. A photo allows the medical team to visually assess the severity of the trauma, check for signs of a 'flat' anterior chamber or iris prolapse, and prioritize your cat's case before you even arrive at the hospital. This ensures the surgical team is ready if immediate intervention is required.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to flush the eye at home?",
+      "answer": "No. Unless specifically directed by a veterinarian, do not put any liquids, drops, or ointments into a potentially ruptured eye, as this can cause further internal damage."
+    },
+    {
+      "question": "What are the signs of a serious eye injury?",
+      "answer": "Signs include squinting, excessive tearing, redness, a cloudiness over the eye, or a visible change in the shape of the pupil or eyeball itself."
+    },
+    {
+      "question": "Can my cat lose their eye from a scratch?",
+      "answer": "Yes. If the claw penetrates the cornea and introduces bacteria, the resulting infection or loss of intraocular pressure can lead to the loss of the entire eye if not treated within hours."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

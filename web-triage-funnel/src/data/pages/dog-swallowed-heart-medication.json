@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Heart Medication: Emergency Triage Guide",
+  "meta_desc": "If your dog swallowed heart medication, this is a high-priority emergency. Learn what to do and why immediate veterinary care is essential.",
+  "content_html": "<h3>What is Heart Medication Ingestion?</h3><p>Accidental ingestion occurs when a dog consumes cardiovascular drugs prescribed for humans or other pets. These medications include classes such as beta-blockers, ACE inhibitors, calcium channel blockers, and diuretics. Because these drugs are formulated to significantly alter heart rhythms and blood pressure, even a single pill can be dangerous for a dog.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level for this situation is High. Heart medications can cause rapid, life-threatening drops in blood pressure, severe heart rate abnormalities, or acute kidney failure. You should consider this a critical medical emergency even if your dog is currently acting normal, as the most severe effects often have a delayed onset.</p><h3>Why a photo helps triage</h3><p>When you call or arrive at the emergency clinic, having a clear photo of the medication bottle is vital. The photo should clearly show the drug name, the strength (milligrams), and the number of pills missing. This allows the veterinary team to immediately calculate the toxic dose relative to your dog's weight and prepare the specific treatment or antidote required before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How long do I have before symptoms start?",
+      "answer": "Symptoms can begin within 30 minutes to several hours depending on the medication type and whether it was an extended-release formula."
+    },
+    {
+      "question": "Can I give my dog something at home to stop the absorption?",
+      "answer": "Do not administer anything orally, including food or hydrogen peroxide, unless specifically instructed by a veterinarian or poison control, as some heart meds can make vomiting dangerous."
+    },
+    {
+      "question": "What are the signs of heart medication poisoning?",
+      "answer": "Common signs include extreme lethargy, weakness, stumbling, vomiting, slowed heart rate, or collapse."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

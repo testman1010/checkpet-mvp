@@ -1,0 +1,20 @@
+{
+  "title": "Dog Undescended Testicles (Cryptorchidism): A Veterinary Triage Guide",
+  "meta_desc": "Learn about undescended testicles in dogs, the urgency of care, and why scheduling a veterinary consultation is essential for your pet's health.",
+  "content_html": "<h3>What are Undescended Testicles?</h3><p>Known medically as cryptorchidism, this condition occurs when one or both testicles fail to descend into the scrotum during a puppy's development. Normally, the testicles should be in the scrotum by two months of age. If they have not descended by six months, the condition is considered permanent.</p><h3>Is This an Emergency?</h3><p>The urgency level for an undescended testicle is Low. It is not an immediate life-threatening emergency; however, it is a medical concern that requires a scheduled appointment with your veterinarian. Retained testicles stay at a higher body temperature than intended, which significantly increases the risk of testicular cancer and other complications like spermatic cord torsion later in life.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of your dog's groin area while they are standing or lying on their back can be very helpful for your veterinary team. A visual allows the professional to see if there is a visible bulge in the inguinal canal (near the skin surface) or if the area appears completely flat, which helps them prepare for the type of examination or surgery your dog may need.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog still father puppies with this condition?",
+      "answer": "While a dog with one undescended testicle may still be fertile, cryptorchidism is a hereditary trait. Responsible breeding is discouraged to prevent passing this condition to future generations."
+    },
+    {
+      "question": "Is surgery the only treatment?",
+      "answer": "Yes, surgical removal of both the descended and the retained testicle (neutering) is the standard and recommended treatment to eliminate the risk of cancer."
+    },
+    {
+      "question": "At what age is it officially a problem?",
+      "answer": "If the testicles are not in the scrotum by six months of age, it is highly unlikely they will ever descend on their own."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

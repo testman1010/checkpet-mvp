@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Hyper-reactivity to Light and Sound in Dogs",
+  "meta_desc": "Is your dog sensitive to light or noise? Learn about causes, urgency levels, and how to triage sensory hypersensitivity in pets.",
+  "content_html": "<h3>What is Hyper-reactivity to Light and Sound?</h3><p>Hyper-reactivity, or sensory hypersensitivity, occurs when a dog exhibits an exaggerated or abnormal response to everyday stimuli. This may manifest as cowering, excessive blinking, agitation, or involuntary twitching. These symptoms often suggest that the dog's nervous system is in an over-aroused state, which can be caused by various factors including neurological disorders, toxin ingestion, or severe inflammatory conditions.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While a dog being suddenly sensitive to light and sound is rarely an immediate life-threatening event, it does indicate a significant change in their neurological or physiological health. You should schedule a veterinary appointment within 24 to 48 hours. If the sensitivity is accompanied by loss of consciousness, persistent seizures, or extreme lethargy, proceed to an emergency clinic immediately.</p><h3>How Media Helps with Triage</h3><p>Because these episodes can be intermittent, capturing a video of your dog's reaction is one of the most helpful tools for a veterinarian. Seeing the specific way your dog flinches or tracks light helps the vet distinguish between behavioral anxiety and neurological triggers. A clear video allows the clinical team to observe the duration and intensity of the episodes, which is vital for an accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have ingested something toxic?",
+      "answer": "Yes, certain toxins, such as caffeine, moldy food, or human medications like antidepressants, can cause heightened sensitivity to the environment."
+    },
+    {
+      "question": "Is this a symptom of focal seizures?",
+      "answer": "It can be. Focal seizures may cause a dog to remain conscious but appear hyper-aware or reactive to phantom lights or sounds."
+    },
+    {
+      "question": "What should I do while waiting for the vet?",
+      "answer": "Keep your dog in a quiet, darkened room with minimal stimulation to reduce their stress and prevent potential seizure triggers."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pink Eye (Conjunctivitis) Guide: Symptoms & Vet Triage",
+  "meta_desc": "Learn about dog pink eye (conjunctivitis), its causes, why it is usually a low-urgency issue, and how sharing a photo helps your veterinarian.",
+  "content_html": "<h3>What is Dog Pink Eye?</h3><p>Conjunctivitis, often referred to as pink eye, is the inflammation of the conjunctiva. This is the thin, mucous membrane that covers the white part of the eye and lines the inner surface of the eyelids. When this membrane becomes irritated or infected, the blood vessels within it dilate, giving the eye a red or pinkish appearance. It is often accompanied by swelling, squinting, or discharge.</p><h3>Is it an Emergency?</h3><p>The urgency level for a typical case of conjunctivitis is Low. While the condition can be itchy or uncomfortable for your pet, it is generally not a life-threatening emergency. However, it is important to monitor for more severe signs. If your dog is experiencing extreme pain, sudden cloudiness of the eye, or visible trauma to the eyeball, you should contact a vet more urgently to rule out corneal ulcers or glaucoma.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality, clear photo of your dog's eye is an essential part of the triage process. A photo allows a veterinary professional to assess the type and color of discharge—whether it is clear, yellow, or green—and the specific location of the redness. This visual information helps determine if the issue is a simple environmental allergy or a more complex infection, ensuring your dog receives the correct level of care.</p>",
+  "faqs": [
+    {
+      "question": "Can I use my own human eye drops on my dog?",
+      "answer": "No, you should never use human medications, including over-the-counter eye drops, on your dog without specific instructions from a veterinarian. Some ingredients can be toxic or worsen an undiagnosed eye condition."
+    },
+    {
+      "question": "Is dog pink eye contagious to other pets?",
+      "answer": "If the conjunctivitis is caused by a virus or bacteria, it can be contagious to other dogs. If the cause is allergies or an irritant, it is not contagious. It is best to keep your dog separated from other pets until a diagnosis is made."
+    },
+    {
+      "question": "How do vets usually treat conjunctivitis?",
+      "answer": "Treatment depends on the underlying cause. Vets commonly prescribe medicated eye drops or ointments containing antibiotics, anti-inflammatories, or antihistamines to clear the irritation."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

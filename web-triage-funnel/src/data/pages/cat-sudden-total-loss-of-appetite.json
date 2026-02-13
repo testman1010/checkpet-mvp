@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Loss of Appetite: Causes, Urgency, and Next Steps",
+  "meta_desc": "Is your cat suddenly refusing food? Learn about the risks of feline anorexia, when to see a vet, and how photo triage helps identify the cause.",
+  "content_html": "<h3>What is Sudden Loss of Appetite in Cats?</h3><p>Sudden loss of appetite, also known as feline anorexia, occurs when a cat unexpectedly refuses all food. This is not a specific disease itself but rather a clinical sign that your cat is experiencing an underlying health issue. Because cats are masters at masking pain, a refusal to eat is often one of the first visible signals that something is wrong, ranging from dental pain to internal metabolic issues.</p><h3>Is It an Emergency?</h3><p>The urgency level for a total loss of appetite is Medium. While one missed meal may not be an immediate life-threatening crisis, cats are unique in that their metabolism can fail quickly without caloric intake. If a cat goes more than 24 to 48 hours without eating, they are at high risk for Hepatic Lipidosis (fatty liver disease), which is a serious and potentially fatal condition. You should contact your veterinarian if the fast persists beyond a single day.</p><h3>Why a Photo Helps Triage</h3><p>When consulting with a veterinary professional, providing a photo or short video can be a vital diagnostic tool. A clear photo of your cat's gums can reveal if they are pale, red, or yellow (jaundice), while a photo of any vomitus or the specific way your cat is 'hunching' can provide clues about nausea or abdominal pain. These visual markers allow a triage assistant to better categorize the severity of your cat's condition.</p>",
+  "faqs": [
+    {
+      "question": "How long can a cat go without eating before it becomes dangerous?",
+      "answer": "A cat should never go more than 24-48 hours without food. After this period, their body begins to move fat to the liver for energy, which can lead to liver failure."
+    },
+    {
+      "question": "Can stress cause my cat to stop eating suddenly?",
+      "answer": "Yes, significant changes in the environment, such as moving or a new pet, can cause stress-induced anorexia. However, medical causes must be ruled out first by a veterinarian."
+    },
+    {
+      "question": "What should I look for besides a lack of appetite?",
+      "answer": "Watch for lethargy, hiding, vomiting, changes in water consumption, or yellowing of the skin and eyes. These symptoms help the vet determine the underlying cause."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

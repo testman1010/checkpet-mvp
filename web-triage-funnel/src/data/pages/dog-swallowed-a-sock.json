@@ -1,0 +1,20 @@
+{
+  "title": "Help! My Dog Swallowed a Sock: Emergency Veterinary Triage Guide",
+  "meta_desc": "If your dog swallowed a sock, it is a high-priority emergency. Learn why immediate veterinary care is vital and how to assist your vet with photos.",
+  "content_html": "<h3>What Is Gastrointestinal Foreign Body Ingestion?</h3><p>When a dog swallows a non-food item like a sock, it is referred to as foreign body ingestion. Unlike food, fabric does not break down in the digestive tract. A sock can become lodged in the stomach or create a life-threatening obstruction in the small intestines, preventing the passage of food and fluids.</p><h3>Is It an Emergency?</h3><p>Yes. The urgency level for this situation is High. While some small items may pass, a sock is often large enough to cause a complete blockage. If left untreated, this can lead to dehydration, bowel necrosis, or even a ruptured intestine. You should contact your veterinarian or the nearest emergency animal hospital immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you have the matching pair to the swallowed sock, or a similar item, please take a clear photo of it. Providing this image to your veterinary team is incredibly helpful for triage. It allows the doctor to assess the size, texture, and thickness of the material, which helps them decide whether to induce vomiting, perform an endoscopy, or prepare for emergency surgery.</p>",
+  "faqs": [
+    {
+      "question": "Can a dog pass a sock on their own?",
+      "answer": "While it is physically possible for some large dogs to pass small socks, the risk of a life-threatening obstruction is extremely high. You should never 'wait and see' without professional medical advice."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian. Socks can become stuck in the esophagus or cause choking when coming back up, making the situation much worse."
+    },
+    {
+      "question": "What are the signs of a blockage?",
+      "answer": "Common symptoms include repeated vomiting, loss of appetite, lethargy, abdominal pain, and straining to have a bowel movement."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

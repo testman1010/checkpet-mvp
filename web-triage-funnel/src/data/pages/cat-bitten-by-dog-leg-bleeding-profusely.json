@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat Bitten by Dog and Bleeding Profusely",
+  "meta_desc": "Immediate triage steps for a cat with a bleeding leg wound from a dog bite. This is a high-urgency emergency requiring immediate veterinary care.",
+  "content_html": "<h3>What Is Happening?</h3><p>A dog bite on a cat's leg that results in profuse bleeding indicates that the bite has likely punctured a major blood vessel or caused significant soft tissue trauma. Dog bites are unique because they involve both crushing forces and sharp punctures, often creating 'iceberg' injuries where the damage beneath the skin is much worse than it appears on the surface.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. Profuse bleeding can lead to hypovolemic shock and death if not controlled. Additionally, dog mouths contain bacteria that can cause severe infection (sepsis) if the wounds are not professionally cleaned and treated with antibiotics within the first few hours.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so without delaying your trip to the clinic, a clear photo of the wound helps the veterinary team prepare for your arrival. A photo allows the triage nurse to see the wound's location and severity before it is covered by bandages, helping them prioritize your cat's care and gather the necessary surgical or stabilization supplies in advance.</p>",
+  "faqs": [
+    {
+      "question": "How do I stop the bleeding on the way to the vet?",
+      "answer": "Apply firm, continuous pressure to the wound using a clean cloth or sterile gauze. Do not lift the cloth to check if it has stopped, as this can break the clot. Avoid using a tourniquet unless specifically instructed by a professional."
+    },
+    {
+      "question": "Can I give my cat human pain medication?",
+      "answer": "No. Never give your cat human medications like Tylenol (acetaminophen) or Advil (ibuprofen), as these are highly toxic to cats and can be fatal."
+    },
+    {
+      "question": "The bleeding stopped; do I still need to go to the vet?",
+      "answer": "Yes. Even if bleeding stops, the risk of infection and internal tissue damage from a dog bite remains extremely high. Professional cleaning and assessment are mandatory."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

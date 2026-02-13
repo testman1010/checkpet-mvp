@@ -1,0 +1,20 @@
+{
+  "title": "Dog Explosive Watery Diarrhea: Triage Guide and Next Steps",
+  "meta_desc": "Is your dog suffering from sudden, explosive diarrhea? Learn about the causes, urgency levels, and why a photo of the stool is vital for your vet.",
+  "content_html": "<h3>What is Explosive Watery Diarrhea?</h3><p>Explosive watery diarrhea in dogs is characterized by the sudden, forceful, and liquid evacuation of the bowels. It often occurs when the intestines are irritated, causing them to move contents through the digestive tract too quickly to absorb water. Common causes include dietary indiscretion (eating something they shouldn't have), sudden changes in food, intestinal parasites, bacterial infections, or viral illnesses like parvovirus.</p><h3>Is it an Emergency?</h3><p>The urgency level for explosive watery diarrhea is generally classified as Medium. While a single episode in an otherwise happy, active dog may not be a crisis, the risk of rapid dehydration is high due to the significant fluid loss. If your dog is lethargic, vomiting, has a tense abdomen, or if the diarrhea contains blood, the urgency increases to high, and you should contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>It may feel strange, but taking a clear photo of the stool can be incredibly helpful for your veterinary team. Visual information regarding the color, consistency, and the presence of mucus or blood helps the vet determine the likely location of the inflammation in the GI tract. This allows them to triage your dog more effectively over the phone or upon arrival, ensuring they receive the correct priority of care.</p>",
+  "faqs": [
+    {
+      "question": "How can I tell if my dog is dehydrated?",
+      "answer": "Check your dog's gums; they should be pink and moist. If they feel tacky or dry, or if the skin on the back of their neck doesn't snap back quickly when pinched, your dog is likely dehydrated."
+    },
+    {
+      "question": "Should I withhold food if my dog has diarrhea?",
+      "answer": "Historically, a 12-24 hour fast was recommended, but current veterinary advice often suggests a bland diet instead. Always consult your vet before changing or withholding food."
+    },
+    {
+      "question": "What does blood in the diarrhea mean?",
+      "answer": "Bright red blood usually indicates inflammation in the lower colon, while dark, tarry stool suggests bleeding in the upper GI tract. Both require a veterinary examination."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

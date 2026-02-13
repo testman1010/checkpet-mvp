@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Swallowed a Small Plastic Toy: Emergency Guide & Next Steps",
+  "meta_desc": "Swallowed plastic can be dangerous for dogs. Learn what to do, signs of a blockage, and how to help your vet triage the situation effectively.",
+  "content_html": "<h3>What is Foreign Body Ingestion?</h3><p>Foreign body ingestion occurs when a dog swallows a non-food item, such as a small plastic toy. Plastic is particularly concerning because it is indigestible. Depending on the size, shape, and sharpness of the toy, it can either pass through the digestive tract safely or become lodged, leading to a potentially serious gastrointestinal obstruction.</p><h3>Is it an Emergency?</h3><p>The urgency level for a swallowed plastic toy is Medium. While it may not be an immediate life-threatening emergency if your dog is still acting normally, you should contact a veterinarian within the hour. Prompt action is required because certain items can be safely removed from the stomach via induced vomiting or endoscopy before they move into the intestines, where surgery becomes the only option.</p><h3>Why a Photo Helps Triage</h3><p>If you have an identical toy or can find a photo of the object online, show it to your veterinarian. A photo helps the medical team determine the object’s dimensions and whether it has sharp edges that could puncture the digestive lining. Knowing the exact material and shape also helps the vet decide if the object will be visible on an X-ray or if an ultrasound is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without a veterinarian's explicit instruction. If the plastic toy is sharp or large, bringing it back up could cause severe damage to the esophagus."
+    },
+    {
+      "question": "What symptoms indicate a serious blockage?",
+      "answer": "Seek immediate emergency care if your dog experiences repeated vomiting, loss of appetite, abdominal pain, or an inability to keep down water."
+    },
+    {
+      "question": "Can a small plastic toy pass on its own?",
+      "answer": "Very small, smooth plastic objects may pass through the stool within 24 to 72 hours, but this should only be monitored under the guidance of a vet to ensure no internal damage occurs."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat or Kitten Eating Clay Litter: Causes and Veterinary Triage Guide",
+  "meta_desc": "Is your kitten eating clay litter? Learn about pica, the risks of intestinal blockages, and when to seek veterinary care immediately.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat or kitten eats non-food items like clay litter, it is a condition known as pica. This behavior can be caused by behavioral issues, boredom, or more commonly, underlying medical problems such as anemia, nutritional deficiencies, or gastrointestinal distress. In kittens, it is sometimes a result of simple curiosity, but it must be addressed quickly to prevent health complications.</p><h3>Is It an Emergency?</h3><p>The urgency level for eating clay litter is Medium. While a single small granule may pass, clay litter—especially the clumping variety containing sodium bentonite—is designed to expand and harden when it contacts liquid. This can lead to life-threatening internal blockages or dehydration. If your cat is also lethargic, vomiting, or has lost their appetite, you should contact a veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>When consulting a vet or a triage professional, providing a photo of both the litter packaging and your cat's recent stool is incredibly helpful. Seeing the specific ingredients and texture of the litter allows the vet to assess the risk of clumping in the gut, while photos of stool can help determine if the material is successfully passing through the digestive tract or if a blockage is forming.</p>",
+  "faqs": [
+    {
+      "question": "Why is clumping clay litter dangerous if eaten?",
+      "answer": "Clumping litter contains sodium bentonite, which expands significantly when moist. If ingested, it can form a cement-like mass in the intestines, causing a physical obstruction."
+    },
+    {
+      "question": "What should I do immediately if I see my kitten eating litter?",
+      "answer": "Remove the litter box immediately and replace the clay litter with a non-toxic, non-clumping alternative like recycled paper pellets while you consult with a veterinarian."
+    },
+    {
+      "question": "Could my cat be eating litter because of a vitamin deficiency?",
+      "answer": "Yes, cats suffering from anemia or deficiencies in minerals like iron or magnesium may instinctually seek out these nutrients by eating clay or soil."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "What to Do if Your Dog Ate a Marijuana Edible: A Triage Guide",
+  "meta_desc": "If your dog ate a cannabis edible, learn about toxicity symptoms, urgency levels, and how to help your vet provide the best care.",
+  "content_html": "<h3>What is Marijuana Toxicity in Dogs?</h3><p>Marijuana toxicity in pets occurs when a dog ingests THC (tetrahydrocannabinol), the psychoactive compound found in cannabis. Edibles present a double risk: they often contain high concentrations of THC and may also contain other ingredients toxic to dogs, such as chocolate, raisins, or the artificial sweetener xylitol.</p><h3>Is it an Emergency?</h3><p>The urgency level for marijuana ingestion is typically Medium. While cannabis ingestion is rarely fatal on its own, it can cause significant distress and physiological changes. Symptoms often include 'drunken' movement, extreme lethargy, dribbling urine, and sensitivity to light or sound. You should contact a veterinarian immediately for guidance, as they may need to monitor your dog's heart rate and temperature.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging of the edible your dog consumed, please take a clear photo of the ingredients and the THC content (usually measured in milligrams). This information is vital for triage because it helps the veterinary team calculate the exact dose your dog received and identify if other life-threatening toxins, like chocolate or xylitol, are present.</p>",
+  "faqs": [
+    {
+      "question": "How long will it take for my dog to show symptoms?",
+      "answer": "Symptoms usually begin to appear within 30 to 90 minutes after ingestion, though they can persist for 12 to 24 hours because THC is stored in the body's fat cells."
+    },
+    {
+      "question": "Can I treat my dog for marijuana toxicity at home?",
+      "answer": "You should never attempt to treat your dog at home without professional advice. Do not induce vomiting unless specifically instructed by a vet, as marijuana can suppress the gag reflex, increasing the risk of aspiration pneumonia."
+    },
+    {
+      "question": "Will my vet report me for my dog eating marijuana?",
+      "answer": "Veterinarians are medical professionals focused on the health of your pet, not law enforcement. Being honest about what your dog ate is essential for providing the correct, life-saving treatment."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

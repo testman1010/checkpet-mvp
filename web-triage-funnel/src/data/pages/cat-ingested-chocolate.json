@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Chocolate: Emergency Triage Guide & Toxicity Risks",
+  "meta_desc": "Is chocolate toxic to cats? Learn why chocolate ingestion is a high-priority veterinary emergency and what steps to take immediately for your pet.",
+  "content_html": "<h3>What is chocolate toxicity in cats?</h3><p>Chocolate contains two compounds that are highly toxic to felines: theobromine and caffeine. While humans can process these substances easily, cats metabolize them very slowly. This allows toxic levels to build up in their system, affecting their central nervous system, heart, and kidneys.</p><h3>Is this a veterinary emergency?</h3><p>Yes. The urgency level for chocolate ingestion is <strong>High</strong>. Because cats are much smaller than most dogs, even a tiny amount of dark chocolate or baking cocoa can lead to life-threatening complications. You should contact an emergency veterinarian or a pet poison helpline immediately if you suspect your cat has consumed any amount of chocolate.</p><h3>Why a photo helps triage</h3><p>If you can, take a clear photo of the product packaging, specifically the ingredients list and the weight of the item. Showing this to your veterinarian allows them to calculate the exact concentration of theobromine your cat may have ingested. Different types of chocolate—such as white, milk, dark, or semi-sweet—carry significantly different levels of risk, and a photo helps the medical team prepare the correct treatment plan before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of chocolate poisoning in cats?",
+      "answer": "Common symptoms include vomiting, diarrhea, increased thirst, restlessness, rapid breathing, tremors, and a high heart rate."
+    },
+    {
+      "question": "Which type of chocolate is the most dangerous?",
+      "answer": "Baking chocolate and dark chocolate are the most dangerous because they contain the highest concentrations of theobromine. Milk chocolate is less concentrated but still poses a severe risk."
+    },
+    {
+      "question": "Can I wait to see if my cat acts sick?",
+      "answer": "No. Symptoms can take several hours to appear, but by that time, the toxins may have already been absorbed into the bloodstream. Early intervention is critical for a positive outcome."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

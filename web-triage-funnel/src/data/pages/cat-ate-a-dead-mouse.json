@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate a Dead Mouse: Risks, Symptoms, and Triage Advice",
+  "meta_desc": "If your cat ate a dead mouse, they could be at risk for parasites or secondary poisoning. Learn what to watch for and when to call a vet.",
+  "content_html": "<h3>What is it?</h3><p>When a cat consumes a dead mouse, they are ingesting a potential host for various biological and chemical hazards. This behavior, while natural for felines, exposes them to risks including intestinal parasites (like roundworms and toxoplasmosis), bacterial infections such as Salmonella, and the dangerous possibility of secondary rodenticide poisoning if the mouse had recently eaten bait.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat eating a dead mouse is generally categorized as Medium. While many cats will process the meal without issue, the situation becomes an emergency if the mouse was killed by poison. You should monitor your cat closely for the next 72 hours. Immediate veterinary attention is required if you observe lethargy, pale gums, unusual bleeding, vomiting, or loss of coordination.</p><h3>Why a photo helps triage</h3><p>Capturing a photo of the rodent (if any remains) or the cat’s vomit can be a vital diagnostic tool. A veterinarian can use the photo to identify the species of the rodent, which carries different parasite risks, and look for physical signs that the mouse may have been affected by anticoagulant poisons, such as unusual bruising or bleeding on the carcass.</p>",
+  "faqs": [
+    {
+      "question": "Can my cat get sick from a single mouse?",
+      "answer": "Yes, even one mouse can transmit parasites like tapeworms or roundworms, or cause gastrointestinal upset due to the bacteria present in decaying tissue."
+    },
+    {
+      "question": "What is secondary rodenticide poisoning?",
+      "answer": "This occurs when a cat eats a mouse that has recently ingested rat poison. The toxins in the mouse's system can then transfer to your cat, potentially causing internal bleeding or organ failure."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting in a cat at home unless specifically instructed to do so by a licensed veterinarian, as this can lead to aspiration pneumonia or esophageal damage."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

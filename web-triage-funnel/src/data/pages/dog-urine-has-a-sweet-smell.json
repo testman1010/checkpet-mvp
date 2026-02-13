@@ -1,0 +1,20 @@
+{
+  "title": "Why Does My Dog's Urine Smell Sweet? | Veterinary Triage Guide",
+  "meta_desc": "Discover why your dog's urine might smell sweet, the urgency level for a vet visit, and how to help your veterinarian with a diagnosis.",
+  "content_html": "<h3>What Does Sweet-Smelling Urine Mean?</h3><p>If you notice a sweet or fruity odor when your dog urines, it is often an indication of glucose (sugar) or ketones in the urine. This is a classic clinical sign of Diabetes Mellitus. When a dog's blood sugar levels are too high, the kidneys cannot reabsorb the excess glucose, and it spills into the urine. In some instances, specific types of bacteria in a urinary tract infection can also produce a sweet or unusual scent.</p><h3>Is This an Emergency?</h3><p>The urgency level for sweet-smelling urine is typically Low. If your dog is eating, drinking, and acting normally otherwise, this is not an immediate life-threatening emergency. However, it does require a veterinary appointment within the next day or two for a urinalysis and blood work. If your dog is also vomiting, extremely lethargic, or has a complete loss of appetite, this could indicate a complication called Diabetic Ketoacidosis (DKA), which is a high-priority emergency.</p><h3>Why a Photo Helps Triage</h3><p>While a photo cannot capture a scent, providing your vet with a clear image of the urine on a neutral background (like a puppy pad or concrete) is very helpful. A photo allows the medical team to assess the color, clarity, and volume of the sample. For example, very pale, clear urine combined with a sweet smell strongly suggests a dilute sample common in diabetic patients, whereas cloudy urine might point toward an infection.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait a few weeks to see if the smell goes away?",
+      "answer": "It is not recommended to wait. Conditions like diabetes are progressive and can lead to serious complications like cataracts or organ damage if left untreated."
+    },
+    {
+      "question": "Will a sweet smell always mean my dog has diabetes?",
+      "answer": "While diabetes is the most common cause, other factors like urinary tract infections or rare metabolic issues can also alter the scent of urine."
+    },
+    {
+      "question": "What other symptoms should I look for?",
+      "answer": "Keep an eye out for increased thirst (polydipsia) and increased frequency of urination (polyuria), as these often accompany sweet-smelling urine."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

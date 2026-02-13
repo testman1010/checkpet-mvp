@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Has Not Eaten for 48 Hours: Is It an Emergency?",
+  "meta_desc": "If your cat hasn't eaten for 48 hours, they are at risk for liver failure. Learn why this is a high-urgency emergency and what steps to take now.",
+  "content_html": "<h3>Understanding Anorexia in Cats</h3><p>When a cat refuses food entirely for an extended period, it is referred to clinically as anorexia. This is not a primary disease but a symptom of an underlying issue, ranging from dental pain and gastrointestinal blockage to kidney disease or metabolic stress. Because cats are obligate carnivores, their bodies handle fasting very poorly compared to other animals.</p><h3>Urgency Level: High</h3><p>A cat refusing food for over 48 hours is a medical emergency. The primary concern is Hepatic Lipidosis, or fatty liver disease. When a cat stops eating, their body begins mobilizing fat stores to the liver to convert into energy. However, a cat's liver is not designed to process large amounts of fat efficiently. This causes fat to accumulate in the liver cells, leading to liver failure. This process can begin in as little as 2 to 3 days of not eating, making immediate veterinary intervention critical.</p><h3>How a Photo Helps Triage</h3><p>Sharing a photo or video of your cat with a veterinary professional can provide vital diagnostic clues during a triage assessment. A clear photo of your cat's eyes and gums can help a vet check for jaundice (a yellow tint indicating liver distress) or pale membranes (indicating anemia or shock). A video showing your cat's posture—such as a 'hunched' position—can help determine if they are in physical pain or experiencing abdominal discomfort. These visual cues help the medical team prioritize your cat's care upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait one more day if my cat is still drinking water?",
+      "answer": "No. While hydration is important, water does not prevent the onset of hepatic lipidosis. Any cat that has been anorexic for 48 hours requires an immediate physical exam."
+    },
+    {
+      "question": "What are the early signs of liver failure in cats?",
+      "answer": "Common signs include yellowing of the whites of the eyes, gums, or skin (icterus), extreme lethargy, drooling, and sometimes vomiting."
+    },
+    {
+      "question": "Should I try to force-feed my cat?",
+      "answer": "Do not attempt to force-feed your cat with a syringe unless specifically instructed by a veterinarian, as this can cause aspiration pneumonia or food aversion."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

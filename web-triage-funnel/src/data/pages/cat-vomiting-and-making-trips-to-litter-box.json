@@ -1,0 +1,20 @@
+{
+  "title": "Cat Vomiting and Frequent Litter Box Trips: Emergency Triage Guide",
+  "meta_desc": "Is your cat vomiting and straining at the litter box? This guide explains why this high-priority emergency requires immediate veterinary care.",
+  "content_html": "<h3>What is happening?</h3><p>When a cat exhibits both vomiting and frequent, unsuccessful trips to the litter box, it is often a sign of a severe medical crisis. This combination of symptoms can indicate a gastrointestinal obstruction or, more dangerously, a urinary blockage. A urinary blockage is most common in male cats and occurs when the urethra is obstructed, preventing the cat from passing urine. This causes toxins to build up in the bloodstream, leading to nausea and vomiting.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. This is a life-threatening emergency. If your cat is straining to urinate and cannot produce a stream, or if they are crying out in pain while in the litter box, they may have a total obstruction. Without immediate veterinary intervention, a blocked cat can suffer from kidney failure, a ruptured bladder, or heart failure due to potassium imbalance within 24 to 48 hours. Do not wait for symptoms to improve; contact an emergency vet immediately.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo of the litter box can be a vital diagnostic tool. A clear image of any produced waste, or the lack thereof, helps the medical team determine if there is blood in the urine or if the cat is only passing small droplets. Additionally, a photo of the vomit can help the vet identify the presence of foreign materials or bile, allowing them to prioritize your cat's care the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until morning to see my regular vet?",
+      "answer": "No. If your cat is vomiting and unable to urinate, they are in a critical state. Delaying care by even a few hours can result in irreversible organ damage or death."
+    },
+    {
+      "question": "What if my cat is just constipated?",
+      "answer": "It is very difficult for owners to tell the difference between straining to poop and straining to pee. Because a urinary blockage is fatal and constipation is usually not, vets must treat this as a urinary emergency until proven otherwise."
+    },
+    {
+      "question": "Are there any home remedies for this?",
+      "answer": "There are no safe home remedies for a suspected blockage or severe vomiting. Attempting to provide food, water, or over-the-counter medicine can worsen the condition and delay life-saving treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

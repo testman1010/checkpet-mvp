@@ -1,0 +1,20 @@
+{
+  "title": "My Dog is Pawing at Their Face and Eye: Causes and Triage Steps",
+  "meta_desc": "Is your dog pawing at their eye? Learn about potential causes, why it is a medium-urgency concern, and how photos help your vet with triage.",
+  "content_html": "<h3>What is it?</h3><p>When a dog repeatedly paws at their face or eye, it is a clear sign of localized discomfort, itching, or pain. This behavior is often an instinctive reaction to irritation. Common culprits include environmental allergies, a foreign object like a grass seed trapped under the eyelid, or a corneal ulcer, which is a scratch on the clear surface of the eye. Because the eye is such a sensitive organ, even a small irritant can feel very distressing to your pet.</p><h3>Is it an emergency?</h3><p>The urgency level for this issue is Medium. While pawing at the face is not typically an immediate life-threatening crisis, eye conditions are notoriously fragile and can deteriorate quickly. If your dog is squinting, has excessive tearing, or if the eye looks cloudy or red, you should seek veterinary care within 24 hours. Immediate intervention prevents the dog from causing self-inflicted trauma, such as a deep scratch from their own claws.</p><h3>Why a photo helps triage</h3><p>Capturing a clear, well-lit photo of the affected eye can be an invaluable tool for your veterinary team. A high-quality image allows a professional to look for signs of swelling, the presence of discharge, or visible debris without immediately stressing the dog with a physical exam. It also serves as a baseline to monitor if the inflammation is progressing. When taking a photo, try to use natural light and avoid using a harsh flash, as this can be painful for a dog already experiencing light sensitivity.</p>",
+  "faqs": [
+    {
+      "question": "Should I let my dog continue rubbing their eye?",
+      "answer": "No, you should prevent them from rubbing immediately. Using an Elizabethan collar (cone) is the best way to stop them from causing further damage to the cornea while you wait for a vet appointment."
+    },
+    {
+      "question": "Can I use human saline solution to rinse the eye?",
+      "answer": "A simple, preservative-free saline rinse can sometimes help flush out debris, but you should never use medicated human eye drops, as these can contain ingredients that are harmful to dogs."
+    },
+    {
+      "question": "What are the signs that this has become a high-priority emergency?",
+      "answer": "If the eye appears to be bulging, if there is a sudden change in pupil size, or if your dog is showing signs of extreme lethargy and pain, you should contact an emergency 24-hour clinic immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

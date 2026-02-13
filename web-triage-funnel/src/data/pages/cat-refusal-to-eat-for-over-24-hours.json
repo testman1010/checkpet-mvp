@@ -1,0 +1,20 @@
+{
+  "title": "Cat Refusal to Eat for 24+ Hours: A Veterinary Triage Guide",
+  "meta_desc": "If your cat hasn't eaten in 24 hours, it is a high-priority emergency. Learn about the risks of Hepatic Lipidosis and when to seek immediate care.",
+  "content_html": "<h3>What is Feline Inappetence?</h3><p>When a cat refuses to eat, it is medically referred to as anorexia or inappetence. In felines, this is not merely a sign of being a 'picky eater.' It is a significant clinical symptom indicating that your cat may be experiencing pain, metabolic distress, or a severe underlying illness. Because of their unique biology, cats cannot safely go without food as long as other species can.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, a cat not eating for 24 hours is considered a medical emergency. Cats are uniquely susceptible to a condition called Hepatic Lipidosis, or Fatty Liver Disease. When a cat's body stops receiving calories, it begins to move fat to the liver to be processed into energy. A cat's liver is not designed to handle this volume of fat, which can lead to liver failure and death if not treated aggressively and early.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting with a remote triage service or preparing to head to the clinic, a photo can be a vital diagnostic tool. A clear photo of your cat’s face can help a professional check for sunken eyes (dehydration) or yellowing of the whites of the eyes and ears (jaundice/icterus). Additionally, a photo of your cat's resting posture can show if they are 'hunched' in pain. These visual cues help the veterinary team determine the severity of your cat’s condition before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "My cat is still drinking water; do I still need to worry?",
+      "answer": "Yes. While staying hydrated is helpful, it does not prevent the onset of Hepatic Lipidosis. The lack of protein and caloric intake is what triggers liver distress in cats."
+    },
+    {
+      "question": "Should I try different brands of food first?",
+      "answer": "You can briefly offer a highly palatable 'treat' food (like plain canned tuna in water or meat-based baby food without onions/garlic), but if they refuse this, do not delay seeking veterinary care."
+    },
+    {
+      "question": "What are other symptoms I should look for?",
+      "answer": "Watch for lethargy, hiding, vomiting, or any changes in litter box habits. These symptoms, combined with a refusal to eat, increase the urgency for an immediate exam."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Inflamed Red Skin Between Toes: Triage and Care Guide",
+  "meta_desc": "Noticing redness between your cat's toes? Learn about causes like pododermatitis, urgency levels, and how to help your feline friend recover.",
+  "content_html": "<h3>What is it?</h3><p>Inflammation of the skin between a cat's toes is a condition often referred to as pododermatitis. This redness can be caused by a variety of factors, including environmental or food allergies, bacterial or yeast infections, or trauma from a foreign object like a splinter. In some cases, it may also be linked to autoimmune disorders or parasitic infestations like mites.</p><h3>Is it an emergency?</h3><p>The urgency level for red skin between the toes is <strong>Medium</strong>. While it is rarely an immediate life-threatening emergency, it is a significant comfort issue. Cats often exacerbate the problem by over-grooming or biting the area, which can lead to painful secondary infections. You should aim to see a veterinarian within 24 to 48 hours, especially if your cat is limping, the area is oozing, or there is a noticeable odor.</p><h3>Why a photo helps triage</h3><p>Taking a clear, high-resolution photo of the affected paw can be a vital tool for your veterinary team. A photo allows a professional to see the exact distribution of the redness, check for visible swellings or discharge, and monitor changes over time. During a remote triage, this image helps determine if your cat needs to be seen immediately or if there are safe at-home steps you can take to keep them comfortable until your appointment.</p>",
+  "faqs": [
+    {
+      "question": "Can I put human antibiotic ointment on my cat's paw?",
+      "answer": "No, you should avoid using human medications. Many topical ointments contain ingredients like zinc or lidocaine that are toxic to cats if they lick the area."
+    },
+    {
+      "question": "Should I wrap my cat's paw if it is red?",
+      "answer": "It is generally best not to wrap the paw unless directed by a vet. Wrapping can trap moisture and heat, which may allow bacteria and yeast to grow faster."
+    },
+    {
+      "question": "How can I stop my cat from licking the area?",
+      "answer": "An Elizabethan collar (the 'cone of shame') is the most effective way to prevent your cat from further irritating the skin and causing a secondary infection."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

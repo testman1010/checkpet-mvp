@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Cat Stops Breathing (Apnea)",
+  "meta_desc": "If your cat has stopped breathing, this is a critical medical emergency. Follow these steps and seek immediate veterinary care.",
+  "content_html": "<h3>What is Cat Apnea?</h3><p>Apnea is the medical term for the complete cessation of breathing. When a cat stops breathing, oxygen is no longer reaching their vital organs, which can lead to rapid organ failure and death. This condition is distinct from dyspnea (difficulty breathing) as it involves a total lack of respiratory movement.</p><h3>Is it an Emergency?</h3><p>Yes. This is a life-threatening emergency with the highest level of urgency. If your cat is not breathing, every second is critical. You must immediately transport your cat to the nearest emergency veterinary hospital. Call them while you are en route so they can prepare for your arrival.</p><h3>Why a Photo or Video Helps Triage</h3><p>While your primary focus must be getting to a vet, a short video of the event can provide invaluable clues to the medical team. It helps veterinarians determine if the episode was a primary respiratory arrest, a cardiac event, or a neurological issue like a seizure. If it is safe to do so without delaying your departure, showing a video to the triage team helps them choose the most effective life-saving interventions immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "How can I tell for sure if my cat is breathing?",
+      "answer": "Look closely at the chest for any rise and fall. You can also place a clear piece of plastic or a small mirror in front of their nose to check for condensation, or feel for a pulse just behind the left elbow."
+    },
+    {
+      "question": "Should I attempt CPR on my cat?",
+      "answer": "If your cat is unresponsive and not breathing, you can attempt chest compressions and rescue breaths (mouth-to-snout). However, you should only perform these actions while someone else is driving you to the emergency clinic, as professional medical equipment is required to stabilize the cat."
+    },
+    {
+      "question": "What are common causes of sudden apnea in cats?",
+      "answer": "Sudden breathing cessation can be caused by various factors including foreign body airway obstruction (choking), severe allergic reactions, heart failure, or blunt force trauma."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

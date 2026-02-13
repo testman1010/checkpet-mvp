@@ -1,0 +1,20 @@
+{
+  "title": "Cat Non-Healing Nose Ulcer: Triage and Urgent Care Guide",
+  "meta_desc": "A non-healing lesion on a cat's nose is a high-priority concern. Learn about potential causes like SCC and why early photo triage is essential.",
+  "content_html": "<h3>What is a Non-Healing Ulcerated Lesion?</h3><p>A non-healing ulcerated lesion on the nose is a persistent open sore that fails to resolve through the body's natural healing process. In cats, these often appear as raw, crusty, or bleeding areas that may temporarily scab over but never fully disappear. While they can be caused by chronic infections or inflammatory conditions like eosinophilic granuloma complex, they are frequently a sign of Squamous Cell Carcinoma (SCC), a common and invasive skin cancer particularly prevalent in cats with white or light-colored noses.</p><h3>Urgency Level: High</h3><p>This condition is classified as high urgency. While it may not be an immediate respiratory emergency, a non-healing ulcer represents a progressive process that requires a definitive diagnosis as soon as possible. These lesions are often painful and, if left untreated, can lead to significant tissue destruction and the spread of disease. Early detection is the single most important factor in successfully managing nose lesions and preventing the need for more invasive surgical procedures.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photograph to your veterinarian can significantly speed up the triage process. A clear image allows the clinical team to evaluate the lesion's margins, depth, and overall appearance before you even arrive. This helps them determine if the case requires an urgent biopsy or specialized diagnostic equipment, ensuring your cat receives the correct level of priority and care immediately upon arrival at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat's nose lesion be cancer?",
+      "answer": "Yes, Squamous Cell Carcinoma is a common cause of non-healing ulcers on the nose, especially in cats with white fur. A biopsy is usually required to confirm this diagnosis."
+    },
+    {
+      "question": "Can I use an over-the-counter ointment on the sore?",
+      "answer": "It is best to avoid applying any creams or ointments before a vet visit. Some human medications are toxic to cats, and creams can interfere with the veterinarian's ability to get an accurate sample for testing."
+    },
+    {
+      "question": "What diagnostic tests will the vet perform?",
+      "answer": "The vet will likely recommend an impression smear (looking at cells under a microscope) or a tissue biopsy to determine if the lesion is cancerous, infectious, or inflammatory."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

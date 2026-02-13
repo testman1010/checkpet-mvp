@@ -1,0 +1,20 @@
+{
+  "title": "Sudden Dog Aggression or Rage Syndrome: Triage Guide for Pet Owners",
+  "meta_desc": "Is your dog showing sudden, unprovoked rage? Learn about causes, safety protocols, and why this high-urgency situation requires immediate vet care.",
+  "content_html": "<h3>Understanding Sudden Unprovoked Aggression</h3><p>Sudden, unprovoked rage in dogs—sometimes referred to as Rage Syndrome or idiopathic aggression—is a serious and frightening event where a dog becomes intensely aggressive without an obvious trigger. During these episodes, a dog may seem to snap out of their normal personality, often exhibiting dilated pupils and a lack of responsiveness to commands. Once the episode ends, the dog may appear confused or overly lethargic.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is <strong>High</strong>. Because the behavior is unpredictable and potentially violent, it poses an immediate safety risk to your household. Furthermore, sudden behavioral changes are often symptoms of underlying medical emergencies, such as neurological disorders, brain tumors, severe hidden pain, or metabolic imbalances. You should contact an emergency veterinarian or a veterinary neurologist immediately to prevent injury and begin a diagnostic workup.</p><h3>Why Video Documentation Helps Triage</h3><p>If you can safely capture a video of the behavior without putting yourself or others in harm's way, it can be an invaluable tool for your veterinarian. Visual evidence allows the doctor to analyze the dog's involuntary movements, facial expressions, and recovery phase. This helps them distinguish between a purely behavioral outburst and a neurological event, such as a focal seizure, which requires a completely different treatment path.</p>",
+  "faqs": [
+    {
+      "question": "What should I do during an episode of rage?",
+      "answer": "Prioritize safety above all else. Do not attempt to touch, soothe, or punish the dog. Quietly leave the room and close the door to create a barrier until the dog has fully calmed down."
+    },
+    {
+      "question": "Can sudden aggression be caused by pain?",
+      "answer": "Yes. Dogs are experts at hiding physical pain. A sudden snap or aggressive episode can be a 'flash' reaction to an internal pang or a specific movement that causes sharp discomfort."
+    },
+    {
+      "question": "Is Rage Syndrome common in specific breeds?",
+      "answer": "While historically associated with certain breeds like English Springer Spaniels, sudden idiopathic aggression can occur in any breed and is often linked to underlying medical or neurological issues rather than genetics alone."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

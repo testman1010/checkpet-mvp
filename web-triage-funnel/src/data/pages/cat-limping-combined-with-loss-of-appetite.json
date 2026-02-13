@@ -1,0 +1,20 @@
+{
+  "title": "Cat Limping and Not Eating: Causes and Triage Guide",
+  "meta_desc": "Is your cat limping and refusing food? Learn about urgency levels, potential causes, and how visual aids help your vet provide the best care.",
+  "content_html": "<h3>What Does It Mean When a Cat Limps and Won't Eat?</h3><p>When a cat experiences a limp combined with a loss of appetite, it typically indicates that the underlying issue is causing significant pain or a systemic response, such as a fever. This dual symptom profile often suggests more than a simple strain; it could point toward a bite wound abscess, an infection, or a more severe musculoskeletal injury that is affecting their overall wellbeing.</p><h3>Urgency Level: Medium</h3><p>This situation is classified as a Medium Urgency level. While a limp on its own might sometimes be monitored, the fact that your cat has stopped eating suggests they are in distress or feeling unwell. You should schedule a veterinary appointment within 24 hours. However, if your cat is also experiencing extreme lethargy, labored breathing, or if the limb appears obviously broken or cold to the touch, you should seek emergency care immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a clear photo of the affected limb or a short video of your cat attempting to walk can be vital for your veterinary team. Visuals allow the vet to see the cat's natural gait before the adrenaline of a clinic visit masks the symptoms. Photos can also capture specific details like swelling, redness, or a small puncture wound that might be hidden by fur during a quick physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat aspirin for the pain?",
+      "answer": "No. Never give your cat human pain medications like aspirin, ibuprofen, or Tylenol, as these are highly toxic to cats and can be fatal."
+    },
+    {
+      "question": "How long can a cat go without eating?",
+      "answer": "A cat should not go more than 24 hours without food, as they are prone to a serious liver condition called hepatic lipidosis when they stop eating."
+    },
+    {
+      "question": "Could a cat bite cause these symptoms?",
+      "answer": "Yes, an infected bite wound often leads to an abscess, which causes both localized lameness and a fever that results in a loss of appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

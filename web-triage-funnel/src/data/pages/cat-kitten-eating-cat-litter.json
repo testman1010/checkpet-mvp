@@ -1,0 +1,20 @@
+{
+  "title": "Why Is My Kitten Eating Cat Litter? Triage Guide for Pet Owners",
+  "meta_desc": "Learn why cats eat litter, the urgency level for this behavior, and how to keep your kitten safe from potential intestinal blockages.",
+  "content_html": "<h3>What is it?</h3><p>When a cat or kitten eats non-food items like cat litter, it is a medical condition known as pica. In young kittens, this behavior is often driven by curiosity and exploration. However, in both kittens and adult cats, eating litter can also be a sign of underlying health issues such as anemia, mineral deficiencies, or gastrointestinal upset. While it may seem like a strange habit, it is often the body's way of signaling a nutritional or medical need.</p><h3>Is it an emergency?</h3><p>The urgency level for this behavior is typically Low, provided your cat is still eating, drinking, and behaving normally. However, it can quickly escalate if the cat ingests a large amount of clumping clay litter, which can expand in the digestive tract and cause a life-threatening blockage. If you notice symptoms such as vomiting, a hard or painful abdomen, lethargy, or a refusal to eat, you should contact a veterinarian immediately.</p><h3>Why a photo helps triage</h3><p>Taking a photo of the litter packaging and the cat's stool can be incredibly helpful for a veterinary professional. Identifying the specific ingredients—such as sodium bentonite (clumping agent), silica, or natural fibers like corn or paper—allows the triage team to determine the risk of internal expansion or toxicity. A photo of the stool can also help identify if the litter is passing through the system or if there are signs of digestive distress.</p>",
+  "faqs": [
+    {
+      "question": "Is clumping litter more dangerous than non-clumping litter?",
+      "answer": "Yes, clumping litter is generally more dangerous if ingested because it is designed to expand and harden when it hits moisture, which can lead to intestinal obstructions."
+    },
+    {
+      "question": "Can anemia cause a cat to eat litter?",
+      "answer": "Yes, cats with anemia often experience cravings for minerals or non-food items (pica) as they try to compensate for their lack of red blood cells or iron."
+    },
+    {
+      "question": "What is the safest litter for a kitten that likes to chew?",
+      "answer": "For kittens still in the exploratory phase, it is best to use non-clumping, natural-based litters made from paper, pine, or wheat, as these are less likely to cause a blockage if a small amount is eaten."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

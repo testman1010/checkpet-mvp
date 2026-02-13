@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chewed Oxygen Absorber: Is It Toxic? | Vet Triage Guide",
+  "meta_desc": "If your dog chewed an oxygen absorber packet, learn about the low toxicity risks, what ingredients are inside, and when to contact your veterinarian.",
+  "content_html": "<h3>What are Oxygen Absorbers?</h3><p>Oxygen absorbers are the small sachets frequently found in food packaging like beef jerky, pet treats, and dried goods. These packets are designed to remove oxygen to prevent spoilage. They typically contain iron powder, sodium chloride (salt), and occasionally activated charcoal or vermiculite. When the iron is exposed to air, it oxidizes (rusts), which effectively traps the oxygen inside the packet.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. While these packets are labeled \"Do Not Eat,\" they are generally considered non-toxic to most dogs. The iron used in these sachets is in an elemental form, which is not easily absorbed by the canine digestive system, unlike the soluble iron found in prenatal vitamins. While your dog may experience mild gastrointestinal upset, such as vomiting or diarrhea, severe iron poisoning is extremely rare from a single packet. The primary concern is often the plastic or paper sachet itself, which could pose a very minor choking or obstruction risk for toy-sized breeds.</p><h3>Why a Photo Helps Triage</h3><p>If you contact a veterinarian or a pet poison helpline, having a photo of the chewed packet is incredibly beneficial. A clear image of the brand name, the size of the packet, and any remaining contents allows the professional to calculate the exact risk based on your dog's weight. Visual confirmation helps differentiate oxygen absorbers from more dangerous silica gel or desiccant packets, ensuring your pet receives the most accurate care instructions possible.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog get iron poisoning from one packet?",
+      "answer": "It is highly unlikely. The elemental iron in oxygen absorbers is poorly absorbed by the GI tract. Iron toxicity usually occurs from ingesting concentrated iron supplements or vitamins."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should not induce vomiting unless specifically instructed to do so by a veterinary professional, as the packet material could cause irritation on the way back up."
+    },
+    {
+      "question": "What symptoms should I look out for?",
+      "answer": "Most dogs show no symptoms, but you should watch for mild vomiting, diarrhea, or a dark color to the stool. If your dog becomes lethargic or refuses food, contact your vet."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

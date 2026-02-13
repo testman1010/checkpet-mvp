@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Acetaminophen: Emergency Guide and Triage Steps",
+  "meta_desc": "If your dog ate acetaminophen (Tylenol), it is a life-threatening emergency. Immediate veterinary care is required to prevent liver failure.",
+  "content_html": "<h3>What is Acetaminophen?</h3><p>Acetaminophen is a common over-the-counter medication used by humans to treat pain and fever, most notably found in the brand Tylenol. While it is a staple in human medicine cabinets, it is extremely dangerous for dogs. Their bodies do not process the drug the same way ours do, leading to the creation of toxic metabolites that destroy liver cells and damage red blood cells.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for acetaminophen ingestion is High. This is a life-threatening medical emergency. Acetaminophen poisoning can cause rapid liver failure and a condition called methemoglobinemia, where the blood can no longer carry oxygen to vital organs. You should not wait for symptoms to appear; immediate veterinary intervention is the only way to improve the prognosis.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a quick, clear photo of the product packaging or the pill bottle before you leave for the clinic. This photo provides the veterinary team with critical information, including the exact strength of the tablets (e.g., 325mg vs 500mg) and whether the medication contained other active ingredients like caffeine or decongestants. This allows the vet to calculate the exact toxic dose and start the correct treatment protocol the moment you arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of acetaminophen poisoning in dogs?",
+      "answer": "Common symptoms include lethargy, difficulty breathing, swollen face or paws, vomiting, and 'muddy' or brownish-colored gums."
+    },
+    {
+      "question": "How much acetaminophen is toxic to a dog?",
+      "answer": "There is no safe dose of human acetaminophen for dogs. Toxicity can occur at doses as low as 50mg per pound of body weight, but smaller amounts can still cause significant liver damage."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian or a pet poison control expert, as it may not be safe depending on your dog's current condition."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

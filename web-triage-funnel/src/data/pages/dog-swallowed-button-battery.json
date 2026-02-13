@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Dog Swallowed a Button Battery",
+  "meta_desc": "Swallowing a button battery is a critical emergency for dogs. Learn the immediate steps to take and why every minute counts for your pet's safety.",
+  "content_html": "<h3>What is Button Battery Ingestion?</h3><p>Button battery ingestion occurs when a dog swallows a small, disc-shaped battery commonly found in watches, remote controls, or hearing aids. These objects are extremely hazardous because they contain caustic chemicals and can generate an electrical current when in contact with moist internal tissues.</p><h3>Is it an Emergency?</h3><p>Yes, this is a High Urgency emergency. You must contact a veterinarian or an emergency animal hospital immediately. Even if the battery does not leak, it can create an electrical circuit that causes severe, localized tissue necrosis (cell death) in the esophagus or stomach in as little as two hours. Do not wait for symptoms to appear, and do not attempt to induce vomiting, as this could cause further chemical burns to the throat.</p><h3>Why a Photo Helps Triage</h3><p>If you have the packaging or an identical battery, take a quick photo to show the veterinarian. Identifying the exact size, voltage, and chemistry (such as lithium vs. alkaline) helps the medical team determine the level of risk and whether the battery requires immediate surgical or endoscopic removal versus close monitoring.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog anything to eat after they swallow a battery?",
+      "answer": "Do not give your dog any food, water, or medication until you have spoken with a veterinarian, as this may complicate necessary sedation or surgery."
+    },
+    {
+      "question": "What are the symptoms of battery damage in dogs?",
+      "answer": "Symptoms include heavy drooling, oral pain, refusal to eat, vomiting, and abdominal sensitivity, though internal damage can occur before any outward signs are visible."
+    },
+    {
+      "question": "Will the battery pass through my dog naturally?",
+      "answer": "While some small batteries may pass, the risk of electrical burns or leaking acid is too high to 'wait and see.' A veterinarian must use X-rays to locate the battery and assess the risk."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

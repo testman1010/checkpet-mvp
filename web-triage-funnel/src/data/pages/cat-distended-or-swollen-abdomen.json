@@ -1,0 +1,20 @@
+{
+  "title": "Cat Distended or Swollen Abdomen: Emergency Triage Guide",
+  "meta_desc": "Is your cat's belly swollen? A distended abdomen can be a life-threatening emergency. Learn the signs, causes, and why you should act now.",
+  "content_html": "<h3>Understanding Abdominal Distension in Cats</h3><p>Abdominal distension refers to a visible enlargement or swelling of a cat's belly. This is not a disease itself but a symptom of an underlying issue, such as fluid accumulation (ascites), organ enlargement, internal masses, or severe gastrointestinal distress. It can develop gradually or appear suddenly, depending on the cause.</p><h3>Urgency Level: High Emergency</h3><p>A distended abdomen is considered a high-priority emergency. If the swelling is accompanied by rapid breathing, lethargy, pale gums, or signs of pain, your cat needs to see a veterinarian immediately. Conditions like internal bleeding, heart failure, or a ruptured organ can cause the abdomen to expand quickly and are life-threatening if not treated within hours.</p><h3>How Photos Help With Triage</h3><p>Capturing a clear photo or a short video of your cat from both a side view and a top-down view can be vital for triage. These visuals allow veterinary professionals to assess the shape of the swelling and look for associated signs of distress, such as labored breathing or an abnormal posture, helping them prioritize your cat's care before you even reach the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can a swollen belly wait until my regular vet opens?",
+      "answer": "Generally, no. Because abdominal distension often involves internal organs or fluid buildup that interferes with breathing and circulation, it is safest to seek emergency care immediately."
+    },
+    {
+      "question": "What are common causes of a distended abdomen in cats?",
+      "answer": "Common causes include Feline Infectious Peritonitis (FIP), heart disease leading to fluid buildup, internal tumors, or acute trauma causing internal bleeding."
+    },
+    {
+      "question": "How can I tell if it is just weight gain?",
+      "answer": "Weight gain usually happens slowly over months and is accompanied by fat deposits elsewhere. Emergency distension often feels firm, looks sudden, and may be painful when touched."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

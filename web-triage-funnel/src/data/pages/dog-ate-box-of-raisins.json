@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Dog Ate a Box of Raisins",
+  "meta_desc": "If your dog ate raisins, it is a medical emergency. Learn why raisins are toxic and why you must contact a veterinarian immediately for treatment.",
+  "content_html": "<h3>What is Raisin Toxicity?</h3><p>Raisins are dried grapes, and both are known to be highly toxic to dogs. While the exact substance causing the reaction is still being researched, ingestion can lead to acute kidney failure. Unlike many other toxins, raisin toxicity is not always dose-dependent, meaning even a small amount can be fatal to some dogs regardless of their size or weight.</p><h3>Is This an Emergency?</h3><p>Yes. This is a high-priority emergency. If your dog has consumed any amount of raisins, you must contact your veterinarian or the nearest emergency animal hospital immediately. Early intervention, such as inducing vomiting and starting fluid therapy, is critical to preventing permanent kidney damage or death.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a quick photo of the raisin box or the specific product packaging. Providing this to your veterinarian helps them confirm the exact product and check for additional toxic ingredients, such as xylitol (an artificial sweetener) or chocolate, which are sometimes found in raisin snacks. It also helps the medical team estimate the maximum volume your dog may have ingested based on the box size.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of raisin poisoning?",
+      "answer": "Early signs often include vomiting within 6 to 12 hours, followed by lethargy, loss of appetite, diarrhea, and abdominal pain."
+    },
+    {
+      "question": "Can I wait to see if my dog gets sick?",
+      "answer": "No. By the time a dog shows clinical signs of raisin poisoning, significant kidney damage may have already occurred. Immediate decontamination is necessary."
+    },
+    {
+      "question": "Are all dogs affected by raisins?",
+      "answer": "While some dogs may appear to have an individual tolerance, there is no way to predict which dogs will develop kidney failure. All ingestions must be treated as toxic."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

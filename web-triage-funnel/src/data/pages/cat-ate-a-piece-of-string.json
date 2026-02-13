@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate String: Is It an Emergency? | Vet Triage Guide",
+  "meta_desc": "If your cat swallowed string, it is a high-priority emergency. Learn about linear foreign bodies and why you should never pull the string yourself.",
+  "content_html": "<h3>What is a Linear Foreign Body?</h3><p>When a cat swallows string, yarn, ribbon, or dental floss, it is referred to as a linear foreign body. Unlike a solid object like a ball, string is particularly dangerous because one end can become anchored (often under the tongue or at the stomach exit) while the rest moves through the digestive tract. This causes the intestines to bunch up like fabric on a drawstring, a condition called plication, which can lead to severe internal lacerations or organ failure.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, ingestion of string is considered a high-urgency emergency. You should not wait for symptoms like vomiting or lethargy to appear, as internal damage may already be occurring. Immediate veterinary intervention is necessary to determine if the string can be safely removed via induced vomiting or endoscopy before it moves into the intestines and requires complex abdominal surgery.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to a piece of the same string or can photograph what is left of the item, please do so. A photo helps the veterinary team assess the length, thickness, and texture of the material. Knowing if the string is abrasive, stretchy, or likely to absorb fluids allows the vet to better predict how it will behave inside your cat's body and choose the safest removal method.</p>",
+  "faqs": [
+    {
+      "question": "Can I pull the string if I see it under my cat's tongue or tail?",
+      "answer": "Absolutely not. Never pull a visible string. If the string is caught internally, pulling it can act like a saw, cutting through the intestines or esophagus and causing fatal internal injuries. Leave it for a veterinarian to handle safely."
+    },
+    {
+      "question": "What are the signs that the string is causing a problem?",
+      "answer": "Common symptoms of a linear blockage include repeated vomiting, loss of appetite, hiding, a painful or tucked-up abdomen, and straining to defecate. However, do not wait for these signs to appear before seeking help."
+    },
+    {
+      "question": "Will the string just pass on its own?",
+      "answer": "While very short pieces of thin thread may occasionally pass, it is extremely risky to assume this will happen. The risk of intestinal bunching and perforation is too high to take a 'wait and see' approach with string."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

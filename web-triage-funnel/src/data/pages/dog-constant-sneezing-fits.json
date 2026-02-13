@@ -1,0 +1,20 @@
+{
+  "title": "Dog Constant Sneezing Fits: Causes and Veterinary Triage Guide",
+  "meta_desc": "Is your dog sneezing constantly? Learn about common causes, urgency levels, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What Are Constant Sneezing Fits?</h3><p>Sneezing is a natural reflex used to clear the nasal passages of irritants. When a dog experiences constant sneezing fits, it typically means there is a persistent irritation in the nasal cavity. This could be caused by environmental allergens like pollen, a viral infection, or even a 'reverse sneeze,' which is a common and usually harmless respiratory event where the dog inhales air rapidly through the nose.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. Most sneezing fits are not medical emergencies and often resolve on their own or with minor treatment. However, if the sneezing is accompanied by a sudden nosebleed, visible distress, or if your dog is pawing frantically at their face, you should contact a veterinarian. Persistent sneezing that lasts for several days without other symptoms should be addressed during a standard scheduled appointment.</p><h3>Why a Photo or Video Helps Triage</h3><p>It is very helpful to capture a video of your dog during a sneezing fit. Because dogs often stop the behavior once they enter a clinical environment, a video allows your veterinarian to observe the frequency, sound, and physical posture of the fit. Additionally, a clear photo of any nasal discharge or swelling can help the vet determine if the cause is an allergy, an infection, or a foreign object stuck in the nasal passage.</p>",
+  "faqs": [
+    {
+      "question": "Can dogs get hay fever or seasonal allergies?",
+      "answer": "Yes, dogs can be sensitive to environmental allergens like pollen, dust, and mold, which frequently results in sneezing and watery eyes."
+    },
+    {
+      "question": "What should I do if my dog starts sneezing blood?",
+      "answer": "If you notice blood during a sneezing fit, this increases the urgency. You should contact your veterinarian promptly to check for foreign bodies, polyps, or infections."
+    },
+    {
+      "question": "Is a reverse sneeze dangerous?",
+      "answer": "No, reverse sneezing is generally harmless. It may look and sound like your dog is choking or gasping, but it usually passes within a minute without needing medical intervention."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

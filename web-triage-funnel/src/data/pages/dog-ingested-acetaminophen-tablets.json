@@ -1,0 +1,20 @@
+{
+  "title": "Dog Acetaminophen Poisoning: Emergency Triage and Guide",
+  "meta_desc": "If your dog ingested acetaminophen, it is a life-threatening emergency. Learn about toxicity signs and why immediate veterinary care is required.",
+  "content_html": "<h3>What is Acetaminophen Toxicity?</h3><p>Acetaminophen is a common human medication used for pain and fever, often found under brand names like Tylenol. While safe for humans, it is highly toxic to dogs. Even a small dose can cause severe liver failure and a condition called methemoglobinemia, which prevents the blood from carrying oxygen to vital organs.</p><h3>Is This an Emergency?</h3><p>Yes. Ingestion of acetaminophen is a High Urgency Emergency. There is no safe amount for a dog to consume without veterinary supervision. If your dog has swallowed any amount, you must contact an emergency veterinarian or a pet poison control center immediately. Delaying treatment by even a few hours can lead to irreversible organ damage or death.</p><h3>Why a Photo of the Packaging Helps</h3><p>When you arrive at the clinic or call for help, having a photo of the medication bottle and the ingredient label is critical. Different products contain varying strengths (such as 325mg vs 500mg) and may include other toxic ingredients like caffeine or xylitol. A photo allows the veterinary team to calculate the exact toxic dose and prepare the specific antidote or treatment protocol before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of acetaminophen poisoning in dogs?",
+      "answer": "Symptoms can include lethargy, vomiting, rapid breathing, brown or muddy-colored gums, and swelling of the face or paws."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian, as it may not be safe depending on your dog's clinical state."
+    },
+    {
+      "question": "Is there an antidote for acetaminophen toxicity?",
+      "answer": "Yes, veterinarians use a medication called N-acetylcysteine (NAC) to help protect the liver and restore oxygen-carrying capacity in the blood."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

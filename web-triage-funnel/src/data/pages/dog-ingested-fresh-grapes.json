@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ate Fresh Grapes",
+  "meta_desc": "Grapes are highly toxic to dogs and can cause kidney failure. This is a high-priority emergency. Contact a veterinarian or poison control immediately.",
+  "content_html": "<h3>What Is Grape Toxicity?</h3><p>Grape and raisin toxicity is a serious condition in dogs that can lead to sudden, acute kidney failure. While the exact substance causing the reaction is not fully understood, even a small amount can be fatal to some dogs. Unlike other toxins where the effect is dose-dependent, some dogs show extreme sensitivity to just one or two grapes.</p><h3>Is It an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. If your dog has ingested fresh grapes, you should consider this a medical emergency. Do not wait for symptoms like vomiting, lethargy, or changes in urination to appear, as these often indicate that kidney damage has already begun. Immediate veterinary intervention is the best way to prevent permanent organ damage.</p><h3>Why a Photo Helps Triage</h3><p>If you are communicating with a triage nurse or a remote veterinarian, providing a photo of the grapes (or the bag they came in) is extremely helpful. A photo allows the professional to confirm the fruit type and estimate the potential volume consumed. Furthermore, if your dog has already vomited, taking a photo of the contents can help the vet determine if any grape skins or fruit matter were successfully expelled from the stomach.</p>",
+  "faqs": [
+    {
+      "question": "How many grapes are toxic to a dog?",
+      "answer": "There is no known safe amount. Because some dogs are hyper-sensitive, a single grape can cause kidney failure in a large dog, while others might eat several without immediate issues. All ingestions should be treated as emergencies."
+    },
+    {
+      "question": "What are the symptoms of grape poisoning?",
+      "answer": "Common symptoms include vomiting, diarrhea, loss of appetite, lethargy, abdominal pain, and decreased urination. However, these signs may not appear for several hours, at which point internal damage may already be severe."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "You should never induce vomiting unless specifically instructed to do so by a licensed veterinarian or a pet poison control expert, as there are risks of aspiration if not performed correctly."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

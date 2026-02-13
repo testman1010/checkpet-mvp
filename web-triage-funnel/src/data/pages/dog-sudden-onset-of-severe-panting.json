@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Onset of Severe Panting: Veterinary Triage Guide",
+  "meta_desc": "Is your dog panting suddenly? Learn why sudden severe panting happens, when it is an emergency, and how to triage your pet effectively.",
+  "content_html": "<h3>What is Sudden Severe Panting?</h3><p>Sudden onset of severe panting, medically known as tachypnea, occurs when a dog begins breathing rapidly and heavily without a clear trigger like exercise or heat. This physiological response can be the body's way of reacting to internal discomfort, metabolic changes, or respiratory distress. It is often distinguished from normal cooling-down panting by its intensity and the lack of a cooling-off period.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden severe panting is Medium. While it may not always be life-threatening, it is a significant clinical sign that warrants a veterinary consultation within the next 12 to 24 hours. However, if the panting is accompanied by blue-tinged gums, collapse, or extreme lethargy, it upgrades to a high-priority emergency. Always monitor your dog closely for any secondary symptoms that suggest they are struggling to get enough oxygen.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a clear photo of your dog's gum color or a short video of their breathing rhythm can be incredibly helpful for a triage professional. Visual data allows a veterinarian to assess the effort behind the breathing, the posture of the dog (such as an outstretched neck), and whether the abdominal muscles are being used to push air. This information helps the vet determine if your pet needs to be seen immediately or if they can wait for a scheduled appointment.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be panting due to pain?",
+      "answer": "Yes, dogs often pant heavily as a primary reaction to acute pain, even if they are not vocalizing or limping."
+    },
+    {
+      "question": "What is the difference between normal panting and severe panting?",
+      "answer": "Normal panting usually follows exercise or heat and subsides quickly. Severe panting is persistent, occurs at rest, and may involve deeper or louder breaths."
+    },
+    {
+      "question": "Can anxiety cause sudden heavy breathing?",
+      "answer": "Yes, sudden environmental changes or loud noises can trigger an anxiety-induced panting episode, though medical causes should be ruled out first."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

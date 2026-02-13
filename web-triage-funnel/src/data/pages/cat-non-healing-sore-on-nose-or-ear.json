@@ -1,0 +1,20 @@
+{
+  "title": "Cat Non-Healing Sore on Nose or Ear: Veterinary Triage Guide",
+  "meta_desc": "Persistent sores on a cat's nose or ear can be serious. Learn about potential causes, urgency levels, and why a photo is vital for triage.",
+  "content_html": "<h3>What is a Non-Healing Sore?</h3><p>A non-healing sore is a lesion, scab, or ulcer that fails to improve after 7 to 10 days or continues to grow and bleed. In cats, these are most commonly found on the bridge of the nose, the nostrils, or the tips of the ears. These areas have thin fur and less pigmentation, making them particularly vulnerable to environmental damage and cellular changes. Potential causes range from persistent bacterial or fungal infections to more serious conditions like Squamous Cell Carcinoma (a common form of skin cancer in felines).</p><h3>Is it an Emergency?</h3><p>The urgency level for a non-healing sore is classified as Medium. While it is rarely an immediate life-threatening emergency that requires an ER visit tonight, it should not be ignored. You should schedule a veterinary appointment within 24 to 48 hours. If the sore is bleeding profusely, seems extremely painful, or your cat has stopped eating, seek care sooner. Delaying treatment for persistent lesions can lead to the loss of ear tissue or the spread of malignant cells.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the affected area is one of the most helpful things you can do for the triage process. A high-resolution image allows your veterinarian to assess the margins of the sore, check for signs of infection versus tissue growth, and determine how quickly the lesion is progressing. This documentation serves as a vital clinical baseline, helping the medical team decide whether your cat needs a routine check-up or a priority biopsy appointment.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have skin cancer?",
+      "answer": "Yes, Squamous Cell Carcinoma (SCC) is a common cause of non-healing sores on the ears and nose, especially in white or light-colored cats who have had sun exposure."
+    },
+    {
+      "question": "Should I apply Neosporin or other human ointments?",
+      "answer": "No. Many human topical medications contain ingredients like bacitracin or polymyxin B that can be toxic to cats if ingested, and some can even cause anaphylaxis in rare cases."
+    },
+    {
+      "question": "How will the vet diagnose the sore?",
+      "answer": "The vet may perform a 'fine needle aspirate' or a 'punch biopsy' to look at the cells under a microscope. They may also perform a skin scraping to rule out mites or fungal infections like ringworm."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

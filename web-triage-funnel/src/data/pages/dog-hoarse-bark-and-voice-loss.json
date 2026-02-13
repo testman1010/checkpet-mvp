@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hoarse Bark and Voice Loss: Triage Guide for Pet Owners",
+  "meta_desc": "Is your dog's bark raspy? Learn about causes for canine voice loss, why the urgency level is low, and how to help your vet triage the issue.",
+  "content_html": "<h3>What is Canine Voice Loss?</h3><p>Voice loss in dogs, medically referred to as dysphonia, occurs when the vocal folds in the larynx (voice box) become inflamed, irritated, or physically obstructed. This can cause your dog’s bark to sound raspy, higher or lower in pitch than usual, or result in no sound at all when they attempt to vocalize.</p><h3>Is it an Emergency?</h3><p>The urgency level for a hoarse bark is typically <strong>Low</strong>. If your dog is otherwise acting normally—meaning they are eating, drinking, and breathing without any visible effort—this condition can usually be addressed during a scheduled appointment with your primary veterinarian. However, if the voice change is accompanied by gasping, blue-tinged gums, or a high-pitched 'stridor' sound when breathing, seek emergency care immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because your dog may not bark on command during a veterinary exam, capturing a video of them attempting to vocalize at home is incredibly helpful. This allows the vet to hear the specific quality of the sound, which can help differentiate between simple throat irritation and more complex issues like laryngeal paralysis. Additionally, a photo of the throat area can help identify any external swelling or signs of trauma.</p>",
+  "faqs": [
+    {
+      "question": "Can excessive barking cause a hoarse voice?",
+      "answer": "Yes, excessive vocalization can lead to temporary laryngitis. Much like a human losing their voice after a concert, a dog's vocal cords can become strained and inflamed from over-barking."
+    },
+    {
+      "question": "What are common medical causes for a raspy bark?",
+      "answer": "Common causes include kennel cough, upper respiratory infections, laryngeal paralysis (especially in older, large-breed dogs), or irritants such as smoke or acid reflux."
+    },
+    {
+      "question": "How long should I wait before seeing a vet?",
+      "answer": "If the hoarseness does not show improvement within 48 to 72 hours, or if your dog begins coughing or acting lethargic, it is best to schedule a veterinary exam to rule out underlying infections."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

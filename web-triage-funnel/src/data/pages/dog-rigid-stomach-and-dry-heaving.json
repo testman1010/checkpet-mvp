@@ -1,0 +1,20 @@
+{
+  "title": "Dog Rigid Stomach and Dry Heaving: Emergency Triage Guide",
+  "meta_desc": "If your dog has a rigid stomach and is dry heaving, they may have GDV (Bloat). This is a life-threatening emergency requiring immediate vet care.",
+  "content_html": "<h3>Understanding the Symptoms: Bloat and GDV</h3><p>A rigid, distended abdomen combined with unproductive retching (dry heaving) are the classic signs of Gastric Dilatation-Volvulus (GDV), commonly known as bloat. This condition occurs when the stomach fills with gas and then twists on itself, cutting off blood supply to vital organs and trapping gas inside.</p><h3>Is This an Emergency?</h3><p>Yes. This is a critical, life-threatening emergency. The urgency level is High. Every minute counts in cases of GDV, as the twisting of the stomach can lead to shock, organ failure, and tissue death within a very short timeframe. Do not wait for symptoms to subside; transport your dog to the nearest 24-hour emergency veterinary hospital immediately.</p><h3>The Value of a Photo or Video</h3><p>While you should never delay your departure, having a quick photo or a 5-second video of your dog's abdomen and their behavior can be immensely helpful for the triage team. Providing a visual allows the veterinary staff to assess the level of distension and prepare the necessary life-saving equipment and surgical team before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait an hour to see if my dog feels better?",
+      "answer": "No. GDV progresses rapidly and is fatal without professional intervention. Immediate veterinary care is the only way to save a dog experiencing these symptoms."
+    },
+    {
+      "question": "What breeds are most susceptible to a rigid stomach and bloat?",
+      "answer": "While it can happen to any dog, large, deep-chested breeds such as Great Danes, German Shepherds, Standard Poodles, and Weimaraners are at the highest risk."
+    },
+    {
+      "question": "Should I try to induce vomiting at home?",
+      "answer": "Absolutely not. If the stomach has twisted, nothing can pass through the esophagus, and inducing vomiting can cause further internal damage or aspiration."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

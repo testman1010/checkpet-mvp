@@ -1,0 +1,20 @@
+{
+  "title": "Cat Bleeding from Rectum: Triage Guide and Next Steps",
+  "meta_desc": "Find out what to do if your cat is bleeding from the rectum. Learn about urgency levels, potential causes, and how to help your veterinarian.",
+  "content_html": "<h3>What is Rectal Bleeding in Cats?</h3><p>Rectal bleeding, or the presence of blood in a cat's stool, is a concerning clinical sign that indicates an underlying health issue. This may appear as bright red blood (hematochezia), which usually signifies a problem in the lower digestive tract or rectum, or dark, tarry stools (melena), which suggests bleeding higher up in the gastrointestinal system. It can be caused by various factors including parasitic infections, inflammatory bowel disease, physical trauma, or ingestion of foreign objects.</p><h3>Urgency Level: High</h3><p>Is it an emergency? Yes. If you notice your cat bleeding from the rectum, it should be treated as a high-priority situation. While the cause could be something treatable like severe constipation or a minor infection, it could also indicate life-threatening internal bleeding, poisoning, or an obstruction. You should contact an emergency veterinarian immediately, especially if the bleeding is accompanied by lethargy, pale gums, vomiting, or signs of pain.</p><h3>Why a Photo Helps Triage</h3><p>When you call or arrive at the vet, having a clear photo of the blood or the stool can be incredibly helpful for the medical team. A photo allows the veterinarian to see the exact color, consistency, and volume of the blood without waiting for the cat to have another bowel movement. This visual evidence helps the vet quickly differentiate between different types of GI distress and prioritize your cat's care based on the severity of the visible symptoms.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be constipated?",
+      "answer": "Yes, extreme straining from constipation can cause small blood vessels in the rectum to burst. However, because constipation itself can lead to a dangerous condition called megacolon, any associated bleeding still requires a veterinary exam."
+    },
+    {
+      "question": "What if my cat is acting normal despite the bleeding?",
+      "answer": "Even if your cat is eating and playing, rectal bleeding is not normal and often points to an internal issue that could worsen rapidly. Early intervention is always safer and usually more cost-effective than waiting for a crisis."
+    },
+    {
+      "question": "Can parasites cause rectal bleeding?",
+      "answer": "Yes, heavy infestations of hookworms or roundworms can cause significant intestinal irritation and bleeding. A vet will need to perform a fecal test to identify the specific parasite and provide the correct treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

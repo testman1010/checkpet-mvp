@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Silica Gel Packet: Triage and First Steps",
+  "meta_desc": "If your dog ate a silica gel packet, stay calm. Silica gel is usually non-toxic. Learn the urgency level, risks, and next steps for your pet.",
+  "content_html": "<h3>What is Silica Gel?</h3><p>Silica gel is a desiccant commonly found in small white or clear packets inside shoe boxes, electronics packaging, and dried food bags. Its primary purpose is to absorb moisture to keep products dry. While the packet often carries a \"Do Not Eat\" warning, this is primarily because the beads are not food and can pose a choking hazard, rather than being chemically poisonous.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. In the vast majority of cases, silica gel is chemically inert and will pass through your dog's digestive tract without being absorbed. The beads themselves are non-toxic. However, you should still monitor your pet. The primary concerns are potential choking or a physical blockage in the intestines if your dog is very small or if they swallowed a very large packet. If your dog is acting normally, eating, and drinking, it is usually not an emergency.</p><h3>Why a Photo Helps Triage</h3><p>If you contact your veterinarian or a pet poison helpline, having a photo of the packet (or the remains of it) is incredibly helpful. A photo allows professionals to identify the specific brand and confirm the contents. While most packets contain pure silica, some may contain additives or different desiccants like iron powder, which requires a different treatment approach. Additionally, seeing the size of the packet relative to your dog helps the vet determine the risk of a physical bowel obstruction.</p>",
+  "faqs": [
+    {
+      "question": "Is silica gel toxic to dogs?",
+      "answer": "No, silica gel itself is chemically inert and not considered toxic. The 'Do Not Eat' warning is mainly due to the risk of choking and the fact that it is not a food product."
+    },
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Monitor your dog for signs of an intestinal blockage, such as repeated vomiting, loss of appetite, lethargy, or straining to defecate. If these occur, contact a vet immediately."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting unless specifically instructed to do so by a licensed veterinarian, as this can sometimes cause more harm than good."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

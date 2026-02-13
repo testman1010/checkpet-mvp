@@ -1,0 +1,20 @@
+{
+  "title": "Cat Diarrhea Outside the Litter Box: Causes and Triage Guide",
+  "meta_desc": "Find out why your cat is having diarrhea outside the box. Learn about urgency levels and how a photo can help your vet provide better care.",
+  "content_html": "<h3>What is Cat Diarrhea Outside the Litter Box?</h3><p>Diarrhea is characterized by loose, watery, or unformed stools. When a cat begins defecating outside of their litter box, it is often due to 'urgency.' This means the gastrointestinal upset is causing such a sudden and uncontrollable need to eliminate that the cat cannot reach their box in time. This is usually a physical health issue rather than a behavioral one, often linked to inflammation, infection, or dietary indiscretion.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Medium. While a single bout of diarrhea might not be life-threatening, it requires prompt attention. If the diarrhea is persistent, it can quickly lead to dehydration and electrolyte imbalances. You should contact a veterinarian within 24 hours. Seek immediate emergency care if the diarrhea is accompanied by vomiting, extreme lethargy, pale gums, or if the stool is black and tarry.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the stool can be immensely helpful for your veterinary team. A photo allows the vet to see the color, consistency, and any presence of blood or mucus. This visual evidence helps them differentiate between small-bowel and large-bowel issues and determines how quickly your pet needs to be seen based on the severity of the clinical signs.</p>",
+  "faqs": [
+    {
+      "question": "Why did my cat stop using the box for diarrhea?",
+      "answer": "Intestinal inflammation creates a sudden urge to go. Your cat likely tried to reach the box but couldn't make it in time due to the intensity of the cramping."
+    },
+    {
+      "question": "Can I give my cat human anti-diarrheal medicine?",
+      "answer": "No. Never give human medications to cats without a specific veterinary prescription, as many common over-the-counter drugs are toxic to felines."
+    },
+    {
+      "question": "What are common causes of sudden diarrhea?",
+      "answer": "Common causes include sudden diet changes, intestinal parasites, bacterial infections, or ingesting something toxic or indigestible."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

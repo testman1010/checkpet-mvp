@@ -1,0 +1,20 @@
+{
+  "title": "Why is My Cat Overgrooming Their Belly? | Veterinary Triage Guide",
+  "meta_desc": "Is your cat licking their belly fur until bald? Learn about causes, urgency levels, and how a photo can help your vet diagnose the issue.",
+  "content_html": "<h3>What is Belly Overgrooming?</h3><p>When a cat licks or chews their lower belly until the fur is thin or the skin is entirely bald, it is medically referred to as overgrooming or alopecia. This behavior is rarely just a habit; it is typically a response to an underlying issue. The two most common drivers are medical discomfort (such as skin allergies, parasites, or urinary tract pain) and psychogenic factors (stress or anxiety).</p><h3>Is it an Emergency?</h3><p>The urgency level for belly overgrooming is <strong>Low</strong>. While it is distressing to see your pet lose fur, it is not a life-threatening situation. However, you should schedule a non-emergency appointment with your veterinarian within the week. If you notice secondary signs like open sores, bleeding, pus, or if your cat stops eating, you should seek care more promptly.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, close-up photo of the bald area is incredibly helpful for veterinary triage. A photo allows a professional to see the condition of the skin itself—whether it is smooth and healthy-looking, or red, bumpy, and inflamed. These visual cues help determine if the cause is likely behavioral or if there is an active dermatological or inflammatory process occurring.</p>",
+  "faqs": [
+    {
+      "question": "Can fleas cause overgrooming even if I don't see any?",
+      "answer": "Yes. Many cats are hypersensitive to flea saliva. A single bite can trigger an intense grooming response even if you cannot find a live flea on their body."
+    },
+    {
+      "question": "Is overgrooming always caused by stress?",
+      "answer": "No. While 'psychogenic alopecia' is caused by stress, many cats overgroom because of physical pain or itching from allergies or bladder issues. A vet must rule out medical causes first."
+    },
+    {
+      "question": "Will the fur grow back?",
+      "answer": "In most cases, yes. Once the underlying cause—whether it be an allergy, pain, or environmental stressor—is managed, the hair follicles will usually recover and the coat will return."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

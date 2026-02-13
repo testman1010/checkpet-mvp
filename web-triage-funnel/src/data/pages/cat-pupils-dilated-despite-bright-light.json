@@ -1,0 +1,20 @@
+{
+  "title": "Why Are My Cat's Pupils Dilated in Bright Light? | Vet Triage Guide",
+  "meta_desc": "Learn why your cat's pupils stay dilated in bright light. Understand the risks, urgency levels, and why photos help your vet with diagnosis.",
+  "content_html": "<h3>What is it?</h3><p>When a cat's pupils remain large and circular despite being in a well-lit environment, it is medically known as mydriasis. Normally, a cat's pupils should constrict into narrow vertical slits in response to bright light to regulate the amount of light entering the eye. If they stay dilated, it suggests that the normal pupillary light reflex is being interrupted. This can be caused by various factors, including ocular diseases, neurological issues, or systemic conditions like high blood pressure.</p><h3>Is it an emergency?</h3><p>The urgency level for this condition is Medium. While it may not always be a sudden life-threatening crisis, dilated pupils are often a clinical sign of a significant underlying health problem such as hypertension, toxicity, or retinal detachment. You should schedule a veterinary appointment as soon as possible, ideally within 24 hours. If the dilated pupils are accompanied by sudden blindness, staggering, or seizures, you should seek emergency care immediately.</p><h3>Why a photo helps triage</h3><p>Capturing a clear photo or short video of your cat's eyes in a bright room is an excellent tool for veterinary triage. It allows the medical team to see the exact size and symmetry of the pupils, which can sometimes change by the time you reach the clinic. Visual evidence helps the vet determine if the issue is affecting one eye or both and assists in prioritizing your cat's case based on the severity of the clinical signs.</p>",
+  "faqs": [
+    {
+      "question": "Can high blood pressure cause dilated pupils in cats?",
+      "answer": "Yes, systemic hypertension (high blood pressure) is a common cause in senior cats and can lead to retinal detachment if left untreated."
+    },
+    {
+      "question": "What if only one pupil is dilated?",
+      "answer": "If only one pupil is dilated while the other is constricted, this is called anisocoria and requires prompt veterinary evaluation as it often points to neurological or localized eye issues."
+    },
+    {
+      "question": "Could my cat be blind if their pupils won't constrict?",
+      "answer": "It is possible. If the retina cannot perceive light, the brain will not send the signal to constrict the pupils. A vet can perform a menace response test to check their vision."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

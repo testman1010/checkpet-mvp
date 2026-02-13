@@ -1,0 +1,20 @@
+{
+  "title": "Dog Rapid Eye Movement (Nystagmus): Causes and Veterinary Triage",
+  "meta_desc": "Is your dog's eyes flicking back and forth? Learn about nystagmus, its urgency level, and how capturing a video can help your veterinarian.",
+  "content_html": "<h3>What is Rapid Eye Movement in Dogs?</h3><p>Involuntary, rhythmic eye movement is medically known as nystagmus. It often appears as the eyes flicking rapidly side-to-side (horizontal), up-and-down (vertical), or in a circular motion (rotary). This condition occurs when there is a disruption in the vestibular system, which is the biological GPS responsible for your dog's balance and orientation.</p><h3>Is This an Emergency?</h3><p>The urgency level for nystagmus is Medium. While the flickering eyes themselves are not life-threatening, they are a symptom of an underlying issue such as an inner ear infection, 'Old Dog Vestibular Disease,' or a neurological concern. You should contact a veterinarian within 24 hours. However, if the eye movement is accompanied by a sudden inability to walk, severe vomiting, or seizures, please seek emergency care immediately.</p><h3>Why a Video Helps Triage</h3><p>Since nystagmus can sometimes occur in episodes or change in intensity, capturing a clear video of your dog's eyes is one of the most helpful tools for your vet. A recording allows the clinical team to observe the direction and speed of the movement, which provides critical clues about whether the problem is located in the inner ear or the brain, helping them determine the best diagnostic path.</p>",
+  "faqs": [
+    {
+      "question": "Is nystagmus painful for my dog?",
+      "answer": "The eye movement itself isn't painful, but the underlying cause may be. Furthermore, the rapid movement often causes significant vertigo and nausea, which can make your dog feel very distressed and unwell."
+    },
+    {
+      "question": "Can my dog recover from this?",
+      "answer": "Yes, many dogs recover fully depending on the cause. For example, 'Old Dog Vestibular Disease' often improves significantly within 48 to 72 hours, though some dogs may retain a permanent, slight head tilt."
+    },
+    {
+      "question": "Should I try to clean my dog's ears if I see this?",
+      "answer": "No, do not put any cleaners or medications in the ears until a vet has examined the eardrum. If the eardrum is ruptured, certain cleaners can actually worsen the neurological symptoms."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

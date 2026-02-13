@@ -1,0 +1,20 @@
+{
+  "title": "Cat Bumping into Objects: Causes and Triage Guide",
+  "meta_desc": "Is your cat bumping into walls or furniture? Discover the common causes of feline vision loss and when to contact your veterinarian immediately.",
+  "content_html": "<h3>What is it?</h3><p>When a cat begins bumping into furniture, walls, or stationary objects, it is usually a clinical sign of sudden vision impairment or a neurological coordination issue. This behavior indicates that your cat is having difficulty perceiving their environment or navigating spatial boundaries. Common causes include feline hypertension, cataracts, retinal detachment, or vestibular disease.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: Medium.</strong> While this situation is deeply concerning, it is typically classified as a medium-level urgency rather than an immediate life-threatening emergency, provided your cat is still breathing normally and conscious. However, sudden onset blindness can be a symptom of an underlying medical crisis, such as extremely high blood pressure. You should contact a veterinarian for an appointment within the next 12 to 24 hours to prevent permanent damage or further complications.</p><h3>Why a Photo or Video Helps Triage</h3><p>Taking a clear, close-up photo of your cat’s eyes in a well-lit room can provide vital clues to a triage team. They will look for dilated pupils that do not shrink with light, cloudiness, or redness. Furthermore, a short video of your cat walking can help the vet distinguish between a visual problem (bumping into things) and a balance problem (staggering or leaning), which helps determine the severity of the case.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have high blood pressure?",
+      "answer": "Yes, feline hypertension is a common cause of sudden blindness, especially in senior cats, and often leads to retinal detachment if left untreated."
+    },
+    {
+      "question": "Is sudden blindness in cats permanent?",
+      "answer": "Not always. If the underlying cause, such as high blood pressure or certain inflammations, is treated quickly, some cats can regain part or all of their vision."
+    },
+    {
+      "question": "Should I move my furniture if my cat can't see?",
+      "answer": "It is best to keep your home layout exactly the same. Cats rely on scent and memory to navigate; moving furniture can cause more confusion and potential injury."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

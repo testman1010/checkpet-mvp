@@ -1,0 +1,20 @@
+{
+  "title": "Cat Head Pressing: Emergency Veterinary Triage Guide",
+  "meta_desc": "Cat head pressing is a serious neurological emergency. Learn why immediate veterinary care is required and how to identify this critical behavior.",
+  "content_html": "<h3>What is Head Pressing in Cats?</h3><p>Head pressing is a compulsive behavior where a cat pushes their head against a wall, corner, or another firm object for an extended period. This is distinctly different from affectionate head butting or 'bunting.' In head pressing, the cat often appears distressed, dazed, or unresponsive, and the pressure applied is constant and purposeless.</p><h3>Is This an Emergency?</h3><p>Yes, head pressing is a high-priority medical emergency. This behavior is a clinical sign of a serious underlying neurological condition or damage to the central nervous system. Potential causes include metabolic disorders such as liver failure, toxic exposure like lead poisoning, brain tumors, or head trauma. You should seek immediate veterinary attention at an emergency clinic without delay.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so, taking a quick video or photo of your cat's behavior can be incredibly beneficial for the veterinary team. Cats often hide symptoms when they are stressed at the clinic. Providing a clear visual of the head pressing allows the veterinarian to confirm the symptom quickly, assess the severity of the neurological state, and move faster toward life-saving treatment.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait a few hours to see if my cat stops head pressing?",
+      "answer": "No. Head pressing indicates a critical malfunction of the nervous system. Delaying care could lead to permanent damage or be life-threatening."
+    },
+    {
+      "question": "Are there other symptoms I should look for?",
+      "answer": "Yes, you may also notice pacing, circling in one direction, changes in vision, seizures, or sudden changes in personality or behavior."
+    },
+    {
+      "question": "Is head pressing the same as rubbing their head on me?",
+      "answer": "No. Rubbing against you is a social behavior used to mark scent. Head pressing is a persistent, static behavior against a hard surface, often accompanied by a blank stare."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

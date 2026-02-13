@@ -1,0 +1,20 @@
+{
+  "title": "Dog High Stepping Walk: Understanding Hypermetria and Triage Steps",
+  "meta_desc": "Learn about hypermetria in dogs, why your pet is high-stepping, and when to seek veterinary care for this neurological symptom.",
+  "content_html": "<h3>What is Hypermetria?</h3><p>Hypermetria is a clinical sign where a dog demonstrates an exaggerated, high-stepping gait, almost as if they are marching or stepping over invisible hurdles. This occurs when the brain overestimates the distance needed to move a limb. It is most commonly associated with a lesion or dysfunction in the cerebellum, the part of the brain responsible for regulating the rate, range, and force of movement.</p><h3>Is it an Emergency?</h3><p>The urgency level for hypermetria is categorized as <strong>Medium</strong>. While a high-stepping gait itself may not be immediately life-threatening, it is a clear indicator of neurological impairment that requires a professional evaluation. You should aim to have your dog seen by a veterinarian within 24 to 48 hours. If the gait change is accompanied by a sudden loss of balance, seizures, or a change in mentation, you should seek emergency care immediately.</p><h3>Why Documentation Helps Triage</h3><p>Providing your veterinarian with a video or photo of your dog's gait is incredibly valuable. Many dogs experience a surge of adrenaline at the clinic which can temporarily mask neurological symptoms, making them appear to walk normally during a physical exam. A video of the behavior occurring in a relaxed home environment allows the vet to see the exact nature of the high-stepping, which helps differentiate between orthopedic pain and true neurological ataxia.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of hypermetria?",
+      "answer": "Common causes include cerebellar hypoplasia, inflammatory brain diseases (like GME), toxins (such as metronidazole or certain mushrooms), and degenerative neurological conditions."
+    },
+    {
+      "question": "Can hypermetria be cured?",
+      "answer": "The prognosis depends entirely on the underlying cause. If the high-stepping is caused by a treatable infection or a specific toxin, it may resolve. If it is due to a degenerative or structural issue, management may be focused on quality of life."
+    },
+    {
+      "question": "Does hypermetria cause my dog pain?",
+      "answer": "Hypermetria itself is a coordination issue rather than a painful one, but the underlying condition causing it or the resulting falls and imbalances can lead to discomfort."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

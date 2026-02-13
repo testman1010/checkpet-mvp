@@ -1,0 +1,20 @@
+{
+  "title": "Dog Seizure After Waking Up: What Pet Owners Should Know",
+  "meta_desc": "If your dog had a seizure immediately after waking, learn why it happens, the level of urgency, and how to help your veterinarian diagnose the cause.",
+  "content_html": "<h3>What is a Post-Sleep Seizure?</h3><p>When a dog experiences a seizure immediately upon waking, it is often related to the sudden shift in brain activity and electrical transitions that occur when moving from a sleep state to an alert state. These episodes are frequently associated with idiopathic epilepsy, but they can also be triggered by fluctuations in blood sugar or other underlying neurological conditions.</p><h3>Is This an Emergency?</h3><p>The urgency level for a single, short seizure (lasting under two minutes) followed by a steady recovery is classified as Medium. While it is not always an immediate life-and-death situation, you should schedule a veterinary appointment within 24 hours. However, if the seizure lasts more than five minutes or if your dog has multiple seizures in one day, seek emergency care immediately.</p><h3>Why a Video or Photo Helps Triage</h3><p>Recording the episode on your phone is incredibly helpful for veterinary triage. Many events, such as fainting (syncope), tremors, or intense dreaming, can mimic a seizure. Providing your vet with a clear video allows them to witness the exact motor patterns and duration, which is vital for distinguishing between a primary neurological issue and other medical concerns.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is seizing?",
+      "answer": "Keep your dog safe by moving furniture away and cushioning their head. Never put your hands near their mouth, as they may accidentally bite."
+    },
+    {
+      "question": "Can low blood sugar cause seizures after waking?",
+      "answer": "Yes, hypoglycemia can trigger seizures, particularly in small breeds or puppies that have gone several hours without food during sleep."
+    },
+    {
+      "question": "Will my dog be confused after the seizure?",
+      "answer": "Yes, this is known as the post-ictal phase. Your dog may appear disoriented, blind, or restless for several minutes to hours after the event."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

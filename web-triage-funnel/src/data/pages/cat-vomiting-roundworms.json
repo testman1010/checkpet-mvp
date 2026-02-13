@@ -1,0 +1,20 @@
+{
+  "title": "Cat Vomiting Roundworms: Guide for Pet Owners & Triage Steps",
+  "meta_desc": "Seeing roundworms in your cat's vomit is distressing. Learn why it happens, if it's an emergency, and how to help your cat recover safely.",
+  "content_html": "<h3>What Are Roundworms?</h3><p>Roundworms, scientifically known as Toxocara cati, are one of the most common intestinal parasites found in felines. They are typically white or tan in color and look remarkably like pieces of spaghetti or coiled string. When a cat vomits roundworms, it usually signifies a significant parasite load within the digestive tract, where the worms have moved from the small intestine into the stomach.</p><h3>Is This an Emergency?</h3><p>The urgency level for a cat vomiting roundworms is categorized as Medium. While the sight of live worms is alarming, it is rarely an immediate life-threatening crisis. However, it does require veterinary attention within 24 to 48 hours. You should seek emergency care immediately if your cat is also exhibiting signs of extreme lethargy, bloody diarrhea, or a complete inability to keep down water, as these can indicate a secondary blockage or severe dehydration.</p><h3>Why a Photo Helps Triage</h3><p>If your cat vomits up a parasite, we strongly recommend taking a clear, well-lit photo of both the vomit and the worms before cleaning it up. Providing this visual evidence to your veterinarian allows for an instant, accurate identification of the parasite species. This ensures that your cat receives the specific deworming medication needed, rather than a broad-spectrum treatment that might not be as effective for their particular case.</p>",
+  "faqs": [
+    {
+      "question": "Can humans catch roundworms from cats?",
+      "answer": "Yes, roundworms are zoonotic, meaning they can be transmitted to humans through accidental ingestion of eggs. It is vital to wash your hands thoroughly after handling your cat or cleaning the litter box."
+    },
+    {
+      "question": "Should I use an over-the-counter dewormer?",
+      "answer": "It is best to consult your veterinarian before using store-bought treatments. Many over-the-counter options are less effective or may not target the specific parasite your cat has, and your vet can provide a safer, more potent prescription."
+    },
+    {
+      "question": "How did my indoor cat get roundworms?",
+      "answer": "Indoor cats can still be exposed through microscopic eggs brought in on shoes, by hunting indoor pests like flies or mice, or if they were born with them, as kittens often contract them from their mother's milk."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Help! My Cat Has Difficulty Climbing Stairs | Veterinary Triage Guide",
+  "meta_desc": "Is your cat struggling with stairs? Learn about common causes, why it's rarely an emergency, and how videos help your vet provide a faster diagnosis.",
+  "content_html": "<h3>What Is Mobility Difficulty in Cats?</h3><p>When a cat has difficulty climbing stairs, it typically means they are experiencing physical discomfort, stiffness, or a loss of strength. You might notice your cat 'bunny-hopping' up steps, pausing frequently, or avoiding the stairs altogether. This behavior is a clear signal that their range of motion or weight-bearing capacity is compromised.</p><h3>Is It an Emergency?</h3><p>The urgency level for difficulty climbing stairs is generally <strong>Low</strong>. In most instances, this is a chronic, slow-developing issue such as osteoarthritis or age-related muscle atrophy. While it requires a veterinary appointment, it is rarely a life-threatening crisis unless accompanied by a total loss of limb function, vocalizing in pain, or sudden lethargy.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of your cat attempting to navigate the stairs is one of the most helpful tools you can provide to a veterinary professional. Because cats often hide their pain or 'act normal' due to adrenaline during a clinic visit, a video allows the vet to see the specific gait abnormality in a home environment. This helps distinguish between joint pain, soft tissue injury, or neurological weakness, ensuring a more accurate and efficient triage process.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be getting old?",
+      "answer": "While aging is a factor, difficulty with stairs is usually a symptom of a manageable condition like arthritis, rather than just 'old age' itself."
+    },
+    {
+      "question": "What should I do if my cat suddenly stops using its back legs?",
+      "answer": "If your cat suddenly loses the use of its hind legs, this is a high-priority emergency and you should seek immediate veterinary care."
+    },
+    {
+      "question": "How can I make my home more comfortable for my cat?",
+      "answer": "Consider moving all essentials—such as food, water, and the litter box—to one floor to minimize the need for climbing until you can see a vet."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

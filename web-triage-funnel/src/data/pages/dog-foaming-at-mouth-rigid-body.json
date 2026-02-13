@@ -1,0 +1,20 @@
+{
+  "title": "Dog Foaming at Mouth and Rigid Body: Emergency Triage Guide",
+  "meta_desc": "If your dog is foaming at the mouth with a rigid body, it is a high-priority veterinary emergency. Learn the causes and immediate steps to take.",
+  "content_html": "<h3>What is happening to your dog?</h3><p>When a dog exhibits a rigid body and foams at the mouth, it is frequently a sign of a generalized seizure, also known as a grand mal seizure. The rigidity is caused by intense, involuntary muscle contractions, and the foaming is simply aerated saliva produced during the episode. Other potential causes include severe poisoning (such as snail bait or strychnine) or extreme heatstroke.</p><h3>Is this a veterinary emergency?</h3><p>Urgency Level: High. This is a critical medical emergency. If the seizure lasts more than two or three minutes, or if your dog has multiple seizures in a row, they are at risk for hyperthermia and permanent brain damage. Even if the episode ends quickly, the underlying cause must be identified by a professional immediately to prevent recurrence or organ failure.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so, and you have a second person available, capturing a short video of the event can be life-saving. Different neurological events, such as seizures versus fainting (syncope) or toxin ingestion, have distinct visual markers. Providing this video to your veterinarian allows them to rapidly categorize the neurological event and begin the correct life-saving treatment the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is rigid and foaming?",
+      "answer": "Do not put your hands in or near their mouth, as they may bite involuntarily. Clear away furniture to prevent injury and keep the environment dark and quiet until you can transport them to the vet."
+    },
+    {
+      "question": "Can toxins cause a dog's body to go stiff?",
+      "answer": "Yes, certain neurotoxins like metaldehyde (found in snail bait) or organophosphates can cause extreme muscle rigidity, tremors, and hypersalivation."
+    },
+    {
+      "question": "Will my dog be okay after a seizure?",
+      "answer": "The prognosis depends on the cause. While many dogs recover from a single seizure, the foam and rigidity indicate a severe event that requires immediate veterinary assessment to ensure their safety."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

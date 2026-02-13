@@ -1,0 +1,20 @@
+{
+  "title": "Dog Paw Licking and Redness: Causes and Triage Guide",
+  "meta_desc": "Is your dog licking its paws? Learn about common causes for paw redness, when to see a vet, and how photos help with a digital triage.",
+  "content_html": "<h3>What is Excessive Paw Licking and Redness?</h3><p>Pododermatitis is the medical term for inflammation of the paw. When a dog licks their paws excessively, it is often a sign of irritation, allergies, or an underlying infection. Redness, also known as erythema, typically occurs due to increased blood flow to the area or staining from porphyrins found in canine saliva.</p><h3>Is This an Emergency?</h3><p>The urgency level for general paw licking and redness is usually <strong>Low</strong>. While it is uncomfortable for your pet, it rarely requires immediate emergency intervention unless there is severe bleeding, a deep puncture, or if the dog is suddenly unable to put weight on the limb. However, a scheduled veterinary appointment is recommended to address the underlying cause and prevent secondary bacterial or yeast infections.</p><h3>How a Photo Helps Triage</h3><p>Providing a clear, high-resolution photo of the affected paw—including the spaces between the toes and the pads—allows a veterinary professional to look for specific diagnostic clues. They can identify foreign bodies like thorns or grass seeds, check for pustules or crusting, and assess the severity of the inflammation. This visual evidence helps determine how quickly your pet needs to be seen and whether immediate at-home care, like a protective cone, is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Can I apply human anti-itch cream to my dog's paws?",
+      "answer": "It is best to avoid over-the-counter creams until a vet has examined the area, as many contain ingredients that can be toxic if your dog licks and swallows them."
+    },
+    {
+      "question": "Could my dog's paw licking be related to their diet?",
+      "answer": "Yes, food sensitivities are a common cause of itchy paws. Your veterinarian may discuss a trial of a hypoallergenic diet if they suspect a food allergy."
+    },
+    {
+      "question": "How can I stop my dog from licking until the vet appointment?",
+      "answer": "The most effective way to prevent further irritation is using an Elizabethan collar (a 'cone') to physically prevent access to the paws."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

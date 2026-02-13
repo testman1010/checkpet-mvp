@@ -1,0 +1,20 @@
+{
+  "title": "Dog Intermittent Skipping While Running: Causes and Triage Guide",
+  "meta_desc": "Understand why your dog skips while running. Learn about Luxating Patella, urgency levels, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What is Intermittent Skipping?</h3><p>Intermittent skipping, often described as a 'bunny hop' or a brief hitch in a dog's stride, typically occurs when a dog is trotting or running. This behavior is most frequently associated with a condition called Luxating Patella, where the kneecap temporarily slips out of its groove. The dog may kick the leg out behind them to 'reset' the kneecap before continuing to run as if nothing happened.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is generally Low. If your dog is otherwise acting normally, eating well, and can still put weight on the leg, you do not need to rush to an emergency clinic. However, because a luxating patella can cause cartilage wear and increase the risk of cruciate ligament tears over time, you should schedule a non-emergency appointment with your primary veterinarian for a physical evaluation.</p><h3>Why a Video or Photo Helps Triage</h3><p>Because this skipping behavior is intermittent, it is very common for a dog to walk perfectly normally once they arrive at the veterinary clinic. Providing a clear video of your dog running and performing the 'skip' allows your veterinarian to observe the gait abnormality in real-time. This visual evidence is crucial for identifying which leg is affected and determining the severity of the luxation, leading to a more accurate diagnosis and treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "Which dog breeds are most likely to skip?",
+      "answer": "Small and toy breeds, such as Chihuahuas, Pomeranians, Yorkshire Terriers, and Poodles, are genetically predisposed to luxating patellas."
+    },
+    {
+      "question": "Can this condition be managed without surgery?",
+      "answer": "Mild cases (Grade 1 or 2) can often be managed with weight control, joint supplements, and controlled exercise, while more severe cases may require surgical intervention."
+    },
+    {
+      "question": "Does skipping mean my dog is in a lot of pain?",
+      "answer": "While the mechanical slip of the kneecap can be uncomfortable or startling, many dogs do not show signs of acute pain during the skip. However, chronic slipping can lead to painful arthritis over time."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

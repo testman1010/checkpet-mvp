@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Raw Onion: Triage and Toxicity Guide",
+  "meta_desc": "Find out what to do if your dog ate raw onion. Learn about onion toxicity, urgency levels, and why you should call a vet immediately.",
+  "content_html": "<h3>What is Onion Toxicity?</h3><p>Onions contain a toxic principle known as N-propyl disulfide. This compound causes oxidative damage to the hemoglobin in your dog's red blood cells, which can lead to them rupturing. This condition is known as hemolytic anemia and prevents the blood from carrying oxygen effectively throughout the body.</p><h3>Is This an Emergency?</h3><p>The urgency level for onion ingestion is Medium. While a tiny sliver might not cause immediate collapse, onion toxicity is serious and often has a delayed onset. It is vital to contact your veterinarian or a pet poison control hotline immediately. Do not wait for symptoms to appear, as red blood cell damage can take several days to manifest as visible illness.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a photo of the onion slices that were left behind or a similar-sized onion for scale. Providing a photo to your veterinarian helps them more accurately estimate the volume of toxin ingested. This information is crucial for determining if the amount consumed is a toxic dose for your dog's specific weight and whether immediate intervention, like induced vomiting or charcoal administration, is necessary.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of onion poisoning in dogs?",
+      "answer": "Symptoms include pale gums, lethargy, weakness, reddish-brown urine, decreased appetite, and an elevated heart rate."
+    },
+    {
+      "question": "How long does it take for onion toxicity to show up?",
+      "answer": "Signs of anemia typically develop 3 to 5 days after the dog eats the onion, though gastrointestinal upset (vomiting or diarrhea) may occur sooner."
+    },
+    {
+      "question": "Are cooked onions safer than raw onions?",
+      "answer": "No, cooking, drying, or processing onions does not destroy the toxic compounds. Raw, cooked, and even powdered onions are all dangerous to dogs."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

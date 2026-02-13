@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Fertilizer Pellets: Toxicity Guide & Triage Steps",
+  "meta_desc": "Learn what to do if your dog ate fertilizer pellets. Discover urgency levels, symptoms to watch for, and how a photo of the bag helps your vet.",
+  "content_html": "<h3>What is Fertilizer Ingestion?</h3><p>Fertilizer ingestion occurs when a dog consumes plant food pellets, which typically contain a concentrated mix of nitrogen, phosphorus, and potassium (labeled as N-P-K). While many standard lawn fertilizers are formulated to be relatively safe once spread, the concentrated pellets can contain additives such as iron, herbicides, pesticides, or organic meals that pose significant health risks when swallowed in bulk.</p><h3>Is it an Emergency?</h3><p>The urgency level for fertilizer ingestion is generally <strong>Medium</strong>. While most exposures result in mild gastrointestinal upset like vomiting or diarrhea, the situation can escalate quickly depending on the ingredients. For example, fertilizers containing high levels of iron can lead to iron toxicity, and organic fertilizers (like those containing blood or bone meal) can cause severe pancreatitis or even form a solid mass in the stomach. You should contact a veterinarian immediately to assess the specific risk based on your dog's weight and the amount consumed.</p><h3>Why a Photo Helps Triage</h3><p>If you are calling a vet or an emergency clinic, having a clear photo of the fertilizer packaging is one of the most helpful tools you can provide. Different brands use vastly different chemical concentrations. A photo of the ingredient list and the N-P-K ratio allows the veterinary team to calculate exactly how much of each toxin your dog ingested, helping them determine whether you need to come in for emergency treatment or if you can monitor your pet at home.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of fertilizer poisoning?",
+      "answer": "Symptoms often include drooling, vomiting, diarrhea, abdominal pain, and a bloated appearance. In severe cases involving iron or pesticides, you may see muscle tremors, seizures, or dark-colored gums."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian or a pet poison control expert. Depending on the ingredients, inducing vomiting could cause further damage to the esophagus or lead to aspiration."
+    },
+    {
+      "question": "Is organic fertilizer safer for dogs?",
+      "answer": "Actually, organic fertilizers can be more dangerous because they often contain bone meal, blood meal, or fish meal. These ingredients are very tasty to dogs, leading them to eat large quantities, which can cause severe pancreatitis or gastric obstructions."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chewed Alkaline Battery: Immediate Triage and Emergency Guide",
+  "meta_desc": "If your dog chewed an alkaline battery, this is a high-priority emergency. Learn about chemical burns, why you shouldn't induce vomiting, and next steps.",
+  "content_html": "<h3>What Happens When a Dog Chews an Alkaline Battery?</h3><p>When a dog chews or punctures an alkaline battery, the caustic contents (typically potassium hydroxide or sodium hydroxide) leak out. These substances cause immediate and severe chemical burns—known as liquefactive necrosis—to the tongue, gums, and esophagus. Unlike a thermal burn, chemical burns continue to damage tissue until the substance is thoroughly neutralized or washed away.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is considered a high-priority emergency. Even if your dog seems fine initially, the full extent of chemical burns often takes several hours to manifest. You must contact an emergency veterinarian or a pet poison control center immediately. Do not attempt to induce vomiting at home; if the battery or its contents are brought back up, they can cause a second round of caustic burns to the esophagus or even be inhaled into the lungs.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you can safely do so, take a clear photo of the damaged battery and any remaining packaging. Sharing this photo with your veterinarian allows them to identify the battery type, size, and potential for heavy metal toxicity. Seeing the amount of damage to the casing helps the medical team determine if your dog likely ingested the internal components, which may require surgical removal or specialized endoscopic retrieval.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of battery poisoning in dogs?",
+      "objective": "Common signs include excessive drooling, oral pain, redness or grayish discoloration of the gums, vomiting, and refusal to eat."
+    },
+    {
+      "question": "Can I give my dog milk or water?",
+      "answer": "Veterinarians sometimes recommend a small amount of milk or water to dilute the caustic liquid, but you should only do this under the direct instruction of a medical professional to avoid the risk of aspiration."
+    },
+    {
+      "question": "What if my dog swallowed the battery whole?",
+      "answer": "A whole battery is less likely to cause immediate chemical burns but poses a significant risk of an intestinal blockage or a slow leak. This still requires immediate veterinary imaging (X-rays)."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

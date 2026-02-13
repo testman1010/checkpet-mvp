@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Onset Stridor: Emergency Triage Guide",
+  "meta_desc": "Sudden loud stridor in cats is a high-priority veterinary emergency. Learn what these harsh breathing sounds mean and why you must act immediately.",
+  "content_html": "<h3>What is Stridor in Cats?</h3><p>Stridor is a harsh, high-pitched, vibrating sound produced when your cat breathes. Unlike a purr or a soft snore, stridor is typically loud and indicates that the upper airway—specifically the larynx (voice box) or trachea (windpipe)—is partially obstructed or narrowed. This physical blockage forces air through a smaller space, creating the distinct, alarming sound you are hearing.</p><h3>Is Sudden Stridor an Emergency?</h3><p>Yes. The urgency level for sudden onset stridor is <strong>High</strong>. When a cat suddenly develops loud breathing sounds, it indicates they are struggling to move enough oxygen into their lungs. Cats are masters at hiding respiratory distress until it becomes critical; therefore, the presence of loud stridor suggests that your cat is in immediate danger of a total airway obstruction. You should contact your nearest emergency veterinarian immediately.</p><h3>How Visuals Help With Triage</h3><p>If it is safe to do so without delaying your trip to the clinic, a quick photo or a 5-second video of your cat breathing can be life-saving. A photo allows a veterinarian to see your cat's posture—such as an outstretched neck or open-mouth breathing—while a video captures the specific rhythm and sound of the stridor. These visuals help the medical team prepare the necessary equipment, such as oxygen tanks or sedation, before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait a few hours to see if the breathing improves?",
+      "answer": "No. Respiratory distress in cats can lead to respiratory arrest very quickly. Sudden stridor should always be treated as a life-threatening emergency that requires immediate professional evaluation."
+    },
+    {
+      "question": "What are common causes of sudden stridor?",
+      "answer": "Common causes include a foreign object stuck in the throat, sudden swelling from an allergic reaction, laryngeal paralysis, or an acute infection or mass in the upper airway."
+    },
+    {
+      "question": "What should I do while transporting my cat to the vet?",
+      "answer": "Keep your cat as calm and cool as possible. Minimize stress, use a secure carrier, and do not attempt to look down the cat's throat or perform any maneuvers yourself, as this can worsen the airway obstruction."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

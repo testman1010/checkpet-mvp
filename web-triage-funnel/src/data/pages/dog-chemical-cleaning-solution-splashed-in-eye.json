@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chemical Eye Splash: Emergency First Aid and Triage Guide",
+  "meta_desc": "If a cleaning solution splashed in your dog's eye, it is a high-priority emergency. Learn immediate first aid steps and when to see a vet.",
+  "content_html": "<h3>What is a Chemical Eye Splash?</h3><p>A chemical splash occurs when a household cleaning agent—such as bleach, degreasers, or detergents—comes into direct contact with your dog's eye. These substances can cause rapid chemical burns to the cornea and surrounding tissues, potentially leading to permanent vision loss if not treated instantly.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Any chemical contact with the eye is considered a critical emergency. You must act immediately. Before heading to the clinic, begin flushing the eye with lukewarm water or sterile saline for at least 15 to 20 minutes. This helps to dilute the chemical and stop the active burning process while you coordinate transport to an emergency veterinarian.</p><h3>Why a Photo Helps Triage</h3><p>Taking a quick, clear photo of your dog’s eye and the ingredient label of the cleaning product can be life-saving. Providing these images to your veterinarian via a triage portal allows them to determine the pH of the substance. Alkaline cleaners, for instance, penetrate deeper than acidic ones, and knowing the specific chemical allows the medical team to prepare the correct neutralizing agents and medications before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human eye drops on my dog after a splash?",
+      "answer": "No. Avoid using any medicated human eye drops or redness relievers, as these can contain chemicals that may worsen the irritation or react with the cleaning solution. Stick to plain saline or tap water for flushing."
+    },
+    {
+      "question": "What if my dog is squinting and won't let me flush the eye?",
+      "answer": "If your dog is in too much pain to allow a flush, do not force it, as you may cause further injury. Seek immediate emergency veterinary care so they can administer topical numbing agents to safely perform the decontamination."
+    },
+    {
+      "question": "How do I know if the damage is permanent?",
+      "answer": "Only a veterinarian can assess the extent of the damage using a fluorescein stain to check for corneal ulcers. Prompt flushing and immediate medical intervention are the best ways to prevent permanent blindness."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

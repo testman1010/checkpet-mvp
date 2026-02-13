@@ -1,0 +1,20 @@
+{
+  "title": "Cat or Kitten Straining to Defecate: Triage Guide and Next Steps",
+  "meta_desc": "Is your kitten straining to poop? Learn about tenesmus, the medium urgency level of constipation, and how a photo can help your vet provide care.",
+  "content_html": "<h3>What is it?</h3><p>Straining to defecate, medically known as tenesmus, occurs when a cat or kitten frequently attempts to pass stool with little to no success. This behavior often looks like spending prolonged periods in the litter box or hunched over in a squatting position. It can be caused by various issues, including simple constipation, dietary indiscretion, intestinal parasites, or even a more serious blockage in the digestive tract.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat straining to defecate for 24 hours is Medium. While it may not be an immediate life-threatening crisis like a breathing difficulty, it causes significant discomfort and can lead to complications if left untreated. If the straining is accompanied by vomiting, extreme lethargy, or a painful abdomen, you should contact a veterinarian immediately. It is also critical to ensure the cat is actually trying to defecate and not experiencing a life-threatening urinary blockage, which can look very similar.</p><h3>Why a photo helps triage</h3><p>Taking a photo of the litter box or any small amounts of material the cat has managed to pass can be incredibly helpful for a veterinary triage team. A photo allows the professional to see the color, consistency, and presence of any blood or mucus. Additionally, a short video of the cat's posture while straining can help the vet distinguish between a gastrointestinal issue and a urinary emergency, ensuring your pet gets the correct type of urgent care.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat be straining due to a urinary issue instead of constipation?",
+      "answer": "Yes, it is often difficult for owners to tell the difference. If a male cat is straining and not producing urine, this is a high-priority emergency."
+    },
+    {
+      "question": "Can I give my kitten milk or oil to help them poop?",
+      "answer": "No, you should avoid giving home remedies like milk or mineral oil without veterinary guidance, as these can cause severe diarrhea or aspiration pneumonia."
+    },
+    {
+      "question": "When does constipation become a critical emergency?",
+      "answer": "It becomes critical if the cat starts vomiting, stops eating entirely, or becomes extremely weak, as this may indicate a complete intestinal obstruction."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

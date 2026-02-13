@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed String: Emergency Guide and Triage Steps",
+  "meta_desc": "If your cat swallowed string or a linear object, it is a high-priority emergency. Learn why to act fast and how to help your vet triage the case.",
+  "content_html": "<h3>What is a Linear Foreign Body?</h3><p>When a cat swallows a long, thin object like string, yarn, dental floss, or sewing thread, it is medically classified as a linear foreign body. Unlike a solid object that might pass through the digestive tract, linear objects are particularly dangerous because one end often becomes anchored (frequently under the tongue or at the stomach exit), while the rest of the string moves into the intestines. As the intestines attempt to move the string along via peristalsis, they begin to bunch up or 'pleat' like a curtain on a rod, which can lead to fatal intestinal wall lacerations.</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level for a linear foreign body is High. This is considered a life-threatening emergency because the sawing action of the string against the intestinal lining can cause perforations and lead to septic peritonitis within hours or days. You should contact an emergency veterinarian immediately. Under no circumstances should you attempt to induce vomiting at home or pull on any string visible from the mouth or the rectum, as this can cause immediate, severe internal tearing.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the original object the cat was playing with, or the remaining piece of string, take a clear photo of it next to a common item for scale (like a coin or a pen). Showing this photo to your veterinary team helps them estimate the length, material, and texture of the ingested object. Knowing if the string was attached to a needle, bell, or lure also changes the surgical approach and priority level for diagnostic imaging like X-rays or ultrasound.</p>",
+  "faqs": [
+    {
+      "question": "I see string under my cat's tongue; can I pull it?",
+      "answer": "No, never pull the string. It is likely anchored further down the digestive tract, and pulling it can slice through the tongue or the esophagus."
+    },
+    {
+      "question": "What are the symptoms of a linear foreign body?",
+      "answer": "Common signs include repetitive vomiting, loss of appetite, hiding, abdominal pain, and lethargy. However, some cats may act normal for several hours after ingestion."
+    },
+    {
+      "question": "Can I wait and see if the string passes in the litter box?",
+      "answer": "Waiting is extremely risky. Because of the way intestines 'pleat' around string, it rarely passes safely on its own and the risk of internal rupture increases significantly the longer you wait."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Dead Bird or Rodent: Risks, Triage, and Next Steps",
+  "meta_desc": "If your dog ate a dead bird or rodent, learn about the risks of parasites and toxins, and find out when to contact your veterinarian immediately.",
+  "content_html": "<h3>What is it?</h3><p>Ingesting a dead bird or rodent is a common scavenging behavior in dogs. While dogs have strong stomach acids, consuming wildlife carcasses exposes them to potential pathogens, parasites, or even toxins that the prey animal may have ingested before dying.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While not always a life-threatening crisis, there are significant risks such as secondary poisoning (if the rodent consumed rat poison) or bacterial infections like Salmonella and Leptospirosis. You should monitor your dog closely and contact your vet if you notice lethargy, persistent vomiting, or neurological signs.</p><h3>Why a photo helps triage</h3><p>If possible, safely take a photo of the remains before disposal. A photo helps your veterinarian identify the species of the bird or rodent, which can determine the specific risk of certain diseases or whether the animal is a known carrier of local toxins. This information is vital for an accurate triage and treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog get rabies from eating a dead rodent?",
+      "answer": "The risk of rabies from small rodents like mice or rats is extremely low, but it is still important to ensure your dog is up to date on their vaccinations."
+    },
+    {
+      "question": "What is secondary poisoning?",
+      "answer": "Secondary poisoning occurs if your dog eats a rodent that recently ingested anticoagulant or neurotoxic rat bait. This can be very dangerous and requires immediate veterinary attention."
+    },
+    {
+      "question": "Should I make my dog vomit at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian, as some carcasses or accompanying materials can cause more harm if brought back up."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

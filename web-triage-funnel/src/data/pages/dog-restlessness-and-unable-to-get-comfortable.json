@@ -1,0 +1,20 @@
+{
+  "title": "Dog Restlessness and Inability to Settle: Causes and Triage Guide",
+  "meta_desc": "Is your dog pacing and unable to get comfortable? Learn why restlessness happens, the urgency level, and how to help your pet find relief.",
+  "content_html": "<h3>Understanding Restlessness in Dogs</h3><p>Restlessness in dogs is a behavior where a pet appears unable to find a comfortable position, frequently pacing, circling, or shifting their weight. This is rarely just a 'mood'; it is often a physical manifestation of discomfort, anxiety, or internal distress. It can range from subtle repositioning to frantic movement and vocalization.</p><h3>Is This an Emergency?</h3><p>The urgency level for restlessness is generally <strong>Medium</strong>. While it may be caused by mild issues like a full bladder or minor indigestion, it can also be the first sign of serious conditions such as Bloat (GDV), severe joint pain, or heart failure. If your dog is also panting heavily, has a distended abdomen, or is unsuccessfully trying to vomit, you should treat this as a high-priority emergency and contact a vet immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because restlessness is a behavioral symptom, seeing your dog in action is vital for an accurate assessment. Providing a short video of your dog pacing or a photo of their resting posture allows a triage professional to look for specific physical cues, such as a 'hunched' back, a 'tucked' abdomen, or signs of neurological weakness, which helps determine the severity of the situation.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be restless because of gas?",
+      "answer": "Yes, gastrointestinal upset or gas can cause significant discomfort, leading to pacing. However, if the abdomen feels hard or the dog is dry-heaving, it could be a life-threatening case of Bloat."
+    },
+    {
+      "question": "Why is my senior dog suddenly unable to settle at night?",
+      "answer": "In older dogs, nighttime restlessness is often associated with Canine Cognitive Dysfunction (similar to dementia) or increased discomfort from arthritis that worsens when the body cools down at night."
+    },
+    {
+      "question": "When should I call an after-hours emergency vet?",
+      "answer": "You should call immediately if the restlessness is accompanied by labored breathing, pale gums, a bloated-looking belly, or if the dog seems to be in obvious, acute pain."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

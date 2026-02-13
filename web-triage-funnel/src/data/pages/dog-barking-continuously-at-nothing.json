@@ -1,0 +1,20 @@
+{
+  "title": "Dog Barking Continuously at Nothing: Causes and Veterinary Triage",
+  "meta_desc": "Is your dog barking at nothing? Learn about phantom barking, sensory triggers, and when to seek veterinary advice in this low-urgency triage guide.",
+  "content_html": "<h3>What is Phantom Barking?</h3><p>When a dog barks at seemingly nothing, it is often referred to as phantom barking. Usually, your dog is reacting to sensory stimuli that the human ear cannot detect, such as high-pitched frequencies, small animals in the walls, or distant noises. However, it can also be a sign of boredom, separation anxiety, or in older dogs, cognitive decline.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. While continuous barking can be distressing for owners, it is rarely a medical emergency. You should schedule a routine appointment if the behavior is new or persistent. Seek more immediate care only if the barking is accompanied by physical symptoms like tremors, collapsing, or extreme disorientation.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a photo or video of your dog during these barking episodes is incredibly helpful for a veterinary professional. Visual evidence allows us to assess your dog's body language—such as whether their tail is tucked, their hackles are raised, or if they seem disoriented. These clues help determine if the behavior is behavioral, environmental, or related to a neurological condition.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be hearing things I can't?",
+      "answer": "Yes. Dogs have a much wider hearing range than humans and can detect high-frequency sounds from pests or electronic devices that are invisible to us."
+    },
+    {
+      "question": "Is barking at nothing a sign of old age?",
+      "answer": "In senior dogs, repetitive barking can be a symptom of Canine Cognitive Dysfunction (dog dementia), especially if it happens at night."
+    },
+    {
+      "question": "How can I stop the barking immediately?",
+      "answer": "Try redirecting their attention with a high-value treat or a command. If the barking is anxiety-based, creating a calm environment with white noise may help."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

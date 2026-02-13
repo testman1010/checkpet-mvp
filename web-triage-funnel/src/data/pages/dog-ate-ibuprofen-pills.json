@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Ibuprofen: Emergency Triage Guide & Next Steps",
+  "meta_desc": "If your dog ate ibuprofen, this is a high-priority medical emergency. Learn the risks of toxicity and immediate actions to take for your pet.",
+  "content_html": "<h3>What is Ibuprofen Toxicity?</h3><p>Ibuprofen is a common over-the-counter human medication used for pain relief, but it is highly toxic to dogs. Unlike humans, dogs cannot process this drug safely, which can lead to severe damage to the stomach lining and the kidneys. We understand how scary this situation is, but knowing the facts is the first step in helping your pet.</p><h3>Is it an Emergency?</h3><p>Yes. Ibuprofen ingestion is considered a high-priority emergency. You should seek veterinary care or contact a pet poison control hotline immediately. Do not wait for your dog to show signs of illness, as internal damage can begin long before outward symptoms appear. Prompt action is the best way to ensure a positive outcome.</p><h3>Why a Photo Helps Triage</h3><p>If you still have the pill bottle or packaging, please take a clear photo of the label. This allows the veterinary team to see the exact dosage (milligrams) and any other active ingredients. Having this information ready helps the vet quickly calculate the level of toxicity based on your dog's weight, saving precious minutes during the intake process.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of ibuprofen poisoning in dogs?",
+      "answer": "Symptoms can include vomiting (sometimes with blood), black or tarry stools, abdominal pain, loss of appetite, lethargy, and in severe cases, tremors or seizures."
+    },
+    {
+      "question": "Can I give my dog a human dose of ibuprofen for their pain?",
+      "answer": "No. You should never give a dog ibuprofen. Even a small dose can cause life-threatening gastric ulcers or kidney failure. Always consult your vet for pet-safe pain management."
+    },
+    {
+      "question": "What should I do if I can't reach my regular vet?",
+      "answer": "Contact the nearest 24-hour emergency animal hospital or a pet poison control hotline like the ASPCA Animal Poison Control Center or the Pet Poison Helpline immediately."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

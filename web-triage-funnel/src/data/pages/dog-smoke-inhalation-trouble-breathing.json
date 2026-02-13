@@ -1,0 +1,20 @@
+{
+  "title": "Dog Smoke Inhalation: Emergency Care & Triage Guide",
+  "meta_desc": "If your dog is struggling to breathe after smoke exposure, this is a high-urgency emergency. Learn the signs and why immediate vet care is vital.",
+  "content_html": "<h3>What is Dog Smoke Inhalation?</h3><p>Smoke inhalation occurs when a dog breathes in the combustion products of a fire, including extreme heat, toxic gases like carbon monoxide, and fine particulate matter. This combination causes thermal damage to the upper airways and chemical irritation to the lungs, often leading to severe inflammation and fluid buildup.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level for smoke inhalation with difficulty breathing is High. This is a life-threatening emergency. Respiratory distress can progress rapidly even if the dog seems stable immediately after being rescued. Inflammation in the lungs can worsen significantly over the first 24 to 48 hours, making immediate veterinary intervention and oxygen therapy critical for survival.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a short video of your dog's breathing can be life-saving. It allows a veterinary professional to assess the effort of breathing, the rate of respiration, and the use of abdominal muscles. Seeing the color of your dog's gums or the presence of soot around the muzzle in a photo also helps the medical team prioritize your pet's care and prepare the necessary equipment before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the common signs of smoke inhalation in dogs?",
+      "answer": "Common symptoms include coughing, gagging, difficulty breathing, increased respiratory rate, red or pale gums, and soot around the face or in the saliva."
+    },
+    {
+      "question": "Can I give my dog anything at home for smoke inhalation?",
+      "answer": "No. Do not attempt to give medications or home remedies. Smoke inhalation requires professional oxygen therapy and potentially intravenous fluids or bronchodilators."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "While some signs are immediate, others like pulmonary edema (fluid in the lungs) may take 24 to 72 hours to fully develop, which is why veterinary monitoring is essential."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat Cluster Seizures Without Regaining Consciousness",
+  "meta_desc": "If your cat is having cluster seizures and not waking up, this is a life-threatening emergency. Contact an emergency vet immediately.",
+  "content_html": "<h3>What are Cluster Seizures and Status Epilepticus?</h3><p>Cluster seizures occur when a cat has two or more seizures within a 24-hour period. However, when a cat experiences multiple seizures without regaining consciousness or returning to a normal state in between, it is a more severe condition often referred to as Status Epilepticus. This means the brain is in a persistent state of seizure activity, which prevents the body from recovering.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is a critical, high-urgency emergency. Seizures that occur back-to-back without a recovery period cause the cat's internal body temperature to rise to dangerous levels and can lead to permanent brain damage, fluid in the lungs, or organ failure. If your cat is currently in this state, please stop reading and transport them to the nearest 24-hour emergency veterinary hospital immediately.</p><h3>Why a Video or Photo Helps Triage</h3><p>While your priority is getting to the vet, having a brief video of the episode can be invaluable for the medical team. Different types of neurological events can mimic seizures; a video allows the veterinarian to see the exact nature of the muscle movements, eye tracking, and duration. This visual evidence helps them determine the correct dosage and type of emergency anticonvulsant medication to administer the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How should I handle my cat during a seizure?",
+      "answer": "Do not put your hands near their mouth as they may bite transitionally. Use a thick towel to gently scoop them up and place them in a secure carrier or on a flat surface in the car for transport."
+    },
+    {
+      "question": "What if the seizures stop while I am driving?",
+      "answer": "You must still proceed to the emergency vet. Even if the active seizing stops, the underlying cause needs immediate treatment to prevent the cycle from starting again."
+    },
+    {
+      "question": "Can I give my cat human seizure medication?",
+      "answer": "No. Never administer human medications or any oral medications to a seizing cat, as this can cause choking or fatal toxicity."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

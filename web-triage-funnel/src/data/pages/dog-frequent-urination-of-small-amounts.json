@@ -1,0 +1,20 @@
+{
+  "title": "Dog Frequent Urination of Small Amounts: Triage and Care Guide",
+  "meta_desc": "Is your dog urinating frequently in small amounts? Learn about pollakiuria, when to see a vet, and how to identify potential urinary emergencies.",
+  "content_html": "<h3>What is Pollakiuria?</h3><p>Frequent urination of small amounts, medically referred to as pollakiuria, occurs when a dog feels a constant, urgent need to empty their bladder, even if very little urine has collected. This is different from polyuria, where a dog produces large volumes of urine. Pollakiuria is typically a sign of irritation, inflammation, or an obstruction in the lower urinary tract, such as the bladder or urethra.</p><h3>Is It an Emergency? (Urgency Level: Medium)</h3><p>In most cases, frequent urination is a medium-priority concern that requires a veterinary appointment within 24 hours. While it is usually caused by a common urinary tract infection (UTI), it can be quite painful for your pet. However, this becomes a high-priority emergency if your dog is straining and producing no urine at all, as this indicates a life-threatening blockage. If your dog is also vomiting, lethargic, or acting in extreme pain, seek immediate emergency care.</p><h3>How a Photo Helps Triage</h3><p>When you call your veterinarian, providing a photo of the urine can significantly assist in the triage process. Capturing the color and clarity of the urine on a light-colored surface (like a sidewalk or a puppy pad) helps the vet see if there is visible blood (hematuria) or cloudiness, which suggests infection or crystals. A photo of your dog’s posture while attempting to go can also help the vet distinguish between simple urgency and dangerous straining.</p>",
+  "faqs": [
+    {
+      "question": "What are the most common causes of frequent urination?",
+      "answer": "The most frequent causes include urinary tract infections (UTIs), bladder stones, urinary crystals, or in older dogs, issues like prostate disease or bladder tumors."
+    },
+    {
+      "question": "Can I give my dog human UTI medication?",
+      "answer": "No, you should never give your dog human medications without veterinary approval. Many human painkillers and supplements are toxic to dogs and can complicate their treatment."
+    },
+    {
+      "question": "How will the vet diagnose the issue?",
+      "answer": "Your vet will likely perform a physical exam and a urinalysis. They may also suggest an ultrasound or X-rays to check for bladder stones or other abnormalities."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

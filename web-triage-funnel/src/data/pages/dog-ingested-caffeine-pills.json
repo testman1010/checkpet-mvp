@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Caffeine Pills: Emergency Triage Guide",
+  "meta_desc": "If your dog ingested caffeine pills, this is a high-priority emergency. Learn the risks, symptoms, and why you must act immediately.",
+  "content_html": "<h3>What is Caffeine Pill Ingestion?</h3><p>Caffeine is a potent stimulant belonging to the methylxanthine family. While humans use it for focus and energy, dogs are extremely sensitive to its effects. Caffeine pills contain concentrated doses of the drug, which can quickly reach toxic levels in a dog's system, impacting their heart, lungs, and nervous system.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, caffeine pill ingestion is a life-threatening veterinary emergency. Because pills are concentrated, a single tablet can contain enough caffeine to be fatal for a small or medium-sized dog. Symptoms such as a racing heart, tremors, and seizures can manifest in as little as 30 minutes. You should transport your dog to an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the pill bottle or the supplement's ingredient list. This provides the veterinary team with the exact milligram count per pill and helps them identify if other dangerous substances, like the sweetener xylitol or other stimulants, are present. Having this information ready allows for a more accurate and rapid treatment protocol upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "How much caffeine is dangerous for a dog?",
+      "answer": "Toxic effects can be seen at 14mg per pound of body weight, and lethal doses start at approximately 70mg per pound. Concentrated pills often exceed these amounts."
+    },
+    {
+      "question": "What are the clinical signs of caffeine poisoning?",
+      "answer": "Common signs include extreme restlessness, panting, vomiting, elevated heart rate, high blood pressure, muscle tremors, and seizures."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Never induce vomiting at home unless explicitly instructed by a veterinarian. If your dog is already showing neurological signs, inducing vomiting can lead to aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

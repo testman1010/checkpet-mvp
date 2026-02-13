@@ -1,0 +1,20 @@
+{
+  "title": "Dog Unable to Blink One Eye: Causes and Triage Advice",
+  "meta_desc": "Is your dog unable to blink one eye? Learn about facial nerve paralysis, when to see a vet, and how photos assist in triage.",
+  "content_html": "<h3>What Is It?</h3><p>If your dog is unable to blink one eye, it is most commonly caused by facial nerve paralysis. This occurs when the nerve that controls the muscles of the face and eyelids is damaged or inflamed. You may also notice a drooping lip or ear on the same side. Common causes include middle ear infections, trauma, or idiopathic reasons where the cause is unknown.</p><h3>Is This an Emergency?</h3><p>The urgency level for an inability to blink is generally Low to Moderate. While it is not usually a life-threatening emergency, it requires a veterinary appointment within 24 to 48 hours. The main risk is that the eye will become excessively dry (exposure keratitis) because it cannot spread tears across the surface, which can lead to painful corneal ulcers. If the eye itself looks very red, cloudy, or if your dog is pawing at it, you should seek care sooner.</p><h3>Why a Photo Helps Triage</h3><p>A clear, front-facing photo of your dog's face is an invaluable tool for your veterinary team. It allows them to assess the symmetry of the face and look for subtle signs like drooping or changes in pupil size. By seeing the eye's current state, they can provide better immediate advice on lubrication and determine how quickly your pet needs to be examined in person.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog's ability to blink ever return?",
+      "answer": "Recovery depends on the underlying cause. Some dogs regain full function as inflammation subsides, while others may have permanent nerve damage and require long-term eye lubrication."
+    },
+    {
+      "question": "What can I do at home until my vet appointment?",
+      "answer": "You can use a simple, preservative-free artificial tear lubricant to keep the eye moist. Avoid any medicated drops or human products containing redness relievers without consulting your vet."
+    },
+    {
+      "question": "Does this mean my dog had a stroke?",
+      "answer": "While it may look similar to a human stroke, facial drooping in dogs is much more commonly related to local nerve issues or ear infections rather than a brain event."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

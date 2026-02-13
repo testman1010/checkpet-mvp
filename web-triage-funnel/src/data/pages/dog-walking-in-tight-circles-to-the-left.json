@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking in Tight Circles to the Left: Causes and Triage Guide",
+  "meta_desc": "Is your dog walking in tight circles to the left? Learn about vestibular issues, urgency levels, and how to help your pet before the vet visit.",
+  "content_html": "<h3>What Does It Mean When a Dog Circles to the Left?</h3><p>When a dog begins walking in tight, repetitive circles specifically to one side, it typically indicates an issue with their vestibular system or neurological pathways. This system acts as the body's balance center. When it is disrupted—whether by an inner ear infection, 'Old Dog Vestibular Disease,' or a lesion in the brain—the dog loses their sense of orientation and often leans or circles toward the side of the problem.</p><h3>Is This an Emergency?</h3><p>The urgency level for circling behavior is classified as Medium. While circling itself is usually not immediately life-threatening, it is a sign of significant discomfort and underlying pathology that needs to be addressed quickly. You should contact your veterinarian for an appointment within the next 12 to 24 hours. If the circling is accompanied by seizures, loss of consciousness, or extreme distress, move the urgency to High and visit an emergency clinic.</p><h3>How Capturing Video Helps Triage</h3><p>Because dogs may behave differently once they arrive at a stressful veterinary clinic, capturing a short video of the circling behavior at home is invaluable. A video allows the vet to observe the specific diameter of the circle, the dog's foot placement, and any rhythmic eye movements (nystagmus) that may have stopped by the time of the exam. This visual evidence provides critical clues for a faster, more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause my dog to walk in circles?",
+      "answer": "Yes, severe inner or middle ear infections can affect the vestibular apparatus, leading to circling, head tilting, and loss of balance."
+    },
+    {
+      "question": "What is 'Old Dog Vestibular Disease'?",
+      "answer": "Also known as Idiopathic Vestibular Disease, this is a common condition in senior dogs that causes sudden circling and dizziness. While scary to witness, most dogs recover with supportive care."
+    },
+    {
+      "question": "How can I keep my dog safe while they are circling?",
+      "answer": "Keep your dog in a confined, padded area with no sharp corners or stairs to prevent them from falling or injuring themselves while their balance is compromised."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

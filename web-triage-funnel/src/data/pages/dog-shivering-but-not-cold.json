@@ -1,0 +1,20 @@
+{
+  "title": "Dog Shivering but Not Cold: Causes and Triage Guide",
+  "meta_desc": "Is your dog shivering but not cold? Learn about potential causes, urgency levels, and how to help your pet with our veterinary triage guide.",
+  "content_html": "<h3>What is it?</h3><p>When a dog shivers or trembles despite being in a warm environment, it is usually a sign that their body is reacting to something other than temperature. In many cases, this involuntary muscle activity is a physical manifestation of pain, high stress, or an underlying metabolic or neurological issue. Unlike shivering for warmth, these tremors often stem from the nervous system or a reaction to internal discomfort.</p><h3>Is it an emergency? (Urgency: Medium)</h3><p>The urgency level for a dog shivering without a clear cause is Medium. While it may be a temporary reaction to excitement or minor nausea, it can also indicate more serious conditions such as toxin ingestion, hypoglycemia, or severe chronic pain. You should monitor your dog closely. If the shivering is accompanied by vomiting, lethargy, or difficulty walking, contact a veterinarian immediately for an evaluation.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of the shivering episode is one of the most helpful tools for a veterinary triage team. Because dogs often stop shivering the moment they enter a stressful clinic environment, a video provides a clear record of the behavior in a natural setting. It helps the vet distinguish between localized tremors, generalized shivering, or even focal seizures, allowing for a much faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Can anxiety cause my dog to shiver?",
+      "answer": "Yes, emotional distress or fear can cause significant trembling in dogs, often referred to as 'stress shivers'."
+    },
+    {
+      "question": "Is shivering a sign of pain in dogs?",
+      "answer": "Yes, shivering is a very common non-verbal cue that a dog is experiencing physical pain, particularly in the back or abdomen."
+    },
+    {
+      "question": "What toxins cause dogs to shake?",
+      "answer": "Ingesting items like chocolate, xylitol, or certain garden pesticides can cause muscle tremors and shivering as the body reacts to the poison."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

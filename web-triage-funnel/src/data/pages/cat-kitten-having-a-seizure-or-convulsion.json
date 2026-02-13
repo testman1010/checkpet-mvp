@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat or Kitten Seizures and Convulsions",
+  "meta_desc": "If your cat is having a seizure, it is a medical emergency. Learn what to do, why it happens, and how to help your veterinarian triage the situation.",
+  "content_html": "<h3>What is a Seizure or Convulsion?</h3><p>A seizure is a sudden, involuntary disturbance in the brain's electrical activity. In cats and kittens, this often manifests as a loss of consciousness, uncontrolled muscle contractions, paddling of the limbs, or foaming at the mouth. While it can be frightening to witness, understanding that this is a temporary neurological event is the first step in helping your pet.</p><h3>Is it an Emergency?</h3><p>Yes. Seizures in felines are classified as high-urgency medical emergencies. Even if the episode ends quickly, it can be a sign of severe underlying issues such as toxin ingestion, metabolic imbalance, head trauma, or infectious disease. If a seizure lasts longer than five minutes or if multiple seizures occur in a row, it is a life-threatening crisis known as status epilepticus. You should contact an emergency veterinarian immediately.</p><h3>Why Video or Photo Documentation Helps Triage</h3><p>If you can safely do so, recording a video of the episode is incredibly helpful for the veterinary team. Because pets often stop seizing by the time they arrive at the clinic, a video allows the veterinarian to observe the type, duration, and severity of the convulsion. This visual evidence helps differentiate a true seizure from other conditions like fainting or vestibular disease, leading to a faster and more accurate diagnosis during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is seizing?",
+      "answer": "Keep your hands away from your cat's mouth to avoid accidental bites. Clear away any sharp objects or furniture they might hit, and keep the environment quiet and dark until you can get them to the vet."
+    },
+    {
+      "question": "Are seizures in kittens different than in adult cats?",
+      "answer": "In kittens, seizures are frequently caused by low blood sugar (hypoglycemia), parasites, or infections, whereas in older cats, they may be linked to organ failure or brain tumors."
+    },
+    {
+      "question": "Can I give my cat human medication to stop the seizure?",
+      "answer": "No. Never administer human medications to a seizing cat. Only a veterinarian should provide medications to stop or manage seizure activity."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Seasonal Allergy Sneezing: Causes and Care Guide",
+  "meta_desc": "Is your dog sneezing? Learn about seasonal allergies, why they happen, and how to triage your pet's symptoms. Urgency level: Low.",
+  "content_html": "<h3>What is seasonal allergy sneezing?</h3><p>Seasonal allergies in dogs, much like in humans, are caused by an overactive immune response to environmental triggers such as pollen, mold spores, and dust mites. While many dogs manifest allergies through itchy skin or ear infections, sneezing and clear nasal discharge are common respiratory symptoms during peak allergy seasons.</p><h3>Is it an emergency?</h3><p>The urgency level for seasonal allergy sneezing is generally Low. It is typically a chronic, manageable condition rather than an acute medical crisis. However, you should monitor your pet closely. If the sneezing is accompanied by a loss of appetite, lethargy, thick or bloody discharge, or persistent coughing, it is time to schedule a non-emergency veterinary appointment.</p><h3>Why a photo or video helps triage</h3><p>Capturing a video of your dog during a sneezing fit or taking a clear photo of their nasal area and eyes can be incredibly helpful for your veterinarian. These visuals allow the vet to see the color and consistency of any discharge and observe the specific nature of the sneezing (such as reverse sneezing versus true sneezing), which helps in accurately diagnosing the cause and ruling out foreign objects or infections.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog over-the-counter human allergy medication?",
+      "answer": "You should never administer human medications to your dog without explicit instructions from your veterinarian, as many contain decongestants like pseudoephedrine which are highly toxic to pets."
+    },
+    {
+      "question": "How can I help my dog feel more comfortable at home?",
+      "answer": "Wiping your dog's paws and muzzle with a damp cloth after outdoor walks can remove excess pollen. Additionally, frequent vacuuming and using HEPA air filters can reduce indoor allergens."
+    },
+    {
+      "question": "When should sneezing be considered an emergency?",
+      "answer": "Sneezing becomes an emergency if your dog is struggling to breathe, has a blue-tinged tongue or gums, or exhibits sudden, severe facial swelling, which may indicate an acute allergic reaction or anaphylaxis."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Is Your Cat or Kitten Feverish? A Triage Guide for Pet Owners",
+  "meta_desc": "Learn what to do if your kitten feels hot to the touch. Discover signs of fever, urgency levels, and how to help your vet triage your pet.",
+  "content_html": "<h3>Understanding Fever in Cats and Kittens</h3><p>When a cat or kitten feels unusually hot to the touch, especially on their ears, belly, or paw pads, they may be experiencing a fever (pyrexia) or hyperthermia. A cat's normal body temperature is higher than a human's, typically ranging from 100.5°F to 102.5°F. A fever is often the body's natural response to inflammation, viral infections, or bacterial issues. In young kittens, whose immune systems are still developing, a fever should always be taken seriously as it can lead to rapid dehydration.</p><h3>Is This an Emergency?</h3><p>The urgency level for a feverish kitten is <strong>Medium</strong>. While a mild temperature increase isn't always an immediate life-threatening crisis, kittens can decline rapidly. You should seek veterinary advice within 12-24 hours. However, if the fever is accompanied by extreme lethargy, refusal to eat or drink, vomiting, or labored breathing, the situation becomes an emergency requiring immediate care.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a photo or video to your veterinarian or a triage assistant is incredibly beneficial. A visual of your kitten helps professionals assess their level of alertness, the condition of their coat, and their breathing rate. A video showing your kitten's movements can reveal hidden signs of weakness or discomfort that a physical description might miss, allowing for a much more accurate assessment of how urgently they need to be seen.</p>",
+  "faqs": [
+    {
+      "question": "What is a normal temperature for a cat?",
+      "answer": "A normal temperature for a healthy cat or kitten is between 100.5 and 102.5 degrees Fahrenheit."
+    },
+    {
+      "question": "Can I give my cat human fever reducers like Tylenol?",
+      "answer": "No. Human medications like Tylenol (Acetaminophen) and Aspirin are highly toxic to cats and can be fatal. Never administer human medication to your pet."
+    },
+    {
+      "question": "How can I tell if my kitten has a fever without a thermometer?",
+      "answer": "While a rectal thermometer is the only way to be sure, signs include ears that feel very hot, shivering, decreased appetite, and a lack of energy or interest in play."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

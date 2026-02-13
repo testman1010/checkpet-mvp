@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Yelping and Limping During Fetch: Causes and Triage",
+  "meta_desc": "Did your dog yelp and start limping while playing? Learn about CCL tears, common leg injuries, and when you need to see a vet for your pet's pain.",
+  "content_html": "<h3>What happened to your dog?</h3><p>When a dog suddenly yelps and holds up a leg during high-impact activity like fetch, it usually indicates an acute orthopedic or soft tissue injury. The most common cause is a Cranial Cruciate Ligament (CCL) tear, which is the canine equivalent of an ACL injury in humans. Other possibilities include a torn toenail, a foreign object stuck in the paw pad, a muscle strain, or in more severe cases, a fracture.</p><h3>Is this a veterinary emergency?</h3><p>The urgency level for this situation is <strong>Medium</strong>. While usually not life-threatening, your dog is experiencing significant pain and requires a veterinary exam within 24 to 48 hours to prevent further damage. However, if you see an open wound, a visible deformity, or if your dog is completely unable to stand, you should seek immediate emergency care.</p><h3>How a photo or video helps triage</h3><p>Providing your veterinarian with a photo of the specific limb or a short video of your dog attempting to walk can be extremely beneficial. Visual evidence helps the vet assess the degree of lameness and look for signs of swelling or abnormal joint angles, which can speed up the diagnostic process during your appointment.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog Advil or Tylenol for the pain?",
+      "answer": "No. Human pain medications like ibuprofen, naproxen, and acetaminophen are toxic to dogs and can cause organ failure. Only use medications prescribed by your veterinarian."
+    },
+    {
+      "question": "Should I encourage my dog to walk to 'stretch out' the leg?",
+      "answer": "No. You should strictly limit your dog's activity. Keep them confined to a small area and use a leash for bathroom breaks to prevent further injury to the joint or ligament."
+    },
+    {
+      "question": "What are the signs of a CCL tear?",
+      "answer": "Common signs include 'toe-touching' (barely putting weight on the leg), swelling around the knee, and a clicking sound when the dog walks."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

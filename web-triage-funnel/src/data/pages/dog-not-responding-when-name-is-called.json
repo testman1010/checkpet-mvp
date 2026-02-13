@@ -1,0 +1,20 @@
+{
+  "title": "Dog Not Responding to Name? Causes, Urgency, and Next Steps",
+  "meta_desc": "Is your dog ignoring you or losing their hearing? Learn why dogs stop responding to their names and when you should consult a veterinarian.",
+  "content_html": "<h3>What Does It Mean When a Dog Doesn't Respond?</h3><p>If your dog has stopped responding when you call their name, it usually suggests one of three things: a physical loss of hearing, a cognitive decline, or a behavioral change. In older pets, this is often a gradual process known as age-related hearing loss. In younger pets, it may be related to ear canal obstructions, infections, or even neurological issues that affect their focus and cognitive processing.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. Generally, a lack of response to a name is a chronic condition that develops over time and is not a life-threatening emergency. However, you should monitor your pet for other symptoms. If the lack of response is sudden and accompanied by a head tilt, loss of balance, or circling, it may indicate an ear infection or a neurological event that requires a more timely veterinary appointment.</p><h3>How a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of your dog's lack of response can be an invaluable diagnostic tool. A video allows the vet to observe if the dog is truly failing to hear the sound or if they are experiencing a 'blank' moment associated with neurological issues. Additionally, clear photos of the inside of the ear canals can help your vet identify redness, swelling, or discharge that might indicate an infection or blockage is the primary cause of the hearing loss.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause my dog to go deaf?",
+      "answer": "Yes, severe inflammation or a buildup of debris from an infection can temporarily block the ear canal or even damage the eardrum, leading to significant hearing loss."
+    },
+    {
+      "question": "Is it normal for old dogs to stop responding to their names?",
+      "answer": "While common, it is not necessarily 'normal.' It often indicates age-related hearing loss or Canine Cognitive Dysfunction, both of which should be discussed with a vet to improve the pet's quality of life."
+    },
+    {
+      "question": "How can I test my dog's hearing at home?",
+      "answer": "Try making a sharp sound, like clapping or rattling a bag of treats, while you are out of your dog's line of sight. If they do not twitch their ears or turn their head, they likely have a hearing deficit."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

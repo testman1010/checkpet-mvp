@@ -1,0 +1,20 @@
+{
+  "title": "Managing Dog Noise Sensitivity and Hiding Behavior",
+  "meta_desc": "Understand why dogs hide from loud noises, how to comfort them, and when to seek veterinary advice for noise phobia.",
+  "content_html": "<h3>What is Noise Sensitivity in Dogs?</h3><p>Noise sensitivity, often referred to as noise phobia, is an exaggerated fear response to loud sounds such as fireworks, thunderstorms, or loud engines. When a dog hides in a closet, under a bed, or in a bathroom, they are attempting to find a 'den' where the sound is muffled and they feel physically protected from a perceived threat.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. Generally, hiding due to loud noises is a behavioral response rather than a medical emergency. However, it becomes more urgent if your dog displays signs of extreme distress such as self-injury, destructive behavior to escape, or if they remain in a state of panic long after the noise has ceased. If your dog is panting excessively or has pale gums, contact a vet immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo or a short video of your dog in their chosen hiding spot can be incredibly helpful for a veterinary professional. It allows us to observe their specific body language—such as ear position, pupil dilation, and muscle tension—which provides a clearer picture of their stress level than a verbal description alone. Seeing their environment also helps us suggest ways to make their 'safe space' even more effective.</p>",
+  "faqs": [
+    {
+      "question": "Should I pull my dog out from under the bed if they are hiding?",
+      "answer": "No, you should generally let your dog stay in their safe spot. Forcing them out can increase their anxiety and may lead to defensive biting. Instead, bring their water bowl or a comforting toy nearby."
+    },
+    {
+      "question": "Can noise sensitivity develop suddenly in older dogs?",
+      "answer": "Yes, it can. Sudden noise sensitivity in older dogs can sometimes be linked to cognitive dysfunction or underlying pain that makes them feel more vulnerable."
+    },
+    {
+      "question": "What are some immediate ways to help my dog during a storm?",
+      "answer": "Try using white noise machines, playing calming music, or using a pressure wrap like a Thundershirt. Keeping curtains closed can also help reduce the visual triggers of lightning."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

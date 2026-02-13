@@ -1,0 +1,20 @@
+{
+  "title": "Cat Head Shaking and Ear Scratching: Triage and Causes",
+  "meta_desc": "Is your cat constantly shaking their head or scratching their ears? Learn about ear mites, infections, and when you should contact your veterinarian.",
+  "content_html": "<h3>Understanding Ear Irritation in Cats</h3><p>When a cat constantly shakes its head or scratches at its ears, it is a clear sign of discomfort, itching, or pain. The most common culprits include ear mites (Otodectes cynotis), bacterial or yeast infections, and allergic reactions. In some cases, a foreign object like a grass seed or a growth such as a polyp may be trapped inside the ear canal, causing significant distress.</p><h3>Urgency Level: Medium</h3><p>This condition is classified as Medium Urgency. While it is rarely an immediate life-threatening emergency, it is very painful and will not resolve on its own. You should schedule a veterinary appointment within 24 to 48 hours. Delaying treatment can lead to aural hematomas—where the ear flap fills with blood from trauma caused by scratching—or deep middle-ear infections that can affect your cat's balance.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear, well-lit photo of the inner ear flap and the entrance to the ear canal can significantly assist in triage. High-quality images allow a professional to look for specific indicators, such as the dark 'coffee ground' discharge typical of mites, the redness and swelling of an infection, or the presence of blood. This visual information helps determine the severity of the inflammation and the necessity of an urgent or routine visit.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter ear drops for my cat?",
+      "answer": "It is not recommended to use OTC drops until a vet has examined the ear. If the eardrum is ruptured, certain medications can cause permanent deafness or neurological issues."
+    },
+    {
+      "question": "Are ear mites contagious to other pets?",
+      "answer": "Yes, ear mites are highly contagious. If one pet is diagnosed, all other cats and dogs in the household usually need to be treated simultaneously."
+    },
+    {
+      "question": "How can I stop my cat from scratching until the vet visit?",
+      "answer": "The most effective way to prevent self-trauma is to use an Elizabethan collar (a 'cone') to stop them from reaching their ears with their back claws."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

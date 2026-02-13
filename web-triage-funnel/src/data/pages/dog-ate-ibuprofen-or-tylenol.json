@@ -1,0 +1,20 @@
+{
+  "title": "Urgent Triage: My Dog Ate Ibuprofen or Tylenol",
+  "meta_desc": "Ibuprofen and Tylenol are highly toxic to dogs. This is a high-priority emergency. Learn what to do and why you must contact a vet immediately.",
+  "content_html": "<h3>What is Ibuprofen and Tylenol Toxicity?</h3><p>Ibuprofen (commonly known by brands like Advil or Motrin) and Tylenol (Acetaminophen) are human medications used to treat pain and fever. While safe for people, these drugs are processed differently by dogs. Ibuprofen can cause severe gastrointestinal ulceration and acute kidney failure. Acetaminophen causes oxidative damage to red blood cells, preventing them from carrying oxygen, and can lead to rapid, fatal liver failure.</p><h3>Is it an emergency?</h3><p>Yes, this is a high-priority emergency. Even a single extra-strength pill can be lethal to a small or medium-sized dog. There is no safe amount of these medications to give a pet at home. Because internal damage begins shortly after ingestion, you must not wait for symptoms to appear. Contact your veterinarian or an emergency animal hospital immediately for instructions on inducing vomiting or beginning life-saving treatment.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the medication bottle or the specific pill. This helps the veterinary team identify the exact milligram dosage and any other active ingredients (such as caffeine or decongestants) that may be present in the formula. This information is vital for calculating the toxicity level based on your dog's weight and allows the medical team to prepare the correct antidotes before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my dog acts sick?",
+      "answer": "No. By the time a dog shows symptoms like vomiting, black tarry stools, or labored breathing, significant organ damage has already occurred. Immediate intervention is required."
+    },
+    {
+      "question": "What if my dog only ate one pill?",
+      "answer": "Even one pill can be toxic depending on the dog's weight and the pill's strength. You should still call a vet or pet poison control immediately to perform a toxicity calculation."
+    },
+    {
+      "question": "Is there a dog-safe version of Tylenol?",
+      "answer": "You should never give human medications to pets. Your veterinarian can prescribe pet-specific anti-inflammatories that are formulated to be safe for canine physiology."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

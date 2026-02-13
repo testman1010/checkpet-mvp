@@ -1,0 +1,20 @@
+{
+  "title": "Why Does My Dog's Urine Smell Like Ammonia? | Veterinary Triage Guide",
+  "meta_desc": "Learn why your dog's urine smells like ammonia, whether it's an emergency, and how to help your vet diagnose the issue quickly.",
+  "content_html": "<h3>What Does Ammonia-Scented Urine Mean?</h3><p>If your dog's urine has a pungent, ammonia-like odor, it is typically a sign of concentrated waste products or bacterial activity. Urea is a natural byproduct of protein metabolism; when bacteria break down urea—often seen in urinary tract infections—it releases ammonia gas. Other causes include severe dehydration, where the urine becomes overly concentrated, or metabolic issues such as kidney or liver dysfunction.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is <strong>Medium</strong>. While an ammonia smell alone is rarely a life-threatening crisis, it indicates an underlying problem that should not be ignored. You should schedule a veterinary appointment within the next 24 to 48 hours. However, if your dog is also vomiting, refusing to eat, or straining to urinate without producing any liquid, you should contact an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of your dog's urine on a white or light-colored surface (like a puppy pad or concrete) can provide valuable diagnostic information. Your veterinarian can look at the color and clarity; for instance, cloudy urine often points toward an infection, while very dark orange or brown urine suggests extreme dehydration or muscle breakdown. This visual evidence helps the medical team determine how quickly your pet needs to be seen.</p>",
+  "faqs": [
+    {
+      "question": "Can I treat an ammonia smell at home with more water?",
+      "answer": "While increasing water intake is helpful if the cause is mild dehydration, it will not cure an underlying infection or kidney issue. A vet visit is still necessary for a proper diagnosis."
+    },
+    {
+      "question": "What other symptoms should I look for?",
+      "answer": "Watch for increased frequency of urination, accidents in the house, licking the urinary opening, or any visible blood in the urine."
+    },
+    {
+      "question": "Will my vet need a urine sample?",
+      "answer": "Yes, your vet will likely perform a urinalysis to check for bacteria, crystals, and protein levels to determine the exact cause of the odor."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Onions or Garlic: Triage and Poisoning Guide",
+  "meta_desc": "If your dog ate onions or garlic, it is a high-priority emergency. Learn the risks, why these are toxic, and how to get immediate veterinary help.",
+  "content_html": "<h3>What is Onion and Garlic Toxicity?</h3><p>Onions, garlic, leeks, and chives are part of the Allium family. These plants contain compounds called thiosulfates. While humans can digest these easily, dogs lack the necessary enzyme to process them. When ingested, these compounds cause oxidative damage to red blood cells, leading to a serious condition called hemolytic anemia, where the body's own immune system destroys its blood cells.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. Yes, this is considered a toxic emergency. All forms of these plants are dangerous, including raw, cooked, dehydrated, or powdered versions (like garlic salt or onion powder). Symptoms often do not appear for several days, but the damage begins shortly after ingestion. Immediate decontamination by a veterinarian is the best way to prevent severe complications.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a photo of the item your dog consumed or the ingredient label of the food. Since garlic is approximately five times more concentrated and toxic than onions, seeing the label helps the veterinary team calculate the exact dosage of the toxin. A photo of any vomit can also help the vet determine if the toxic material has been successfully expelled from the stomach.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of onion or garlic poisoning?",
+      "answer": "Common signs include vomiting, diarrhea, lethargy, pale gums, an increased heart rate, and dark-colored or reddish urine."
+    },
+    {
+      "question": "How much onion is toxic to a dog?",
+      "answer": "Consumption of as little as 0.5% of a dog's body weight in onions can lead to toxicity symptoms."
+    },
+    {
+      "question": "Is cooked garlic safer than raw garlic?",
+      "answer": "No, cooking, drying, or processing does not reduce the toxicity of onions or garlic for dogs."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Human Antidepressant Pills? Emergency Triage Guide",
+  "meta_desc": "If your dog ate human antidepressants, this is a high-priority emergency. Learn the risks, symptoms, and why you must contact a vet immediately.",
+  "content_html": "<h3>What Happens When a Dog Eats Human Antidepressants?</h3><p>Human antidepressants, including common types like SSRIs (Selective Serotonin Reuptake Inhibitors) or SNRIs, are designed to alter brain chemistry in humans. In dogs, these substances are processed differently and can lead to a dangerous condition called Serotonin Syndrome. Even a single pill can cause significant toxicity, affecting the central nervous system, heart rate, and blood pressure.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening emergency. Because human dosages are significantly higher than anything safely prescribed for pets, immediate intervention is required. Do not wait for symptoms to appear; some medications are extended-release, meaning toxicity can worsen hours after ingestion. Contact your local emergency veterinarian or a pet poison control center immediately.</p><h3>Why a Photo Helps Triage</h3><p>If possible, quickly take a clear photo of the medication bottle and any remaining pills. This photo provides the veterinary team with the exact drug name, strength (milligrams), and manufacturer. This information is critical for calculating the toxic dose relative to your dog's weight and allows the clinic to prepare the specific antidotes or supportive care needed before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of antidepressant toxicity in dogs?",
+      "answer": "Common signs include extreme agitation, tremors, vomiting, dilated pupils, elevated heart rate, and in severe cases, seizures or collapse."
+    },
+    {
+      "question": "Should I try to induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed to do so by a licensed veterinarian. Some medications can cause rapid sedation or seizures, making vomiting dangerous for the dog's airway."
+    },
+    {
+      "question": "How long do I have to get my dog to the vet?",
+      "answer": "Time is of the essence. Most medications begin to absorb within 30 to 60 minutes. The sooner the vet can begin decontamination, the better the prognosis for your pet."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

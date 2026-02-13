@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Having a Seizure Lasting More Than 5 Minutes",
+  "meta_desc": "A seizure lasting over 5 minutes is a critical emergency. Learn what status epilepticus is and why your dog needs immediate veterinary care.",
+  "content_html": "<h3>What is a Prolonged Seizure?</h3><p>A seizure is a sudden, uncontrolled electrical disturbance in the brain. While a brief seizure is frightening, a seizure that lasts more than five minutes is a specific medical condition known as status epilepticus. This occurs when the brain is unable to stop the seizure activity on its own, leading to a continuous state of neurological distress.</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level for a seizure lasting more than five minutes is <strong>High/Critical</strong>. This is a life-threatening veterinary emergency. Prolonged seizures can cause a dangerous rise in body temperature (hyperthermia), permanent brain damage, and organ failure. If your dog is currently in this state, please transport them to the nearest emergency animal hospital immediately.</p><h3>Why Video or Photos Help Triage</h3><p>If it is safe to do so without delaying your trip to the vet, capturing a short video of the seizure can be vital for the medical team. Veterinary professionals use these recordings to observe the specific muscle movements, facial twitching, and consciousness levels to differentiate between types of seizures or other neurological events. This visual evidence helps the vet determine the best course of immediate treatment upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "What should I do during the seizure?",
+      "answer": "Keep your dog away from stairs or sharp furniture, do not put your hands near their mouth as they may bite transitionally, and keep the environment quiet and dark while you prepare for transport."
+    },
+    {
+      "question": "Will the seizure stop on its own after 5 minutes?",
+      "answer": "Once a seizure passes the five-minute mark, it is unlikely to stop without medical intervention. Emergency medication is usually required to break the cycle."
+    },
+    {
+      "question": "Can I give my dog human seizure medication?",
+      "answer": "No. Never administer human medications to your dog. Only a veterinarian can safely provide the appropriate dosage of anticonvulsants required to stop a status epilepticus event."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

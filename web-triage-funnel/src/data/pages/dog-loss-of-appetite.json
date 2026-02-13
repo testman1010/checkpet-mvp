@@ -1,0 +1,20 @@
+{
+  "title": "Dog Loss of Appetite: Triage and Care Guide",
+  "meta_desc": "Is your dog not eating? Learn the common causes of appetite loss, when it becomes an emergency, and how triage photos help your veterinarian.",
+  "content_html": "<h3>What Is Loss of Appetite in Dogs?</h3><p>Loss of appetite, medically known as anorexia or hyporexia, occurs when your dog shows a decreased interest in food or refuses to eat altogether. It is a common clinical sign that indicates your dog isn't feeling their best. This can be caused by anything from dental pain and stress to more significant internal issues or simply a dislike for a new brand of kibble.</p><h3>Is It an Emergency?</h3><p>The urgency level for a dog losing their appetite is generally Low, provided they are still drinking water and acting normally. If your dog misses a single meal but remains alert and active, it is usually safe to monitor them for 12 to 24 hours. However, if the refusal to eat is accompanied by persistent vomiting, extreme lethargy, or if it lasts more than 24 hours, you should seek veterinary advice immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo during a triage consultation can be incredibly helpful for a veterinary professional. A clear photo of your dog's gums can help us assess their hydration and circulation levels. Additionally, photos of any bowel movements, vomit, or even the environment where they usually eat can provide context clues that help us determine the severity of the situation and the best course of action for your pet.</p>",
+  "faqs": [
+    {
+      "question": "How long can a dog safely go without eating?",
+      "answer": "Most healthy adult dogs can go 24 hours without food without serious harm, though you should monitor them closely for other symptoms. If your dog is a puppy or has underlying health issues, contact a vet much sooner."
+    },
+    {
+      "question": "Can I give my dog a bland diet if they won't eat their kibble?",
+      "answer": "Yes, offering a bland diet of plain boiled chicken and white rice can often entice a dog with a mild stomach upset to start eating again."
+    },
+    {
+      "question": "Should I be worried if my dog is drinking but not eating?",
+      "answer": "While it is a positive sign that they are staying hydrated, a dog that refuses food for more than a day still needs a veterinary check-up to rule out underlying pain or illness."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

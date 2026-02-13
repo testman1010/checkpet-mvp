@@ -1,0 +1,20 @@
+{
+  "title": "Dog Breathing Stops During Sleep: Understanding Canine Sleep Apnea",
+  "meta_desc": "Learn why dogs pause breathing during sleep, when to worry, and why video documentation is essential for your veterinarian.",
+  "content_html": "<h3>What is it?</h3><p>When a dog momentarily stops breathing during sleep, it is often referred to as sleep apnea or hypopnea. This condition involves brief interruptions in the normal breathing pattern. In some cases, it is simply a byproduct of deep REM sleep where the dog may be dreaming vividly. However, it can also be caused by physical obstructions in the airway or neurological signals failing to trigger a breath.</p><h3>Is it an emergency?</h3><p>The urgency level for this concern is Medium. While a single instance of paused breathing during a dream is rarely a crisis, chronic sleep apnea can strain the heart and decrease oxygen levels over time. You should seek immediate emergency care if your dog has blue or purple gums, collapses, or is extremely difficult to wake up. If your dog seems otherwise healthy but pauses frequently, schedule a non-emergency appointment with your veterinarian soon.</p><h3>Why a Video Helps Triage</h3><p>Capturing a video of the breathing pauses is one of the most helpful tools for a veterinary triage team. Because these episodes rarely happen inside a clinic, a video allows the vet to see the exact duration of the pause, the amount of effort the dog uses to take the next breath, and the overall rhythm of the chest. This visual evidence helps differentiate between normal dreaming behaviors and a serious respiratory condition.</p>",
+  "faqs": [
+    {
+      "question": "Are certain breeds more prone to breathing pauses?",
+      "answer": "Yes, brachycephalic (flat-faced) breeds like English Bulldogs, Pugs, and French Bulldogs are at a higher risk due to their unique airway anatomy."
+    },
+    {
+      "question": "Can obesity cause sleep apnea in dogs?",
+      "answer": "Yes, excess weight can put additional pressure on a dog's airway, making it more likely to collapse or become obstructed during sleep."
+    },
+    {
+      "question": "How can I tell if it is just a dream?",
+      "answer": "Dreaming often involves twitching paws, muffled barks, or rapid eye movements. If the breathing returns to normal immediately after the twitching stops, it is likely REM sleep."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

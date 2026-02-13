@@ -1,0 +1,20 @@
+{
+  "title": "Dog Unable to Stand and Urinating on Self: Emergency Triage Guide",
+  "meta_desc": "If your dog cannot stand and is urinating on themselves, this is a high-priority emergency. Learn the causes and why immediate vet care is vital.",
+  "content_html": "<h3>What Does It Mean When a Dog Can't Stand?</h3><p>When a dog is unable to stand and begins urinating on themselves, it indicates a profound loss of motor function and voluntary control. This combination of symptoms, known as recumbency and incontinence, suggests that the dog's body is unable to process the signals required for movement or the retention of urine. This is often a sign of a neurological crisis or severe systemic weakness.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> This situation is a critical medical emergency. You should contact an emergency veterinarian immediately. Possible causes include Intervertebral Disc Disease (IVDD), spinal trauma, stroke, or sudden cardiovascular collapse. Because these conditions can progress rapidly toward permanent paralysis or death, immediate intervention is necessary to provide the best chance of recovery.</p><h3>How Photos and Videos Help Triage</h3><p>Capturing a quick photo or video of your dog's current state can provide vital information to the veterinary team. Visual evidence of their posture, any muscle twitching, or the way they attempt to move helps the vet determine the location of a potential spinal injury or the severity of neurological impairment before they even begin a physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until the morning to see my regular vet?",
+      "answer": "No. Loss of mobility combined with incontinence is a high-priority emergency that requires immediate diagnostic imaging and treatment to prevent permanent damage."
+    },
+    {
+      "question": "How should I move my dog safely to the car?",
+      "answer": "Gently slide your dog onto a flat, firm surface like a piece of plywood or use a thick blanket as a makeshift stretcher. Minimize any twisting or bending of the spine during transport."
+    },
+    {
+      "question": "What are common causes for these symptoms?",
+      "answer": "Common causes include severe spinal cord compression (like IVDD), traumatic injury, fibrocartilaginous embolism (FCE), or acute toxicity that affects the nervous system."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

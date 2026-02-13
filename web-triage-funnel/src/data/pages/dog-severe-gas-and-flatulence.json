@@ -1,0 +1,20 @@
+{
+  "title": "Managing Severe Gas and Flatulence in Dogs: A Veterinary Triage Guide",
+  "meta_desc": "Is your dog experiencing severe gas? Learn about causes, urgency levels, and how to help your vet diagnose the issue in this triage guide.",
+  "content_html": "<h3>What is Severe Flatulence in Dogs?</h3><p>Flatulence in dogs is the accumulation of gas in the digestive tract that is eventually expelled. While occasional gas is normal, severe gas refers to a high frequency of passing gas or a particularly foul odor. This is often caused by dietary choices, eating too quickly (swallowing air), or difficulty digesting certain ingredients like high-fiber fillers or specific proteins.</p><h3>Is it an Emergency?</h3><p>The urgency level for isolated severe gas is generally low. While it can be unpleasant for owners, it is rarely a life-threatening emergency on its own. However, you should monitor your dog for more serious symptoms such as a distended or hard abdomen, unproductive retching, or extreme lethargy. If gas is accompanied by these signs, it could indicate bloat (GDV), which is a critical emergency.</p><h3>Why a Photo or Documentation Helps Triage</h3><p>Providing your veterinarian with a photo of your dog's posture or their latest stool sample can be incredibly helpful for triage. A dog in a prayer position (front legs down, rear end up) may be signaling abdominal pain. Additionally, a photo of your dog's food label or a list of recent treats helps a professional identify potential dietary triggers or allergens that may be causing the excessive gas.</p>",
+  "faqs": [
+    {
+      "question": "What are the most common causes of dog gas?",
+      "answer": "Common causes include eating too quickly, high-fiber diets, food sensitivities, or sudden changes in their regular diet."
+    },
+    {
+      "question": "Can I give my dog human anti-gas medication?",
+      "answer": "Never provide human medications without consulting a vet, as some products contain Xylitol, which is highly toxic to dogs."
+    },
+    {
+      "question": "When does gas become a serious concern?",
+      "answer": "Gas becomes serious if it is accompanied by vomiting, a swollen abdomen, loss of appetite, or signs of physical distress."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

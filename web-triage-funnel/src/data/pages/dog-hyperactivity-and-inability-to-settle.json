@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hyperactivity and Inability to Settle | Veterinary Triage Guide",
+  "meta_desc": "Is your dog unable to relax? Learn what causes canine hyperactivity, when to seek veterinary advice, and why tracking behavior helps triage.",
+  "content_html": "<h3>What is Dog Hyperactivity?</h3><p>Hyperactivity in dogs, often characterized by an inability to settle or stay still, is a state where a pet remains in a constant loop of movement and distraction. While it is often behavioral—stemming from a lack of physical or mental stimulation—it can sometimes be linked to medical issues such as hyperthyroidism, allergies, or chronic pain that makes resting uncomfortable.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the vast majority of cases, a dog who cannot settle is not experiencing an immediate life-threatening emergency. However, if this restlessness is a sudden change and is accompanied by heavy panting, pacing without purpose, or signs of physical distress, you should schedule a non-emergency appointment with your veterinarian to rule out discomfort or neurological concerns.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you consult a professional, providing a short video of your dog's behavior is incredibly valuable. Visual evidence allows a vet to differentiate between high-energy playfulness and involuntary restlessness or anxiety-driven pacing. Seeing your dog's body language—such as their tail carriage, ear position, and focal point—helps determine if the issue is behavioral, environmental, or physical.</p>",
+  "faqs": [
+    {
+      "question": "Can certain foods make my dog hyperactive?",
+      "answer": "Yes, diets high in sugar or certain fillers can lead to energy spikes. Some dogs may also react to specific proteins or additives that cause restlessness."
+    },
+    {
+      "question": "Is hyperactivity more common in specific breeds?",
+      "answer": "Yes, working and herding breeds like Border Collies and Belgian Malinois have naturally higher energy levels and require more mental engagement to settle."
+    },
+    {
+      "question": "Could my dog be hyperactive because they are in pain?",
+      "answer": "It is possible. Some dogs pace or refuse to lie down because they are experiencing joint pain or abdominal discomfort and cannot find a comfortable position."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Licking Paws Until Bleeding: Causes and Veterinary Triage Guide",
+  "meta_desc": "Find out why your dog is licking their paws until they bleed, whether it is an emergency, and how to triage the injury before your vet visit.",
+  "content_html": "<h3>What is Excessive Paw Licking?</h3><p>When a dog licks their paws to the point of bleeding, it is a sign of intense discomfort, itching (pruritus), or pain. This behavior often results in self-trauma, creating raw, open sores known as lick granulomas or hot spots. The underlying cause could range from environmental allergies and food sensitivities to fungal infections, embedded foreign objects, or even anxiety.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While paw licking is rarely an immediate life-threatening emergency, bleeding indicates that the skin barrier has been compromised, significantly increasing the risk of a secondary bacterial infection. You should schedule a veterinary appointment within 24 to 48 hours. If you notice extreme swelling, a foul odor, or if your dog is limping significantly, seek care sooner.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting a vet remotely, a clear, high-resolution photo is invaluable. A photo allows the veterinarian to see the exact pattern of the irritation, the color of the tissue, and whether there are signs of deep infection or foreign bodies like foxtails. Capturing a photo before the dog continues to lick or before you apply any temporary bandages helps the vet see the 'raw' state of the injury for a more accurate assessment.</p>",
+  "faqs": [
+    {
+      "question": "Can I put a bandage on my dog's bleeding paw?",
+      "answer": "It is generally better to use an Elizabethan collar (the 'cone of shame') to stop the licking rather than a tight bandage, which can trap moisture and worsen an infection. If you must use a bandage for transport, keep it loose and remove it as soon as possible."
+    },
+    {
+      "question": "Should I wash the area with soap?",
+      "answer": "Avoid using scented human soaps or harsh chemicals. You can gently pat the area with a clean, damp cloth or use a veterinary-approved antiseptic like dilute chlorhexidine, but consult your vet before applying any topical treatments."
+    },
+    {
+      "question": "Is paw licking always caused by allergies?",
+      "answer": "While allergies are a common culprit, other causes include boredom, stress, arthritis pain in the joint, or a small splinter or thorn embedded between the toes."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

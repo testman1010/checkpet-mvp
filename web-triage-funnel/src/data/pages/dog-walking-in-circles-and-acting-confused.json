@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking in Circles and Acting Confused: Emergency Triage Guide",
+  "meta_desc": "Is your dog walking in circles and acting confused? This guide covers causes, why it is a high-priority emergency, and how to help your vet.",
+  "content_html": "<h3>Understanding Disorientation and Circling in Dogs</h3><p>Seeing your pet walk in repetitive circles or appear suddenly confused can be deeply distressing. These behaviors typically indicate a disruption in the dog’s vestibular system (the balance center) or a neurological issue within the brain. When a dog loses their sense of spatial awareness, they may lean, stumble, or pace in one direction because their brain is receiving incorrect signals about their body's position.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden circling and confusion is <strong>High</strong>. You should contact a veterinarian or an emergency animal hospital immediately. While some causes, such as 'Old Dog Vestibular Disease,' are not life-threatening, these symptoms can also signal severe conditions including strokes, brain tumors, toxic ingestion, or inflammatory diseases of the central nervous system. Immediate professional evaluation is the only way to rule out life-threatening triggers.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because dogs often experience a surge of adrenaline when they arrive at a veterinary clinic, their symptoms may temporarily 'disappear' or change due to the stress of the environment. Providing your veterinarian with a short video or photo of the behavior occurring at home is incredibly helpful. It allows the clinical team to see the exact nature of the circling, the direction of the head tilt, and any involuntary eye movements (nystagmus), leading to a much faster and more accurate triage process.</p>",
+  "faqs": [
+    {
+      "question": "What is Vestibular Disease?",
+      "answer": "Often called 'Dizzy Dog Syndrome,' this is a common condition affecting the balance system. It causes sudden circling, head tilts, and stumbling, and while it looks like a stroke, it often improves with supportive care."
+    },
+    {
+      "question": "Can ear infections cause circling?",
+      "answer": "Yes, a severe inner or middle ear infection can disrupt a dog's balance, leading to circling and disorientation. This requires professional cleaning and antibiotics."
+    },
+    {
+      "question": "What should I do if my dog is also having a seizure?",
+      "answer": "If the confusion is accompanied by convulsing or loss of consciousness, ensure the dog is in a safe area away from stairs and transport them to an emergency vet immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

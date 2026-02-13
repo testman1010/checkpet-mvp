@@ -1,0 +1,20 @@
+{
+  "title": "Dog Staring Blankly at Walls: Causes and Triage Guide",
+  "meta_desc": "Is your dog staring at walls? Learn about Canine Cognitive Dysfunction, focal seizures, and when you need to contact a veterinarian for help.",
+  "content_html": "<h3>What is it?</h3><p>When a dog stares blankly at walls or into corners for extended periods, it is often referred to as 'star-gazing' or 'wall-staring.' This behavior is typically a neurological or cognitive symptom rather than a simple behavioral quirk. In older dogs, it is a primary sign of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans. In younger dogs, it may indicate focal seizures, or it could be a sign of metabolic issues such as liver shunts or electrolyte imbalances affecting the brain.</p><h3>Is it an emergency?</h3><p>This behavior is classified as Medium Urgency. If your dog is otherwise eating, drinking, and responding to their name, you should schedule a veterinary appointment within 24 to 48 hours. It is rarely an immediate life-threatening emergency unless it is accompanied by active convulsing, persistent vomiting, or a total loss of consciousness. However, chronic staring can indicate an underlying condition that requires long-term management to ensure your dog's comfort and safety.</p><h3>Why a photo or video helps triage</h3><p>Taking a video of the behavior is one of the most useful tools for your veterinarian. Because these episodes can be intermittent, your dog may act completely normal once they arrive at the clinic. A video allows the vet to see exactly how long the episode lasts, whether the dog is responsive to your voice during the event, and if there are any subtle physical cues like pupil dilation or muscle twitching that can help differentiate between a seizure and cognitive decline.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog's eyesight cause them to stare at walls?",
+      "answer": "While vision loss can make a dog hesitant, blankly staring for long periods is usually related to the brain's processing rather than the eyes themselves."
+    },
+    {
+      "question": "Is wall staring a sign of pain?",
+      "answer": "While less common than neurological causes, some dogs may 'press' their head against the wall if they are in significant pain or experiencing high intracranial pressure."
+    },
+    {
+      "question": "Are there treatments for dogs who stare at walls?",
+      "answer": "Yes. Depending on the diagnosis, treatments can include specialized diets, supplements for brain health, anti-seizure medications, or medications to increase dopamine levels in senior dogs."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

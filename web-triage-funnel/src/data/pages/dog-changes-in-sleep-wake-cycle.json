@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Changes in Your Dog's Sleep-Wake Cycle",
+  "meta_desc": "Is your dog restless at night? Learn about sleep cycle changes, why they happen, and how to triage your pet's behavior with your veterinarian.",
+  "content_html": "<h3>What are Sleep-Wake Cycle Changes?</h3><p>Changes in a dog's sleep-wake cycle occur when a pet begins to reverse their normal routine, often sleeping deeply throughout the day and becoming restless, vocal, or active during the night. This behavior is frequently referred to as 'sundowning.' It is most commonly seen in senior dogs and can be a clinical sign of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans, or it may stem from underlying medical issues like chronic pain or metabolic imbalances.</p><h3>Is it an Emergency?</h3><p>Generally, a change in sleep patterns is considered a <strong>Low Urgency</strong> situation. While it is not typically a life-threatening emergency, it is a significant indicator that your dog's quality of life or physical comfort may be declining. You should schedule a wellness exam with your veterinarian within the next week to discuss these changes, especially if they are accompanied by confusion or accidents in the house.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of your dog's nighttime behavior is one of the most effective ways to assist in a diagnosis. A video captures specific symptoms—such as aimless pacing, staring into corners, or rhythmic panting—that your dog likely won't exhibit in the high-stress environment of a clinic. Photos of your dog's resting area can also help the vet determine if environmental factors, like lighting or bedding, are contributing to the restlessness.</p>",
+  "faqs": [
+    {
+      "question": "Can joint pain cause my dog to stay awake at night?",
+      "answer": "Yes. Arthritis pain often becomes more noticeable when a dog is still, leading to frequent repositioning and an inability to fall into a deep sleep."
+    },
+    {
+      "question": "Is there medication to help my dog sleep through the night?",
+      "answer": "There are several options, including melatonin, specialized diets, and prescription medications for cognitive dysfunction or anxiety, but these must be approved by your vet."
+    },
+    {
+      "question": "Should I wake my dog up during the day?",
+      "answer": "Gently encouraging more daytime activity and preventing long naps in the afternoon can sometimes help reset their internal clock, but consult your vet before making major changes."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

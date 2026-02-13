@@ -1,0 +1,20 @@
+{
+  "title": "Cat Shaking Violently: Is It a Seizure or Medical Emergency?",
+  "meta_desc": "If your cat is shaking violently, it is a high-priority emergency. Learn about potential causes like seizures or toxins and what to do next.",
+  "content_html": "<h3>What is violent whole-body shaking?</h3><p>Violent shaking of the entire body in cats is often an indication of a seizure, severe muscle tremors, or a neurological event. During these episodes, your cat may lose consciousness, experience involuntary muscle contractions, or appear to be 'paddling' their legs. This behavior is typically caused by abnormal electrical activity in the brain or extreme physiological distress.</p><h3>Is this a medical emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. Shaking that involves the whole body is considered a critical medical emergency. Prolonged episodes can lead to hyperthermia (overheating), brain damage, or organ failure. You should contact an emergency veterinarian immediately, even if the shaking appears to stop, as clusters of episodes are common and dangerous.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so without delaying your trip to the vet, capturing a short video of the shaking can be incredibly helpful for the clinical team. Since many cats stop shaking by the time they arrive at the clinic, a video allows the veterinarian to differentiate between a true seizure, a vestibular event, or tremors caused by toxins. This visual evidence ensures a faster and more accurate diagnosis during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is shaking?",
+      "answer": "Do not attempt to restrain your cat or put your hands near their mouth, as they may bite involuntarily. Clear away any sharp objects or furniture they might hit, and keep the room dark and quiet."
+    },
+    {
+      "question": "Could toxins cause violent shaking?",
+      "answer": "Yes, exposure to certain toxins, such as permethrin (found in some dog flea treatments) or certain houseplants, can cause severe tremors and shaking that require immediate medical intervention."
+    },
+    {
+      "question": "How long do these episodes usually last?",
+      "answer": "A typical seizure may last 1 to 3 minutes. However, any episode lasting longer than 5 minutes is a life-threatening emergency known as status epilepticus."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

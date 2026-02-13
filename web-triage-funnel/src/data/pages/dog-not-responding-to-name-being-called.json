@@ -1,0 +1,20 @@
+{
+  "title": "Dog Not Responding to Name? Potential Causes and Triage Guide",
+  "meta_desc": "If your dog isn't responding to their name, it may be hearing loss or a behavioral shift. Learn when to see a vet and how to help your pet.",
+  "content_html": "<h3>What Is It?</h3><p>When a dog stops responding to their name, it often indicates a change in their sensory perception or cognitive state. For older dogs, this is most frequently associated with age-related hearing loss or canine cognitive dysfunction. For younger dogs, it might be a behavioral issue, often referred to as selective hearing, or a localized problem like a severe ear infection that has muffled their hearing.</p><h3>Is It an Emergency?</h3><p>The urgency level for this concern is Low. If your dog is otherwise acting normal—eating, drinking, and moving well—this is generally not a medical emergency. However, if the loss of response is sudden and accompanied by a head tilt, loss of balance, or discharge from the ears, you should schedule a veterinary appointment within 24 to 48 hours to rule out infection or neurological issues.</p><h3>How a Photo or Video Helps</h3><p>Taking a video of your dog when you call their name can be incredibly helpful for your veterinarian. A video allows the vet to observe the dog's body language; for example, if the dog's ears twitch toward the sound but the dog doesn't turn their head, it suggests they can hear the noise but may be confused or in pain. Visual documentation of their environment and their physical reaction provides context that helps differentiate between a behavioral choice and a physical impairment.</p>",
+  "faqs": [
+    {
+      "question": "Can dogs suddenly become deaf?",
+      "answer": "While most hearing loss is gradual, sudden deafness can occur due to trauma, severe infection, or certain medications. If the change happened overnight, a vet visit is recommended."
+    },
+    {
+      "question": "How can I test my dog's hearing at home?",
+      "answer": "Try making a loud noise out of their line of sight, such as shaking a treat bag or clapping. If they don't react to high-pitched or familiar sounds, their hearing may be impaired."
+    },
+    {
+      "question": "Could it just be 'selective hearing'?",
+      "answer": "Yes, especially in high-distraction environments. However, if your dog fails to respond in a quiet room while looking directly at you, it is more likely a medical or age-related issue."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

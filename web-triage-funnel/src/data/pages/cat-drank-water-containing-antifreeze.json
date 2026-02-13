@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Cat Drank Antifreeze",
+  "meta_desc": "Immediate emergency steps for cats who ingested antifreeze. Ethylene glycol poisoning is a life-threatening veterinary emergency requiring urgent care.",
+  "content_html": "<h3>What is Antifreeze Poisoning?</h3><p>Antifreeze typically contains ethylene glycol, a chemical that is extremely toxic to cats. Because it has a sweet taste, cats may be drawn to drinking puddles found in garages or driveways. Once ingested, the liver breaks it down into toxic metabolites that cause rapid, irreversible kidney failure and damage to the central nervous system.</p><h3>Is it an emergency?</h3><p>Yes. This is a critical, life-threatening emergency with a High urgency level. Even a very small amount—less than a teaspoon—can be fatal to a cat. Time is the most important factor; treatment is most successful if started within 3 hours of ingestion. Do not wait for symptoms to appear, as internal damage occurs long before clinical signs are visible.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so, take a photo of the product label or the container of the antifreeze. This allows the veterinary team to quickly identify the concentration of ethylene glycol and check for other hazardous additives. Having this information ready allows the clinic to prepare the specific antidote and treatment plan before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are the early symptoms of antifreeze ingestion?",
+      "answer": "Initially, cats may appear 'drunk,' showing signs like uncoordinated walking, drooling, vomiting, or excessive thirst."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No, do not attempt to induce vomiting in a cat at home unless specifically instructed by a veterinarian, as this can lead to aspiration or further injury."
+    },
+    {
+      "question": "What if the antifreeze says it is 'non-toxic' or 'pet-safe'?",
+      "answer": "Even 'pet-safer' antifreeze usually contains propylene glycol, which is still harmful to cats. You should still contact a veterinarian immediately to be certain."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat with Cold Back Paws and Inability to Walk",
+  "meta_desc": "If your cat has cold back paws and cannot walk, this is a life-threatening medical emergency. Seek immediate veterinary care now.",
+  "content_html": "<h3>What is happening to my cat?</h3><p>When a cat suddenly loses the use of their back legs and the paws feel cold to the touch, it is most commonly a condition known as Feline Aortic Thromboembolism (FATE), or a 'Saddle Thrombus.' This occurs when a blood clot, often originating from the heart, travels through the aorta and lodges at the junction where blood flow splits to the two hind legs. This blockages cuts off vital oxygen and blood supply to the limbs, causing sudden paralysis and intense pain.</p><h3>Is this a medical emergency?</h3><p>Yes. The urgency level is High. This is considered one of the most painful and time-sensitive emergencies in feline medicine. If your cat is vocalizing, panting, or dragging their hind end, you must transport them to an emergency veterinary hospital immediately. Do not wait for an appointment or try to provide home care, as the lack of blood flow can cause permanent tissue damage and the underlying heart condition requires professional stabilization.</p><h3>Why a photo helps with triage</h3><p>If you are calling an emergency clinic while in transit, providing a clear photo or short video of your cat's posture and the color of their paw pads can be incredibly helpful for the triage team. In many cases of Saddle Thrombus, the paw pads may appear bluish, pale, or purple rather than pink. Seeing this allows the veterinary staff to prepare oxygen, pain relief, and diagnostic equipment before you even walk through the door, saving precious minutes for your pet's treatment.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat aspirin or human pain medication?",
+      "answer": "No. Never give human medications to a cat. Many are toxic and can be fatal. The pain associated with a saddle thrombus requires clinical-grade analgesics administered by a veterinarian."
+    },
+    {
+      "question": "Will my cat's legs ever work again?",
+      "answer": "Recovery depends on the severity of the clot and how quickly treatment begins. While some cats regain mobility with intensive care, the prognosis is guarded and requires a detailed discussion with your vet."
+    },
+    {
+      "question": "Are there other signs I should look for?",
+      "answer": "Besides cold paws and paralysis, look for heavy breathing, loud crying or howling, and a lack of pulse in the inner thighs. All of these point toward a critical circulatory issue."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

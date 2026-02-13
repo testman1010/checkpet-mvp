@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed a Penny: Risks of Zinc Toxicity and Blockage",
+  "meta_desc": "If your cat swallowed a penny, learn about the risks of zinc toxicity and GI blockages. This guide covers why you must seek veterinary care.",
+  "content_html": "<h3>What is it?</h3><p>When a cat ingests a penny, it is classified as a foreign body ingestion. Beyond the physical risk of the coin becoming stuck in the esophagus or intestines, pennies pose a chemical risk. Modern pennies minted in the United States after 1982 are primarily composed of zinc with a thin copper coating. When exposed to the acidic environment of a cat's stomach, the zinc can leach into the bloodstream, leading to potentially fatal zinc toxicosis.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat swallowing a penny is Medium. While it may not require the same split-second response as a respiratory arrest, it is a serious medical situation that requires veterinary attention within hours, not days. Zinc toxicity can cause the destruction of red blood cells (hemolysis), leading to anemia, kidney failure, and liver damage. If the coin does not pass or dissolve, it can also cause a life-threatening gastrointestinal obstruction.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo can be incredibly helpful for triage. If you have another penny of the same type, a photo of it next to a ruler helps the vet confirm the size and potential material (based on the mint year). Additionally, a photo of your cat’s gums or any vomitus can help the veterinary team assess the severity of the situation and prioritize your cat for immediate care upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of zinc poisoning in cats?",
+      "answer": "Symptoms include vomiting, diarrhea, lack of appetite, lethargy, pale or yellow-tinged gums (jaundice), and orange-tinted or dark-colored urine."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting in a cat at home unless specifically instructed by a veterinarian, as this can cause the coin to become lodged in the esophagus or lead to aspiration pneumonia."
+    },
+    {
+      "question": "How will a vet diagnose and treat this?",
+      "answer": "A veterinarian will typically perform an X-ray to locate the coin. Treatment may involve inducing vomiting under medical supervision, endoscopic removal, or surgery to prevent further toxicity and obstruction."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

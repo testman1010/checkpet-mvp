@@ -1,0 +1,20 @@
+{
+  "title": "Is Your Cat's Skin Hot? Triage Guide for Fever and Heat Exposure",
+  "meta_desc": "Learn why your cat's skin feels hot, if it's an emergency, and how to triage symptoms of fever or overheating in cats.",
+  "content_html": "<h3>What is it?</h3><p>When a cat's skin feels excessively hot, it typically indicates one of two things: hyperthermia or a fever. Hyperthermia occurs when the cat's body temperature rises due to external factors, such as a hot environment or overexertion. A fever, on the other hand, is a biological response to internal issues like infection, inflammation, or immune-mediated diseases. While cats naturally have a higher body temperature than humans (typically between 100.5°F and 102.5°F), skin that feels unusually hot to the touch—especially in the ears, paws, and underbelly—often warrants closer inspection.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat feeling hot is <strong>Medium</strong>. It is not always a crisis, but it should not be ignored. If your cat is otherwise acting normal, eating, and drinking, you should monitor them and schedule a non-emergency veterinary appointment. However, if the heat is accompanied by open-mouth breathing (panting), extreme lethargy, vomiting, or a rectal temperature exceeding 104°F, the situation can escalate to a high-priority emergency. Heatstroke, in particular, requires immediate cooling and veterinary stabilization.</p><h3>Why a photo helps triage</h3><p>Capturing a photo or video of your cat during this time is extremely helpful for remote triage. While a picture cannot communicate temperature, it allows a veterinarian to look for secondary clinical signs that you might miss. A photo can show if the skin is flushed or red (erythematous), if there is localized swelling indicating an abscess, or if the cat's posture and facial expression suggest pain or respiratory distress. These visual cues help professionals determine if your cat needs to be seen immediately or if home monitoring is appropriate.</p>",
+  "faqs": [
+    {
+      "question": "How can I accurately check my cat's temperature at home?",
+      "answer": "The only accurate way to check a cat's temperature is with a rectal thermometer. Digital thermometers are safest; lubricate the tip with petroleum jelly and insert it gently. A reading over 103.5°F is considered a fever."
+    },
+    {
+      "question": "Can I give my cat human medicine to break a fever?",
+      "answer": "No. Never give your cat human medications like Tylenol (acetaminophen) or Aspirin, as these are highly toxic to cats and can be fatal."
+    },
+    {
+      "question": "What should I do if my cat is hot because of the sun?",
+      "answer": "Move your cat to a cool, shaded area with plenty of fresh water. You can apply cool (not cold) damp cloths to their paws and ears, but avoid ice, as it can cause blood vessels to constrict and trap heat inside the body."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Nighttime Yowling in Cats | Veterinary Triage Guide",
+  "meta_desc": "Is your cat yowling at night? Learn the causes of excessive vocalization, urgency levels, and how to prepare for a vet visit.",
+  "content_html": "<h3>What is Excessive Nighttime Yowling?</h3><p>Excessive nighttime yowling, often referred to as caterwauling, is characterized by loud, long, and deep vocalizations that can sound distressed. In cats, this behavior can be triggered by a variety of factors ranging from environmental stress and boredom to medical conditions. In older cats, it is frequently associated with Cognitive Dysfunction Syndrome (feline dementia) or sensory decline, while in younger, unneutered cats, it is often hormonal or territorial.</p><h3>Is This an Emergency?</h3><p>The urgency level for nighttime yowling is <strong>Medium</strong>. While the sound can be alarming, it is rarely an immediate life-threatening emergency unless accompanied by other severe symptoms like inability to urinate, sudden collapse, or open-mouth breathing. However, because yowling can be a sign of systemic issues like hyperthyroidism, hypertension, or chronic pain, you should schedule a veterinary examination within a few days to rule out underlying illness.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of the yowling episode is highly beneficial for your veterinarian. Because cats often mask their symptoms or stop the behavior once they arrive at a clinic, a recording allows us to see the cat's body language, pupil dilation, and degree of disorientation in their home environment. This visual evidence helps differentiate between a behavioral issue, such as anxiety, and a neurological or physical response to pain.</p>",
+  "faqs": [
+    {
+      "question": "Could my older cat have dementia?",
+      "answer": "Yes, Cognitive Dysfunction Syndrome is a very common cause of nighttime wandering and vocalization in senior cats."
+    },
+    {
+      "question": "Can hunger cause deep yowling at night?",
+      "answer": "While cats may meow for food, deep yowling usually indicates a higher level of distress, such as confusion, pain, or hormonal drives."
+    },
+    {
+      "question": "Does hyperthyroidism lead to increased vocalization?",
+      "answer": "Yes, an overactive thyroid can cause restlessness and increased vocalization; this is a common medical cause that requires a blood test to diagnose."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

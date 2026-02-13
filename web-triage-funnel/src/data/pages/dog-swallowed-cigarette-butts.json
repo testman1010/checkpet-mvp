@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Cigarette Butts: Triage Guide and Next Steps",
+  "meta_desc": "If your dog ate cigarette butts, they may be at risk for nicotine poisoning. Learn about symptoms, urgency levels, and how to help your vet.",
+  "content_html": "<h3>What is Nicotine Poisoning?</h3><p>Nicotine is a potent toxin found in tobacco products. When a dog ingests cigarette butts, they are consuming concentrated amounts of nicotine that remain in the filter and unburnt tobacco. Because dogs are often much smaller than humans, even a few discarded butts can lead to serious toxicity.</p><h3>Is It an Emergency?</h3><p>The urgency level for ingesting cigarette butts is Medium. While it may not always be a critical life-threat depending on the size of the dog and the amount consumed, nicotine is absorbed very rapidly into the bloodstream. You should contact your veterinarian or an animal poison control center immediately to determine if treatment is necessary.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the original packaging or the remaining butts, take a clear photo of them. A photo allows the veterinary team to identify the specific brand and type of cigarette, which helps them calculate the potential nicotine dose and tailor the treatment plan more accurately for your pet.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of nicotine poisoning in dogs?",
+      "answer": "Common symptoms include vomiting, drooling, agitation, tremors, rapid breathing, and an increased heart rate."
+    },
+    {
+      "question": "How quickly do symptoms appear?",
+      "answer": "Symptoms typically begin within 30 to 60 minutes of ingestion, though they can sometimes appear sooner."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, do not attempt to induce vomiting unless specifically directed to do so by a licensed veterinarian or poison control specialist."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

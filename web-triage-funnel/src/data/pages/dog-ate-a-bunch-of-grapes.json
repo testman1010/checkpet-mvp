@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Grapes: Immediate Triage Guide and Emergency Steps",
+  "meta_desc": "If your dog ate grapes, this is a high-priority medical emergency. Learn why grapes are toxic and what steps you need to take right now.",
+  "content_html": "<h3>What is grape toxicity?</h3><p>Grape and raisin toxicity is a serious condition where ingestion leads to acute kidney injury. While the exact toxic agent is still being researched, it is well-documented that grapes can cause rapid and irreversible damage to a dog's renal system, regardless of the dog's breed, age, or health status.</p><h3>Is this an emergency?</h3><p>The urgency level is High. Any ingestion of grapes or raisins should be treated as a medical emergency. There is no known 'safe' dose, and because some dogs are more sensitive than others, even a single grape can be fatal. Immediate veterinary intervention is the most effective way to prevent permanent kidney failure.</p><h3>Why a photo helps triage</h3><p>Taking a photo of the grapes, the packaging (to see the weight or type), or any vomitus can be incredibly helpful for the veterinary team. A photo helps the vet estimate the quantity consumed and the timeline of digestion, which directly influences whether they should induce vomiting or begin aggressive fluid therapy. Being able to see what was ingested allows for a faster, more accurate triage process during a stressful situation.</p>",
+  "faqs": [
+    {
+      "question": "How soon will a dog show signs of grape poisoning?",
+      "answer": "Symptoms like vomiting usually develop within 6 to 12 hours of ingestion. However, internal kidney damage begins much sooner, which is why you should not wait for symptoms to appear before seeking help."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should only induce vomiting if specifically instructed to do so by a veterinarian or a pet poison control expert. In many cases, it is safer and more effective for a vet to do this in a controlled clinical environment."
+    },
+    {
+      "question": "Does the size of my dog matter?",
+      "answer": "Unlike many other toxins, grape toxicity is not always dose-dependent. While a larger dog might have a higher tolerance in theory, many cases show that small amounts can cause severe reactions in large dogs. All ingestions are considered high-risk."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

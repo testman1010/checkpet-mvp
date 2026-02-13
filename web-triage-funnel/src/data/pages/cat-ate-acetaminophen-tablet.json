@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Cat Ate an Acetaminophen Tablet",
+  "meta_desc": "Acetaminophen is highly toxic to cats. This guide explains why it is a high-level emergency and what steps you must take immediately to help.",
+  "content_html": "<h3>What is Acetaminophen?</h3><p>Acetaminophen, commonly known by brand names like Tylenol, is a human medication used to treat pain and fever. While safe for people, it is extremely poisonous to cats. Felines lack the specific liver enzyme (glucuronyl transferase) required to break down this drug safely. Instead, the drug is converted into a toxic metabolite that destroys red blood cells and causes severe liver damage.</p><h3>Is it an Emergency?</h3><p>Yes. The urgency level is High. Ingesting even a small portion of a single tablet is a life-threatening emergency for a cat. Because their bodies cannot process the drug, symptoms such as brown-colored gums, difficulty breathing, facial swelling, and lethargy can progress rapidly. You should contact an emergency veterinarian or a pet poison control hotline immediately. Do not wait for symptoms to appear, as internal damage starts quickly.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the medication packaging, including the strength (mg per tablet) and the ingredients list. Showing this photo to the veterinary team allows them to calculate the exact toxic dose your cat may have received. This speed up the triage process, helping the medical team prepare the correct antidote and life-saving treatments before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat a tiny piece of Tylenol for pain?",
+      "answer": "No. There is no safe dose of acetaminophen for cats. Even a tiny fragment can cause fatal blood and liver toxicity."
+    },
+    {
+      "question": "What are the symptoms of acetaminophen poisoning in cats?",
+      "answer": "Common signs include muddy or chocolate-colored gums, rapid breathing, swelling of the face or paws, vomiting, and dark-colored urine."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, never attempt to induce vomiting in a cat at home unless specifically instructed by a veterinarian. This can cause additional harm or aspiration."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

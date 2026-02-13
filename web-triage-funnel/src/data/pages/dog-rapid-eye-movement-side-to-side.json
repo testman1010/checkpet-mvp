@@ -1,0 +1,20 @@
+{
+  "title": "Dog Rapid Eye Movement Side to Side: A Guide to Nystagmus",
+  "meta_desc": "Learn why your dog's eyes are moving side to side, if it is an emergency, and how to help your vet diagnose this condition known as Nystagmus.",
+  "content_html": "<h3>What is Rapid Side-to-Side Eye Movement?</h3><p>When a dog's eyes move involuntarily from side to side, up and down, or in a circular motion, it is a medical condition called nystagmus. This flickering occurs when the vestibular system—the part of the brain and inner ear responsible for balance—is disrupted. It often makes the dog feel as though the room is spinning, which can be very distressing for your pet.</p><h3>Is It an Emergency? (Urgency Level: High)</h3><p>Yes, sudden onset nystagmus is considered a high-urgency situation that requires an immediate veterinary consultation. While it is often a symptom of 'Old Dog Vestibular Disease,' which can be managed, it can also indicate more serious issues such as an inner ear infection, stroke, poisoning, or an inflammatory brain disease. If your dog is also stumbling, tilting their head, or vomiting, please contact an emergency clinic right away.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a short video of your dog's eye movements can be an invaluable tool for your veterinarian. Nystagmus can sometimes be intermittent or may change depending on the dog's head position. A video allows the vet to observe the speed and direction of the movement (horizontal, vertical, or rotary), which provides critical clues about whether the problem is located in the inner ear or the central nervous system.</p>",
+  "faqs": [
+    {
+      "question": "Can nystagmus be cured?",
+      "answer": "Treatment depends entirely on the underlying cause. If it is caused by an ear infection, antibiotics can help. If it is idiopathic vestibular disease, it often resolves on its own with supportive care."
+    },
+    {
+      "question": "Is my dog having a seizure?",
+      "answer": "While it can look scary, nystagmus alone is usually a balance issue rather than a seizure. However, only a veterinarian can confirm this through a physical neurological exam."
+    },
+    {
+      "question": "Should I withhold food if my dog's eyes are flickering?",
+      "answer": "Because nystagmus causes extreme motion sickness, your dog may feel nauseated. It is best to avoid feeding them until you have spoken with a vet to prevent vomiting or potential choking."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

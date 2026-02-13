@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ingested Grapes or Raisins: Emergency Triage Guide",
+  "meta_desc": "If your cat ate grapes or raisins, they are at risk for kidney failure. This guide explains why this is a high-urgency veterinary emergency.",
+  "content_html": "<h3>What is Grape and Raisin Toxicity?</h3><p>Grape and raisin toxicity is a serious condition where ingestion of these fruits leads to acute kidney injury. While the specific toxic agent within the fruit is not yet fully identified, it is well-documented that even a small amount can be fatal to some felines. Both fresh grapes and dried raisins (including those in baked goods) pose a significant risk.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, if your cat has ingested any amount of grapes or raisins, you should consider it a life-threatening emergency. There is no known safe dose, and the onset of kidney failure can be rapid. Immediate veterinary intervention is required to induce vomiting or begin supportive care before toxins are fully absorbed.</p><h3>Why a Photo Helps Triage</h3><p>If you are unsure of exactly what your cat ate, taking a photo of the fruit or the packaging can be incredibly helpful for your veterinarian. A photo helps the medical team identify the specific type of fruit and estimate the quantity consumed. It also allows them to check for other hidden toxins, such as xylitol or chocolate, which are often found in raisin-containing snacks.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of grape poisoning in cats?",
+      "answer": "Early signs typically include vomiting within 6 to 12 hours, followed by lethargy, diarrhea, loss of appetite, and abdominal pain."
+    },
+    {
+      "question": "Can a cat survive eating a raisin?",
+      "answer": "Yes, survival is possible if the cat receives immediate veterinary treatment, such as decontamination and intravenous fluid therapy, before the kidneys are severely damaged."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never attempt to induce vomiting in a cat at home without specific instructions from a veterinarian, as cats are highly sensitive to many emetic agents used for dogs."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

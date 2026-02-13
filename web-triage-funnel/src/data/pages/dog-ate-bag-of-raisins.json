@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Bag of Raisins: Immediate Action and Triage Guide",
+  "meta_desc": "Raisins are highly toxic to dogs. If your dog ate raisins, this is a high-level medical emergency. Learn the risks and next steps immediately.",
+  "content_html": "<h3>What is Raisin Toxicity?</h3><p>Raisin and grape ingestion is a serious condition in dogs where the fruit causes sudden, acute kidney failure. While the exact mechanism was long a mystery, recent research suggests tartaric acid within the fruit is the toxic component. Unlike many other toxins, raisin toxicity is not always dose-dependent; some dogs can suffer fatal kidney failure after eating just a few raisins, while others may seem unaffected by larger amounts. Because there is no way to predict an individual dog's sensitivity, every ingestion must be treated as life-threatening.</p><h3>Is This an Emergency?</h3><p>The urgency level is High. If your dog has consumed any amount of raisins, it is a veterinary emergency. You should not wait for symptoms to appear, as clinical signs like vomiting, lethargy, or loss of appetite often mean kidney damage has already begun. Immediate decontamination and supportive care provided by a veterinarian are the only ways to ensure the best possible outcome for your pet.</p><h3>How a Photo Helps Triage</h3><p>If you still have the packaging, take a clear photo of the label and the ingredient list. A photo helps your veterinarian or the poison control specialist determine the exact volume of raisins consumed based on the bag size and identify if there are other secondary toxins present, such as chocolate coating or the artificial sweetener xylitol. Having this visual information ready can significantly speed up the intake process when you arrive at the emergency clinic.</p>",
+  "faqs": [
+    {
+      "question": "How many raisins are toxic to dogs?",
+      "answer": "There is no known safe amount. Because some dogs are hypersensitive, even a single raisin can potentially lead to acute renal failure."
+    },
+    {
+      "question": "What are the early signs of raisin poisoning?",
+      "answer": "Early signs include vomiting (usually within 6-12 hours), lethargy, diarrhea, and abdominal pain. Later signs include increased thirst or a total lack of urination."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed to do so by a licensed veterinarian or a pet poison helpline, as this can lead to further complications like aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

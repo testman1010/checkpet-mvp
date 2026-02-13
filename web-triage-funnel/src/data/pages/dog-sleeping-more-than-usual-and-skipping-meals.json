@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargy and Loss of Appetite: A Veterinary Triage Guide",
+  "meta_desc": "Is your dog sleeping more and skipping meals? Learn about lethargy, appetite loss, and when you should contact a veterinarian for help.",
+  "content_html": "<h3>What Is Lethargy and Loss of Appetite?</h3><p>When a dog is sleeping more than usual and skipping meals, they are experiencing two common clinical signs: lethargy and anorexia. Lethargy is a state of drowsiness or lack of energy, while anorexia refers to a dog's refusal to eat their normal food. These symptoms are non-specific, meaning they are often the first signs of many different health issues, ranging from minor infections to more chronic conditions.</p><h3>Is This an Emergency?</h3><p>The urgency level for these symptoms is categorized as Medium. While one missed meal or an extra nap might not be an immediate crisis, the combination of both signs indicates that your dog is feeling significant discomfort. If your dog has not eaten for more than 24 hours, or if these symptoms are accompanied by vomiting, diarrhea, or pale gums, you should contact a veterinarian as soon as possible.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo or a short video of your dog can be extremely beneficial during a triage assessment. A photo of their gums (which should be pink) or a video showing their breathing pattern and posture helps veterinary professionals gauge the severity of the situation. These visual cues allow us to see what you see, helping to determine how quickly your pet needs medical intervention.</p>",
+  "faqs": [
+    {
+      "question": "How long should I wait if my dog isn't eating?",
+      "answer": "If your dog is otherwise acting normal, you can monitor them for 12 to 24 hours. However, because your dog is also lethargic, you should call a vet within the day."
+    },
+    {
+      "question": "Can I try to feed my dog human food to see if they will eat?",
+      "answer": "You can try offering a small amount of plain, boiled chicken or white rice, but avoid seasoned or fatty foods, as these can worsen stomach upset."
+    },
+    {
+      "question": "What are the most common causes of these symptoms?",
+      "answer": "Common causes include dental pain, viral or bacterial infections, digestive upset, or metabolic issues such as kidney or liver disease."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ate Raw Yeast Dough",
+  "meta_desc": "If your dog ate raw yeast dough, this is a veterinary emergency. Learn about the risks of bloat and ethanol poisoning and what steps to take now.",
+  "content_html": "<h3>What Happens When a Dog Ingests Raw Dough?</h3><p>Ingesting raw yeast dough is a serious medical concern for dogs. Once inside the stomach, the warm, moist environment acts as an incubator, causing the yeast to ferment and expand rapidly. This expansion can cause the stomach to distend significantly, potentially leading to a life-threatening condition called Gastric Dilatation-Volvulus (GDV), commonly known as bloat. Additionally, the fermentation process releases ethanol (alcohol) as a byproduct, which is rapidly absorbed into the dog's bloodstream.</p><h3>Urgency Level: High Emergency</h3><p>This situation is considered a high-priority veterinary emergency. You should contact an emergency veterinarian immediately. Unlike some other toxins where you can \"wait and see,\" raw yeast dough begins expanding and releasing alcohol almost instantly. The risk of stomach rupture or severe alcohol poisoning is high, and professional intervention is required to safely manage the situation and prevent permanent organ damage or death.</p><h3>Why a Photo Helps During Triage</h3><p>If it is safe to do so, take a quick photo of the remaining dough or the recipe/packaging before you leave for the clinic. Providing your veterinarian with a visual reference of the dough's size and ingredients helps them estimate the potential for expansion and calculate the risk of ethanol toxicity. This information allows the medical team to prepare the correct treatment protocols, such as gastric lavage or intravenous fluids, before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No. Never induce vomiting at home unless specifically directed by a veterinarian. The dough may be too large or sticky to safely pass back through the esophagus, posing a choking hazard."
+    },
+    {
+      "question": "What are the symptoms of yeast dough ingestion?",
+      "answer": "Common signs include a distended or bloated abdomen, unproductive retching, stumbling (ataxia), extreme lethargy, and disorientation due to alcohol toxicity."
+    },
+    {
+      "question": "Is it still an emergency if my dog only ate a small piece?",
+      "answer": "Yes. Even small amounts of yeast can expand significantly and produce enough ethanol to cause poisoning in smaller dogs. It is always safest to call a vet for a professional risk assessment."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

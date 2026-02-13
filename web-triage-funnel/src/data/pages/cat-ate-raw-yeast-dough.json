@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Raw Yeast Dough: Immediate Safety and Triage Guide",
+  "meta_desc": "If your cat ate raw dough, yeast expansion and alcohol toxicity are risks. Learn the symptoms, urgency level, and why you must contact a vet.",
+  "content_html": "<h3>What is Raw Yeast Dough Ingestion?</h3><p>When a cat eats raw dough containing yeast, two dangerous processes begin. First, the warm, moist environment of the stomach acts as an oven, causing the yeast to ferment and the dough to expand rapidly. This can lead to severe abdominal distension or a gastric blockage. Second, the fermentation process produces ethanol (alcohol), which is quickly absorbed into the cat's bloodstream, leading to potentially fatal alcohol poisoning.</p><h3>Is it an Emergency?</h3><p>The urgency level for this situation is Medium. While it is not always a sudden cardiac event, it is a progressive medical emergency that requires prompt veterinary intervention. You should contact your local clinic or an animal poison control center immediately. Do not wait for symptoms to appear, as the dough will continue to expand and produce toxins as long as it remains in the stomach.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a photo of the dough that was consumed or the recipe's ingredient list. Showing your veterinarian a photo of the remaining dough helps them estimate the volume ingested and the potential for expansion. Additionally, a photo of the label helps identify other toxic additives like raisins, garlic, onions, or xylitol that might be hidden in the dough, allowing for a more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Symptoms of bloating or alcohol toxicity can appear within 30 minutes to two hours after ingestion."
+    },
+    {
+      "question": "Can I give my cat water to help wash it down?",
+      "answer": "No. Adding liquids may actually encourage the yeast to ferment and expand further. Consult a vet before giving anything by mouth."
+    },
+    {
+      "question": "What are the signs of alcohol poisoning in cats?",
+      "answer": "Look for lack of coordination, lethargy, vomiting, tremors, and a drop in body temperature."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

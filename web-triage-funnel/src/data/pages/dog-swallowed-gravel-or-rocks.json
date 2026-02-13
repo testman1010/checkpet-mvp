@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Swallowed Rocks or Gravel: Emergency Triage Guide",
+  "meta_desc": "If your dog ate rocks or gravel, it is a high-priority emergency. Learn the signs of obstruction and when to seek immediate veterinary care.",
+  "content_html": "<h3>What is Rock or Gravel Ingestion?</h3><p>Rock or gravel ingestion occurs when a dog consumes stones or landscaping materials, a behavior often referred to as pica. Unlike food, these foreign objects cannot be digested and may become stuck anywhere from the esophagus to the intestines.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Swallowing rocks is considered a veterinary emergency. Large stones can cause a complete intestinal blockage (obstruction), while sharp gravel can perforate the stomach or intestinal lining. Both scenarios are life-threatening and require immediate professional assessment. If your dog is vomiting, experiencing abdominal pain, or showing signs of lethargy, go to an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the same type of rocks or gravel your dog swallowed, take a clear photo next to a common object (like a coin) for scale. This helps the veterinary team estimate the size, shape, and sharpness of the objects, which is critical for determining if the material might pass or if surgical intervention is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Can a dog pass a rock naturally?",
+      "answer": "While very small, smooth pebbles may occasionally pass in the stool, the risk of a life-threatening blockage is high. You should never assume a rock will pass without a veterinarian's evaluation."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. You should never induce vomiting unless specifically instructed by a veterinarian. Rocks are heavy and often sharp; bringing them back up can cause a choking hazard or tear the esophagus."
+    },
+    {
+      "question": "What are the signs of an intestinal blockage?",
+      "answer": "Common symptoms include repeated vomiting, inability to keep down water, loss of appetite, abdominal tenderness, straining to defecate, and extreme lethargy."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

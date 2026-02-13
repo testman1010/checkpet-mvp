@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Chewed on Sago Palm",
+  "meta_desc": "Sago palm ingestion is a life-threatening emergency for dogs. Learn the symptoms, why it is critical to act now, and how a photo can save your pet.",
+  "content_html": "<h3>What is a Sago Palm?</h3><p>The Sago Palm (Cycas revoluta) is a popular ornamental plant often found in landscaping and as an indoor bonsai. Despite its name and appearance, it is not a true palm but a cycad. Every part of this plant is highly toxic to dogs, containing a potent toxin called cycasin. The seeds, or nuts, contain the highest concentration of this toxin, but even a few needles or a piece of bark can cause fatal poisoning.</p><h3>Is it an Emergency?</h3><p>Yes, this is a High Urgency medical emergency. Sago palm ingestion has a very high mortality rate if not treated immediately. Cycasin causes rapid and severe liver failure, often manifesting symptoms within hours. If you suspect your dog has chewed on or eaten any part of a Sago Palm, do not wait for symptoms to appear. Contact an emergency veterinarian or a pet poison control hotline immediately. Immediate decontamination is the best chance for survival.</p><h3>Why a Photo Helps Triage</h3><p>When you are heading to the emergency clinic, taking a quick, clear photo of the plant and the parts your dog chewed can be lifesaving. Different cycad species have varying levels of toxicity, and a photo allows the veterinary team to confirm the exact species and identify which parts (seeds vs. leaves) were consumed. This information helps the vet calculate the potential toxic dose and prepare the specific treatment protocols, such as charcoal administration or IV fluids, before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What are the first signs of Sago Palm poisoning?",
+      "answer": "Initial symptoms usually include vomiting, drooling, diarrhea (which may contain blood), and a loss of appetite. These signs can appear within 15 minutes to several hours after ingestion."
+    },
+    {
+      "question": "How long does it take for liver failure to occur?",
+      "answer": "While initial gastrointestinal upset happens quickly, clinical signs of liver failure—such as jaundice (yellowing of the skin/eyes), bruising, and internal bleeding—typically develop within 2 to 3 days."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "You should never induce vomiting without first consulting a veterinarian or poison control expert. In some cases, it may be recommended, but it must be done safely and only if the ingestion was very recent."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Temporary Blindness After Seizure: Causes and Triage Guide",
+  "meta_desc": "Understand why dogs experience temporary blindness after seizures and learn when to seek veterinary care for postictal vision loss.",
+  "content_html": "<h3>What is Postictal Blindness?</h3><p>Temporary blindness following a seizure is a common symptom of the postictal phase, which is the recovery period for the brain after a seizure occurs. During a seizure, the brain experiences a massive surge of electrical activity. As the brain attempts to reset, it can cause transient neurological deficits, including vision loss. This happens because the visual processing centers in the brain are temporarily overwhelmed or exhausted and need time to return to normal function.</p><h3>Is Postictal Blindness an Emergency?</h3><p>The urgency level for temporary blindness following a single seizure is categorized as Medium. While seeing your pet unable to navigate their surroundings is distressing, postictal blindness is usually temporary and often resolves within minutes to a few hours. However, you should contact a veterinarian immediately if the seizure lasted longer than five minutes, if your dog has more than one seizure in 24 hours, or if the blindness persists for more than 24 hours. A veterinary exam is always recommended after any first-time seizure event to determine the underlying cause.</p><h3>Why Documentation and Photos Help</h3><p>Providing your veterinarian with a photo or video of your dog’s eyes and their behavior during this phase is an invaluable triage tool. Visual evidence allows the vet to see the size of the pupils, how they react to light, and whether there are involuntary eye movements known as nystagmus. This information helps the clinical team distinguish between a neurological recovery phase and other medical emergencies, such as a primary eye injury or severe brain swelling.</p>",
+  "faqs": [
+    {
+      "question": "How long does temporary blindness usually last after a seizure?",
+      "answer": "Most dogs regain their sight within a few minutes to several hours, though in some cases, the postictal phase can last up to 24 hours."
+    },
+    {
+      "question": "Should I try to test my dog's vision at home?",
+      "answer": "You can gently move your hand toward your dog's eye to see if they blink (menace response), but be careful as disoriented dogs may accidentally bite if startled."
+    },
+    {
+      "question": "How can I keep my dog safe while they cannot see?",
+      "answer": "Keep your dog in a small, carpeted room or a padded crate to prevent them from falling down stairs or bumping into sharp furniture corners."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

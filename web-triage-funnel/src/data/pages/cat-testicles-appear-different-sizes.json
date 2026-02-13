@@ -1,0 +1,20 @@
+{
+  "title": "My Cat's Testicles Are Different Sizes: Causes and Triage Guide",
+  "meta_desc": "Noticed uneven testicles in your cat? Learn about potential causes, why the urgency is low, and how a photo can help your vet provide a diagnosis.",
+  "content_html": "<h3>What is it?</h3><p>Noticing that your cat's testicles are asymmetrical can be concerning. This condition, where one testicle appears larger than the other, can be caused by several factors. Common causes include testicular tumors (which are often slow-growing), orchitis (an infection or inflammation of the testicle), scrotal hernias, or physical trauma to the area. In some cases, it may simply be a natural anatomical variation or a result of one testicle not fully descending in younger cats.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: Low.</strong> In most cases, a difference in testicular size is not an immediate life-threatening emergency. If your cat is eating, drinking, and using the litter box normally, you can typically wait for a scheduled appointment with your veterinarian. However, you should monitor for signs of discomfort. If the area becomes hot to the touch, or if your cat starts vomiting or acting lethargic, you should seek veterinary care sooner.</p><h3>Why a photo helps triage</h3><p>Providing a clear, well-lit photograph to your veterinary team can be a vital first step in the triage process. A photo allows the professional to assess the scale of the swelling, look for skin discoloration or discharge, and determine if the issue appears to be an external skin problem or an internal mass. Having a visual record also helps the vet monitor if the size changes significantly between the time you notice it and your actual clinic visit.</p>",
+  "faqs": [
+    {
+      "question": "Could it be cancer?",
+      "answer": "While testicular tumors are a possibility, they are often treatable through neutering. Your vet will perform a physical exam to determine the nature of the growth."
+    },
+    {
+      "question": "Is my cat in pain if his testicles are different sizes?",
+      "answer": "Not necessarily. Many cats with testicular asymmetry act perfectly normal. However, if he is excessively licking the area or reacting when touched, he may be experiencing discomfort."
+    },
+    {
+      "question": "Will neutering fix this problem?",
+      "answer": "Yes, in the majority of cases involving testicular swelling or masses, neutering (the surgical removal of the testicles) is the recommended and curative treatment."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

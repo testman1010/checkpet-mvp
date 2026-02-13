@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hyperactivity and Racing Heart: Triage Guide & Urgency Levels",
+  "meta_desc": "Is your dog hyperactive with a racing heart? Learn about potential causes, why this is a high-urgency situation, and how to help your vet triage.",
+  "content_html": "<h3>What is Hyperactivity and a Racing Heart in Dogs?</h3><p>When a dog exhibits sudden hyperactivity combined with a racing heart (tachycardia), it means their nervous system is in an overstimulated state. This is often characterized by frantic movement, an inability to settle, dilated pupils, and a heart rate that remains dangerously high even when the dog is not physically exerting itself. This combination is typically a sign of physiological distress rather than simple excitement.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, this combination of symptoms is considered a high-priority emergency. While it may sometimes be caused by severe anxiety, it is frequently the primary indicator of toxin ingestion—such as chocolate, caffeine, or xylitol—or serious medical issues like heatstroke or heart failure. If your dog shows additional signs such as pale or blue-tinged gums, tremors, or vomiting, you should transport them to an emergency veterinary clinic immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a short video of your dog’s behavior or a clear photo of their gums and eyes can be life-saving. These visuals allow a triage professional to assess your dog's level of consciousness, respiratory effort, and neurological state. This information helps the veterinary team prepare for your arrival and determines if life-saving interventions are needed the moment you step through the door.</p>",
+  "faqs": [
+    {
+      "question": "What common toxins cause hyperactivity and a racing heart?",
+      "answer": "Common household toxins include chocolate, coffee grounds, tea bags, certain human ADHD medications, and products containing the sweetener xylitol."
+    },
+    {
+      "question": "How can I check my dog's heart rate at home?",
+      "answer": "Place your hand on the left side of your dog's chest, just behind the elbow. Count the beats for 15 seconds and multiply by four to get the beats per minute. Anything consistently over 140-160 for a large dog or 180 for a small dog at rest is concerning."
+    },
+    {
+      "question": "Should I try to induce vomiting at home?",
+      "answer": "No. Never induce vomiting unless specifically instructed by a veterinarian, as some toxins can cause more damage if brought back up, especially if the dog is already hyperactive or showing neurological signs."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

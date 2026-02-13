@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Wild Mushrooms? Immediate Steps and Triage Guide",
+  "meta_desc": "Act quickly if your dog ate a wild mushroom. This is a high-urgency emergency. Learn why identification and professional care are vital for recovery.",
+  "content_html": "<h3>What is mushroom poisoning in dogs?</h3><p>Mushroom poisoning occurs when a dog ingests a wild fungus that contains toxic compounds. While some yard mushrooms are harmless, others can cause severe gastrointestinal distress, liver failure, kidney damage, or even death. Because many toxic species look nearly identical to safe ones, any ingestion should be treated with extreme caution.</p><h3>Is it an emergency?</h3><p>The urgency level is High. You should contact your veterinarian or an animal poison control center immediately. Mushroom toxins can act very quickly, and some of the most dangerous varieties do not show symptoms until significant internal organ damage has already occurred. Early intervention, such as decontamination and supportive care, is the most effective way to ensure a positive outcome for your pet.</p><h3>Why a photo helps triage</h3><p>Providing a clear photograph is one of the most helpful things you can do for the veterinary team. If possible, safely take a photo of the mushroom from multiple angles, including the top of the cap, the gills or pores underneath, and the base of the stem. This allows experts to identify the specific toxin involved, which dictates the exact treatment plan your dog requires. Use a glove or a paper towel to handle any samples to avoid skin contact with potential toxins.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my dog gets sick?",
+      "answer": "No, you should not wait. By the time symptoms like vomiting or lethargy appear, toxins may have already entered the bloodstream or begun damaging the liver. Immediate veterinary consultation is necessary."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed by a veterinarian or poison control specialist, as some toxins can cause rapid neurological changes that make vomiting dangerous."
+    },
+    {
+      "question": "What if I can't find the mushroom my dog ate?",
+      "answer": "If you cannot find a sample, your vet will treat your dog based on their symptoms and the likelihood of exposure. Seek professional help even if you don't have a specimen."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

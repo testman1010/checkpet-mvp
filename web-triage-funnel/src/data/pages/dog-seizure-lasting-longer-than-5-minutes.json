@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Seizure Lasting Longer Than 5 Minutes",
+  "meta_desc": "A dog seizure lasting over 5 minutes is a life-threatening emergency. Learn why immediate veterinary care is critical and what to do right now.",
+  "content_html": "<h3>What is a Prolonged Seizure?</h3><p>A seizure lasting longer than five minutes is a critical medical condition known as Status Epilepticus. In this state, the brain is stuck in a continuous loop of electrical activity, preventing the body from recovering or maintaining normal functions like temperature regulation and oxygen distribution.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is a high-priority, life-threatening emergency. If your dog's seizure has surpassed the five-minute mark, their body temperature can rise to dangerous levels, leading to brain damage, organ failure, or death. You must transport your pet to the nearest emergency veterinary hospital immediately. Do not wait for the seizure to stop on its own.</p><h3>How Photos and Videos Help Triage</h3><p>If you have a second person available, having them record a brief video of the seizure can be invaluable for the veterinary team. A video allows the vet to observe the specific type of involuntary movement and the severity of the episode, which helps them determine the best course of medication. However, never delay transport to take a photo; your priority is getting your dog to a clinician who can administer intravenous anticonvulsants.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to restrain my dog or hold their tongue?",
+      "answer": "No. Never put your hands near your dog's mouth during a seizure as they may accidentally bite you. Dogs cannot swallow their tongues. Focus on clearing away sharp objects and keeping them on a flat, safe surface."
+    },
+    {
+      "question": "What if the seizure stops while we are on the way to the vet?",
+      "answer": "You should still proceed to the emergency clinic. Even if the active seizing stops, the underlying cause needs to be identified, and your dog must be monitored for 'cluster seizures' or internal damage caused by the prolonged episode."
+    },
+    {
+      "question": "How can I safely move my dog to the car?",
+      "answer": "Use a heavy blanket as a makeshift stretcher to lift them gently. This protects both you and the dog, especially if they are still actively seizing or are disoriented in the post-seizure phase."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

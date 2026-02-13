@@ -1,0 +1,20 @@
+{
+  "title": "Cat Restlessness and Pacing to the Litter Box: Causes and Triage",
+  "meta_desc": "Is your cat pacing to the litter box? Learn about urinary distress, when to see a vet, and how photos help triage your cat's health.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat exhibits restlessness and repeatedly paces back and forth to the litter box, it is often a sign of feline lower urinary tract disease (FLUTD) or gastrointestinal distress. The cat may feel a constant urge to eliminate, even if the bladder or bowels are empty. This behavior is typically a response to inflammation, irritation, or a physical blockage that causes significant discomfort.</p><h3>Is It an Emergency?</h3><p>The urgency level for this behavior is <strong>Medium</strong>. While pacing can be caused by stress or a minor infection, it can also be the precursor to a life-threatening urinary blockage, which is particularly common in male cats. If your cat is vocalizing in pain, licking their genitals excessively, or if you notice they are straining but producing no urine at all, you must seek veterinary care immediately, as a total blockage can be fatal within 24 to 48 hours.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a photo of your cat's posture or a picture of the litter box contents can provide vital information for a veterinary professional. Seeing the size of urine clumps (or the absence of them) and any presence of blood helps the vet determine the severity of the inflammation. Additionally, a short video of the pacing behavior can help differentiate between behavioral anxiety and physical pain, ensuring your pet receives the correct diagnostic priority.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be constipated?",
+      "answer": "While constipation can cause litter box pacing, urinary issues are more common and often more dangerous. A vet can distinguish between the two through a physical exam."
+    },
+    {
+      "question": "What if there is blood in the urine?",
+      "answer": "Hematuria (blood in the urine) is a sign of significant inflammation or infection and should be evaluated by a veterinarian as soon as possible."
+    },
+    {
+      "question": "Is this behavior common in male cats?",
+      "answer": "Yes, male cats are at a higher risk for life-threatening urinary obstructions due to their anatomy. Any straining in a male cat should be treated with high caution."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

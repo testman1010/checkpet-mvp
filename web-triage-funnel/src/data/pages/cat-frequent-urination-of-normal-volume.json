@@ -1,0 +1,20 @@
+{
+  "title": "Cat Frequent Urination (Normal Volume): Causes and Triage Guide",
+  "meta_desc": "Is your cat urinating frequently but in normal amounts? Learn about potential causes, urgency levels, and why a photo can help your veterinarian.",
+  "content_html": "<h3>What is Frequent Urination of Normal Volume?</h3><p>When your cat visits the litter box more often than usual but continues to produce a normal total volume of urine, it is often a sign of bladder irritation or an underlying metabolic change. This differs from a urinary blockage, where the cat struggles to produce any liquid at all. Frequent urination, or pollakiuria, suggests that the bladder lining may be inflamed, making the cat feel like they need to go even when the bladder isn't full, or that they are processing more fluids than usual.</p><h3>Is It an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While it is generally not an immediate life-threatening emergency like a total urinary obstruction, it is not something that should be ignored. You should schedule a veterinary appointment within the next 24 to 48 hours. If your cat begins to strain without producing urine, stops eating, or starts vomiting, the urgency shifts to high, and you should seek emergency care immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the urine in the litter box or on a white paper towel can be incredibly helpful for remote triage or your in-person vet visit. Visual evidence allows the veterinary team to check for subtle discoloration, such as a pinkish tint indicating blood, or cloudiness indicating infection or crystals. Seeing the size and number of urine clumps helps the vet distinguish between increased frequency and increased volume, which are symptoms of different sets of diseases.</p>",
+  "faqs": [
+    {
+      "question": "Could this be a sign of diabetes or kidney disease?",
+      "answer": "Yes. While those conditions often involve increased volume (polyuria), the increased frequency is usually the first thing a pet owner notices. A urinalysis and blood work are needed to confirm these diagnoses."
+    },
+    {
+      "question": "Is my cat just marking their territory?",
+      "answer": "Territory marking (spraying) usually involves small amounts of urine on vertical surfaces. If your cat is using the litter box and producing normal volumes frequently, it is more likely a medical issue than a behavioral one."
+    },
+    {
+      "question": "Can stress cause frequent urination in cats?",
+      "answer": "Yes, a condition called Feline Idiopathic Cystitis (FIC) is often triggered by stress and can cause a cat to visit the litter box frequently due to bladder inflammation."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

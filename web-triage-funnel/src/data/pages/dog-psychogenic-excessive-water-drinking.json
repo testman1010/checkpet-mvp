@@ -1,0 +1,20 @@
+{
+  "title": "Psychogenic Polydipsia in Dogs: Excessive Water Drinking Guide",
+  "meta_desc": "Learn about psychogenic excessive water drinking in dogs, its urgency level, and how to help your veterinarian with a diagnosis.",
+  "content_html": "<h3>What is Psychogenic Polydipsia?</h3><p>Psychogenic polydipsia is a behavioral condition where a dog drinks excessive amounts of water without an underlying medical necessity. Unlike physical ailments such as diabetes or kidney disease, this condition is usually driven by behavioral factors like boredom, stress, or a learned habit from puppyhood. It results in the production of large amounts of dilute urine because the kidneys are working overtime to process the unnecessary fluid.</p><h3>Is it an Emergency?</h3><p>The urgency level for psychogenic water drinking is <strong>Medium</strong>. While it is not typically an immediate life-threatening crisis, it requires a prompt veterinary consultation. It is critical to rule out serious metabolic conditions that present with the same symptoms. Furthermore, if a dog consumes an extreme amount of water in a very short period, they risk 'water intoxication' (hyponatremia), which can lead to brain swelling and requires immediate care.</p><h3>How Photos and Documentation Help Triage</h3><p>When you consult with a professional, providing a photo or video of your dog's drinking behavior can be highly beneficial. A video helps the vet observe the intensity of the drinking and the dog's posture, while photos of the water bowl and a written log of daily intake help quantify the volume. This documentation allows the vet to distinguish between 'frequent' drinking and 'excessive' volume, which is a key factor in a behavioral diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "How can a vet tell if the drinking is behavioral or medical?",
+      "answer": "Veterinarians typically perform a 'water deprivation test' under strict supervision or use blood and urine tests to see if the kidneys can concentrate urine when water intake is controlled."
+    },
+    {
+      "question": "Should I take the water bowl away at night?",
+      "answer": "No. You should never restrict your dog's water access until a veterinarian has ruled out medical conditions like diabetes or kidney failure, as restriction could lead to dangerous dehydration."
+    },
+    {
+      "question": "Are certain breeds more prone to this behavior?",
+      "answer": "While it can happen to any dog, it is frequently seen in high-energy or working breeds that may be prone to boredom or compulsive behaviors if they do not receive enough mental stimulation."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

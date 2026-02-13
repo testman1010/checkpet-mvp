@@ -1,0 +1,20 @@
+{
+  "title": "Dog Coughing After Excitement: Causes and Veterinary Triage Guide",
+  "meta_desc": "Is your dog coughing when excited? Learn about tracheal collapse, kennel cough, and when to see a vet in our low-urgency triage guide.",
+  "content_html": "<h3>What Is It?</h3><p>An occasional dry cough that occurs specifically when your dog is excited, pulling on a leash, or running is often referred to as a \"honking\" or \"hacking\" cough. This symptom is frequently associated with conditions like tracheal collapse—where the windpipe temporarily flattens during rapid breathing—or mild inflammation of the upper airways. It can also be an early sign of infectious tracheobronchitis, commonly known as Kennel Cough.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. If your dog is otherwise acting normally, eating well, and has pink gums, this is typically not an immediate emergency. However, a cough that occurs during exertion can sometimes point to underlying heart or lung issues. You should schedule a routine veterinary exam to ensure the condition doesn't progress or cause your pet discomfort.</p><h3>Why a Video Helps Triage</h3><p>It is very rare for a dog to cough on command during a physical exam. Capturing a video of the episode at home is one of the most helpful tools you can provide your veterinarian. A recording allows the doctor to hear the specific sound of the cough and observe your dog's breathing pattern, which is vital for distinguishing between a simple throat irritation and more complex respiratory or cardiac conditions.</p>",
+  "faqs": [
+    {
+      "question": "Why does my dog only cough when they are happy or excited?",
+      "answer": "Excitement leads to faster, more shallow breathing. This increased airflow can irritate the lining of the throat or cause a sensitive trachea to vibrate or partially collapse, triggering a cough reflex."
+    },
+    {
+      "question": "Could this be Kennel Cough?",
+      "answer": "Yes, Kennel Cough often presents as a dry, hacking cough that is exacerbated by activity. If your dog has recently been to daycare, grooming, or a park, this is a possibility."
+    },
+    {
+      "question": "When should I seek immediate help?",
+      "answer": "Seek emergency care if your dog has blue or purple-tinted gums, is struggling to catch their breath even when calm, or if the coughing is accompanied by extreme lethargy or fainting."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

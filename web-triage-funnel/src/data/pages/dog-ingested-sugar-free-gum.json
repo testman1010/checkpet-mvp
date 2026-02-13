@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Sugar-Free Gum: Urgent Xylitol Toxicity Guide",
+  "meta_desc": "If your dog ate sugar-free gum, they may have xylitol poisoning. This is a life-threatening emergency. Learn symptoms and immediate steps to take.",
+  "content_html": "<h3>What is Sugar-Free Gum Poisoning?</h3><p>Sugar-free gum frequently contains a sweetener called xylitol (sometimes listed as birch sugar). While perfectly safe for human consumption, xylitol is highly toxic to dogs. Even a small amount can cause a rapid, massive release of insulin, leading to life-threatening drops in blood sugar and, in some cases, acute liver failure.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, this is a critical medical emergency. Symptoms of toxicity can manifest in as little as 30 to 60 minutes. If your dog has ingested any amount of gum containing xylitol, you must contact your local veterinarian or an emergency animal hospital immediately. Delaying treatment can lead to seizures, coma, or permanent organ damage.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a clear photo of the gum's packaging, specifically the ingredient list. Providing this photo to your veterinary team allows them to identify the concentration of xylitol and the total amount of gum ingested. This information is vital for calculating the potential toxicity level and preparing the correct life-saving treatment before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of xylitol poisoning in dogs?",
+      "answer": "Common early symptoms include vomiting, followed by signs of low blood sugar such as lethargy, weakness, stumbling (ataxia), collapse, and seizures."
+    },
+    {
+      "question": "How much xylitol is toxic to a dog?",
+      "answer": "As little as 0.1 grams of xylitol per kilogram of body weight can cause hypoglycemia, while higher doses can cause liver failure. This means a single piece of gum can be toxic to a small dog."
+    },
+    {
+      "question": "Should I try to make my dog vomit at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian or poison control expert, as this can sometimes cause further complications depending on the dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

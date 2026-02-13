@@ -1,0 +1,20 @@
+{
+  "title": "Dog Dark Brown or Coffee Colored Urine: Emergency Triage Guide",
+  "meta_desc": "Is your dog's urine dark brown or coffee-colored? This is a high-urgency medical sign. Learn why this happens and why you must seek immediate care.",
+  "content_html": "<h3>What Is Dark Brown or Coffee-Colored Urine?</h3><p>In the veterinary world, dark brown or coffee-colored urine is typically a sign of hemoglobinuria, myoglobinuria, or bilirubinuria. This means that instead of normal waste products, your dog’s kidneys are filtering out broken-down red blood cells, muscle pigments, or high levels of bile. This discoloration is a significant indicator that something is occurring internally that requires professional intervention.</p><h3>Is This a Veterinary Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is an emergency. Urine that looks like coffee or cola is never normal and often indicates a life-threatening condition such as severe hemolytic anemia, toxin ingestion (like onions, zinc, or garlic), heatstroke, or massive muscle trauma. Because these conditions can lead to rapid kidney failure or systemic collapse, you should transport your dog to an emergency veterinary hospital immediately.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a clear photograph of the urine on a white or light-colored surface (like a paper towel or concrete). Showing this photo to the triage technician or veterinarian provides an immediate visual baseline of the pigment concentration. This helps the medical team prioritize your pet's care and can provide clues as to whether the issue is related to blood destruction, liver issues, or muscle damage before lab results even return.</p>",
+  "faqs": [
+    {
+      "question": "Can dehydration cause urine to look brown?",
+      "answer": "While severe dehydration causes urine to become very dark yellow or amber, it rarely turns 'coffee-colored.' Brown urine usually indicates the presence of pigments from cell breakdown, which is much more serious than simple dehydration."
+    },
+    {
+      "question": "What other symptoms should I watch for?",
+      "answer": "Check your dog's gums; if they appear pale, yellow, or muddy, this is a sign of a critical crisis. Other symptoms include extreme lethargy, weakness, rapid breathing, or collapse."
+    },
+    {
+      "question": "What will the vet do to treat this?",
+      "answer": "The vet will likely perform a urinalysis and blood work to identify the cause. Treatment often involves aggressive IV fluid therapy to protect the kidneys, and in cases of anemia, a blood transfusion may be necessary."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Urinating Large Dilute Pools: Causes and Triage Guide",
+  "meta_desc": "Is your dog urinating large, pale pools frequently? Learn about polyuria, common causes, and when to seek veterinary care for your pet.",
+  "content_html": "<h3>What is Polyuria?</h3><p>When a dog produces unusually large volumes of pale, dilute urine frequently, it is medically known as polyuria. This condition is often paired with polydipsia, or excessive thirst. It occurs when the kidneys are unable to properly concentrate urine, which can be caused by hormonal imbalances, organ dysfunction, or metabolic changes. It is important to distinguish this from 'frequency' (pollakiuria), where a dog produces small amounts of urine often, which is more common with bladder infections.</p><h3>Is it an Emergency?</h3><p>The urgency level for this symptom is <strong>Medium</strong>. While your dog may seem fine otherwise, large volumes of dilute urine are often the first sign of serious conditions such as diabetes, kidney disease, or Cushing's disease. You should schedule a veterinary appointment within 24 to 48 hours. If your dog also exhibits vomiting, extreme lethargy, or a complete loss of appetite, this moves to high urgency and requires immediate emergency care.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a photo of the urine pool before you clean it up can be a valuable tool for your veterinary team. A photo helps the vet assess the color—specifically looking for a lack of pigment (water-like appearance)—and the approximate volume. It also allows them to see if there are any signs of blood or cloudiness that might not be as obvious once the urine is absorbed into a towel. This visual evidence helps confirm that the issue is true polyuria rather than simple behavioral marking or a minor infection.</p>",
+  "faqs": [
+    {
+      "question": "Should I limit my dog's water intake if they are urinating too much?",
+      "answer": "No, you should never restrict your dog's access to water. If their body is unable to concentrate urine, they are losing fluids rapidly, and restricting water can lead to life-threatening dehydration."
+    },
+    {
+      "question": "What are the most common causes of dilute urine in dogs?",
+      "answer": "The most frequent causes include diabetes mellitus, chronic kidney disease, hyperadrenocorticism (Cushing's disease), and certain types of liver disease."
+    },
+    {
+      "question": "What will the vet need for the appointment?",
+      "answer": "In addition to your photos, your vet will likely ask for a 'first-catch' urine sample from the morning and will perform blood work to check your dog's glucose levels and kidney values."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

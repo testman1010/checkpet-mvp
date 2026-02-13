@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Tulip Bulbs: Toxicity Guide and Triage Steps",
+  "meta_desc": "If your dog ate tulip bulbs, understand the toxicity risks, urgency level, and symptoms to watch for in this veterinary triage guide.",
+  "content_html": "<h3>What are Tulip Bulbs and Why Are They Toxic?</h3><p>Tulips contain allergenic lactones known as tulipalin A and B. While the entire plant is considered toxic to dogs, these compounds are most highly concentrated in the bulb itself. If your dog digs up and eats the bulbs, it can lead to intense irritation of the mouth, throat, and gastrointestinal tract.</p><h3>Is it an Emergency?</h3><p>The urgency level for consuming tulip bulbs is Medium. While ingestion is rarely fatal with prompt care, it can cause significant distress and dehydration. You should contact your veterinarian or a pet poison control center immediately. Common symptoms include profuse drooling, vomiting, and diarrhea. In cases where large quantities are consumed, more severe signs like increased heart rate or labored breathing may occur.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the bulbs, the garden area where they were dug up, or any remaining plant packaging is extremely helpful for your veterinary team. A clear image helps confirm the species of the plant and allows the vet to estimate the potential dose of toxin your dog ingested. This information is vital for determining whether your dog needs immediate decontamination or supportive care.</p>",
+  "faqs": [
+    {
+      "question": "How soon will my dog show signs of tulip poisoning?",
+      "answer": "Symptoms of gastrointestinal upset, such as drooling or vomiting, usually appear within 15 minutes to a few hours after ingestion."
+    },
+    {
+      "question": "Can I give my dog anything at home to help?",
+      "answer": "Do not administer any home remedies or induce vomiting unless specifically directed to do so by a licensed veterinarian or poison control specialist."
+    },
+    {
+      "question": "Are dried tulip bulbs from a store more dangerous than fresh ones?",
+      "answer": "Both fresh and dried bulbs contain the toxic tulipalin compounds; however, concentrated dust on stored bulbs can also cause skin or respiratory irritation."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

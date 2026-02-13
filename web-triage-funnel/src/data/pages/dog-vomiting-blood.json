@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Blood (Hematemesis): Immediate Triage Guide",
+  "meta_desc": "If your dog is vomiting blood, it is a high-priority emergency. Learn why immediate veterinary care is essential and how you can help your vet.",
+  "content_html": "<h3>What is Hematemesis?</h3><p>Vomiting blood, clinically known as hematemesis, occurs when your dog expels blood from the upper gastrointestinal tract. The blood may appear as bright red streaks, indicating fresh bleeding, or it may look like dark, grainy coffee grounds, which suggests the blood has been partially digested. Both forms are serious and require professional evaluation to determine the source of the bleeding.</p><h3>Is This an Emergency? (Urgency Level: High)</h3><p>Yes, vomiting blood is a high-level medical emergency. Even if your dog is acting normally otherwise, internal bleeding can lead to rapid dehydration, anemia, shock, or life-threatening complications. You should not attempt to treat this at home or wait for the symptoms to resolve on their own. Contact your veterinarian or the nearest emergency animal hospital immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>While it may be the last thing on your mind during a crisis, taking a clear photo of the vomit can be incredibly helpful for the veterinary team. The specific color, consistency, and volume of the blood provide vital clues about where the bleeding is originating—such as the esophagus, stomach, or upper intestines. Sharing this photo during triage allows the medical team to assess the severity of the situation more accurately and prepare the necessary diagnostic tools before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of blood in a dog's vomit?",
+      "answer": "Common causes include the ingestion of toxins (like rat poison), foreign body obstructions, stomach ulcers, severe parvovirus, or blood clotting disorders."
+    },
+    {
+      "question": "My dog only vomited a tiny bit of blood; can I wait until morning?",
+      "answer": "No. Even a small amount of blood can be the first sign of a major internal issue. Because dogs can deteriorate quickly, an immediate veterinary consultation is always the safest course of action."
+    },
+    {
+      "question": "What should I do on the way to the vet?",
+      "answer": "Keep your dog as calm and still as possible. Do not offer any food, water, or over-the-counter medications, as these could interfere with emergency treatment or surgery."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

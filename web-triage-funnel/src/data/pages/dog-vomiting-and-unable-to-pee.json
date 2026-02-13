@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting and Unable to Urinate: Emergency Triage Guide",
+  "meta_desc": "If your dog is vomiting and cannot pee, this is a high-urgency emergency. Learn why immediate veterinary care is vital for your pet's survival.",
+  "content_html": "<h3>What is happening to my dog?</h3><p>When a dog is simultaneously vomiting and unable to urinate, it typically indicates a severe systemic crisis or a physical obstruction. This combination of symptoms often suggests that the body is unable to process and eliminate toxins. A urinary blockage prevents the bladder from emptying, leading to a dangerous buildup of potassium and nitrogenous waste in the bloodstream, which then triggers severe nausea and vomiting.</p><h3>Is this a veterinary emergency?</h3><p>Yes. The urgency level for these symptoms is <strong>High</strong>. An inability to urinate is a life-threatening condition that can lead to bladder rupture or heart failure due to electrolyte imbalances within hours. If your dog is also vomiting, their condition is likely progressing toward a critical state. You should seek emergency veterinary care immediately, even if it is after hours.</p><h3>Why a photo helps with triage</h3><p>While you prepare to transport your dog, taking a quick photo of any produced vomit or a short video of your dog's posture while attempting to urinate can be incredibly helpful. These visuals allow the veterinary team to quickly assess the level of distress and the nature of the fluid loss, helping them prioritize your pet the moment you walk through the clinic doors. Do not delay your departure to take these, but if they are readily available, they provide vital diagnostic context.</p>",
+  "faqs": [
+    {
+      "question": "Can a urinary blockage cause vomiting?",
+      "answer": "Yes. When a dog cannot urinate, toxins like urea and creatinine build up in the blood. This condition, known as uremia, causes severe nausea and vomiting."
+    },
+    {
+      "question": "How long can a dog go without urinating?",
+      "answer": "A dog should not go more than 8 to 12 hours without urinating. If they are actively straining and unable to produce urine, it becomes a critical emergency within 24 hours."
+    },
+    {
+      "question": "What are the signs of a urinary obstruction?",
+      "answer": "Common signs include frequent attempts to urinate with little or no output, straining, whimpering while posturing, a painful or firm abdomen, and lethargy."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

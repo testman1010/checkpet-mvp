@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ingested Mothballs: Emergency Triage and Steps to Take",
+  "meta_desc": "If your dog ate mothballs, it is a high-priority emergency. Learn about naphthalene toxicity, symptoms, and why you must see a vet immediately.",
+  "content_html": "<h3>What Are Mothballs?</h3><p>Mothballs are small balls of chemical pesticides and deodorants used to protect clothing from moth larvae. They typically consist of nearly 100% active ingredient, usually either naphthalene or paradichlorobenzene. These chemicals are highly concentrated and can be absorbed through the skin, inhaled, or most dangerously, ingested by curious pets.</p><h3>Is It an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, ingestion of any amount of mothballs is a veterinary emergency. Naphthalene is particularly toxic and can cause the destruction of red blood cells, leading to anemia and kidney damage. Paradichlorobenzene can affect the central nervous system and the liver. Symptoms such as vomiting, a strong chemical smell on the breath, lethargy, tremors, or pale gums require immediate medical intervention to prevent long-term organ damage or death.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a photo of the product packaging or a remaining mothball to show your veterinarian. Identifying whether the active ingredient is naphthalene or paradichlorobenzene is critical for the medical team. These chemicals require different monitoring protocols and treatments. A photo of the brand name and ingredient list allows the triage team to quickly calculate the toxic dose and begin life-saving treatment without delay.</p>",
+  "faqs": [
+    {
+      "question": "Can one mothball kill a small dog?",
+      "answer": "Yes, even a single mothball can contain enough concentrated pesticide to cause severe toxicity or death in small dogs."
+    },
+    {
+      "question": "Should I induce vomiting if my dog ate a mothball?",
+      "answer": "Do not induce vomiting at home unless specifically directed by a veterinarian, as the chemicals can cause further damage if inhaled into the lungs."
+    },
+    {
+      "question": "How long does it take for mothball poisoning to show symptoms?",
+      "answer": "Symptoms can appear within minutes to hours, but some effects, like red blood cell damage, may take several days to fully manifest."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

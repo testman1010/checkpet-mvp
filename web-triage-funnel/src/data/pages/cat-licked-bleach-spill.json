@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Bleach? Symptoms, First Aid, and Triage Guide",
+  "meta_desc": "Find out what to do if your cat licks bleach. Learn about toxicity levels, symptoms, and why this medium-level emergency requires veterinary care.",
+  "content_html": "<h3>What is Bleach Exposure?</h3><p>Bleach ingestion occurs when a cat licks a spill or grooms their paws after walking through a cleaned area. Most household bleaches contain sodium hypochlorite. Depending on the concentration, this can range from a mild irritant to a corrosive agent that causes chemical burns on the tongue, throat, and stomach lining.</p><h3>Is it an emergency?</h3><p>The urgency level for licking a household bleach spill is generally <strong>Medium</strong>. While rarely fatal in small, diluted amounts, bleach causes significant pain, drooling, and gastrointestinal distress. If the bleach was concentrated (industrial strength) or if your cat is gagging and cannot breathe, the urgency shifts to high, and you should visit an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the product label is essential for your veterinarian. It allows the medical team to identify the exact concentration of sodium hypochlorite and check for other dangerous additives like surfactants or fragrances. Additionally, a photo of the spill size or your cat’s mouth can help the vet determine the severity of the exposure before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I make my cat vomit after licking bleach?",
+      "answer": "No. You should never induce vomiting if a cat has ingested a corrosive substance like bleach. Doing so can cause the chemical to burn the esophagus a second time on the way back up."
+    },
+    {
+      "question": "What are the common symptoms of bleach ingestion?",
+      "answer": "Common signs include excessive drooling (ptyalism), redness or white lesions around the mouth, vomiting, and a strong smell of chlorine on the cat's breath or fur."
+    },
+    {
+      "question": "Can I give my cat milk to neutralize the bleach?",
+      "answer": "You can offer a small amount of milk or water to help rinse the mouth and dilute the chemical, but do not force-feed liquids as this can lead to aspiration into the lungs."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

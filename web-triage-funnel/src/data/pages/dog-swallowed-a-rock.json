@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Swallowed a Rock: Emergency Guide and Next Steps",
+  "meta_desc": "If your dog swallowed a rock, it is a high-urgency situation. Learn about the risks of intestinal blockage and when to see an emergency vet.",
+  "content_html": "<h3>What is it?</h3><p>When a dog consumes a rock, it is referred to as a foreign body ingestion. Unlike food, rocks cannot be broken down by digestive enzymes. They pose a significant risk because their weight, size, and often jagged edges can cause physical trauma to the digestive tract or create a complete internal blockage.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is High. While a very tiny pebble might occasionally pass through a large dog, any rock has the potential to become lodged in the esophagus, stomach, or intestines. This can lead to a life-threatening obstruction or even a perforation of the bowel. You should contact a veterinarian immediately for guidance rather than waiting for symptoms to appear.</p><h3>Why a photo helps triage</h3><p>If you have access to a similar rock from the same area, taking a photo of it next to a common object for scale (like a coin) is incredibly helpful. This allows your veterinarian to assess the size, shape, and sharpness of the object. This information is vital for determining if the rock is likely to pass on its own or if immediate surgical or endoscopic intervention is required.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting unless specifically directed by a veterinarian. Rocks are heavy and can cause damage to the esophagus or become a choking hazard if brought back up."
+    },
+    {
+      "question": "What are the signs of a blockage?",
+      "answer": "Common signs include repeated vomiting, loss of appetite, lethargy, abdominal pain or bloating, and straining to have a bowel movement."
+    },
+    {
+      "question": "Can a rock stay in a dog's stomach for a long time?",
+      "answer": "Yes, some rocks can remain in the stomach for weeks or months causing intermittent irritation before moving into the intestines and causing a sudden, acute blockage."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

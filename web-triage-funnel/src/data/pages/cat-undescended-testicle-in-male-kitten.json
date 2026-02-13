@@ -1,0 +1,20 @@
+{
+  "title": "Undescended Testicle in Male Kittens (Cryptorchidism) | Vet Triage Guide",
+  "meta_desc": "Learn about undescended testicles in kittens, why it's a low-urgency condition, and how a photo helps your veterinarian prepare for treatment.",
+  "content_html": "<h3>What is an Undescended Testicle?</h3><p>An undescended testicle, clinically referred to as cryptorchidism, occurs when one or both testicles fail to move from the abdominal cavity into the scrotum during a kitten's development. Normally, testicles should be in their permanent position by the time a kitten is two months old. This condition can involve a testicle staying inside the abdomen or getting stuck in the inguinal canal near the groin.</p><h3>Is This a Medical Emergency?</h3><p>The urgency level for an undescended testicle is Low. This is not an acute emergency that requires an immediate visit to an ER. However, it is a condition that must be addressed during a scheduled veterinary visit. While not painful in the short term, undescended testicles that remain in the body long-term are at a significantly higher risk for developing cancerous tumors and can cause behavioral issues due to testosterone production.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of your kitten’s scrotal area and groin can be extremely helpful for a veterinary triage team. A visual assessment helps determine if the area looks normal, if there is any localized swelling, or if the testicle is partially descended (inguinal) versus completely hidden. This allows your veterinarian to better estimate the complexity of the eventual neuter surgery and provide more accurate advice during your consultation.</p>",
+  "faqs": [
+    {
+      "question": "Can my kitten still be neutered if he has an undescended testicle?",
+      "answer": "Yes, but the procedure is more involved than a standard neuter. The veterinarian will need to perform a surgical exploration, similar to a female spay, to locate and remove the retained testicle."
+    },
+    {
+      "question": "At what age should I worry if the testicles haven't dropped?",
+      "answer": "Most veterinarians consider a kitten cryptorchid if the testicles are not descended by 4 to 6 months of age, which is usually when neutering is recommended."
+    },
+    {
+      "question": "Does this condition cause any pain?",
+      "answer": "Typically, an undescended testicle does not cause any immediate pain or discomfort for the kitten. It is usually discovered during a routine physical exam."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

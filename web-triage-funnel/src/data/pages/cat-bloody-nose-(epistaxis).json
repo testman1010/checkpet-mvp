@@ -1,0 +1,20 @@
+{
+  "title": "Cat Bloody Nose (Epistaxis): Emergency Care and Triage Guide",
+  "meta_desc": "Is your cat's nose bleeding? Learn about epistaxis in cats, why it is a high-priority emergency, and how to triage with your veterinarian.",
+  "content_html": "<h3>What is Epistaxis?</h3><p>Epistaxis is the clinical term for a bloody nose. In cats, this can manifest as a few droplets of blood while sneezing, a slow trickle from one nostril, or a steady flow from both. Unlike humans, cats rarely get nosebleeds from dry air; it usually indicates an underlying medical issue.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, a bloody nose in a cat is considered a high-urgency situation. Because cats are masters at hiding discomfort, external bleeding from the nose can be a sign of serious internal issues such as rodenticide poisoning, clotting disorders, high blood pressure, or trauma. You should contact an emergency veterinarian immediately, especially if the bleeding does not stop within a few minutes or if your cat is lethargic or has pale gums.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear photo of the bleeding and your cat’s facial structure is incredibly helpful for veterinary triage. A photo allows a professional to see the volume of blood, its color (bright red vs. dark), and if there is any localized swelling or facial asymmetry. This information helps the veterinary team prepare for your arrival and prioritize your cat's care based on the visible severity.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat aspirin to stop the pain?",
+      "answer": "No. Never give a cat aspirin or any human pain relief medication, as these are highly toxic to felines and can actually worsen bleeding by interfering with blood clotting."
+    },
+    {
+      "question": "Should I try to put something inside my cat's nostril to stop the blood?",
+      "answer": "No. Do not insert cotton swabs or tissues into your cat's nose. This can cause further irritation, sneezing, and potentially more bleeding. Keep the cat calm and quiet while seeking veterinary help."
+    },
+    {
+      "question": "What are common causes of nosebleeds in cats?",
+      "answer": "Common causes include physical trauma, foreign objects (like grass seeds) stuck in the nasal passage, dental abscesses, fungal infections, or ingestion of rat poison."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Moldy Garbage: Veterinary Triage & Emergency Guide",
+  "meta_desc": "If your dog ate moldy garbage, they may be at risk for mycotoxin poisoning. This is a high-urgency emergency. Learn the signs and next steps here.",
+  "content_html": "<h3>What is Tremorgenic Mycotoxin Poisoning?</h3><p>When a dog eats moldy garbage, they are likely ingesting tremorgenic mycotoxins. These are toxic compounds produced by fungi growing on decomposing organic matter, such as old bread, cheese, or walnuts. Unlike a simple upset stomach, these toxins specifically target the central nervous system, leading to rapid neurological decline.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a veterinary emergency. Mycotoxin poisoning can progress with alarming speed. If left untreated, the toxins can cause severe muscle tremors, life-threatening seizures, and dangerously high body temperatures (hyperthermia). You should contact your local emergency vet or a pet poison control hotline immediately after ingestion.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the moldy item your dog consumed before heading to the clinic. Different types of mold produce different toxins; for example, moldy dairy or nuts can be particularly potent. A photo allows the veterinary team to better identify the source and tailor their decontamination and treatment protocols to the specific risks involved.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Early signs include vomiting and agitation, which can quickly progress to staggering, muscle tremors, and full-body seizures."
+    },
+    {
+      "question": "How long does it take for mycotoxins to affect a dog?",
+      "answer": "Symptoms typically appear within 30 minutes to three hours after the dog has eaten the moldy food."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed by a veterinarian, as this can be dangerous if the dog is already showing neurological signs or if they could inhale the vomit."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

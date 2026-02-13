@@ -1,0 +1,20 @@
+{
+  "title": "Cat Disorientation and Temporary Blindness After a Seizure: A Guide for Owners",
+  "meta_desc": "Is your cat confused or blind after a seizure? Learn about the post-ictal phase, emergency levels, and how to help your pet recover safely.",
+  "content_html": "<h3>Understanding Post-Seizure Behavior</h3><p>It can be very frightening to witness your cat appearing confused, pacing, or even bumping into furniture after a seizure. This period is known as the post-ictal phase. During this time, the brain is essentially 'rebooting' after a surge of abnormal electrical activity. Temporary blindness and disorientation are common as the neurological system stabilizes.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for post-seizure disorientation is <strong>Medium</strong>. If the seizure has fully stopped and your cat is breathing normally, the immediate crisis has passed. However, any cat experiencing a seizure for the first time or displaying prolonged neurological deficits needs a veterinary examination within 12 to 24 hours to determine the underlying cause and prevent future episodes.</p><h3>The Importance of Visual Documentation</h3><p>If it is safe to do so, taking a video of your cat’s behavior or a clear photo of their eyes can be an invaluable triage tool. Because these symptoms often resolve by the time you arrive at the clinic, showing your veterinarian exactly how your cat was acting helps them differentiate between different types of neurological events and assess the severity of the episode.</p>",
+  "faqs": [
+    {
+      "question": "How long does post-seizure blindness usually last?",
+      "answer": "In most cases, vision returns within a few minutes to a few hours, though it can occasionally take up to 24 hours for a cat to fully return to normal."
+    },
+    {
+      "question": "How can I keep my cat safe while they are disoriented?",
+      "answer": "Place your cat in a confined, quiet, and dimly lit room with padded surfaces. Block off stairs or sharp corners to prevent injury while their vision and coordination are impaired."
+    },
+    {
+      "question": "When does a seizure become a 'High' urgency emergency?",
+      "answer": "If a seizure lasts longer than five minutes, or if your cat has multiple seizures in a row without waking up in between, this is a life-threatening emergency known as status epilepticus and requires immediate transport to an ER."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

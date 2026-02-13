@@ -1,0 +1,17 @@
+{
+  "title": "My Dog Ate an Avocado Pit and Skin: Triage and Next Steps",
+  "meta_desc": "If your dog ate an avocado pit or skin, read this guide on toxicity risks, choking hazards, and when to seek emergency veterinary care immediately.",
+  "content_html": "<h3>What happened when your dog ate an avocado?</h3><p>Avocados contain a substance called persin, which is a fungicidal toxin. While the flesh of the fruit has lower concentrations, the skin and the pit contain much higher levels. For dogs, the primary danger of the skin is gastrointestinal upset, while the pit presents a severe risk of physical obstruction in the digestive tract.</p><h3>Is this an emergency?</h3><p>This situation is classified as a Medium Urgency level. While persin toxicity in dogs is usually mild compared to other species, the avocado pit is a major hazard. Because the pit is large, round, and indigestible, it cannot be broken down by stomach acid. It can easily become lodged in the esophagus or the small intestine, which may require surgical intervention to prevent life-threatening complications.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo of the avocado variety or a similar-sized pit can be incredibly helpful. Seeing the size and texture of what was consumed allows the medical team to estimate the likelihood of the object passing naturally versus the risk of it becoming a foreign body obstruction based on your dog's size and weight.</p>",
+  "faqs": [
+    {
+      "question": "Watch for repeated vomiting, lethargy, loss of appetite, abdominal pain, or straining to defecate. If you see these signs, head to an emergency vet immediately."
+    },
+    {
+      "question": "Do not attempt to induce vomiting without a veterinarian's explicit instruction. If the pit is large, it can become stuck in the esophagus on the way back up, causing a secondary emergency."
+    },
+    {
+      "question": "The skin contains persin which can cause vomiting and diarrhea. While usually not fatal, it can lead to significant stomach distress and dehydration."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

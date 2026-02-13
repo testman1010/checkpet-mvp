@@ -1,0 +1,20 @@
+{
+  "title": "Cat Weight Loss Despite Increased Appetite: Causes and Triage Guide",
+  "meta_desc": "Is your cat eating more but losing weight? Discover common causes like hyperthyroidism and diabetes, and learn when to seek veterinary care.",
+  "content_html": "<h3>Understanding Weight Loss Despite a Healthy Appetite</h3><p>It can be deeply concerning to watch your cat eat ravenously while their body seems to be wasting away. This clinical combination—increased appetite (polyphagia) alongside weight loss—suggests that your cat's body is either unable to process the nutrients they consume or is burning through calories at an abnormally high rate due to a metabolic imbalance.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat losing weight despite a high appetite is <strong>Medium</strong>. While this is typically not a sudden life-threatening crisis that requires an ER visit tonight, it is a sign of a significant underlying medical condition that should be evaluated by a veterinarian within the next 24 to 48 hours. If your cat also exhibits extreme lethargy, sudden blindness, or persistent vomiting, you should seek immediate care.</p><h3>Common Causes for This Condition</h3><p>In middle-aged and senior cats, the most frequent culprit is hyperthyroidism, where an overactive thyroid gland sends the metabolism into overdrive. Other common possibilities include Diabetes Mellitus, where the body cannot utilize blood sugar for energy, or intestinal malabsorption issues like Inflammatory Bowel Disease (IBD) or certain cancers. In younger cats, heavy intestinal parasite loads may also be considered.</p><h3>Why a Photo Helps During Triage</h3><p>Sharing a photo of your cat with a veterinary professional can be a vital part of the triage process. A clear image taken from above (a bird's-eye view) while your cat is standing helps us assess their Body Condition Score (BCS). It allows us to see the severity of muscle wasting over the hips and spine, providing a more objective measure of their physical state than a weight number alone.</p>",
+  "faqs": [
+    {
+      "question": "Can hyperthyroidism in cats be treated?",
+      "answer": "Yes, hyperthyroidism is highly manageable through daily medication, a prescription diet, or a curative treatment called radioactive iodine therapy."
+    },
+    {
+      "question": "Is diabetes the only reason a cat would be hungry and thin?",
+      "answer": "No, while diabetes is a common cause, other conditions like hyperthyroidism and gastrointestinal diseases present with almost identical symptoms."
+    },
+    {
+      "question": "What diagnostic tests will my vet likely recommend?",
+      "answer": "Expect your vet to recommend a full blood panel (including thyroid levels), a urinalysis to check for glucose, and possibly a fecal exam to rule out parasites."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

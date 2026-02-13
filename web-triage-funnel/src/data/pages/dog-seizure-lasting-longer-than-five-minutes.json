@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Seizure Lasting Longer Than Five Minutes",
+  "meta_desc": "A seizure over 5 minutes is a life-threatening emergency. Learn about status epilepticus and the immediate steps you must take to save your dog.",
+  "content_html": "<h3>What is a Prolonged Seizure?</h3><p>A seizure that lasts longer than five minutes is known as status epilepticus. This is a state of continuous seizure activity where the brain does not have time to recover between episodes. It is a serious neurological event that requires immediate medical intervention to stop the cycle of electrical activity.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for a seizure lasting more than five minutes is High. This is considered a critical life-threatening emergency. Prolonged seizures can cause a dangerous spike in body temperature, lead to permanent brain damage, and cause vital organs to fail. You should proceed to the nearest emergency veterinary clinic immediately.</p><h3>How a Photo or Video Helps Triage</h3><p>If it is safe to do so, or if another person is present, capturing a short video of the seizure can be vital for the veterinary team. A video allows the veterinarian to observe the specific type of muscle movement, the level of consciousness, and the severity of the event. This visual evidence helps them provide a faster, more accurate diagnosis and treatment plan once you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to restrain my dog during a seizure?",
+      "answer": "No, do not try to restrain them or put your hands near their mouth, as they may unintentionally bite. Instead, move furniture away to prevent injury."
+    },
+    {
+      "question": "Can a dog swallow their tongue during a seizure?",
+      "answer": "No, dogs cannot swallow their tongues. Please keep your hands away from their mouth to avoid being bitten."
+    },
+    {
+      "question": "What should I do on the way to the emergency vet?",
+      "answer": "Keep the car cool and quiet. If possible, have someone call the clinic ahead of time so the medical team is prepared for your arrival."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

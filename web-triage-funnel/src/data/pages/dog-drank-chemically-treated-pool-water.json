@@ -1,0 +1,20 @@
+{
+  "title": "Dog Drank Chemically Treated Pool Water: Risks and Triage Guide",
+  "meta_desc": "If your dog drank pool water, learn about the risks of chlorine and chemicals, when it is an emergency, and how to triage your pet's health.",
+  "content_html": "<h3>What Is Pool Water Ingestion?</h3><p>When a dog drinks chemically treated pool water, they are ingesting a mixture of water and maintenance chemicals like chlorine, bromine, algaecides, and pH balancers. In most residential pools, these chemicals are highly diluted, which typically results in mild stomach upset rather than severe poisoning. However, the risk increases significantly if the dog consumes concentrated chemicals directly or if the pool was recently shocked.</p><h3>Is It an Emergency?</h3><p>The urgency level for this situation is generally Medium. While a few laps of water might only cause minor gastrointestinal irritation, you should monitor your dog closely for signs of toxicity. If your dog is vomiting persistently, appears lethargic, has pale gums, or is showing signs of respiratory distress, you should contact an emergency veterinarian immediately. Large ingestions can lead to salt poisoning or chemical burns in the esophagus.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting with a vet remotely or preparing to head to the clinic, taking a photo of the chemical containers used to treat the pool is incredibly helpful. This allows the veterinary team to identify the exact active ingredients and concentrations. Additionally, a photo of any vomit or the pool's current condition (e.g., if it is cloudy or has just been shocked) can provide vital clues about the severity of the exposure.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of pool water poisoning?",
+      "answer": "Common symptoms include excessive drooling, vomiting, diarrhea, redness around the mouth, and a loss of appetite."
+    },
+    {
+      "question": "Can I give my dog water after they drink pool water?",
+      "answer": "Yes, offering fresh, clean water is recommended to help dilute the chemicals in their system, provided they are not vomiting."
+    },
+    {
+      "question": "Is chlorine toxic to dogs?",
+      "answer": "In its diluted pool form, it is an irritant. In its concentrated tablet or liquid form, it is highly corrosive and toxic if ingested or touched."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

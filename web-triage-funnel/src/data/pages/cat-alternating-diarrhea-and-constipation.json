@@ -1,0 +1,20 @@
+{
+  "title": "Cat Alternating Diarrhea and Constipation: Causes and Triage Guide",
+  "meta_desc": "Is your cat cycling between diarrhea and constipation? Learn about causes, urgency levels, and why a photo of the stool helps your veterinarian.",
+  "content_html": "<h3>What is Alternating Diarrhea and Constipation in Cats?</h3><p>When a cat experiences a cycle of loose stools followed by difficulty defecating, it typically indicates a disruption in the gastrointestinal tract. This can sometimes be 'paradoxical diarrhea,' where liquid waste leaks around a hard fecal impaction, or it may be a symptom of chronic conditions such as Inflammatory Bowel Disease (IBD), food sensitivities, or early-stage megacolon.</p><h3>Is it an Emergency?</h3><p>The urgency level for alternating bowel movements is generally <strong>Medium</strong>. While it is rarely a sudden life-threatening crisis, it is a sign of significant digestive discomfort that should be evaluated by a veterinarian within 24 to 48 hours. You should seek <strong>Immediate</strong> emergency care if your cat is also vomiting, lethargic, refusing to eat, or straining painfully in the litter box without producing anything, as this could indicate a total obstruction.</p><h3>Why a Photo Helps Triage</h3><p>It may feel strange, but taking a clear photo of your cat’s stool—both the diarrhea and the constipated portions—is incredibly helpful for your veterinary team. These images allow the vet to assess the color, texture, and presence of mucus or blood, which helps them determine whether the issue is located in the small or large intestine and narrows down the potential causes much faster.</p>",
+  "faqs": [
+    {
+      "question": "Can hairballs cause alternating diarrhea and constipation?",
+      "answer": "Yes, a large hairball can create a partial blockage that leads to straining, while only liquid stool is able to pass around the obstruction."
+    },
+    {
+      "question": "Could my cat's diet be the cause?",
+      "answer": "Frequent changes in diet or a sensitivity to specific proteins can cause chronic inflammation in the gut, leading to irregular bowel movements."
+    },
+    {
+      "question": "Should I give my cat a laxative at home?",
+      "answer": "No, you should never provide over-the-counter laxatives without a vet's diagnosis, as they can cause severe cramping or worsen the issue if a physical blockage is present."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

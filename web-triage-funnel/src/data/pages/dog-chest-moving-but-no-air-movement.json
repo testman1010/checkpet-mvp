@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Chest Moving but No Air Flow (Upper Airway Obstruction)",
+  "meta_desc": "If your dog's chest is moving but they aren't breathing, they may have a total airway obstruction. This is a life-threatening emergency.",
+  "content_html": "<h3>What is happening to my dog?</h3><p>When you see your dog's chest or abdomen moving rhythmically but no air is being exchanged through the nose or mouth, it is a sign of a total upper airway obstruction. This condition is often referred to as 'paradoxical breathing' or 'obstructive respiratory distress.' In this state, the body is desperately trying to pull air into the lungs, but a physical blockage or a structural collapse is preventing oxygen from entering the system.</p><h3>Is this an emergency?</h3><p>Urgency Level: Critical/High. Yes, this is an immediate, life-threatening emergency. Without airflow, your dog's brain and vital organs will begin to fail within minutes due to oxygen deprivation (hypoxia). You must transport your dog to the nearest emergency veterinary hospital immediately. Do not wait for an appointment or try to monitor them at home.</p><h3>Why a photo or video helps triage</h3><p>If it is safe to do so without delaying your trip to the vet, a 5-to-10-second video of your dog's breathing pattern can be incredibly valuable for the medical team. A video allows the veterinarian to differentiate between different types of respiratory distress, such as laryngeal paralysis, a collapsing trachea, or a foreign object lodged in the throat. This visual evidence helps the triage team prepare the necessary equipment—like oxygen tanks or sedation—before you even walk through the clinic doors.</p>",
+  "faqs": [
+    {
+      "question": "What could be blocking my dog's airway?",
+      "answer": "Common causes include foreign objects like balls or chew toys, severe allergic reactions causing throat swelling (anaphylaxis), laryngeal paralysis, or a collapsed trachea."
+    },
+    {
+      "question": "Should I try to reach into my dog's mouth?",
+      "answer": "Only if you can clearly see an object and can easily sweep it out. Be extremely careful, as a panicked dog may bite reflexively, and you risk pushing the object deeper into the throat."
+    },
+    {
+      "question": "What are the signs of oxygen deprivation?",
+      "answer": "Look for blue, purple, or pale grey gums and tongue (cyanosis), extreme panic or flailing, and eventually, loss of consciousness."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

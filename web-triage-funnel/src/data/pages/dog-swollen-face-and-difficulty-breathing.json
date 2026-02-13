@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swollen Face and Difficulty Breathing: Emergency Guide",
+  "meta_desc": "If your dog has a swollen face and trouble breathing, it is a medical emergency. Learn about anaphylaxis and the immediate steps you need to take.",
+  "content_html": "<h3>What is it?</h3><p>A sudden swelling of the face, muzzle, or eyes combined with labored breathing is typically a sign of anaphylaxis. This is a severe, systemic allergic reaction often triggered by insect stings (like bees or wasps), certain medications, or environmental allergens. The swelling is caused by a massive release of histamines, which can also lead to the constriction of airways.</p><h3>Is it an emergency? (Urgency Level: High)</h3><p>Yes, this is a critical medical emergency. When a dog experiences difficulty breathing alongside facial swelling, it indicates that the allergic reaction is affecting their respiratory system or causing their throat to close. This can lead to oxygen deprivation and shock very quickly. You should contact the nearest emergency veterinary clinic and begin transport immediately.</p><h3>Why a photo helps triage</h3><p>If it is safe to do so without delaying your trip to the vet, taking a quick photo of your dog’s face can be incredibly helpful for the clinical team. A photo provides a baseline that allows veterinarians to see exactly how fast the swelling is progressing. It also helps the triage staff prepare the necessary medications and equipment before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog Benadryl for facial swelling?",
+      "answer": "While antihistamines are used for mild allergies, you should never attempt to give oral medication to a dog having difficulty breathing, as they may choke. This situation requires injectable emergency medicine administered by a professional."
+    },
+    {
+      "question": "What are other signs of a severe allergic reaction?",
+      "answer": "In addition to swelling and gasping, look for pale or blue-tinged gums, sudden vomiting, diarrhea, extreme lethargy, or collapse."
+    },
+    {
+      "question": "How long do I have to get to the vet?",
+      "answer": "Minutes matter in cases of anaphylaxis. You should leave immediately, as respiratory distress can lead to respiratory arrest very rapidly."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

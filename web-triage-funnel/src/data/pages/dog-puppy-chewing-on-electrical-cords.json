@@ -1,0 +1,20 @@
+{
+  "title": "Puppy Chewing Electrical Cords: Emergency Safety & Triage Guide",
+  "meta_desc": "If your puppy chewed an electrical cord, act fast. Learn about electric shock risks, emergency signs, and why a photo is vital for vet triage.",
+  "content_html": "<h3>What Happens When a Puppy Chews an Electrical Cord?</h3><p>Puppies explore their environment with their mouths, often mistaking electrical cords for chew toys. When a dog bites through the protective insulation of a live wire, the resulting electrical arc can cause severe burns to the mouth, tongue, and throat. More critically, the electricity can disrupt the heart's rhythm or cause fluid to accumulate rapidly in the lungs, a condition known as non-cardiogenic pulmonary edema.</p><h3>Is It an Emergency?</h3><p>Urgency Level: High. Any instance where a pet is suspected of biting an electrical cord should be treated as a medical emergency. Even if your puppy appears normal immediately after the incident, internal damage and respiratory distress can develop several hours later. If you notice symptoms such as difficulty breathing, coughing, excessive drooling, or visible gray or white burn marks in the mouth, seek emergency veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo can significantly speed up the triage process. A clear photo of the damaged cord helps the medical team estimate the potential voltage and duration of the shock. Additionally, a clear photo of your puppy’s gums and tongue allows the vet to assess for signs of shock or immediate tissue damage, helping them prepare the necessary life-saving equipment before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "My puppy seems fine after chewing a cord; do I still need to see a vet?",
+      "answer": "Yes. Internal injuries, particularly fluid in the lungs and heart arrhythmias, may not be visible for 12 to 36 hours after the shock. Early monitoring is essential to prevent a fatal outcome."
+    },
+    {
+      "question": "What should I do if I catch my dog chewing a live wire?",
+      "answer": "Do not touch your pet until you have safely unplugged the cord or turned off the power at the breaker. Touching a pet while they are still in contact with a live current can result in you being shocked as well."
+    },
+    {
+      "question": "What are the common signs of an electrical burn in a dog's mouth?",
+      "answer": "Look for white or charred-looking patches on the tongue or the corners of the mouth. You may also notice heavy drooling or a foul odor coming from the mouth as the tissue begins to react to the burn."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

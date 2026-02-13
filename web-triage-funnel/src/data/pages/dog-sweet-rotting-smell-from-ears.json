@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sweet or Rotting Smell from Ears: Guide and Triage",
+  "meta_desc": "Find out why your dog's ears smell sweet or rotting. Learn about yeast and bacterial infections, urgency levels, and how a photo helps your vet.",
+  "content_html": "<h3>What Is That Sweet or Rotting Smell?</h3><p>A sweet, musty, or pungent odor coming from a dog's ear is a classic clinical sign of an ear infection, known as otitis externa. A sweet or 'corn chip' smell often indicates a yeast overgrowth (Malassezia). Conversely, a foul, rotting, or 'trash-like' odor is frequently associated with a bacterial infection, such as Pseudomonas. These microorganisms thrive in the dark, warm, and moist environment of the canine ear canal, especially when triggered by allergies, moisture, or debris.</p><h3>Is It an Emergency?</h3><p>The urgency level for a smelly ear is <strong>Medium</strong>. While your dog likely does not need to visit an ER in the middle of the night, they should be seen by a veterinarian within 24 to 48 hours. Ear infections are painful and itchy; leaving them untreated can lead to a ruptured eardrum, aiva hematomas from head shaking, or the infection spreading to the inner ear, which can affect balance and hearing.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear photo of the ear can be a vital tool for triage. A visual assessment allows a veterinary professional to check for the color and consistency of discharge—such as coffee-ground-like wax, yellow pus, or bloody fluid. It also helps them identify the severity of inflammation, swelling of the canal, or the presence of growths. This information helps determine how quickly your pet needs to be seen and prepares the clinic for the necessary diagnostic tests, like an ear swab cytology.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter drops to fix the smell?",
+      "answer": "It is not recommended. If the eardrum is ruptured, certain over-the-counter medications can cause permanent deafness. A vet must confirm the eardrum is intact before any liquid is put into the ear."
+    },
+    {
+      "question": "Why does the smell keep coming back?",
+      "answer": "Recurrent ear smells are often a secondary symptom of an underlying issue, most commonly environmental or food allergies that cause chronic inflammation in the ear canal."
+    },
+    {
+      "question": "What are other signs of an ear infection besides the smell?",
+      "answer": "Look for frequent head shaking, scratching at the ears, redness of the ear flap, discharge, and sensitivity when the head or ears are touched."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

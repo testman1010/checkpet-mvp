@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Chocolate Frosting: Risks, Symptoms, and Triage Guide",
+  "meta_desc": "If your cat licked chocolate frosting, learn about the toxicity risks, why it is medium urgency, and when to call a vet immediately.",
+  "content_html": "<h3>What Is Chocolate Toxicity?</h3><p>Chocolate contains two compounds that are dangerous for felines: theobromine and caffeine. While humans metabolize these quickly, cats cannot, leading to a buildup in their system. Frosting poses an additional risk because it is high in fat and sugar, which can lead to painful conditions like pancreatitis even if the cocoa levels are low.</p><h3>Is This an Emergency?</h3><p>This situation is classified as Medium Urgency. While a single lick of milk chocolate frosting may only cause mild stomach upset, dark chocolate or cocoa powder frosting is significantly more concentrated and dangerous. You should monitor your cat for at least 24 hours. If you notice vomiting, diarrhea, increased heart rate, or restlessness, contact your veterinarian or an emergency clinic immediately.</p><h3>Why a Photo Helps Your Vet</h3><p>If you can, take a clear photo of the frosting packaging, specifically the ingredients list and the nutrition label. Providing this to your vet helps them determine the cocoa concentration and the presence of other toxins like xylitol. A photo of the amount your cat consumed (or the mess left behind) also helps the medical team estimate the toxic dose more accurately during triage.</p>",
+  "faqs": [
+    {
+      "question": "Can a small amount of chocolate frosting kill a cat?",
+      "answer": "While a tiny lick is rarely fatal, it depends on the type of chocolate. Dark chocolate is much more toxic than milk chocolate. Always consult a vet to be safe."
+    },
+    {
+      "question": "What are the first signs of chocolate poisoning?",
+      "answer": "Early signs include hyperactivity, vomiting, and diarrhea. If the toxicity is severe, it can progress to tremors or a racing heart."
+    },
+    {
+      "question": "Does white chocolate frosting have the same risk?",
+      "answer": "White chocolate has very little theobromine, but the high fat and sugar content can still cause severe digestive distress or pancreatitis in cats."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

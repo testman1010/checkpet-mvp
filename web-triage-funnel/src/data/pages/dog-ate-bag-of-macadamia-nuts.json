@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate Macadamia Nuts: What Should I Do? | Vet Triage Guide",
+  "meta_desc": "If your dog ate macadamia nuts, read our triage guide. Learn about toxicity symptoms, why this is a medium-level emergency, and next steps for care.",
+  "content_html": "<h3>What Is Macadamia Nut Toxicity?</h3><p>Macadamia nuts are toxic to dogs, though the specific toxin responsible for the reaction has not yet been identified by scientists. When ingested, these nuts can cause a range of neurological and gastrointestinal symptoms. It is important to note that even a small amount of these nuts can trigger a reaction in sensitive dogs, and many store-bought bags of macadamia nuts also contain other harmful ingredients like chocolate or raisins.</p><h3>Is This an Emergency?</h3><p>The urgency level for macadamia nut ingestion is <strong>Medium</strong>. While macadamia nut poisoning is rarely fatal on its own, it causes significant distress and physical impairment. Symptoms typically appear within 12 hours and include vomiting, weakness in the hind legs, tremors, and hyperthermia (increased body temperature). You should contact your veterinarian or a pet poison control hotline immediately to discuss whether your dog needs supportive care or induced vomiting.</p><h3>Why Taking a Photo Helps Triage</h3><p>Taking a photo of the bag or the nuts themselves is incredibly helpful for veterinary triage. A photo allows the medical team to estimate the total weight of the nuts consumed and check the ingredient list for other life-threatening toxins like Xylitol (a common sugar substitute) or cocoa. Having this visual information ready can help the vet determine if your pet needs immediate intervention or if they can be monitored at home.</p>",
+  "faqs": [
+    {
+      "question": "How many macadamia nuts are dangerous for dogs?",
+      "answer": "Toxic effects can be seen with as little as 2 grams of nuts per kilogram of the dog's body weight. This means even a few nuts can cause symptoms in a small or medium-sized dog."
+    },
+    {
+      "question": "What are the first signs of macadamia nut poisoning?",
+      "answer": "The most common early signs are weakness in the back legs, lethargy, and vomiting. You might also notice your dog shaking or acting uncoordinated."
+    },
+    {
+      "question": "How long does it take for a dog to recover?",
+      "answer": "With proper veterinary guidance and supportive care, most dogs recover fully within 24 to 48 hours."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

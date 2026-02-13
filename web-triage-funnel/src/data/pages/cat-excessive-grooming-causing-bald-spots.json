@@ -1,0 +1,20 @@
+{
+  "title": "Cat Overgrooming and Bald Spots: Causes and Triage Guide",
+  "meta_desc": "Is your cat overgrooming? Learn about causes for bald spots, why it is a low-urgency issue, and how photos help your vet provide a diagnosis.",
+  "content_html": "<h3>What is Overgrooming in Cats?</h3><p>Excessive grooming, medically known as psychogenic alopecia or over-grooming, occurs when a cat licks, chews, or pulls at their fur to the point of creating bald patches. This behavior is often a response to physical discomfort, such as skin allergies, flea infestations, or underlying pain, but it can also be a compulsive behavior triggered by stress and anxiety.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: Low. While it can be distressing to see your cat losing hair, overgrooming is generally not an immediate life-threatening emergency. You should schedule a routine appointment with your veterinarian to investigate the cause. However, if you notice the skin is bleeding, raw, or showing signs of a secondary infection like pus or a foul odor, you should seek care sooner.</p><h3>Why Taking a Photo Helps</h3><p>Capturing a clear, well-lit photo of the affected areas helps your veterinarian significantly. Photos allow the vet to see the pattern of hair loss before it potentially changes and helps them distinguish between broken hairs and complete loss from the follicle. Additionally, if you can safely record a video of the grooming behavior, it helps the vet determine if the behavior is itchy or compulsive in nature.</p>",
+  "faqs": [
+    {
+      "question": "Can stress cause my cat to go bald?",
+      "answer": "Yes, cats are very sensitive to changes in their environment. Stress-induced grooming is a common way for cats to self-soothe, which can lead to thinning hair or bald spots."
+    },
+    {
+      "question": "Should I put a cone on my cat?",
+      "answer": "An Elizabethan collar (cone) can prevent further damage to the skin, but it does not address the underlying itch or anxiety. It is best used as a temporary measure until you consult a vet."
+    },
+    {
+      "question": "What are common physical causes for overgrooming?",
+      "answer": "The most frequent causes include flea allergy dermatitis, food sensitivities, environmental allergies, and joint pain in the area being groomed."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

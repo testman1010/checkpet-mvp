@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Kittens with Cleft Palate | Vet Triage Advice",
+  "meta_desc": "A kitten with a cleft palate requires urgent veterinary care. Learn about the risks of aspiration pneumonia and why immediate triage is critical.",
+  "content_html": "<h3>What is a Cleft Palate?</h3><p>A cleft palate is a congenital defect where the roof of a kitten's mouth does not fuse properly during development, creating an opening between the mouth and the nasal cavity. This condition can involve the hard palate, the soft palate, or both. Because there is no barrier between the mouth and the nose, these kittens struggle to create the suction necessary for nursing and often accidentally inhale fluids into their airways.</p><h3>Is it an Emergency?</h3><p>Yes, this is a High Urgency situation. Kittens with cleft palates are at extreme risk of aspiration pneumonia, which occurs when milk or formula enters the lungs. This can lead to a fatal infection very quickly. Furthermore, because they cannot nurse effectively, these kittens are at risk of rapid dehydration and malnutrition. Immediate veterinary intervention is required to implement a safe feeding plan, often involving a feeding tube, to ensure the kitten survives until they are old enough for surgery.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the roof of the kitten's mouth can be incredibly helpful for your veterinarian. A photo allows the medical team to assess the severity and exact location of the cleft before you even arrive. This helps them prepare the correct size of feeding tubes and medical supplies, and allows them to give you immediate, specific instructions on how to hold or position the kitten to minimize the risk of fluid entering the lungs during transport.</p>",
+  "faqs": [
+    {
+      "question": "Can I bottle feed a kitten with a cleft palate?",
+      "answer": "No, bottle feeding is extremely dangerous for these kittens as the milk will likely enter the nasal passages and lungs. They generally require tube feeding (orogastric feeding) by a trained professional or a carefully instructed caregiver."
+    },
+    {
+      "question": "Can a cleft palate be repaired?",
+      "answer": "Yes, surgical repair is the standard treatment, but it is typically delayed until the kitten is 3 to 4 months old and physically stronger. The challenge is keeping the kitten nourished and pneumonia-free until they reach the appropriate age for surgery."
+    },
+    {
+      "question": "What are the signs of aspiration pneumonia?",
+      "answer": "Watch for milk or discharge coming from the nose, frequent sneezing, coughing, labored or heavy breathing, and a clicking sound when the kitten breathes. If you notice these signs, seek emergency care immediately."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

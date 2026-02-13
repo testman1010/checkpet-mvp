@@ -1,0 +1,20 @@
+{
+  "title": "Cat Inability to Close Eye Fully: Causes and Triage Guide",
+  "meta_desc": "If your cat cannot fully blink or close their eye, learn why this happens, the urgency level, and how photos help your vet provide better care.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat is unable to close their eyelid completely, it is a clinical condition known as lagophthalmos. This prevents the eye from being properly lubricated by the tear film, leaving the delicate surface of the eye exposed to air, debris, and potential injury. It is often caused by facial nerve issues, swelling behind the eye, or specific breed-related facial structures.</p><h3>Is It an Emergency?</h3><p>The urgency level for an inability to close the eye is Medium. While it may not require an ER visit in the middle of the night, it must be addressed by a veterinarian within 24 hours. Because the eye cannot blink, the cornea can dry out quickly, leading to painful ulcers or permanent scarring that can compromise your cat's vision.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear, well-lit photo of your cat's eyes is incredibly helpful for triage. It allows a veterinary professional to assess the degree of exposure, check for signs of inflammation or cloudiness, and look for secondary symptoms like discharge. These visual details help us determine how quickly your pet needs to be seen and can provide a vital baseline for tracking improvements during treatment.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes for a cat not closing its eye?",
+      "answer": "Common causes include facial nerve paralysis, trauma to the head, dental abscesses, or breed-specific traits in flat-faced cats like Persians."
+    },
+    {
+      "question": "Should I try to use human eye drops on my cat?",
+      "answer": "No, never use human medications on your cat without veterinary approval. Many human eye drops contain ingredients that can be harmful or irritating to feline eyes."
+    },
+    {
+      "question": "What are the signs of a corneal ulcer?",
+      "answer": "Signs include squinting, redness, cloudiness on the eye surface, and excessive tearing or discharge. If you see these, your cat needs immediate care."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

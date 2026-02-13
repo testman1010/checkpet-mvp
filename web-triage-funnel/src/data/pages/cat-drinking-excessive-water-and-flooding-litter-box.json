@@ -1,0 +1,20 @@
+{
+  "title": "Cat Drinking Excessive Water and Flooding Litter Box: Causes & Triage Guide",
+  "meta_desc": "Is your cat drinking too much water? Learn about polydipsia, urgency levels, and common causes like diabetes or kidney issues in this triage guide.",
+  "content_html": "<h3>What is Polydipsia and Polyuria?</h3><p>When a cat begins drinking excessive amounts of water (polydipsia) and subsequently producing large volumes of urine (polyuria), it is a clinical sign that their body is struggling to maintain a proper fluid balance. You may notice your cat hovering over the water bowl or find that the litter box is saturated with much larger, heavier clumps than usual. This is rarely just a habit and usually indicates an underlying metabolic or systemic issue.</p><h3>Is This an Emergency?</h3><p>The urgency level for excessive thirst and urination is classified as Medium. While your cat may appear fine otherwise, these symptoms are often the first signs of serious conditions like Chronic Kidney Disease (CKD), Diabetes Mellitus, or Hyperthyroidism. You should contact your veterinarian to schedule an appointment within the next 24 to 48 hours. If these symptoms are accompanied by vomiting, extreme lethargy, or a complete loss of appetite, the urgency increases to high, and you should seek immediate care.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with visual evidence can be incredibly helpful for a diagnosis. A photo of the saturated litter or the specific size of the urine clumps allows the clinical team to visually assess the scale of the fluid loss. Additionally, if you notice your cat has lost weight or is standing in a specific hunched posture, a photo or short video can help the vet understand the progression of the illness before the physical exam even begins.</p>",
+  "faqs": [
+    {
+      "question": "What are the most common causes of increased thirst in cats?",
+      "answer": "The most common causes include Chronic Kidney Disease, Diabetes Mellitus, and Hyperthyroidism, all of which require veterinary management."
+    },
+    {
+      "question": "Should I limit my cat's water intake if they are flooding the box?",
+      "answer": "No, you should never restrict your cat's access to water. Their body is drinking more to compensate for fluid loss; restricting water can lead to rapid, life-threatening dehydration."
+    },
+    {
+      "question": "What diagnostic tests will my vet likely perform?",
+      "answer": "Your vet will typically start with a physical exam followed by a full blood panel and a urinalysis to check kidney enzymes, blood sugar levels, and thyroid hormones."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

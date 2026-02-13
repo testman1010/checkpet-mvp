@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Dark Chocolate: Triage and Emergency Steps",
+  "meta_desc": "Find out what to do if your cat ate dark chocolate. Learn about toxicity levels, symptoms, and why you should contact a vet immediately.",
+  "content_html": "<h3>What Is Dark Chocolate Toxicity?</h3><p>Dark chocolate contains high concentrations of theobromine and caffeine, which are stimulants known as methylxanthines. While humans process these easily, cats metabolize them very slowly. This causes these compounds to build up to toxic levels in their system, potentially affecting their heart, central nervous system, and kidneys.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Medium. While any chocolate ingestion is concerning, dark chocolate is significantly more dangerous than milk chocolate due to its higher cocoa content. You should contact your veterinarian or a pet poison helpline immediately. While a tiny crumb may only cause mild upset, a piece the size of a square can be life-threatening depending on your cat's weight.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the chocolate packaging, specifically the ingredients list and the percentage of cocoa. If the packaging is gone, take a photo of the remaining piece next to a common object (like a coin) for scale. This helps the veterinarian calculate the exact dose of theobromine your cat may have ingested and determines if decontamination or hospitalization is necessary.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of chocolate poisoning in cats?",
+      "answer": "Common symptoms include vomiting, diarrhea, increased thirst, restlessness, rapid breathing, tremors, and in severe cases, seizures or heart failure."
+    },
+    {
+      "question": "How long does it take for symptoms to appear?",
+      "answer": "Signs of toxicity typically appear within 2 to 4 hours after ingestion, but can take up to 12 hours to fully manifest."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No, you should never attempt to induce vomiting in a cat at home without direct instruction from a veterinarian, as it can cause aspiration pneumonia or esophageal damage."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

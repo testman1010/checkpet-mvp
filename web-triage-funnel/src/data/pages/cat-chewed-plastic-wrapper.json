@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chewed Plastic Wrapper: Triage and Advice",
+  "meta_desc": "Is it an emergency if your cat chewed a plastic wrapper? Learn the risks, what to monitor, and how a photo helps your vet with triage.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat chews or ingests a plastic wrapper, they are consuming a non-digestible foreign object. Cats are often drawn to wrappers because of the crinkly sound, a texture that feels good on their teeth, or residual food scents. While thin plastic film is often soft, it cannot be broken down by stomach acid and must either pass through the digestive tract or be removed if it becomes stuck.</p><h3>Is This an Emergency?</h3><p>The urgency level is currently Low. If your cat only chewed a small piece of soft plastic and is otherwise acting normally, eating, and drinking, it is usually appropriate to monitor them at home. However, it becomes a high-priority situation if you notice signs of a gastrointestinal blockage, such as repeated vomiting, a total loss of appetite, lethargy, or straining to defecate. If the wrapper contained toxic substances like chocolate, grapes, or xylitol, contact a vet immediately.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a photo of the wrapper (or the remaining portion of it) is a vital step in the triage process. A photo allows a veterinary professional to see the size, thickness, and potential sharpness of the material. This visual information helps the vet determine the likelihood of the object passing naturally versus the risk of it bunching up and causing a linear foreign body obstruction.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never try to make a cat vomit at home. This can lead to aspiration pneumonia or esophageal damage. Always consult a vet first."
+    },
+    {
+      "question": "How long does it take for plastic to pass?",
+      "answer": "If the plastic is going to pass through the digestive system, it typically appears in the litter box within 24 to 72 hours."
+    },
+    {
+      "question": "What should I feed my cat after they eat plastic?",
+      "answer": "In some cases, a vet may recommend feeding a small amount of wet food to help 'cushion' the object, but do not change their diet without professional advice."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

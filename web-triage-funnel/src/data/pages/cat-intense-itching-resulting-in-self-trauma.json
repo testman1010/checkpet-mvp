@@ -1,0 +1,20 @@
+{
+  "title": "Cat Intense Itching and Self-Trauma: Triage Guide",
+  "meta_desc": "Help your cat with intense itching and self-trauma. Learn about urgency levels, causes, and how photos assist in veterinary diagnosis.",
+  "content_html": "<h3>Understanding Intense Itching and Self-Trauma in Cats</h3><p>Intense itching, clinically known as pruritus, is a distressing condition where a cat excessively scratches, licks, or chews at their skin. When this behavior leads to hair loss, raw skin, or bleeding, it is referred to as self-trauma. This is often a sign of an underlying issue like allergies, parasites, or infections that require professional medical attention to resolve.</p><h3>Is It an Emergency?</h3><p>The urgency level for this condition is Medium. While intense itching is rarely an immediate life-threatening emergency, the resulting self-trauma can lead to painful secondary bacterial infections and significant discomfort. You should aim to see a veterinarian within 24 to 48 hours to break the itch-scratch cycle and provide your cat with relief.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo of the affected areas is an excellent way to assist your veterinary team during triage. Photos allow the vet to see the original state and location of the lesions before they are potentially altered by further grooming. This visual information helps the team prioritize your appointment and prepares them for the specific diagnostic tests your cat may need upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of intense itching in cats?",
+      "answer": "The most common causes include flea allergy dermatitis, food sensitivities, environmental allergens (atopy), and external parasites like mites."
+    },
+    {
+      "question": "How can I prevent my cat from further hurting themselves before the appointment?",
+      "answer": "The safest way to prevent further self-trauma is to use a recovery collar, often called a cone or Elizabethan collar, which prevents the cat from reaching the itchy area."
+    },
+    {
+      "question": "Can I use human anti-itch creams on my cat?",
+      "answer": "No, you should never apply human medications to your cat without veterinary approval. Many creams contain ingredients that are toxic if ingested during grooming."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

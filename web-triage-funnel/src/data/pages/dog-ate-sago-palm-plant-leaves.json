@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ate Sago Palm Leaves",
+  "meta_desc": "If your dog ate sago palm leaves, it is a life-threatening emergency. Learn about cycasin poisoning and why immediate veterinary care is required.",
+  "content_html": "<h3>What is a Sago Palm?</h3><p>The Sago Palm (Cycas revoluta) is a common ornamental plant found in gardens and as houseplants. Despite its name, it is a cycad, not a true palm. Every part of this plant is extremely toxic to dogs because it contains a toxin called cycasin. While the seeds contain the highest concentration of toxins, the leaves are also highly poisonous if ingested.</p><h3>Urgency Level: Critical Emergency</h3><p>If your dog has ingested sago palm leaves, the urgency level is High. This is a life-threatening situation. Cycasin causes severe gastrointestinal irritation and, more critically, rapid liver failure. Even a small amount of the plant can lead to permanent organ damage or death. You should not wait for symptoms to appear; immediate veterinary intervention is the only way to improve the chances of survival.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a clear photo of the plant your dog ingested before leaving for the emergency clinic. Showing this photo to the veterinarian or a poison control specialist allows for definitive identification. Many ornamental plants look similar, and confirming that the plant is a Sago Palm (and not a non-toxic variety like a Majesty Palm) allows the medical team to start the correct life-saving protocols immediately without guesswork.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of sago palm poisoning in dogs?",
+      "answer": "Initial symptoms include vomiting, diarrhea (sometimes bloody), and drooling. Within 24 to 72 hours, signs of liver failure appear, such as jaundice (yellowing of eyes and skin), extreme lethargy, bruising, and seizures."
+    },
+    {
+      "question": "Can a dog survive eating a sago palm?",
+      "answer": "Survival is possible but depends heavily on how quickly treatment begins. With immediate veterinary care to decontaminate the stomach and support liver function, the prognosis improves, but the survival rate is often cited at around 50%."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian or animal poison control. In some cases, it may cause more harm if the dog is already showing neurological signs or if it's been too long since ingestion."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

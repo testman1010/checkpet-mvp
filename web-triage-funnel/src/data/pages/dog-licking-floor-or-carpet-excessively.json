@@ -1,0 +1,20 @@
+{
+  "title": "Dog Licking Floor or Carpet Excessively: Causes & Triage Guide",
+  "meta_desc": "Is your dog licking the floor or carpet? Learn about Excessive Licking of Surfaces (ELS), why it's usually low urgency, and how to help your pet.",
+  "content_html": "<h3>What is Excessive Floor Licking?</h3><p>When a dog licks floors, carpets, or walls persistently, it is often referred to clinically as Excessive Licking of Surfaces (ELS). This behavior is frequently linked to gastrointestinal distress or nausea rather than just a behavioral quirk. Your dog may be trying to soothe an upset stomach or reacting to acid reflux.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. While this behavior is certainly abnormal and can be distressing to watch, it is rarely a medical emergency on its own. However, if the licking is accompanied by a bloated abdomen, unproductive retching, or extreme lethargy, you should contact an emergency vet immediately. Otherwise, a scheduled appointment with your regular veterinarian is appropriate.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of the licking episode is highly beneficial. It helps the doctor distinguish between a behavioral compulsion, a neurological issue, or a physical response to nausea. Seeing the intensity and duration of the behavior allows for a much more accurate diagnosis during triage.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have an upset stomach?",
+      "answer": "Yes, studies show that a large percentage of dogs displaying ELS have underlying GI issues like inflammatory bowel disease, Giardia, or delayed gastric emptying."
+    },
+    {
+      "question": "Should I try to stop the licking?",
+      "answer": "You can gently redirect your dog with a calm command or a toy, but avoid scolding them, as the behavior is often an involuntary response to physical discomfort."
+    },
+    {
+      "question": "Is floor licking a sign of anxiety?",
+      "answer": "While often physical, chronic licking can sometimes be a compulsive disorder triggered by stress or boredom, which your vet can help evaluate."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

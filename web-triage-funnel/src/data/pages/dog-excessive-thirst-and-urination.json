@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Excessive Thirst and Urination in Dogs | Veterinary Triage Guide",
+  "meta_desc": "Learn why your dog is drinking and urinating excessively (PU/PD). Discover common causes, urgency levels, and how to help your vet with a diagnosis.",
+  "content_html": "<h3>What is Excessive Thirst and Urination?</h3><p>In the veterinary field, excessive thirst and urination are referred to as polydipsia and polyuria (PU/PD). This happens when your dog's body is unable to regulate fluid balance correctly, leading them to drink more to compensate for fluid loss or because of a metabolic trigger. This is not simply a behavioral change; it is a physiological response to a shift in your dog's internal health, often related to the kidneys, liver, or endocrine system.</p><h3>Is it an emergency?</h3><p>The urgency level for these symptoms is Medium. While typically not a 'minute-by-minute' life-threatening emergency, it is a sign of a significant underlying condition that needs a professional evaluation. You should schedule a veterinary appointment within the next 24 to 48 hours. However, if your dog is also showing signs of vomiting, loss of appetite, or extreme lethargy, the urgency increases to High and you should seek care sooner.</p><h3>Why a photo helps triage</h3><p>Capturing photos or videos of your dog's behavior can provide vital clues for your veterinarian. A photo of your dog's water bowl at the start and end of the day helps quantify their actual intake. Additionally, a photo of any urine 'accidents'—showing the color, volume, and location—can help a vet determine if the urine is overly dilute or if there is evidence of blood or sediment. This visual evidence helps the triage team prioritize your dog's case and guides the diagnostic process.</p>",
+  "faqs": [
+    {
+      "question": "What are the most common causes of PU/PD in dogs?",
+      "answer": "Common causes include diabetes mellitus, chronic kidney disease, Cushing's disease, urinary tract infections, and sometimes reactions to certain medications like steroids."
+    },
+    {
+      "question": "Should I limit my dog's water intake if they are urinating too much?",
+      "answer": "No. Never restrict your dog's access to water if they are showing these signs. Their body is likely losing fluid rapidly, and restricting water can lead to life-threatening dehydration."
+    },
+    {
+      "question": "What tests will the vet perform?",
+      "answer": "A veterinarian will typically start with a urinalysis to check the concentration of the urine and a blood panel to check organ function and glucose levels."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

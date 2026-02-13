@@ -1,0 +1,20 @@
+{
+  "title": "Help! My Dog Licked Topical Flea Medication: Triage and Next Steps",
+  "meta_desc": "If your dog licked their flea treatment, stay calm. Learn about toxicity symptoms, why it's a medium-level urgency, and how to help your pet.",
+  "content_html": "<h3>What Happens When a Dog Licks Flea Medication?</h3><p>Most topical flea and tick preventatives are designed to be applied to the skin between the shoulder blades, where the dog cannot reach. However, if a dog manages to lick the application site, they ingest the concentrated chemicals. Many of these products contain a bittering agent to discourage ingestion, which often causes an immediate reaction like foaming at the mouth or drooling. While the taste is unpleasant, the primary concern is the systemic absorption of the active ingredients.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is currently classified as Medium. In many cases, the reaction is limited to mild stomach upset or localized irritation from the bitter taste. However, certain ingredients can cause more severe neurological or gastrointestinal issues. You should seek immediate veterinary care if you notice signs of tremors, extreme lethargy, repeated vomiting, or if you accidentally applied a product meant for cats to your dog, as feline-specific formulas can be highly toxic to canines.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian or a poison control specialist with a photo is one of the most helpful things you can do. A clear photo of the product packaging (including the ingredient list and concentration) allows the medical team to identify the specific toxins involved. Additionally, a photo of your dog's application site or their current physical reaction—such as the appearance of their saliva or any skin redness—helps the vet determine if the reaction is localized or systemic, allowing for faster and more accurate treatment advice.</p>",
+  "faqs": [
+    {
+      "question": "Why is my dog foaming at the mouth after licking the treatment?",
+      "answer": "This is a common reaction to the bitter taste of the medication. It is usually a localized reaction rather than a sign of poisoning. Try offering a small amount of water or tasty food to help clear the taste."
+    },
+    {
+      "question": "How long should I monitor my dog after ingestion?",
+      "answer": "You should monitor your pet closely for the first 4 to 6 hours for any signs of neurological distress or severe vomiting, though some reactions can take up to 24 hours to manifest."
+    },
+    {
+      "question": "Should I give my dog a bath immediately?",
+      "answer": "Do not bathe your dog right away unless instructed by a veterinarian. Scrubbing the area might spread the medication or increase skin absorption. A vet may recommend a localized wash with mild dish soap if a skin reaction occurs."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

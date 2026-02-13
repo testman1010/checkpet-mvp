@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed a Rubber Band: Urgent Veterinary Triage Guide",
+  "meta_desc": "If your cat swallowed a rubber band, act quickly. Learn why linear foreign bodies are high-priority emergencies and how to help your vet triage.",
+  "content_html": "<h3>What Is a Linear Foreign Body Ingestion?</h3><p>When a cat swallows a rubber band, it is medically classified as a linear foreign body ingestion. Unlike a solid object like a pebble, a linear object is long and thin. These items are particularly dangerous because one end can become anchored at the base of the tongue or in the stomach, while the rest of the band travels into the intestines. This creates a drawstring effect, causing the intestines to bunch up and potentially tear.</p><h3>Is This an Emergency? (Urgency Level: High)</h3><p>Yes, this is a high-priority emergency. Even if your cat is currently acting normal, you should contact an emergency veterinarian immediately. Linear foreign bodies have a high risk of causing intestinal perforation or intussusception (where the bowel slides into itself). Early intervention is critical; if caught early enough, a veterinarian may be able to retrieve the band via endoscopy or induced vomiting, potentially avoiding an invasive and expensive abdominal surgery.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to a duplicate rubber band or the remaining pieces of the one that was swallowed, take a clear photo. Showing this to the veterinary staff during triage is incredibly helpful. It allows the team to assess the length, thickness, and material of the object. This information helps the veterinarian determine the likelihood of the object passing on its own versus the risk of it becoming stuck, and it provides a reference for the radiologist when reviewing diagnostic imaging.</p>",
+  "faqs": [
+    {
+      "question": "Should I pull the rubber band if I see it under the tongue or tail?",
+      "answer": "No. Never pull on a visible string or rubber band. If the object is caught further down the digestive tract, pulling it can cause the band to slice through the intestinal wall like a saw, leading to life-threatening internal injuries."
+    },
+    {
+      "question": "Can I wait to see if my cat passes the rubber band in their stool?",
+      "answer": "Waiting is extremely risky with linear objects. Because of the unique way feline intestines move, rubber bands are prone to 'anchoring' rather than passing. Immediate veterinary consultation is always the safest course of action."
+    },
+    {
+      "question": "What are the clinical signs of a blockage?",
+      "answer": "Common signs include repeated vomiting, loss of appetite, lethargy, hiding, and abdominal pain. However, do not wait for these symptoms to appear, as significant internal damage can occur before the cat shows outward signs of illness."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

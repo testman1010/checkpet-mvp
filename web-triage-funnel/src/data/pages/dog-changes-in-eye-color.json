@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eye Color Changes: Causes, Signs, and Veterinary Triage",
+  "meta_desc": "Noticed your dog's eye color changing? Learn about common causes, urgency levels, and why clear photos are essential for veterinary triage.",
+  "content_html": "<h3>What is it?</h3><p>A change in your dog's eye color can manifest as cloudiness, a bluish haze, or even a sudden shift in the pigment of the iris. Common causes include Lenticular Sclerosis, which is a normal part of aging, or more significant conditions like cataracts, glaucoma, or corneal ulcers. Some changes are benign, while others may indicate inflammation or internal health issues.</p><h3>Is it an emergency?</h3><p>The urgency level for a general change in eye color is Low, provided your dog is not showing signs of distress. However, if the color change is accompanied by squinting, excessive tearing, redness, or if your dog is pawing at their face, you should seek veterinary care sooner. If the eye appears to be changing color gradually without pain, a scheduled appointment within a few days is usually appropriate.</p><h3>Why a photo helps triage</h3><p>Providing a high-quality, clear photo of your dog's eyes in natural light is incredibly helpful for veterinary professionals. It allows us to see the exact location of the discoloration—whether it is on the surface of the eye or deep within the lens. This visual information helps us differentiate between normal aging and conditions that require immediate medical intervention.</p>",
+  "faqs": [
+    {
+      "question": "My dog's eyes look bluish and cloudy, are they blind?",
+      "answer": "This is often Lenticular Sclerosis, a common aging change in dogs over middle age. While it looks cloudy, it usually does not significantly impact their vision compared to cataracts."
+    },
+    {
+      "question": "When should I be worried about an eye color change?",
+      "answer": "You should be concerned if the color change happens very suddenly, if only one eye is affected, or if the eye looks red and painful."
+    },
+    {
+      "question": "Can a dog's iris change color naturally?",
+      "answer": "While rare, some dogs can develop pigment changes or spots on the iris. However, any new dark spots should be evaluated by a vet to rule out melanomas."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

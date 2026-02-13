@@ -1,0 +1,20 @@
+{
+  "title": "Dog Breathing Rate Over 40 BPM While Resting: Triage Guide",
+  "meta_desc": "A resting breathing rate over 40 BPM in dogs is a high-urgency sign. Learn what tachypnea means and why you should contact an emergency vet.",
+  "content_html": "<h3>What is Elevated Resting Respiratory Rate?</h3><p>When a dog is calmly resting or sleeping, their normal respiratory rate should typically fall between 15 and 30 breaths per minute. If your dog is breathing at a rate of 40 breaths per minute or higher while at rest, this is clinically known as tachypnea. This indicates that the lungs are working harder than normal to oxygenate the blood or that there is an underlying cardiovascular or metabolic issue.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. If your dog is truly resting and not recovering from exercise or heat, a rate over 40 bpm is a significant red flag. This can be an early warning sign of life-threatening conditions such as congestive heart failure, fluid in the lungs (pulmonary edema), or pneumonia. You should contact an emergency veterinarian immediately for an evaluation, especially if the rate is consistent or increasing.</p><h3>Why a Video or Photo Helps Triage</h3><p>Capturing a short video of your dog’s breathing can be incredibly helpful for the veterinary triage team. A video allows the professional to see the 'character' of the breath—such as whether the dog is using its abdominal muscles to push air out or if the breathing is shallow and rapid. This visual evidence helps the vet determine the severity of the respiratory distress before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "How do I accurately count my dog's breathing rate?",
+      "answer": "Wait until your dog is fast asleep or very relaxed. Count the number of times the chest rises (one rise equals one breath) over 30 seconds, then multiply that number by two to get the breaths per minute."
+    },
+    {
+      "question": "Should I wait until morning if my dog seems otherwise fine?",
+      "answer": "No. Respiratory distress can escalate quickly. If the resting rate is consistently over 40 bpm, it is safer to seek emergency care immediately rather than waiting, as oxygen levels may be dropping."
+    },
+    {
+      "question": "What are other symptoms of respiratory distress?",
+      "answer": "Watch for blue or purple-tinged gums, extended neck while breathing, wide-flaring nostrils, or a persistent cough. These are signs that the breathing difficulty is critical."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

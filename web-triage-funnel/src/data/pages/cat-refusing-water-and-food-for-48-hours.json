@@ -1,0 +1,20 @@
+{
+  "title": "Cat Refusing Food and Water for 48 Hours: Emergency Triage Guide",
+  "meta_desc": "If your cat has not eaten or drank for 48 hours, it is a high-urgency medical emergency. Learn why immediate veterinary care is critical.",
+  "content_html": "<h3>What is Anorexia and Adipsia in Cats?</h3><p>When a cat stops eating (anorexia) and drinking (adipsia) for a full 48 hours, it is a clinical sign that their body is in distress. Unlike some other animals, a cat's metabolism is uniquely reliant on a steady intake of protein and fluids. This behavior is rarely a simple 'upset stomach' and usually points to an underlying medical condition such as kidney disease, dental pain, or systemic infection.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is an absolute medical emergency. After 48 hours without nutrition, cats are at significant risk for Hepatic Lipidosis, also known as Fatty Liver Disease. This is a life-threatening condition where the liver fails because it cannot process body fat quickly enough to meet energy needs. Combined with the risk of severe dehydration and electrolyte imbalances, your cat needs to be seen by a veterinarian or an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo or short video can be incredibly helpful during the triage process. A clear photo of your cat’s face can show signs of dehydration like sunken eyes or a visible third eyelid. Additionally, a photo of their gums (if safe to take) helps vets check for paleness or yellowing (jaundice), and a video of their posture can indicate if they are in physical pain or respiratory distress.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait one more day to see if my cat starts eating?",
+      "answer": "No. Waiting 72 hours significantly increases the risk of liver failure and permanent organ damage. Immediate intervention is required."
+    },
+    {
+      "question": "Should I try to force-feed my cat water with a syringe?",
+      "answer": "Do not attempt to force-feed or hydrate your cat with a syringe unless specifically instructed by a vet, as this can lead to aspiration pneumonia or increased stress."
+    },
+    {
+      "question": "What are the most common causes for a cat to stop eating and drinking?",
+      "answer": "Common causes include kidney failure, pancreatitis, dental abscesses, gastrointestinal blockages, or severe infections."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

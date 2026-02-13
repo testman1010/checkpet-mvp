@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eyes Darting Back and Forth: Understanding Feline Nystagmus",
+  "meta_desc": "Is your cat's eyes moving rapidly? Learn about feline nystagmus, when it becomes an emergency, and how to help your vet diagnose the cause.",
+  "content_html": "<h3>What is Feline Nystagmus?</h3><p>If you notice your cat's eyes are darting back and forth, up and down, or in circles rapidly and involuntarily, they are experiencing a condition called nystagmus. This is not a disease itself, but rather a symptom that the vestibular system—which is responsible for balance and spatial orientation—is being disrupted. It can make your cat feel dizzy or disoriented, often looking like they are following an invisible moving object.</p><h3>Is it an Emergency?</h3><p>The urgency level for rapid eye movement is <strong>Medium</strong>. While nystagmus is rarely a life-threatening emergency on its own, it usually indicates an underlying health issue such as an inner ear infection, vestibular disease, or potentially a neurological problem. You should schedule a veterinary appointment within 24 hours. If the eye movement is accompanied by collapse, seizures, or extreme respiratory distress, you should visit an emergency clinic immediately.</p><h3>Why a Video or Photo Helps Triage</h3><p>Capturing a video of your cat's eyes during an episode is one of the most helpful things you can do for your veterinarian. Because nystagmus can sometimes be intermittent, a recording ensures the vet sees the exact direction and speed of the movement. Knowing whether the motion is horizontal, vertical, or rotary helps the vet determine if the issue is located in the inner ear (peripheral) or the brain (central), which significantly changes the treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "Is my cat in pain when their eyes dart?",
+      "answer": "Nystagmus itself is not painful, but the underlying cause (like an ear infection) can be. Furthermore, the rapid movement often causes significant dizziness and nausea, similar to motion sickness."
+    },
+    {
+      "question": "Can nystagmus be cured?",
+      "answer": "The prognosis depends entirely on the cause. If it is caused by Feline Idiopathic Vestibular Syndrome, it often resolves on its own with supportive care. If it is caused by an infection, antibiotics are usually effective."
+    },
+    {
+      "question": "What other symptoms should I look for?",
+      "answer": "Keep an eye out for a persistent head tilt, circling in one direction, stumbling, or vomiting, as these frequently occur alongside rapid eye movements."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

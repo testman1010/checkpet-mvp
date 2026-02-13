@@ -1,0 +1,20 @@
+{
+  "title": "Cat Bleeding Gums: Causes, Symptoms, and Triage Guide",
+  "meta_desc": "Find out why your cat has red, bleeding gums. Learn about gingivitis, stomatitis, and when to seek urgent veterinary care for dental pain.",
+  "content_html": "<h3>What causes red, inflamed, and bleeding gums in cats?</h3><p>Red, inflamed, and bleeding gums in cats are primary indicators of dental disease, most commonly gingivitis or feline stomatitis. Gingivitis occurs when plaque and bacteria build up along the gum line, causing irritation. Stomatitis is a more severe immune-mediated response where the inflammation spreads throughout the oral cavity. Other causes can include fractured teeth, oral resorptive lesions, or in some cases, oral tumors or systemic illnesses like kidney disease.</p><h3>Is it an emergency?</h3><p>The urgency level for bleeding gums is categorized as <strong>Medium</strong>. While it is rarely a life-threatening emergency in the immediate moment, it is a sign of significant pain and active infection. You should schedule a veterinary appointment within 24 to 48 hours. If your cat has completely stopped eating, is pawing at their mouth aggressively, or shows signs of extreme lethargy, you should seek care sooner to manage their pain and hydration.</p><h3>How a photo helps with triage</h3><p>Taking a clear, well-lit photo of your cat's gums can be incredibly helpful for a veterinary professional. Because many cats become stressed or painful during a clinical exam, a photo taken in a calm environment allows the vet to see the exact location of the redness, the presence of any ulcers, or any suspicious growths. This visual evidence helps determine if the issue is localized to a single tooth or is a widespread condition requiring more intensive intervention.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human toothpaste on my cat?",
+      "answer": "No, never use human toothpaste. It often contains xylitol or fluoride, which are toxic to cats. Only use toothpaste specifically formulated for felines."
+    },
+    {
+      "question": "Why is my cat drooling and having bad breath?",
+      "answer": "Excessive drooling and foul breath (halitosis) are classic signs of oral infection or tooth decay. These symptoms usually accompany inflamed gums and require a professional dental cleaning."
+    },
+    {
+      "question": "Will bleeding gums go away on their own?",
+      "answer": "No. Once gums have reached the point of bleeding, the underlying dental disease has progressed to a stage that requires medical intervention such as antibiotics or professional scaling."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

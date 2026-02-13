@@ -1,0 +1,20 @@
+{
+  "title": "Cat Lethargy and Diarrhea: Symptoms, Causes, and Triage Guide",
+  "meta_desc": "Is your cat lethargic with diarrhea? Learn about urgency levels, common causes, and how photos help your veterinarian provide a faster diagnosis.",
+  "content_html": "<h3>What is Lethargy and Diarrhea in Cats?</h3><p>Lethargy is a state of abnormal tiredness, lack of energy, or decreased interest in usual activities. When accompanied by diarrhea—frequent, loose, or watery stools—it suggests that your cat is experiencing a systemic issue rather than a simple upset stomach. This combination often indicates that the body is losing fluids and electrolytes faster than it can replace them, potentially leading to dehydration or indicating an underlying infection or inflammatory process.</p><h3>Is it an Emergency?</h3><p>The urgency level for a cat experiencing both lethargy and diarrhea is classified as Medium. While a single episode of diarrhea might not be a crisis, the addition of lethargy means your cat's overall well-being is being affected. You should contact your veterinarian to schedule an appointment within 12 to 24 hours. However, if you notice blood in the stool, frequent vomiting, or if your cat becomes completely unresponsive, you should upgrade this to an emergency and seek immediate veterinary care.</p><h3>How Photos Help Your Veterinarian</h3><p>In a triage situation, a clear photo of your cat's stool can be an invaluable diagnostic tool. It allows the veterinary team to see the color, consistency, and the presence of any abnormalities like mucus, blood, or parasites. These visual cues help the staff determine the severity of the gastrointestinal distress and can assist in prioritizing your cat's care upon arrival at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I withhold food if my cat has diarrhea?",
+      "answer": "You should generally not withhold food from a cat unless specifically directed by a veterinarian. Cats are prone to developing hepatic lipidosis (fatty liver disease) if they go without food for even a short period."
+    },
+    {
+      "question": "Can I give my cat human anti-diarrheal medication?",
+      "answer": "No, you should never give your cat human medications like Pepto-Bismol or Imodium, as many contain ingredients that are toxic to felines. Always consult your vet before administering any treatment."
+    },
+    {
+      "question": "How can I tell if my cat is dehydrated?",
+      "answer": "You can check for dehydration by gently pinching the skin between the shoulder blades; it should snap back instantly. If it stays tented or moves slowly, your cat likely needs fluid therapy."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

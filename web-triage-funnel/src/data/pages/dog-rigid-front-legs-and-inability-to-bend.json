@@ -1,0 +1,20 @@
+{
+  "title": "Dog Rigid Front Legs: Emergency Causes & Triage Guide",
+  "meta_desc": "If your dog's front legs are rigid and won't bend, this is a high-priority veterinary emergency. Learn about causes and immediate next steps.",
+  "content_html": "<h3>What Does Rigidity in the Front Legs Mean?</h3><p>When a dog's front legs become stiff, rigid, and impossible to bend, it is typically a sign of a severe neurological or muscular disturbance. This state, often called extensor rigidity, occurs when the muscles stay in a constant state of contraction. Potential causes include severe spinal cord trauma (such as Schiff-Sherrington posture), brain injuries, or exposure to specific toxins like tetanus or strychnine.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for this symptom is High. Rigidity in the limbs suggests a significant disruption of the central nervous system or a life-threatening toxicity. If your dog cannot bend their legs, they are likely in distress and at risk for permanent paralysis or respiratory failure. You should transport your dog to the nearest emergency veterinary hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so, taking a 10-second video of your dog's posture can be incredibly helpful for the veterinary team. Visual evidence allows the vet to observe the specific pattern of rigidity—such as whether the neck is arched or if the back legs are also affected—before they even begin a physical exam. This helps the staff differentiate between conditions like seizures, spinal injury, or poisoning, potentially saving vital time during the intake process.</p>",
+  "faqs": [
+    {
+      "question": "What is Schiff-Sherrington posture?",
+      "answer": "This is a neurological phenomenon where a severe injury to the spinal cord in the upper lower-back area causes the front legs to become rigidly extended while the back legs are paralyzed."
+    },
+    {
+      "question": "Can toxins cause my dog's legs to lock up?",
+      "answer": "Yes, certain toxins like tetanus (from a wound) or strychnine (often found in older rodenticides) can cause severe, painful muscle rigidity throughout the body."
+    },
+    {
+      "question": "How should I move my dog if their legs are rigid?",
+      "answer": "Try to keep your dog on a flat, stable surface like a large piece of wood or a thick blanket to act as a stretcher. Minimize movement of the spine during transport."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

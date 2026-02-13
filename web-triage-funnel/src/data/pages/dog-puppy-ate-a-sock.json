@@ -1,0 +1,20 @@
+{
+  "title": "My Puppy Ate a Sock: Emergency Triage and Veterinary Advice",
+  "meta_desc": "Learn what to do if your puppy swallowed a sock. This guide covers why it is an emergency and how providing a photo can help your vet save your pet.",
+  "content_html": "<h3>What Is Foreign Body Ingestion?</h3><p>When a puppy eats a sock, it is classified as foreign body ingestion. Because socks are made of fabric and elastic, they do not break down in the digestive system. Instead, they can bunch up or stretch out, creating a physical barrier that prevents food and water from passing through the stomach or intestines.</p><h3>Is This an Emergency?</h3><p>The urgency level for a swallowed sock is High. This is a potential medical emergency because an obstruction can lead to tissue death or a ruptured bowel within hours or days. You should call your veterinarian or the nearest emergency animal hospital immediately. If caught early, a vet may be able to safely induce vomiting or use an endoscope to retrieve the sock while it is still in the stomach, potentially avoiding invasive and expensive abdominal surgery.</p><h3>Why a Photo Helps Triage</h3><p>If you can, find the matching pair to the sock your puppy ate and take a clear photo of it next to a common object (like a coin or TV remote) for scale. Providing this photo to your veterinary team helps them determine the material, thickness, and dimensions of the object. This information is vital for their triage process, as it helps them predict the likelihood of the sock causing a blockage versus being small enough to pass through the intestinal tract.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my puppy vomit at home?",
+      "answer": "No. You should never induce vomiting at home without direct instruction from a veterinarian. Fabric items like socks can easily become lodged in the esophagus on the way back up, which can cause choking or aspiration pneumonia."
+    },
+    {
+      "question": "What are the warning signs of a blockage?",
+      "answer": "Watch for repeated vomiting, inability to keep down water, extreme lethargy, abdominal pain, or a sudden loss of appetite. If you see these signs, your puppy needs immediate emergency care."
+    },
+    {
+      "question": "How long does it take for a sock to pass?",
+      "answer": "If an object is going to pass, it typically takes 24 to 72 hours. However, socks are high-risk items that often get stuck. Do not wait for it to pass naturally without a professional veterinary assessment."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bite Wound Triage: Immediate Steps for Animal Bites",
+  "meta_desc": "Is your dog bitten? Learn how to identify bite marks, why these wounds are emergencies, and how photos help veterinary triage teams save lives.",
+  "content_html": "<h3>What are Bite Marks on a Dog?</h3><p>Bite marks from another animal are puncture wounds or lacerations caused by teeth. While they may look like small holes on the surface, they often involve significant internal trauma. Because animal skin is mobile, a bite can cause a 'pocket' to form underneath the skin where bacteria thrive, leading to hidden tissue damage and severe infection.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Even if the wound looks minor, all bite marks should be treated as an emergency. The pressure from a bite can crush underlying muscle or damage internal organs without breaking the skin significantly. Immediate veterinary care is required to prevent abscesses, sepsis, or permanent tissue loss. If your dog is pale, struggling to breathe, or bleeding uncontrollably, go to an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear photo of the wound to your veterinarian or a triage assistant can be life-saving. A photo allows the medical team to see the location, size, and pattern of the bite before swelling or blood hides the details. This visual information helps staff prepare the necessary surgical or stabilization equipment before your pet even walks through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until morning to see the vet?",
+      "answer": "No, bite wounds are highly prone to infection and internal 'pocketing.' Waiting even a few hours can allow bacteria to multiply rapidly, turning a simple wound into a life-threatening infection."
+    },
+    {
+      "question": "Should I put an antiseptic on the bite mark?",
+      "answer": "Avoid using hydrogen peroxide or harsh chemicals, as these can damage the healthy tissue. You may gently flush the area with clean water, but your primary focus should be getting the pet to a veterinarian."
+    },
+    {
+      "question": "Why does a small puncture need surgery?",
+      "answer": "What looks like a small hole is often the 'tip of the iceberg.' Veterinarians often need to surgically explore the area to clean out debris, remove dead tissue, and place drains to prevent painful abscesses."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

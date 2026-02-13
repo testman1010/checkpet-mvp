@@ -1,0 +1,20 @@
+{
+  "title": "Urgent Care: Cat Licked Antifreeze - Immediate Triage Guide",
+  "meta_desc": "If your cat licked antifreeze, this is a high-level medical emergency. Learn what it is, why it is fatal, and why you must act now to save your pet.",
+  "content_html": "<h3>What is Antifreeze Poisoning?</h3><p>Antifreeze commonly contains ethylene glycol, a chemical that is extremely toxic to felines. Because it has a sweet taste, cats may be tempted to lick puddles from leaky cars. Once ingested, the body breaks down ethylene glycol into toxic metabolites that cause rapid, irreversible damage to the kidneys and central nervous system.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening medical emergency. Even a tiny amount—less than a teaspoon—can be fatal to a cat. There is a very narrow window for treatment to be effective. If your cat has licked antifreeze, you should transport them to an emergency veterinary clinic immediately. Do not wait for symptoms to appear, as internal damage begins within minutes.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the source, take a quick photo of the product label or the puddle itself. This helps the veterinary team identify the specific brand and active ingredients. Some formulations use propylene glycol instead of ethylene glycol; while still dangerous, knowing the exact chemical allows the vet to calculate the toxicity levels and provide the most effective antidote or treatment plan immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "What are the early symptoms of antifreeze poisoning?",
+      "answer": "Early signs often appear within 30 minutes to 12 hours and include uncoordinated movement (appearing 'drunk'), vomiting, excessive thirst, and lethargy."
+    },
+    {
+      "question": "How quickly must a cat receive treatment?",
+      "answer": "For the best chance of survival, treatment must ideally begin within 3 hours of ingestion. After 8 to 12 hours, the risk of permanent kidney failure increases significantly."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home unless specifically instructed by a veterinarian, as this can cause further complications. Immediate professional care is required."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

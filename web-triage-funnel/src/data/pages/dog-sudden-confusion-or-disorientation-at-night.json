@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Confusion or Disorientation at Night: Triage Guide",
+  "meta_desc": "Is your dog suddenly disoriented at night? Learn about potential causes, urgency levels, and how to help your pet stay safe and calm.",
+  "content_html": "<h3>What is Sudden Nighttime Disorientation?</h3><p>Sudden confusion at night, sometimes referred to as 'sundowning,' occurs when a dog becomes lost in familiar environments, stares into space, or gets stuck in corners as the sun goes down. This behavior can be caused by Canine Cognitive Dysfunction (dementia), sensory loss, or underlying metabolic issues that affect the brain's processing during low-light hours.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden nighttime disorientation is Medium. While it is heart-wrenching to witness, it is typically not a life-threatening emergency unless it is accompanied by active seizures, a complete inability to stand, or respiratory distress. You should contact your veterinarian within 24 to 48 hours to schedule a diagnostic exam and rule out neurological or systemic triggers.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of your dog during an episode of confusion is one of the most helpful tools for a veterinary team. Because dogs often act differently in the high-stress environment of a clinic, a video provides an objective look at their behavior, gait, and level of consciousness in their natural home setting. This allows the vet to differentiate between cognitive issues, focal seizures, or vestibular disease more effectively.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog's age be a factor in this confusion?",
+      "answer": "Yes, older dogs are more prone to Canine Cognitive Dysfunction, which often manifests as increased anxiety or disorientation during the evening and night."
+    },
+    {
+      "question": "What can I do to help my dog right now?",
+      "answer": "Try to keep the environment calm, use nightlights to help with visibility, and prevent access to stairs or sharp furniture to avoid injury while they are disoriented."
+    },
+    {
+      "question": "Can sudden vision loss cause this behavior?",
+      "answer": "Absolutely. If a dog's vision is failing, they may rely on muscle memory during the day but become extremely confused and frightened once the light levels drop at night."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

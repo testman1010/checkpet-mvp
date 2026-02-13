@@ -1,0 +1,20 @@
+{
+  "title": "Dog Collapsed and Unresponsive: Emergency Triage Guide",
+  "meta_desc": "If your dog has collapsed and is unresponsive, this is a critical medical emergency. Seek immediate veterinary care and follow these steps.",
+  "content_html": "<h3>What is a Collapse and Unresponsiveness?</h3><p>A collapse occurs when your dog suddenly loses their ability to stand, often falling to their side. Unresponsiveness means your pet is not reacting to your voice, touch, or physical stimulation. This state indicates a severe disruption in the body's normal functions, potentially involving the heart, brain, or blood circulation.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High (Immediate Emergency).</strong> A dog that has collapsed and is unresponsive is experiencing a life-threatening crisis. This is a red-alert situation that requires immediate intervention by a veterinary professional. Do not wait to see if they recover on their own; transport them to the nearest emergency animal hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so without delaying your trip to the vet, a short video of the event or a photo of your dog's gum color can be incredibly helpful. Visual evidence allows the veterinary team to quickly differentiate between a seizure, a fainting spell (syncope), or a respiratory crisis. These visual cues help the medical team prioritize specific life-saving treatments the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What should I do on the way to the emergency vet?",
+      "answer": "Keep your dog on a flat surface and ensure their neck is extended to keep the airway open. If possible, call the clinic while en route so they can prepare for your arrival."
+    },
+    {
+      "question": "How do I check my dog's gum color and why does it matter?",
+      "answer": "Gently lift the lip to look at the gums. Healthy gums are pink. If they are pale, white, blue, or purple, it indicates a severe lack of oxygen or internal shock, which is vital information for the vet."
+    },
+    {
+      "question": "Could my dog have just fainted?",
+      "answer": "While dogs can experience syncope (fainting), a collapse that results in unresponsiveness cannot be distinguished from a heart or brain emergency without a professional exam. All instances of collapse must be treated as emergencies."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

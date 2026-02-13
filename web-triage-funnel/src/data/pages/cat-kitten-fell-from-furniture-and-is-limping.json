@@ -1,0 +1,20 @@
+{
+  "title": "Kitten Limping After a Fall: Triage Guide & Next Steps",
+  "meta_desc": "Is your kitten limping after falling? Learn about potential injuries, urgency levels, and why documenting the limp helps your veterinarian.",
+  "content_html": "<h3>What Is It?</h3><p>When a kitten falls from furniture and begins limping, it indicates a musculoskeletal injury. Because kittens have developing skeletons and open growth plates, their bones are more susceptible to certain types of fractures compared to adult cats. The limp may be caused by a simple soft tissue strain, a bruise, a joint luxation (dislocation), or a break.</p><h3>Is it an Emergency?</h3><p>The urgency level for a kitten limping after a fall is <strong>Medium</strong>. While not always a life-threatening crisis, kittens are fragile and mask pain well. If the kitten is otherwise acting normally—eating, drinking, and alert—you should contact your veterinarian for an appointment within 12 to 24 hours. However, it becomes a <strong>High</strong> urgency emergency if you notice an open wound, a limb dangling at an odd angle, extreme lethargy, or if the kitten is crying out in pain.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a photo or a short video of your kitten moving can be a vital tool for a veterinary professional. A video allows the vet to assess the 'grade' of the lameness, such as whether the kitten is toe-touching or non-weight-bearing. A photo can help identify localized swelling or postural changes that might be harder to describe over the phone, helping the clinic determine how quickly your pet needs to be seen.</p>",
+  "faqs": [
+    {
+      "question": "Should I give my kitten aspirin or Tylenol for the pain?",
+      "answer": "No. Human pain medications, especially Tylenol (acetaminophen), are extremely toxic to cats and can be fatal. Never administer any medication without a direct prescription from your veterinarian."
+    },
+    {
+      "question": "How can I help my kitten while waiting for the vet?",
+      "answer": "Restrict your kitten's movement by keeping them in a small carrier or a confined room without furniture to jump on. This prevents further injury to the affected limb."
+    },
+    {
+      "question": "Will my kitten need an X-ray?",
+      "answer": "Most likely, yes. Since kittens have soft bones, a physical exam alone may not be enough to rule out a growth plate fracture, which requires specific treatment to ensure the leg grows correctly."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Swallowed a Button Battery | Vet Triage",
+  "meta_desc": "If your dog swallowed a button battery, this is a life-threatening emergency. Learn why immediate veterinary care is required to prevent severe burns.",
+  "content_html": "<h3>What is Button Battery Ingestion?</h3><p>Button batteries are small, coin-shaped discs often found in hearing aids, remote controls, and car fobs. While they appear harmless, they are extremely dangerous if swallowed. Unlike standard batteries, these can cause catastrophic internal damage in as little as two hours due to their chemical makeup and electrical charge.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is High. This is a critical medical emergency. When a button battery gets stuck in the esophagus or enters the stomach, it can create an electrical circuit with the moist tissue. This leads to severe internal burns (liquefaction necrosis), tissue death, and potential perforation of the digestive tract. You should contact an emergency veterinarian immediately; do not wait for symptoms to appear.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to the original packaging or the device the battery came from, take a clear photo. Providing your vet with the specific model number (such as CR2032) helps them understand the battery's diameter, thickness, and voltage. This information is vital for determining the best course of action, whether it be emergency surgery or endoscopic removal.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting if my dog swallowed a battery?",
+      "answer": "No. Never induce vomiting for a battery ingestion unless specifically instructed by a veterinarian. If the battery has been damaged or is leaking, bringing it back up can cause severe chemical burns to the esophagus."
+    },
+    {
+      "question": "What are the early warning signs of internal damage?",
+      "answer": "Early symptoms may include excessive drooling, difficulty swallowing, pawing at the mouth, abdominal pain, or a sudden refusal to eat."
+    },
+    {
+      "question": "Can a button battery pass through a dog naturally?",
+      "answer": "While a battery may occasionally pass, the risk of it becoming lodged or leaking corrosive material is extremely high. Professional imaging (X-rays) and veterinary monitoring are mandatory to ensure the battery does not cause fatal internal injuries."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

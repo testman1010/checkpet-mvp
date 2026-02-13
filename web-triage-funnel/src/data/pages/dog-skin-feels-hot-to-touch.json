@@ -1,0 +1,20 @@
+{
+  "title": "Dog Skin Feels Hot to the Touch: Causes and Triage Guide",
+  "meta_desc": "If your dog's skin feels hot, it could indicate fever, inflammation, or heatstroke. Learn when to seek urgent veterinary care and how to help.",
+  "content_html": "<h3>What Does It Mean When Your Dog's Skin Feels Hot?</h3><p>When a dog's skin feels noticeably warm to the touch, it is often a sign of an elevated body temperature. This can be caused by environmental factors, such as a hot day, or internal factors like a systemic fever or localized inflammation. While dogs naturally have a higher body temperature than humans (typically 101°F to 102.5°F), skin that feels unusually hot, particularly on the ears, belly, or armpits, indicates that their body is working hard to dissipate heat or fight off an underlying issue.</p><h3>Is It an Emergency? (Urgency Level: Medium)</h3><p>This situation is classified as Medium Urgency. While hot skin alone may not be a crisis, it requires close monitoring. If your dog is alert and behaving normally, try moving them to a cool area. However, if the hot skin is accompanied by heavy panting, glassy eyes, dark red gums, or lethargy, it may signal heatstroke or a high fever, which requires immediate veterinary intervention. Always check for a rectal temperature above 103°F as a sign of clinical fever.</p><h3>Why Taking a Photo or Video Helps</h3><p>If the heat is localized to a specific patch of skin that appears red, swollen, or moist, capturing a high-resolution photo can be vital for triage. A clear image allows a veterinarian to distinguish between a simple 'hot spot' (acute moist dermatitis) and more serious skin infections. Additionally, a short video of your dog's breathing and movement can help the vet assess whether the heat is causing systemic distress, allowing for faster and more accurate medical advice.</p>",
+  "faqs": [
+    {
+      "question": "What is a normal temperature for a dog?",
+      "answer": "A healthy dog's rectal temperature typically ranges from 101.0°F to 102.5°F (38.3°C to 39.2°C)."
+    },
+    {
+      "question": "Can I give my dog human aspirin or Tylenol for a fever?",
+      "answer": "No, never give your dog human medications. These are highly toxic to pets and can cause organ failure or death."
+    },
+    {
+      "question": "How can I safely cool down a hot dog?",
+      "answer": "Apply room-temperature or slightly cool water to their paws, armpits, and groin. Avoid ice-cold water, as it can cause blood vessels to constrict and trap heat."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

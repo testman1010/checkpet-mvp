@@ -1,0 +1,20 @@
+{
+  "title": "Dog Urine is Dark or Bloody: Triage Guide and Emergency Steps",
+  "meta_desc": "Is your dog's urine dark or bloody? Learn why this is a high-urgency emergency and how to help your vet diagnose the cause quickly.",
+  "content_html": "<h3>What is Dark or Bloody Urine?</h3><p>Finding blood in your dog's urine (hematuria) or noticing a dark, tea-colored, or orange tint can be very alarming. These changes typically signify the presence of red blood cells, hemoglobin, or bilirubin. While some causes are manageable, such as a urinary tract infection (UTI), others can be life-threatening, including bladder stones, internal trauma, clotting disorders, or even ingestion of toxins like rat poison.</p><h3>Is it an Emergency?</h3><p>The urgency level for dark or bloody urine is <strong>High</strong>. While your dog may appear fine otherwise, blood in the urine is never normal and often indicates significant pain or internal dysfunction. If your dog is also straining to urinate, lethargic, has pale gums, or is vomiting, you should seek immediate emergency veterinary care. Do not wait for the symptoms to resolve on their own, as underlying conditions can progress rapidly.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a clear photo of the urine, especially if your dog goes on a light-colored surface like a puppy pad, concrete, or snow. A photo provides the veterinary team with an objective look at the color, concentration, and presence of clots. This visual evidence helps the triage nurse determine how quickly your dog needs to be seen and assists the veterinarian in narrowing down whether the issue is originating from the kidneys, bladder, or a systemic blood issue.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have just eaten something red?",
+      "answer": "Unlike humans, it is very rare for a dog's urine to change color due to food like beets. If the urine is red or pink, it is almost certainly blood and requires a veterinary exam."
+    },
+    {
+      "question": "What if my dog is acting normal but still has bloody urine?",
+      "answer": "Even if your dog is eating and playing, blood in the urine indicates an active problem like an infection or stones that could lead to a painful blockage if left untreated."
+    },
+    {
+      "question": "Should I bring a urine sample to the vet?",
+      "answer": "Yes, if you can collect a fresh, clean sample in a sterile container, bring it with you. However, do not delay the appointment if you cannot catch a sample; the vet can often collect one during the exam."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

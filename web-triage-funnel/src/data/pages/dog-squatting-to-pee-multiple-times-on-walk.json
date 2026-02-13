@@ -1,0 +1,20 @@
+{
+  "title": "Dog Squatting Multiple Times on Walks: Causes and Triage Guide",
+  "meta_desc": "Is your dog squatting frequently to pee? Learn about UTIs, bladder issues, and when you need to see a vet in this quick triage guide.",
+  "content_html": "<h3>What is Frequent Squatting?</h3><p>When a dog squats repeatedly during a walk but only produces small drops of urine—or nothing at all—it is often a sign of urinary tract irritation. This behavior is frequently caused by a Urinary Tract Infection (UTI), bladder stones, or sterile cystitis. The dog feels a constant, urgent pressure to empty their bladder, even when it is physically empty.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While it is not usually an immediate life-threatening emergency, it is very uncomfortable and potentially painful for your pet. You should schedule a veterinary appointment within 24 to 48 hours. <strong>Important:</strong> If your dog is straining and producing absolutely no urine, or if they are vomiting and lethargic, this could indicate a urinary blockage, which is a critical emergency requiring immediate care.</p><h3>How a Photo Helps Triage</h3><p>If your dog does manage to pass any fluid, taking a clear photo of the urine on the ground or on a white paper towel can be very helpful. A photo allows your veterinarian to check for the presence of blood, cloudiness, or sediment. This visual evidence helps the medical team determine the severity of the inflammation and prioritize your dog's care.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just be marking their territory?",
+      "answer": "While dogs do mark, a sudden increase in the frequency of squatting—especially if the dog appears to be straining or only producing droplets—usually indicates a medical issue rather than a behavioral one."
+    },
+    {
+      "question": "What will the vet need for the appointment?",
+      "answer": "Your vet will likely ask for a urine sample. If you can catch a 'clean catch' sample in a sterile container before the visit, it can speed up the diagnostic process."
+    },
+    {
+      "question": "Are certain breeds more prone to this?",
+      "answer": "Any dog can develop a UTI, but female dogs are generally more prone to infections. Certain breeds, like Dalmatians or Miniature Schnauzers, may have a higher predisposition for bladder stones."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

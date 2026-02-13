@@ -1,0 +1,20 @@
+{
+  "title": "Dog Fast Breathing (40+ BPM) While Sleeping: Veterinary Triage Guide",
+  "meta_desc": "Is your dog breathing over 40 times a minute while asleep? This high urgency symptom requires immediate veterinary attention. Learn why and what to do.",
+  "content_html": "<h3>Understanding High Resting Respiratory Rates</h3><p>A resting respiratory rate (RRR) refers to the number of breaths a dog takes per minute while they are sound asleep or deeply relaxed. For most healthy dogs, a normal RRR is between 15 and 30 breaths per minute. When a dog consistently exceeds 40 breaths per minute while sleeping, it is a clinical sign that the body is working too hard to oxygenate the blood or is struggling with internal pressure changes in the chest.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for this symptom is High. A sleeping respiratory rate over 40 breaths per minute is often one of the first and most reliable signs of congestive heart failure (CHF) or fluid accumulation in the lungs (pulmonary edema). Because dogs cannot communicate their discomfort, this change in breathing rhythm is a critical warning sign. You should contact an emergency veterinarian immediately, especially if you also notice coughing, lethargy, or a change in gum color.</p><h3>Why a Video or Photo Helps Triage</h3><p>If you are able to safely do so, capturing a 15-to-30-second video of your dog breathing before you head to the clinic can be life-saving. A video allows the veterinary triage team to observe the 'effort' of breathing—such as abdominal breathing or flared nostrils—which provides more diagnostic information than a simple number. This visual data helps the vet determine if your pet needs oxygen therapy the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How do I accurately count my dog's breaths?",
+      "answer": "Wait until your dog is sound asleep. Watch the chest rise and fall; one full rise and fall counts as one breath. Count the number of breaths in 30 seconds and multiply by two to get the breaths per minute."
+    },
+    {
+      "question": "Could my dog just be having a bad dream?",
+      "answer": "While dogs may breathe faster or twitch during REM sleep, this is usually temporary. If the breathing rate remains consistently over 40 breaths per minute for several minutes, or if it happens every time they sleep, it is not just a dream."
+    },
+    {
+      "question": "What if my dog is breathing fast but acting normal otherwise?",
+      "answer": "Dogs are masters at masking illness. An increased resting respiratory rate is often a 'silent' symptom that precedes more obvious signs of distress like collapsing or gasping for air. It is always better to be evaluated early."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

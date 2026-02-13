@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking with a Wobbly Drunk Gait: Urgent Triage Guide",
+  "meta_desc": "Is your dog stumbling like they are drunk? Learn about ataxia, why it is a high-priority emergency, and how to help your vet with a quick video.",
+  "content_html": "<h3>What Is a Wobbly or \"Drunk\" Gait?</h3><p>When a dog walks as if they are intoxicated—stumbling, swaying, or crossing their paws—it is medically known as ataxia. This condition represents a lack of sensory coordination and can affect the limbs, the torso, or even the movement of the head. It typically indicates an issue within the nervous system, the inner ear (vestibular system), or the brain.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. The urgency level for a sudden wobbly gait is High. Ataxia is often a symptom of a serious underlying condition such as toxin ingestion (like xylitol or marijuana), a spinal cord injury, a stroke, or a severe infection. Because these conditions can progress rapidly, you should contact an emergency veterinarian immediately for an evaluation.</p><h3>How Visuals Help With Triage</h3><p>While a still photo can show your dog's posture, a short video of your dog attempting to walk is one of the most helpful tools for a triage nurse or veterinarian. Seeing the specific way your dog moves helps the medical team differentiate between various types of neurological issues, allowing them to prepare the necessary diagnostic equipment before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What common toxins cause a wobbly gait in dogs?",
+      "answer": "Common culprits include human medications, certain essential oils, antifreeze, and marijuana ingestion. If you suspect your dog ate something, bring the packaging to the vet."
+    },
+    {
+      "question": "Could my dog's wobbly walk be caused by an ear infection?",
+      "answer": "Yes, severe inner ear infections can disrupt the vestibular system, which controls balance, leading to a 'drunk' appearance and a head tilt."
+    },
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep your dog calm and confined in a crate or a small area to prevent them from falling and injuring themselves further. Avoid giving any food or water until they are examined."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

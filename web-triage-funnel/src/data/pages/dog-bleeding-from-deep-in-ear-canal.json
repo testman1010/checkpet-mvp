@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bleeding from Deep in Ear Canal: Emergency Guide",
+  "meta_desc": "If your dog is bleeding from deep in their ear, it is a high-priority emergency. Learn why and how to help your vet with triage today.",
+  "content_html": "<h3>What is Internal Ear Bleeding?</h3><p>Bleeding from deep within the ear canal, medically known as otorrhagia, indicates that the source of the injury or illness is beyond the external ear flap. This type of bleeding often involves the middle ear, the inner ear, or the deep tissue of the canal itself. Unlike a surface-level scratch, deep bleeding is often hidden and may be accompanied by discharge, pain, or neurological signs.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for blood originating from deep inside the ear canal is <strong>High</strong>. Because the ear canal is located in close proximity to the brain and sensitive nerves, deep bleeding can be a sign of a ruptured eardrum, a severe inner ear infection, an embedded foreign object, or even a traumatic skull fracture. If your dog is also tilting their head, stumbling, or acting lethargic, you should seek immediate veterinary care at an emergency clinic.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, taking a clear photo of the ear opening can be incredibly helpful for your veterinary team. A photo allows the triage staff to see the color, consistency, and volume of the blood without having to immediately manipulate a potentially painful ear. This visual information helps them determine the severity of the situation and prepare the necessary diagnostic tools before you even arrive at the hospital.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to clean the blood out of my dog's ear?",
+      "answer": "No. You should never insert cotton swabs or cleaning solutions into the ear when there is active bleeding from deep inside, as this could cause permanent damage if the eardrum is ruptured."
+    },
+    {
+      "question": "What are the most common causes of deep ear bleeding?",
+      "answer": "Common causes include severe infections, foreign bodies (like grass seeds), ear canal polyps, tumors, or blunt force trauma to the head."
+    },
+    {
+      "question": "How will a veterinarian diagnose the source of the bleeding?",
+      "answer": "The vet will typically use an otoscope to look inside the canal. In some cases, sedation may be required to safely examine the area and check the integrity of the eardrum."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

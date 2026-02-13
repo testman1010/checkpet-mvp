@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Undigested Food: Causes, Urgency, and Care Guide",
+  "meta_desc": "Learn why your dog is vomiting undigested food, the difference between vomiting and regurgitation, and when you need to contact your veterinarian.",
+  "content_html": "<h3>What is it?</h3><p>If your dog is bringing up food that looks exactly as it did in the bowl, they may be experiencing regurgitation rather than true vomiting. Regurgitation is a passive process where food is ejected from the esophagus before it reaches the stomach. This can be caused by eating too quickly, a physical obstruction, or underlying conditions like megaesophagus.</p><h3>Is it an emergency?</h3><p>The urgency level for a dog vomiting undigested food is <strong>Medium</strong>. If this happens as a one-off event and your dog is otherwise acting normal, it may just be a case of 'scarf and barf.' However, if it happens multiple times, is accompanied by lethargy, or if your dog is unable to keep water down, you should contact a veterinarian within 24 hours to rule out more serious issues.</p><h3>Why a photo helps triage</h3><p>It may feel gross, but taking a clear photo of the material your dog produced is one of the most helpful things you can do for a triage team. A photo helps the vet determine the level of digestion, the presence of bile or blood, and the overall volume. This visual information is crucial for distinguishing between simple reflux and a potential blockage.</p>",
+  "faqs": [
+    {
+      "question": "What is the difference between vomiting and regurgitation?",
+      "answer": "Vomiting is an active process involving abdominal contractions and retching, usually resulting in partially digested food. Regurgitation is passive and happens suddenly, usually involving undigested food in a tubular shape."
+    },
+    {
+      "question": "Should I withhold food after my dog vomits?",
+      "answer": "Generally, it is recommended to withhold food for 6 to 12 hours to let the gastrointestinal tract rest, followed by a bland diet of boiled chicken and rice, but always check with your vet first."
+    },
+    {
+      "question": "Could my dog have a blockage?",
+      "answer": "Yes, frequent vomiting or regurgitation of undigested food can sometimes indicate a foreign body obstruction in the esophagus or stomach, which requires immediate medical attention."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

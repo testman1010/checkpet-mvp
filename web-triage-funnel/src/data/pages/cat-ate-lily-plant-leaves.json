@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Cat Ate a Lily Leaf",
+  "meta_desc": "If your cat ate a lily leaf, it is a life-threatening emergency. Learn why immediate veterinary care is essential to prevent acute kidney failure.",
+  "content_html": "<h3>What is Lily Toxicity?</h3><p>True lilies (Lilium species) and Daylilies (Hemerocallis species) contain a potent, unidentified toxin that is highly poisonous to cats. Every part of the plant—including the leaves, petals, pollen, and even the water in the vase—can cause severe illness. Ingesting even a tiny amount can lead to rapid and irreversible damage to the kidneys.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. You must contact an emergency veterinarian or a pet poison control center immediately. Early intervention is the only way to prevent acute kidney failure. Do not wait for symptoms to appear, as internal damage occurs long before a cat shows signs of being unwell.</p><h3>How a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the plant and any remaining pieces. Not all plants with the word \"lily\" in their name are equally toxic; for example, a Peace Lily is an irritant but not typically fatal, whereas an Easter Lily is deadly. A photo allows the veterinary team to identify the specific species and determine the exact treatment protocol required for your cat.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of lily poisoning?",
+      "answer": "Early signs can include vomiting, drooling, loss of appetite, and lethargy. These typically appear within 0 to 12 hours of ingestion."
+    },
+    {
+      "question": "Can a cat survive eating a lily?",
+      "answer": "Survival is possible, but it depends entirely on how quickly the cat receives veterinary care. If treatment (such as decontamination and IV fluid therapy) starts within 18 hours, the prognosis is much better."
+    },
+    {
+      "question": "Is lily pollen dangerous to cats?",
+      "answer": "Yes, pollen is extremely dangerous. If a cat brushes against the flower and later licks the pollen off their fur, it can cause the same fatal kidney failure as eating a leaf."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

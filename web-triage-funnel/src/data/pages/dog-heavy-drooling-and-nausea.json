@@ -1,0 +1,20 @@
+{
+  "title": "Dog Heavy Drooling and Nausea: Causes and Triage Guide",
+  "meta_desc": "Is your dog drooling excessively and acting nauseous? Learn about potential causes, the urgency level, and how to help your pet safely.",
+  "content_html": "<h3>What is Hypersalivation and Nausea?</h3><p>Heavy drooling, medically known as hypersalivation or ptyalism, often occurs in dogs as a direct response to nausea. When a dog feels sick to their stomach, their body produces excess saliva to protect the mouth and throat from potential stomach acid during vomiting. This can be caused by dietary indiscretion, motion sickness, dental pain, or even anxiety.</p><h3>Is it an Emergency?</h3><p>The urgency level for heavy drooling and nausea is classified as Medium. While these symptoms can resolve on their own if caused by a minor upset stomach, they can also signal more serious issues like toxin ingestion or a foreign body obstruction. If your dog is also experiencing a distended abdomen, unproductive retching, or extreme lethargy, the urgency increases to High and you should contact an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of your dog’s saliva or a short video of their behavior can provide vital clues for a veterinary professional. The consistency (foamy vs. ropey), color, and any presence of blood in the drool can help narrow down the cause. Additionally, seeing your dog's posture and facial expressions allows a vet to better assess their pain levels and overall stability remotely.</p>",
+  "faqs": [
+    {
+      "question": "What common toxins cause heavy drooling?",
+      "body": "Many common household items like chocolate, certain plants (like lilies or sago palms), and cleaning chemicals can cause immediate nausea and drooling."
+    },
+    {
+      "question": "Can dental problems cause nausea?",
+      "body": "Yes, an infected tooth or an injury to the mouth can cause a dog to drool heavily and act nauseous due to the pain or the bad taste of an infection."
+    },
+    {
+      "question": "What should I do while monitoring my dog?",
+      "body": "Keep your dog in a quiet, cool area. Remove food for a few hours but ensure they have access to fresh water, provided they are not vomiting uncontrollably."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

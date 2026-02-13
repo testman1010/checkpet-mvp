@@ -1,0 +1,20 @@
+{
+  "title": "Dog Foul Smelling Greasy Coat: Causes and Veterinary Triage Guide",
+  "meta_desc": "Discover why your dog has a greasy, smelly coat. Learn about seborrhea, urgency levels, and why photos are vital for veterinary triage.",
+  "content_html": "<h3>What is causing your dog's greasy, smelly coat?</h3><p>A foul-smelling, oily coat is most often associated with a condition called seborrhea. This occurs when the skin's sebaceous glands overproduce sebum, the body's natural oil. When this oil builds up, it becomes a breeding ground for yeast and bacteria, which creates that distinct 'doggy' odor. Common triggers include environmental allergies, food sensitivities, hormonal imbalances like hypothyroidism, or parasitic infestations.</p><h3>Is this a veterinary emergency?</h3><p>Urgency Level: Low. In most cases, a greasy and smelly coat is a chronic issue rather than an acute emergency. While it may be uncomfortable for your pet and unpleasant for you, it does not typically require an ER visit. You should, however, schedule a routine appointment with your primary veterinarian within the next few days to address the underlying cause and prevent secondary skin infections from worsening.</p><h3>Why taking a photo helps with triage</h3><p>Providing a high-quality photo to your veterinary team is incredibly helpful for triage. Images allow the vet to see the distribution of the oil, the presence of any redness (erythema), hair loss, or skin thickening (lichenification). Because skin conditions can change rapidly, a photo captures the state of the irritation at its peak, helping the professional determine if the case is a simple grooming issue or a more complex medical condition.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human dandruff shampoo on my greasy dog?",
+      "answer": "No. Human skin has a different pH level than canine skin. Using human products can further disrupt the skin barrier and worsen the smell and oiliness."
+    },
+    {
+      "question": "Will a bath fix the smell permanently?",
+      "answer": "A bath provides temporary relief, but if the underlying cause—such as allergies or a yeast infection—isn't treated, the smell and grease will likely return within a few days."
+    },
+    {
+      "question": "Are certain breeds more prone to greasy skin?",
+      "answer": "Yes, breeds such as Cocker Spaniels, West Highland White Terriers, and Basset Hounds are genetically predisposed to primary seborrhea."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Lead Paint Chips: Symptoms, Risks, and Next Steps",
+  "meta_desc": "If your dog ate lead paint chips, act quickly. Learn about lead toxicity risks, symptoms, and why this requires prompt veterinary attention.",
+  "content_html": "<h3>What is Lead Paint Ingestion?</h3><p>Lead paint ingestion occurs when a pet consumes flakes, chips, or dust from older paint (typically manufactured before 1978). Lead is a heavy metal that is highly toxic to dogs. Once ingested, it can be absorbed into the bloodstream, where it affects the gastrointestinal system and the central nervous system, and can even be stored in the bones and soft tissues.</p><h3>Is it an Emergency?</h3><p>The urgency level for lead paint ingestion is <strong>Medium</strong>. While your dog may not show symptoms immediately, lead poisoning is a serious medical condition that requires a veterinary consultation as soon as possible. Because lead stays in the system and can cause progressive neurological and systemic damage, prompt intervention is necessary to prevent long-term complications.</p><h3>Why a Photo Helps Triage</h3><p>If you can, take a photo of the area where the paint was chewed or any remaining chips. Providing your veterinarian with a visual of the amount consumed and the type of material helps them estimate the severity of the exposure. A photo can also help the vet differentiate between lead paint and other household materials, ensuring a more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of lead poisoning in dogs?",
+      "answer": "Symptoms often include gastrointestinal upset like vomiting and diarrhea, abdominal pain, loss of appetite, and neurological signs such as seizures, tremors, or unusual behavior."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a veterinarian. In some cases, inducing vomiting may not be the recommended course of action depending on when the ingestion occurred."
+    },
+    {
+      "question": "How do vets treat lead toxicity?",
+      "answer": "Veterinarians may use chelation therapy, which involves administering medications that bind to the lead in the bloodstream so it can be excreted. They may also provide supportive care like IV fluids."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eating Plastic Bags: Risks, Causes, and Triage Guide",
+  "meta_desc": "Is your cat eating plastic bags? Learn about pica, the risks of intestinal blockage, and when you need to contact an emergency veterinarian.",
+  "content_html": "<h3>What is it?</h3><p>When a cat eats or chews on non-food items like plastic bags, it is a behavior known as pica. Cats may be drawn to plastic because of the crinkly sound, the scent of food residue, or even the chemicals used in the manufacturing process, such as cornstarch or tallow. While it may seem like a harmless quirk, ingesting plastic can lead to serious health complications.</p><h3>Is it an emergency?</h3><p>The urgency level for a cat ingesting plastic is <strong>Medium</strong>. If your cat has swallowed a large piece or a long strip of plastic, there is a significant risk of a gastrointestinal obstruction or choking. You should monitor your cat closely for signs of distress. If you notice vomiting, a sudden loss of appetite, lethargy, or a lack of bowel movements, this upgrades to an immediate emergency, and you should contact a veterinarian right away.</p><h3>Why a photo helps triage</h3><p>If you are consulting a vet or a triage service, taking a photo of the plastic bag is incredibly helpful. A clear image of the chewed area allows the medical team to see exactly what kind of material was consumed and estimate the size of the missing piece. Knowing if the plastic is thin and soft or thick and sharp helps the vet determine the likelihood of it passing naturally versus the need for induced vomiting or surgical intervention.</p>",
+  "faqs": [
+    {
+      "question": "Why is my cat suddenly obsessed with plastic?",
+      "answer": "Sudden interest in plastic can be caused by boredom, dental pain, or nutritional deficiencies. It is always best to mention this behavior to your vet during a check-up."
+    },
+    {
+      "question": "Can I give my cat something to help the plastic pass?",
+      "answer": "Do not induce vomiting or give your cat laxatives without professional medical advice, as this can sometimes make the situation worse depending on the type of plastic."
+    },
+    {
+      "question": "How long does it take for a cat to pass a foreign object?",
+      "answer": "If an object is small enough to pass, it typically takes between 10 to 24 hours to move through the entire digestive tract."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Dog Swallowed an Alkaline Battery",
+  "meta_desc": "If your dog swallowed an alkaline battery, it is a high-priority emergency. Learn the immediate risks and why you must contact a vet right away.",
+  "content_html": "<h3>What is alkaline battery ingestion?</h3><p>An alkaline battery ingestion occurs when a dog chews or swallows a common household battery (such as AA, AAA, or D cells). Unlike other objects, batteries contain concentrated potassium or sodium hydroxide. When these chemicals leak, they create a corrosive reaction that can cause severe damage to internal tissues.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening emergency. If the battery is punctured, the alkaline substance causes liquefactive necrosis, which means it rapidly dissolves living tissue. Even if the battery remains intact, it poses a significant risk of internal chemical burns or a physical obstruction in the gastrointestinal tract. You should contact an emergency veterinarian or a pet poison control center immediately.</p><h3>Why a photo helps triage</h3><p>If you have the packaging or a matching battery from the same pack, take a clear photo of it. This helps the veterinary team identify the specific size, chemistry, and brand. Knowing exactly what was swallowed allows the vet to determine the risk of heavy metal toxicity and whether the battery is small enough to pass or large enough to require surgical removal.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. You should never induce vomiting if a battery was swallowed. If the battery is punctured or leaking, the corrosive liquid will cause even more severe chemical burns to the esophagus on the way back up."
+    },
+    {
+      "question": "What are the signs of battery poisoning?",
+      "answer": "Common symptoms include excessive drooling, oral ulcers (white or grey patches in the mouth), refusal to eat, abdominal pain, and black, tarry stools."
+    },
+    {
+      "question": "Can I give my dog anything to eat or drink?",
+      "answer": "Do not give your dog food, water, or milk until you have spoken with a veterinarian, as this may interfere with necessary diagnostic imaging or emergency surgery."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

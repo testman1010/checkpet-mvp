@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Care: Cat Chemical Splash in Eyes and Face",
+  "meta_desc": "Immediate steps for cats with chemical eye or face exposure. High urgency emergency guide on triage, first aid, and why to see a vet now.",
+  "content_html": "<h3>What is Chemical Exposure?</h3><p>A chemical splash occurs when a liquid, powder, or aerosol substance—such as household bleach, detergents, pesticides, or automotive fluids—comes into direct contact with your cat's eyes or facial skin. Because cats have sensitive mucous membranes, these substances can cause immediate pain, inflammation, and deep tissue damage or chemical burns.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical emergency. Chemicals can cause rapid, irreversible damage to the cornea, leading to permanent blindness. Furthermore, cats often attempt to groom themselves after a splash, leading to the ingestion of toxic substances which can cause internal burning or systemic poisoning. You should seek veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you can do so safely and without delaying your trip to the clinic, take a clear photo of the product label or the ingredient list of the chemical involved. This information is vital for the veterinary team to determine the pH level of the substance and the specific toxicity. Providing this data allows the medical team to prepare the correct neutralizing agents or treatments before you even arrive at the hospital.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to wash my cat's eyes at home?",
+      "answer": "If your cat is cooperative, you can gently flush the eyes with lukewarm water or sterile saline for 10 to 15 minutes while someone else calls the vet. However, do not delay professional medical treatment to do this."
+    },
+    {
+      "question": "What signs of pain should I look for?",
+      "answer": "Common signs include squinting, excessive tearing, redness, pawing at the face, or the third eyelid being visible. These indicate active distress and potential corneal damage."
+    },
+    {
+      "question": "Can I use human eye drops on my cat?",
+      "answer": "No. Never use human medications or redness-relief drops on a cat, as some ingredients can be toxic or worsen the irritation caused by the chemical splash."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Dragging Hind Legs While Walking",
+  "meta_desc": "If your cat is dragging their back legs, this is a high-urgency medical emergency. Learn about causes like FATE and why immediate care is vital.",
+  "content_html": "<h3>Understanding Hind Limb Paralysis in Cats</h3><p>When a cat suddenly loses the use of their back legs or drags them while walking, it is known as hind limb paresis or paralysis. This condition is often characterized by a lack of coordination, cold paws, and significant distress. The most frequent cause is a Feline Aortic Thromboembolism (FATE), also known as a 'saddle thrombus,' where a blood clot blocks blood flow to the lower extremities, often secondary to underlying heart disease.</p><h3>Urgency Level: High Emergency</h3><p>This situation is a critical medical emergency. If your cat is dragging their hind legs, they are likely in extreme pain and at risk of permanent tissue damage or organ failure. You must transport your cat to the nearest emergency veterinary hospital immediately. Do not wait for a scheduled appointment or monitor them at home, as every minute is vital for the potential recovery of limb function and pain management.</p><h3>Why Visual Documentation Helps Triage</h3><p>If you can safely do so without delaying your departure, taking a quick video of your cat's movement or a photo of their posture can be extremely helpful. These visuals allow the veterinary triage team to quickly distinguish between neurological issues, orthopedic injuries, or vascular emergencies before the physical exam even begins. This helps the hospital prioritize your cat's care the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just have a pulled muscle?",
+      "answer": "It is unlikely. A pulled muscle usually causes limping or favoring a leg, whereas dragging both hind legs typically indicates a severe neurological or vascular crisis that requires immediate professional evaluation."
+    },
+    {
+      "question": "What should I do while transporting my cat to the vet?",
+      "answer": "Keep your cat as calm and still as possible in a secure carrier lined with soft towels. Avoid handling the hind legs directly, as the area may be extremely painful."
+    },
+    {
+      "question": "Is back leg paralysis in cats treatable?",
+      "answer": "Treatment depends on the cause. While conditions like a saddle thrombus have a guarded prognosis, some cats can recover with intensive emergency care, pain management, and long-term heart medication."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

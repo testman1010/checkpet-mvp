@@ -1,0 +1,20 @@
+{
+  "title": "Dog Running Blindly After a Seizure: Postictal Phase Guide",
+  "meta_desc": "If your dog is running blindly or disoriented after a seizure, they are in the postictal phase. Learn when to seek urgent veterinary care.",
+  "content_html": "<h3>What is Happening to My Dog?</h3><p>It is incredibly distressing to watch your dog run around blindly or act disoriented after a seizure. This period is known as the postictal phase. During this time, the brain is essentially trying to 'reboot' after the intense electrical activity of the seizure. Temporary blindness, pacing, bumping into walls, and agitation are common symptoms as the neurological system recovers.</p><h3>Is This an Emergency?</h3><p>The urgency level for this situation is Medium. While the postictal phase itself is a expected part of a seizure event, it indicates that your dog has just undergone a significant neurological episode. You should contact your veterinarian or an emergency clinic to report the event. However, if the disorientation lasts longer than 60 minutes, if your dog has a second seizure within 24 hours (cluster seizures), or if the seizure itself lasted more than five minutes, you should seek immediate emergency care.</p><h3>How Video Helps Triage</h3><p>If it is safe to do so, capturing a video of your dog's behavior can be an invaluable tool for your veterinarian. Because dogs often act normally by the time they reach the clinic, a video allows the vet to see the exact nature of the disorientation, the duration of the event, and any specific neurological deficits. This helps them differentiate between a typical postictal recovery and more severe neurological distress.</p>",
+  "faqs": [
+    {
+      "question": "How long does the postictal phase last?",
+      "answer": "The postictal phase can last anywhere from a few minutes to several hours. Most dogs begin to return to normal within 30 to 60 minutes."
+    },
+    {
+      "question": "Should I try to hold my dog while they are running blindly?",
+      "answer": "No, you should avoid restraining them as they may be confused and could accidentally bite. Instead, clear the area of sharp objects and block off stairs to keep them safe."
+    },
+    {
+      "question": "Can seizures cause permanent blindness?",
+      "answer": "In most cases, the blindness experienced after a seizure is temporary and resolves as the brain recovers. If vision does not return within 24 hours, a thorough neurological exam is necessary."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Convulsions and Foaming at the Mouth",
+  "meta_desc": "If your cat is having violent convulsions and foaming at the mouth, this is a critical emergency. Learn the causes and immediate actions to take.",
+  "content_html": "<h3>What is Happening?</h3><p>Violent convulsions accompanied by foaming at the mouth are typically signs of a generalized seizure, often referred to as a grand mal seizure. This occurs when there is a sudden, uncontrolled burst of electrical activity in the brain. During these episodes, a cat may lose consciousness, collapse, paddle their legs, and lose control of their bladder or bowels. The foaming is usually a result of excess saliva being whipped into a lather by the jaw movements.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is considered a High-Urgency emergency. While a single, short seizure may not be immediately fatal, it is a symptom of an underlying serious condition such as toxin ingestion, head trauma, metabolic disease, or epilepsy. If the seizure lasts longer than three to five minutes, or if your cat has multiple seizures in a 24-hour period, they are at risk for permanent brain damage or hyperthermia (overheating). Seek immediate emergency veterinary care.</p><h3>Why a Photo or Video Helps Triage</h3><p>If you can safely do so without putting your hands near the cat's mouth, capturing a short video of the event is extremely valuable for the veterinary team. Since most seizures have ended by the time a pet arrives at the clinic, a video allows the veterinarian to see the specific type of movement and duration. This helps them differentiate a true seizure from other conditions like fainting, heart episodes, or vestibular issues, leading to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is convulsing?",
+      "answer": "Clear the area of sharp objects and furniture. Do not put your hands in or near their mouth, as cats can bite reflexively. Dim the lights and keep the environment quiet until you can get them to a vet."
+    },
+    {
+      "question": "What are common causes for sudden seizures in cats?",
+      "answer": "Potential causes include ingestion of toxins (like lilies or certain flea medications), low blood sugar, liver or kidney disease, or neurological conditions like epilepsy and brain tumors."
+    },
+    {
+      "question": "Will my cat be conscious during the convulsion?",
+      "answer": "During a generalized seizure, cats are typically unconscious and unaware of their surroundings, even if their eyes are open."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

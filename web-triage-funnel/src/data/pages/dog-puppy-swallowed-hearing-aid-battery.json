@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Puppy Swallowed Hearing Aid Battery",
+  "meta_desc": "If your dog swallowed a hearing aid battery, it is a high-priority emergency. Learn why immediate veterinary care is required to prevent tissue burns.",
+  "content_html": "<h3>What is it?</h3><p>Hearing aid batteries, also known as button or disc batteries, are small, circular power sources that pose a severe threat to puppies and dogs. Unlike standard batteries, these can cause rapid internal damage through two mechanisms: leakage of corrosive alkaline material and the generation of an electrical current that creates caustic soda inside the body.</p><h3>Is it an emergency?</h3><p>Urgency level: High. This is a life-threatening emergency that requires immediate veterinary intervention. You should not wait for symptoms to appear. Within as little as 15 to 30 minutes, the battery can cause deep, irreversible burns to the esophagus, stomach, or intestinal lining. These injuries can lead to tissue perforation and internal infection.</p><h3>Why a photo helps triage</h3><p>If you have the original packaging or an identical spare battery, take a clear photo of it immediately. This allows the veterinary team to identify the specific size, voltage, and chemical composition (such as lithium or alkaline). Knowing the exact model helps the vet determine the level of corrosive risk and decide whether surgical removal or endoscopic retrieval is necessary.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of battery ingestion?",
+      "answer": "Symptoms may include heavy drooling, refusal to eat, vomiting, oral ulcers, or a blackened appearance on the tongue. However, many dogs show no outward signs until severe internal damage has already occurred."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting if a battery is swallowed. The corrosive material can cause more damage to the esophagus on the way back up, or the battery could become lodged in the throat, causing a blockage."
+    },
+    {
+      "question": "How do vets treat battery ingestion?",
+      "answer": "Vets will typically use X-rays to locate the battery. Depending on its location and type, they may use an endoscope to retrieve it or perform emergency surgery if it has already caused a perforation."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

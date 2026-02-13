@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Chewed an Aloe Vera Plant: Toxicity Guide & Triage",
+  "meta_desc": "If your cat chewed on an aloe vera plant, read our guide on symptoms, urgency levels, and how to help your vet provide the best care.",
+  "content_html": "<h3>What is Aloe Vera Toxicity?</h3><p>Aloe vera contains compounds known as saponins and anthraquinones. While the inner gel is frequently used in human products, the outer skin of the plant contains these chemicals which are irritating to a cat's digestive system. When ingested, these substances can lead to gastrointestinal distress and other mild clinical signs.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the majority of cases, a cat chewing on a small portion of an aloe vera leaf is not a life-threatening emergency. Most cats will experience mild symptoms such as drooling or a single episode of vomiting. However, you should still monitor your pet closely and contact a veterinarian if you notice persistent diarrhea, lethargy, or tremors.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of both the plant and the specific area where your cat chewed is extremely beneficial. A photo allows the vet to confirm the plant species and estimate the volume of material ingested. This visual information helps the medical team determine whether your cat needs an in-person exam or if they can be safely monitored at home.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of aloe ingestion?",
+      "answer": "The most common symptoms include vomiting, diarrhea, lethargy, and occasionally a change in urine color (reddish tint) due to the plant's compounds."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting in a cat unless specifically instructed to do so by a licensed veterinarian, as this can cause further injury or aspiration."
+    },
+    {
+      "question": "Is the aloe gel safe for cats?",
+      "answer": "While the clear gel itself is less toxic than the leaf's skin, it is still best to prevent your cat from consuming any part of the plant to avoid stomach upset."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

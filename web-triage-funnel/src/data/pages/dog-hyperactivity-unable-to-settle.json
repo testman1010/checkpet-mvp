@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hyperactivity & Restlessness: A Veterinary Triage Guide",
+  "meta_desc": "Is your dog unable to settle? Learn when restlessness is an emergency, potential causes, and how to help your vet triage your pet's behavior.",
+  "content_html": "<h3>What is Hyperactivity and Restlessness?</h3><p>When a dog is described as hyperactive or unable to settle, it refers to a state of persistent pacing, inability to lie down, or constant movement that is out of character for the animal. This is different from high puppy energy; it is often a sign of underlying physical discomfort, anxiety, or a metabolic issue. It can manifest as circling, frequent position changes, or an inability to remain calm even in a quiet environment.</p><h3>Is it an Emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While restlessness is not always a life-threatening emergency, it can be a primary symptom of serious conditions like Bloat (GDV), toxin ingestion, or severe pain. If your dog is also panting heavily, retching without vomiting, or has a hard, distended abdomen, you must seek emergency veterinary care immediately. Otherwise, a veterinary consultation within 12 to 24 hours is recommended to rule out internal distress.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing your veterinarian with a video of your dog's inability to settle is one of the most effective tools for an accurate diagnosis. Dogs often experience a 'white coat effect' where adrenaline masks their symptoms once they arrive at the clinic. A video recorded in your home allows the vet to observe the specific nature of the pacing, your dog's body language, and any subtle neurological signs that might be absent during a physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can diet cause my dog to be unable to settle?",
+      "answer": "Yes, high levels of caffeine (from accidental ingestion) or certain food sensitivities can lead to hyperactivity and restlessness."
+    },
+    {
+      "question": "Is restlessness a sign of old age?",
+      "answer": "In senior dogs, inability to settle at night can be a symptom of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans."
+    },
+    {
+      "question": "Could my dog be in pain if they won't lie down?",
+      "answer": "Absolutely. Dogs often pace or refuse to lie down when they are experiencing abdominal pain or spinal discomfort, as the act of lying down may be painful."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eyes Moving Rapidly Side to Side: Nystagmus Guide",
+  "meta_desc": "Is your cat's eyes flicking side to side? Learn about nystagmus, why it is a high-urgency condition, and how a video can help your vet triage.",
+  "content_html": "<h3>What is it?</h3><p>Rapid, involuntary eye movement in cats is a clinical sign known as nystagmus. This rhythmic flicking or jerking of the eyes can happen horizontally (side to side), vertically, or in a rotating motion. It typically signals a problem with the cat's vestibular system, which is the biological GPS responsible for maintaining balance and spatial orientation. This system involves sensitive components in both the inner ear and the brain.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. If your cat's eyes are moving rapidly, it is considered a medical emergency. While the eye movement itself is not usually painful, it is a symptom of a potentially serious underlying condition such as an inner ear infection, vestibular disease, inflammatory disease, or even a neurological event. If your cat is also showing a head tilt, stumbling, or vomiting, they require immediate veterinary assessment to determine the cause and prevent further distress.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a short video of your cat's eyes to your veterinarian is one of the most effective ways to assist in triage. Because nystagmus can sometimes come and go, a recording ensures the vet sees the exact frequency and direction of the movement. The specific direction of the flicking (horizontal versus vertical) provides critical clues that help the vet distinguish between a manageable inner-ear issue and a more complex central nervous system problem.</p>",
+  "faqs": [
+    {
+      "question": "Is nystagmus painful for my cat?",
+      "answer": "The eye movement itself is not painful, but the underlying cause can be very disorienting and may cause your cat to feel motion sick or dizzy."
+    },
+    {
+      "question": "Can older cats get this more often?",
+      "answer": "Yes, 'Old Dog Vestibular Syndrome' can also occur in senior cats (often called Feline Idiopathic Vestibular Disease), but any age cat can be affected by the causes of nystagmus."
+    },
+    {
+      "question": "Should I try to clean my cat's ears if I see this?",
+      "answer": "No. Avoid putting anything in your cat's ears until they have been seen by a vet, as an eardrum rupture could be the cause of the symptoms."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Tick Embedded in Neck: Triage and Removal Guide",
+  "meta_desc": "Found a tick on your dog's neck? Learn how to identify ticks, the urgency level, and why a photo is essential for your veterinarian.",
+  "content_html": "<h3>What is an Embedded Tick?</h3><p>An embedded tick is a small, parasitic arachnid that has burrowed its mouthparts into your dog's skin to feed on their blood. On the neck, these often appear as small, firm, grey, brown, or black bumps. As the tick feeds, its body expands and becomes engorged. It is important to distinguish a tick from a skin tag or a small cyst before attempting removal.</p><h3>Is This an Emergency?</h3><p>The urgency level for an embedded tick is <strong>Medium</strong>. While a single tick bite is rarely a life-threatening emergency in the immediate sense, ticks are vectors for serious diseases such as Lyme disease, Rocky Mountain Spotted Fever, and Ehrlichiosis. The risk of disease transmission increases the longer the tick remains attached, so it should be removed promptly (ideally within 24 hours), but it does not usually require an emergency room visit unless your dog is showing signs of paralysis or extreme lethargy.</p><h3>Why a Photo Helps Triage</h3><p>If you are unsure if the bump is a tick, taking a clear, high-resolution photo can help a veterinary professional provide a remote assessment. A photo allows the vet to identify the species of the tick and its degree of engorgement, which provides clues about how long it has been attached. This information is vital for determining the specific risks of local tick-borne illnesses and whether preventative testing or treatment is necessary.</p>",
+  "faqs": [
+    {
+      "question": "What happens if the tick's head stays in the skin?",
+      "answer": "If the head or mouthparts break off, do not dig into the skin, as this can cause a secondary infection. The dog's body will usually wall it off and push it out like a splinter. Simply clean the area with mild soap and water."
+    },
+    {
+      "question": "How should I safely remove the tick?",
+      "answer": "Use fine-tipped tweezers or a specialized tick removal tool. Grasp the tick as close to the skin as possible and pull upward with steady, even pressure. Do not twist or jerk the tick."
+    },
+    {
+      "question": "Should I use a match or peppermint oil to make the tick let go?",
+      "answer": "No. Irritating the tick with heat or chemicals can cause it to regurgitate infected fluids back into your dog's bloodstream, increasing the risk of disease transmission."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

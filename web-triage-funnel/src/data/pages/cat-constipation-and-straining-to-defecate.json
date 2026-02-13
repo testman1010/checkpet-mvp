@@ -1,0 +1,20 @@
+{
+  "title": "Cat Constipation & Straining: Symptoms, Causes, and Veterinary Advice",
+  "meta_desc": "Is your cat straining in the litter box? Learn about feline constipation, when it's an emergency, and how your vet can help.",
+  "content_html": "<h3>What is Feline Constipation?</h3><p>Feline constipation is a condition where a cat has difficulty passing stool, or does so less frequently than usual. This often results in the stool becoming hard, dry, and difficult to expel. You may notice your cat making frequent trips to the litter box, crying out while trying to go, or leaving behind very small, hard nuggets.</p><h3>Is it an Emergency?</h3><p>The urgency level for simple constipation is <strong>Medium</strong>. While it is rarely an instant life-threatening crisis, it is uncomfortable and can lead to more serious issues like megacolon if left untreated. However, there is one major exception: if your cat is a male and is straining but not passing urine, this is a <strong>High-Urgency Emergency</strong> called a urinary blockage. If you are unsure whether they are straining to poop or pee, contact a vet immediately.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of your cat's posture in the litter box or a photo of any stool they have managed to produce can be very beneficial. Visual evidence helps the vet determine the severity of the straining and assess the stool's consistency, which helps differentiate between constipation, colitis, or a potential urinary issue.</p>",
+  "faqs": [
+    {
+      "question": "How often should my cat have a bowel movement?",
+      "answer": "Most healthy cats will defecate at least once every 24 to 36 hours. If your cat hasn't gone in over 48 hours, you should consult your veterinarian."
+    },
+    {
+      "question": "Can I give my cat a laxative at home?",
+      "answer": "You should never give your cat human laxatives or home remedies like mineral oil without professional guidance, as these can cause aspiration or dangerous electrolyte imbalances."
+    },
+    {
+      "question": "What are common causes of constipation in cats?",
+      "answer": "Common causes include dehydration, ingestion of hairballs, lack of fiber in the diet, or underlying medical conditions like kidney disease or arthritis that makes posing difficult."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

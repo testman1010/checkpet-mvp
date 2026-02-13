@@ -1,0 +1,20 @@
+{
+  "title": "Dog Fast Shallow Breathing at Rest: Causes and Triage Guide",
+  "meta_desc": "Is your dog breathing fast while resting? Discover what shallow breaths mean, the urgency level, and how to help your pet get the care they need.",
+  "content_html": "<h3>What is Fast Shallow Breathing?</h3><p>Fast, shallow breathing in a resting dog—clinically known as tachypnea—occurs when a pet takes rapid, short breaths without the typical tongue-out appearance of panting. Unlike normal breathing, which is slow and rhythmic, shallow breathing suggests the body is working harder than usual to maintain oxygen levels. In a calm, resting state, a healthy dog should typically take between 15 to 30 breaths per minute.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is Medium. While it may not always indicate an immediate life-threatening crisis, it is a significant clinical sign that should not be ignored. It often points to underlying conditions such as early-stage heart failure, respiratory infections, or internal pain. However, if your dog's gums appear blue or purple, or if they are using their abdominal muscles to suck in air, this upgrades to a high-priority emergency requiring immediate veterinary intervention.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you are unsure about your dog's breathing, capturing a short video of their chest and flank movements is invaluable. A visual record allows a veterinary professional to see the specific effort, rhythm, and depth of each breath. This helps us differentiate between simple panting, anxiety-related breathing, or true respiratory distress, ensuring your pet receives the most appropriate and timely advice possible.</p>",
+  "faqs": [
+    {
+      "question": "How do I count my dog's resting respiratory rate?",
+      "answer": "Wait until your dog is asleep or very relaxed. Count one breath for every time the chest rises and falls. Count for 30 seconds and multiply by two to get the breaths per minute."
+    },
+    {
+      "question": "Can heat cause shallow breathing at rest?",
+      "answer": "Yes, if a dog is overheated, they may breathe rapidly to cool down. However, if they are in a cool environment and still breathing fast while resting, it is likely a medical issue rather than heat-related."
+    },
+    {
+      "question": "What are other signs of respiratory distress?",
+      "answer": "Look for flared nostrils, an extended neck, standing with elbows turned out, or a reluctance to lie down, as these are signs a dog is struggling to get enough air."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Cooked Garlic: Risks, Symptoms, and Triage Guide",
+  "meta_desc": "Find out if cooked garlic is toxic to cats. Learn why this is a medium-level urgency and what steps you should take to protect your pet.",
+  "content_html": "<h3>What is Garlic Toxicity?</h3><p>Garlic belongs to the Allium genus, which is highly toxic to felines. Whether raw, powdered, or cooked, garlic contains thiosulfates and disulfides that cause oxidative damage to a cat's red blood cells. This damage can lead to Heinz body anemia, a condition where the red blood cells are destroyed faster than the body can replace them.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Medium. While your cat may not show symptoms immediately, garlic toxicity can be delayed by several days. Because cats are significantly more sensitive to garlic than dogs, any ingestion should be taken seriously. You should contact your veterinarian or a pet poison control hotline immediately to discuss the amount consumed and whether intervention, such as induced vomiting or blood work, is required.</p><h3>Why a Photo Helps Triage</h3><p>If you are using a telehealth service or calling your vet, providing a photo of the food or the ingredient label is incredibly helpful. This allows the veterinary professional to estimate the concentration of garlic (e.g., whole cloves vs. minced in a sauce) and determine if other toxic ingredients like onions or high levels of salt are also present.</p>",
+  "faqs": [
+    {
+      "question": "Does cooking garlic make it safer for cats?",
+      "answer": "No, cooking does not reduce the toxicity of garlic for cats. The toxic compounds remain stable even when heated or dried."
+    },
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Watch for lethargy, pale or yellowish gums, rapid breathing, vomiting, or dark-colored (orange to red) urine."
+    },
+    {
+      "question": "How much garlic is dangerous for a cat?",
+      "answer": "Even very small amounts—less than a single clove—can cause clinical signs in sensitive cats. Toxicity is often dose-dependent based on the cat's weight."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

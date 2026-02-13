@@ -1,0 +1,20 @@
+{
+  "title": "Dog Unsteady Gait and Stumbling: Causes, Urgency, and Triage Guide",
+  "meta_desc": "If your dog is stumbling or has an unsteady gait, it may be a high-urgency medical emergency. Learn the causes and how to help your pet right now.",
+  "content_html": "<h3>What is Unsteady Gait in Dogs?</h3><p>An unsteady gait, often medically referred to as ataxia, occurs when a dog lacks coordination in their limbs, head, or trunk. This can manifest as wobbling, swaying, crossing legs while walking, or looking 'drunk.' It is typically a sign that something is interfering with the sensory system, the spinal cord, or the brain's ability to process balance.</p><h3>Is This a Veterinary Emergency?</h3><p><strong>Urgency Level: High.</strong> A sudden onset of stumbling or an inability to walk is considered a medical emergency. While some causes are manageable, others can be life-threatening, such as toxin ingestion, strokes, or severe spinal cord compression. If your dog is also experiencing seizures, a head tilt, rapid eye movement, or extreme lethargy, you should proceed to the nearest emergency animal hospital immediately.</p><h3>Why Video and Photos Help Triage</h3><p>When you contact a veterinarian, providing a short video of your dog attempting to walk can be incredibly helpful for triage. Neurological symptoms can sometimes be intermittent or may change by the time you reach the clinic. A clear visual record allows the veterinary team to differentiate between orthopedic pain and neurological deficits, helping them prioritize your pet's care and prepare the necessary diagnostic tools before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of stumbling in dogs?",
+      "answer": "Common causes include vestibular disease (inner ear issues), intervertebral disc disease (IVDD), ingestion of toxins like marijuana or antifreeze, and neurological disorders."
+    },
+    {
+      "question": "Can an ear infection cause my dog to wobble?",
+      "answer": "Yes, a deep inner ear infection can affect a dog's vestibular system, which controls balance, leading to stumbling and a head tilt."
+    },
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep your dog as still and calm as possible. Use a crate or a flat surface to support their spine, and avoid letting them try to walk or climb stairs."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

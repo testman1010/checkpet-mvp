@@ -1,0 +1,20 @@
+{
+  "title": "Dog Multiple Fluid-Filled Blisters: Triage and Care Guide",
+  "meta_desc": "Learn about fluid-filled blisters on dogs, their urgency level, and how to help your vet with triage and diagnosis.",
+  "content_html": "<h3>Understanding Fluid-Filled Blisters (Vesicles and Bullae)</h3><p>Finding multiple fluid-filled blisters on your dog's skin can be a worrying experience. These lesions, medically referred to as vesicles (small) or bullae (large), are pockets of clear or straw-colored serum trapped beneath the top layer of skin. In dogs, these often indicate an underlying inflammatory process, an autoimmune condition like pemphigus, or a severe localized infection.</p><h3>Is This an Emergency?</h3><p>The urgency level for multiple fluid-filled blisters is <strong>Medium</strong>. While usually not an immediate life-threatening emergency, these blisters can be quite painful and are highly susceptible to secondary bacterial infections once they rupture. You should schedule a veterinary exam within 24 to 48 hours. If the blisters are accompanied by a high fever, lethargy, or if they appear on the gums or near the eyes, you should seek veterinary attention more promptly.</p><h3>The Importance of Photos in Triage</h3><p>Providing your veterinarian with clear, well-lit photos of the blisters is a vital part of the triage process. Blisters are fragile and often rupture quickly, leaving behind circular crusts or scales known as epidermal collarettes. A photo of the intact blister allows your vet to see the primary lesion before it changes, which is crucial for distinguishing between common allergies, bacterial infections, and more complex autoimmune disorders.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to pop my dog's blisters?",
+      "answer": "No, you should never pop the blisters. Doing so can cause significant pain and introduces a high risk of deep tissue infection."
+    },
+    {
+      "question": "What are the common causes of blisters in dogs?",
+      "answer": "Common causes include bacterial skin infections (pyoderma), autoimmune diseases like Pemphigus foliaceus, or localized reactions to environmental irritants."
+    },
+    {
+      "question": "Can I apply an over-the-counter cream to the blisters?",
+      "answer": "It is best to avoid applying any creams until a veterinarian has examined the dog, as some ingredients can be toxic if licked or may worsen specific types of skin conditions."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chewed on AA Battery? Immediate Safety Steps & Triage Guide",
+  "meta_desc": "If your cat chewed on an AA battery, it is a high-urgency medical emergency. Learn about chemical burns and why you need to see a vet immediately.",
+  "content_html": "<h3>What Happens When a Cat Chews an AA Battery?</h3><p>When a cat bites into an AA battery, the primary danger is the leakage of alkaline or acidic electrolytes. These corrosive substances cause immediate and severe chemical burns to the tongue, mouth, esophagus, and stomach lining. In addition to chemical burns, the metal casing poses a risk of heavy metal toxicity and can cause physical obstructions or perforations if swallowed.</p><h3>Is This a Veterinary Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Even if your cat is not showing symptoms yet, internal damage from corrosive chemicals can be delayed and progressive. Do not wait for signs of distress. Important: Do not induce vomiting, as the corrosive fluid can cause additional burns to the esophagus on the way back up. Contact your veterinarian or an emergency pet poison hotline immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>If it is safe to do so, take a clear photo of the chewed battery and any remaining fragments. This allows the veterinary team to identify the battery type (alkaline vs. lithium) and estimate how much of the internal material or casing may have been ingested. Having this visual information helps the vet determine the severity of the chemical exposure and whether surgery or specialized decontamination is required.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for if my cat chewed a battery?",
+      "answer": "Common symptoms include excessive drooling, oral pain, redness or blackening of the gums and tongue, vomiting, and a refusal to eat."
+    },
+    {
+      "question": "Can I give my cat milk or water?",
+      "answer": "You may offer a small amount of water to rinse the mouth, but do not force-feed any liquids and do not delay the trip to the emergency clinic."
+    },
+    {
+      "question": "What if the battery didn't look like it leaked?",
+      "answer": "Micro-punctures can still allow small amounts of corrosive material to escape. Because the risk of internal burning is so high, a professional exam is still required."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

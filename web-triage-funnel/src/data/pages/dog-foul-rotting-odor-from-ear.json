@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ear Odor: Causes and Triage for Foul Smells",
+  "meta_desc": "If your dog's ear has a foul, rotting odor, it likely indicates an infection. Learn about urgency levels and how a photo assists in triage.",
+  "content_html": "<h3>What causes a foul, rotting odor in dog ears?</h3><p>A foul or rotting odor coming from your dog's ear is most commonly associated with a significant bacterial or yeast infection, known as otitis externa. When moisture, wax, and debris become trapped in the deep, L-shaped ear canal of a dog, it creates a breeding ground for microorganisms. A particularly pungent, putrid smell often points to a secondary bacterial infection or even the presence of a foreign object that has caused tissue irritation and discharge.</p><h3>Is it an emergency?</h3><p>The urgency level for a foul ear odor is Medium. While it is rarely a life-threatening emergency in the immediate minutes, it is a source of intense discomfort and pain for your pet. If left untreated, the infection can rupture the eardrum or migrate to the inner ear, leading to balance issues and permanent hearing loss. You should aim to have your dog seen by a veterinarian within 24 to 48 hours.</p><h3>Why a photo helps triage</h3><p>Taking a clear, well-lit photo of the ear flap and the entrance to the ear canal is incredibly helpful for veterinary triage. A photo allows a professional to see the color and consistency of any discharge—such as black, coffee-ground-like debris or yellow purulent fluid—and the degree of inflammation. This visual evidence helps determine how quickly your dog needs to be squeezed into the clinic schedule.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter drops to fix the smell?",
+      "answer": "It is not recommended to use OTC drops before a vet exam. If the eardrum is ruptured by the infection, certain medications can be toxic to the inner ear and cause permanent deafness."
+    },
+    {
+      "question": "What are other signs of a serious ear infection?",
+      "answer": "Beyond the smell, look for frequent head shaking, scratching at the ear, redness, swelling, or your dog tilting their head to one side."
+    },
+    {
+      "question": "How do vets diagnose the cause of the odor?",
+      "answer": "Vets typically use an otoscope to look deep into the canal and perform a 'cytology,' where they look at a sample of the discharge under a microscope to identify the specific bacteria or yeast involved."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

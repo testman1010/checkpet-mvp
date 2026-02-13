@@ -1,0 +1,20 @@
+{
+  "title": "Dog Bloody Diarrhea with Foul Smell: Emergency Triage Guide",
+  "meta_desc": "Immediate steps for dogs with foul-smelling, bloody diarrhea. Learn why this is a high-priority emergency and how to help your vet.",
+  "content_html": "<h3>What is Bloody, Foul-Smelling Diarrhea?</h3><p>Seeing blood in your dog's stool, especially when accompanied by a distinctively foul, metallic, or putrid odor, is a serious clinical sign. This condition indicates active bleeding within the gastrointestinal tract. The metallic scent is often due to the iron in the blood, while a putrid smell can indicate severe tissue inflammation or infection. This is commonly seen in conditions like Hemorrhagic Gastroenteritis (HGE) or severe viral infections.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, this is a high-priority emergency. Bloody diarrhea can lead to rapid fluid loss, severe dehydration, and hypovolemic shock. If your dog is also showing signs of lethargy, vomiting, or refusing food, their condition can deteriorate very quickly. Do not wait for symptoms to improve; contact an emergency veterinarian immediately to prevent life-threatening complications.</p><h3>Why a Photo Helps Triage</h3><p>While it may feel unpleasant, taking a clear photograph of the stool is a valuable tool for your veterinary team. A photo helps the vet determine the source of the bleeding—bright red blood usually comes from the lower GI tract, while dark, coffee-ground-like stool indicates an upper GI issue. Providing this visual evidence during triage helps the staff assess the severity of the situation and prioritize your dog's treatment effectively.</p>",
+  "faqs": [
+    {
+      "question": "Can I treat bloody diarrhea at home with a bland diet?",
+      "answer": "No. When blood and a foul odor are present, home remedies like chicken and rice are insufficient. This situation requires diagnostic testing and likely intravenous fluids or medications provided by a professional."
+    },
+    {
+      "question": "What are the most common causes of bloody stool in dogs?",
+      "answer": "Common causes include Parvovirus (especially in puppies), Hemorrhagic Gastroenteritis (HGE), intestinal parasites, ingestion of toxins, or severe bacterial infections like Salmonella or E. coli."
+    },
+    {
+      "question": "What should I bring to the emergency vet?",
+      "answer": "In addition to a photo of the stool, bring a list of any recent food changes, potential toxins your dog might have eaten, and their current vaccination records if available."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

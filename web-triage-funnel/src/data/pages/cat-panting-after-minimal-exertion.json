@@ -1,0 +1,20 @@
+{
+  "title": "Cat Panting After Minimal Exertion: Triage Guide for Pet Owners",
+  "meta_desc": "Is your cat panting after light activity? Learn why open-mouth breathing is a high-priority veterinary emergency and what steps you should take.",
+  "content_html": "<h3>What Does Panting in Cats Mean?</h3><p>Unlike dogs, who pant to cool down after a run, cats rarely breathe through their mouths. When a cat displays open-mouth breathing or panting after minimal exertion—such as walking across a room or a very brief play session—it is a significant clinical sign. This behavior typically indicates that the cat is struggling to get enough oxygen or is experiencing severe physiological stress.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Panting after minimal exertion in cats is considered a medical emergency until proven otherwise. Cats are masters at hiding respiratory distress; by the time they are visibly panting, their oxygen reserves are often critically low. This could be a sign of congestive heart failure, feline asthma, or pleural effusion. If your cat has blue or purple-tinged gums, or if they are stretching their neck out to breathe, seek immediate emergency veterinary care.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because cats often change their breathing patterns due to the stress of a car ride or a clinical setting, capturing a brief video of the panting at home is invaluable. A clear video allows your veterinarian to observe the respiratory rate, the effort involved in each breath (such as abdominal pumping), and the specific context of the exertion. This visual evidence helps the medical team prioritize your cat for immediate stabilization upon arrival at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be hot?",
+      "answer": "While cats can pant in extreme heat, it is much less common than in dogs. If the environment is cool and the exertion was minimal, heat is unlikely to be the primary cause."
+    },
+    {
+      "question": "What should I do on the way to the vet?",
+      "answer": "Keep the car cool and quiet. Minimize handling and keep the cat in a carrier to reduce further stress, which can worsen respiratory distress."
+    },
+    {
+      "question": "What are the most common causes of this behavior?",
+      "answer": "Common causes include Hypertrophic Cardiomyopathy (HCM), feline asthma, pneumonia, or anemia."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Changes in Your Dog's Bark: Causes and Triage Guide",
+  "meta_desc": "Is your dog's voice sounding hoarse? Learn why bark changes happen, why the urgency is usually low, and how video triage helps your veterinarian.",
+  "content_html": "<h3>What is a Bark Change?</h3><p>A change in your dog's bark, often described as hoarseness, raspiness, or a loss of volume, usually indicates inflammation or an obstruction involving the larynx (voice box). This is similar to how a human might lose their voice during a cold or after cheering too loudly. It suggests that the vocal folds are not vibrating normally.</p><h3>Is it an Emergency?</h3><p>In most cases, a change in bark voice is considered <strong>Low Urgency</strong>. If your dog is otherwise acting normally—eating, drinking, and playing without distress—you can typically monitor them for 24 to 48 hours or schedule a routine vet appointment. However, if the voice change is accompanied by gasping for air, a bluish tint to the gums, or extreme lethargy, seek emergency care immediately.</p><h3>Why Video and Photos Help Triage</h3><p>Because the symptoms are auditory, a video recording of your dog attempting to bark or breathe is one of the most helpful tools you can provide. While a photo of the external neck area might show swelling, a video allows a veterinary professional to hear the specific pitch and quality of the sound. This helps differentiate between simple irritation, like kennel cough, and more complex mechanical issues like laryngeal paralysis.</p>",
+  "faqs": [
+    {
+      "question": "Can my dog lose their voice from barking too much?",
+      "answer": "Yes, excessive barking can cause vocal cord strain and temporary hoarseness, much like a human losing their voice after a concert."
+    },
+    {
+      "question": "What are common medical reasons for a raspy bark?",
+      "answer": "Common causes include laryngitis, kennel cough (infectious tracheobronchitis), laryngeal paralysis, or irritants like smoke or dust."
+    },
+    {
+      "question": "Should I be worried if my senior dog's voice changes?",
+      "answer": "In older dogs, a voice change can sometimes be an early sign of laryngeal paralysis, a condition where the airway doesn't open fully. It is best to have a vet evaluate any senior dog with a persistent voice change."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Defecating Outside the Litter Box: Causes and Triage Guide",
+  "meta_desc": "Is your cat pooping outside the box? Learn about causes, urgency levels, and how to help your cat return to their litter box habits.",
+  "content_html": "<h3>What is Inappropriate Defecation?</h3><p>Inappropriate defecation, also known as periuria in a broader sense, occurs when a cat chooses to pass stool in areas other than their designated litter box. This behavior can range from a one-time occurrence to a chronic habit and is usually a sign of an underlying medical issue, environmental stress, or a dissatisfaction with the litter box setup itself.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. In most cases, defecating outside the box is not a life-threatening emergency. However, it does require a scheduled veterinary visit to rule out gastrointestinal parasites, inflammatory bowel disease, or constipation. If your cat is also straining significantly without producing stool, vomiting, or acting lethargic, you should contact a veterinarian more promptly.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photograph of the stool found outside the box can be incredibly helpful for your veterinary team. A photo allows the professional to assess the consistency, color, and presence of any visible abnormalities such as mucus, blood, or parasites. This visual evidence provides immediate context that helps determine whether the issue is behavioral or related to a digestive health problem.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat be doing this out of spite?",
+      "answer": "No, cats do not have the cognitive drive for spite. Defecating outside the box is a signal of physical discomfort or environmental stress."
+    },
+    {
+      "question": "Does the type of litter matter?",
+      "answer": "Yes, many cats have specific preferences for texture and scent. Changing to a different brand or type of litter can sometimes trigger avoidance."
+    },
+    {
+      "question": "How many litter boxes should I have?",
+      "answer": "The general rule is one box per cat, plus one extra. If you have one cat, you should ideally have two boxes in different locations."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

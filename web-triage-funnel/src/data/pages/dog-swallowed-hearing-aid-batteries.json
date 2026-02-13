@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Hearing Aid Battery: Emergency Guide & Next Steps",
+  "meta_desc": "If your dog swallowed a hearing aid battery, act fast. This is a high-urgency veterinary emergency. Learn about risks, symptoms, and triage steps.",
+  "content_html": "<h3>What Happened?</h3><p>Hearing aid batteries, typically small button-style cells (zinc-air or lithium), are common household items that dogs may accidentally ingest. When a dog chews or swallows these batteries, the moist environment of the mouth, esophagus, or stomach can trigger an electrochemical reaction or cause the battery to leak caustic materials.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Ingesting a hearing aid battery is a medical emergency that requires immediate veterinary attention. These batteries can cause severe tissue necrosis and deep chemical burns within just two hours of contact with internal membranes. Even if the battery is \"dead,\" it often retains enough residual charge to cause significant damage to your dog's digestive tract.</p><h3>Why a Photo Helps Triage</h3><p>If possible, safely take a photo of the battery packaging or the remaining battery from the pair to show your veterinarian. Identifying the exact type (lithium vs. zinc-air) and the size of the battery helps the medical team determine the level of corrosive risk and whether the battery is small enough to pass or likely to cause an obstruction. Knowing the voltage and diameter allows the vet to prepare the correct surgical or endoscopic equipment before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, do not induce vomiting unless specifically instructed by a veterinarian. If the battery is damaged or leaking, bringing it back up the esophagus can cause secondary chemical burns and increases the risk of the battery becoming lodged in the throat."
+    },
+    {
+      "question": "What are the signs of battery poisoning in dogs?",
+      "answer": "Common symptoms include excessive drooling, oral pain, pawing at the mouth, black or bloody stools, vomiting, and a refusal to eat. However, internal damage can occur before external symptoms are visible."
+    },
+    {
+      "question": "Are 'dead' batteries still dangerous?",
+      "answer": "Yes. Even a battery that no longer powers a hearing aid contains enough residual electrical charge to generate hydroxide ions, which cause severe tissue damage and burns upon contact with internal fluids."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

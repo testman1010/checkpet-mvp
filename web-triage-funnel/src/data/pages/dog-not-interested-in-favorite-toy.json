@@ -1,0 +1,20 @@
+{
+  "title": "Dog Not Interested in Favorite Toy: Causes and Triage Guide",
+  "meta_desc": "Is your dog ignoring their favorite toy? Discover common reasons for this behavior change and learn when to contact your veterinarian.",
+  "content_html": "<h3>Understanding a Loss of Interest in Play</h3><p>When a dog suddenly ignores a toy they previously loved, it is often an indicator of their internal state. This behavior can stem from a variety of factors, ranging from simple boredom or aging to underlying medical issues like dental pain, joint discomfort, or early lethargy. It is important to observe if this change is sudden or gradual.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. While a lack of interest in play is a deviation from normal behavior, it is typically not a medical emergency on its own. However, you should monitor your pet for other symptoms. If the lack of interest is paired with a refusal to eat, extreme lethargy, or visible pain, you should schedule a veterinary exam soon. If your dog is otherwise acting normal, you can monitor the situation for 24-48 hours.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of your dog’s reaction to the toy can be incredibly helpful for a veterinary professional. A video allows a vet to see if your dog is exhibiting subtle signs of pain, such as stiff movement or hesitance to grip objects. Additionally, a clear photo of your dog's teeth and gums can help rule out oral discomfort that might make playing with toys painful.</p>",
+  "faqs": [
+    {
+      "question": "Can dental pain make my dog stop playing with toys?",
+      "answer": "Yes, if a dog has a broken tooth, gum disease, or oral inflammation, picking up or chewing a toy can be painful, causing them to avoid it."
+    },
+    {
+      "question": "Is it normal for older dogs to stop playing?",
+      "answer": "As dogs age, their energy levels naturally decrease and they may develop arthritis, making vigorous play less appealing than it once was."
+    },
+    {
+      "question": "Could my dog just be bored of the toy?",
+      "answer": "It is possible. Dogs can experience 'habituation' where a toy loses its novelty. Try rotating toys out of sight for a few weeks to see if their interest returns."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

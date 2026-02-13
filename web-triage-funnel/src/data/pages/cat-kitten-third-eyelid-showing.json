@@ -1,0 +1,20 @@
+{
+  "title": "Cat Third Eyelid Showing: Causes, Urgency, and Triage Guide",
+  "meta_desc": "Is your kitten's third eyelid visible? Learn what causes this nictitating membrane to appear and when you need to contact a veterinarian for care.",
+  "content_html": "<h3>What is the Third Eyelid?</h3><p>Cats and kittens possess a unique anatomical feature called the nictitating membrane, commonly known as the third eyelid. This membrane is located in the inner corner of the eye and serves to protect the eyeball and distribute tear film. Under normal circumstances, you should barely see it. When it becomes visible, it is often a sign that the cat's eyeball has retracted slightly into the socket or that the membrane is responding to irritation or systemic illness.</p><h3>Is it an Emergency?</h3><p>The urgency level for a visible third eyelid is typically Medium. While it is rarely a life-threatening emergency on its own, it is a clear indicator that something is wrong. You should schedule a veterinary appointment within 24 to 48 hours. If the protrusion is accompanied by intense squinting, bleeding, a change in pupil size, or extreme lethargy, you should seek immediate urgent care.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear, well-lit photo of your cat's eyes is one of the most helpful steps you can take for a remote triage. A photo allows a professional to see if the issue is unilateral (one eye) or bilateral (both eyes), which helps differentiate between a localized injury and a systemic issue like Haw's syndrome or dehydration. It also helps us assess the color and thickness of the membrane to determine the level of inflammation.</p>",
+  "faqs": [
+    {
+      "question": "Why is my kitten's third eyelid showing in both eyes?",
+      "answer": "When both third eyelids are visible, it often points to a systemic issue such as dehydration, intestinal parasites, or a viral infection rather than a direct injury to the eye itself."
+    },
+    {
+      "question": "Can stress cause the third eyelid to show?",
+      "answer": "Yes, significant stress or extreme relaxation (such as when a cat is very sleepy or sedated) can occasionally cause the membrane to slide across the eye temporarily."
+    },
+    {
+      "question": "Will the third eyelid go back to normal on its own?",
+      "answer": "It depends on the cause. If the protrusion is due to a minor viral flare-up, it may resolve, but because it can also signal corneal ulcers or neurological issues, a vet exam is always recommended."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

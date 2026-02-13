@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate Dog Food: Is It Safe? | Veterinary Triage Guide",
+  "meta_desc": "Find out what to do if your cat ate dog food. Learn why a quick snack is usually fine, the nutritional risks, and when you should call your vet.",
+  "content_html": "<h3>What Is It?</h3><p>It is very common for a curious cat to sneak a few kibbles from the dog's bowl. Dog food is not poisonous to cats, but it is formulated for a different species with different dietary requirements. While dog food contains proteins and fats, it lacks the specific amino acids, such as taurine, and the high protein concentrations that cats need to maintain their health as obligate carnivores.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In almost all cases, a cat eating dog food as a one-time snack is not an emergency. You may notice mild gastrointestinal upset, such as a single episode of vomiting or slightly soft stool, due to the change in ingredients. However, dog food should never be a long-term replacement for cat food, as chronic ingestion can lead to serious heart and vision problems due to nutritional deficiencies.</p><h3>Why a Photo Helps Triage</h3><p>If you are concerned about the amount your cat ate or if your cat has pre-existing health conditions like kidney disease or allergies, sharing a photo of the dog food ingredient label and the nutritional analysis with a veterinary professional is very helpful. A photo allows the triage team to check for specific ingredients that might trigger a sensitivity and helps us provide the most accurate advice for your pet's specific situation.</p>",
+  "faqs": [
+    {
+      "question": "Can dog food kill a cat?",
+      "answer": "A small amount of dog food is not toxic and will not kill a cat. However, long-term feeding of dog food to a cat will cause life-threatening nutritional deficiencies."
+    },
+    {
+      "question": "What should I watch for after my cat eats dog food?",
+      "answer": "Monitor your cat for signs of an upset stomach, such as lethargy, vomiting, or diarrhea. If these symptoms persist for more than 24 hours, contact your veterinarian."
+    },
+    {
+      "question": "Why can't cats eat dog food permanently?",
+      "answer": "Cats require taurine, arachidonic acid, and higher levels of Vitamin A and protein than dog food provides. Without these, cats can develop heart failure and blindness."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

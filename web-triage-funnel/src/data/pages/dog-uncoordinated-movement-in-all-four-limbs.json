@@ -1,0 +1,20 @@
+{
+  "title": "Dog Uncoordinated Movement in All Four Limbs: Emergency Triage Guide",
+  "meta_desc": "Sudden lack of coordination in all four limbs is a high-priority veterinary emergency. Learn the causes and why immediate care is necessary.",
+  "content_html": "<h3>What is Generalized Uncoordinated Movement?</h3><p>When a dog experiences uncoordinated movement in all four limbs, it is medically referred to as generalized ataxia. This condition makes a dog appear wobbly or \"drunk,\" often causing them to stumble, sway, or cross their legs while walking. This lack of muscle coordination typically indicates an issue within the central nervous system, specifically the brain, brainstem, or the cervical (neck) spinal cord.</p><h3>Is This a Veterinary Emergency?</h3><p><strong>Urgency Level: High.</strong> Sudden uncoordinated movement affecting the entire body is a critical emergency. Because this symptom can be caused by severe issues such as toxin ingestion, spinal cord compression (like IVDD), strokes, or inflammatory brain diseases, time is of the essence. If your dog is unable to stand, is lethargic, or has abnormal eye movements, you should proceed to the nearest emergency veterinary hospital immediately.</p><h3>How Photos and Videos Help Triage</h3><p>In cases of neurological distress, capturing a short video of your dog's gait can be invaluable for the veterinary team. Since symptoms may fluctuate or worsen during transport, a video provides a clear baseline of the initial episode. Additionally, photos of any potential toxins, plants, or medications your dog might have accessed can help the vet identify the cause and start the correct treatment faster.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of sudden wobbliness in dogs?",
+      "answer": "Common causes include ingestion of toxins (such as marijuana, xylitol, or human medications), intervertebral disc disease (IVDD), ear infections, or neurological conditions like vestibular disease."
+    },
+    {
+      "question": "Can I give my dog any over-the-counter medication?",
+      "answer": "No. Never administer human medications to a wobbly dog, as some can worsen neurological symptoms or be toxic. Wait for a veterinarian's assessment."
+    },
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep your dog as still and calm as possible. If they cannot walk, support them with a large towel or use a flat board to prevent further injury to the spine."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

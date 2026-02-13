@@ -1,0 +1,20 @@
+{
+  "title": "Cat Breathing Rapidly and Shallowly: Causes and Triage Guide",
+  "meta_desc": "Learn why your cat is breathing fast while resting, the urgency level for tachypnea, and how to help your vet with triage through photos and video.",
+  "content_html": "<h3>What is Rapid, Shallow Breathing in Cats?</h3><p>Rapid, shallow breathing, medically known as tachypnea, occurs when a cat’s respiratory rate exceeds the normal resting range of 16 to 40 breaths per minute. When a cat is lying down and relaxed, their breathing should be nearly effortless. If you notice the chest moving quickly and with little depth, it suggests the body is struggling to maintain oxygen levels or is reacting to internal distress, such as fluid in the lungs, heart disease, or pain.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is Medium. While rapid breathing while resting is never considered normal, it is a precursor to a more severe crisis. You should contact your veterinarian or a local emergency clinic within the next few hours. However, if your cat begins panting with an open mouth, develops a blue or purple tint to the gums, or becomes extremely lethargic, the status changes to a Critical emergency requiring immediate intervention.</p><h3>Why a Photo or Video Helps Triage</h3><p>A video of your cat breathing is one of the most valuable tools you can provide to a triage nurse or veterinarian. Cats are masters at hiding symptoms, and the stress of a car ride or a visit to the clinic often causes them to change their breathing pattern. A clear video of your cat in their relaxed state allows the medical team to count the respiratory rate and observe the specific effort of the chest muscles, ensuring an accurate assessment of the severity before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How do I count my cat's resting respiratory rate?",
+      "answer": "Wait until your cat is asleep or very relaxed. Count how many times the chest rises and falls in 30 seconds, then multiply that number by two to get the breaths per minute."
+    },
+    {
+      "question": "Could my cat just be dreaming?",
+      "answer": "Cats may have brief periods of irregular breathing or twitching during REM sleep, but this should be intermittent. Constant rapid, shallow breathing that persists for several minutes is a medical concern."
+    },
+    {
+      "question": "What are common causes for this type of breathing?",
+      "answer": "Common causes include congestive heart failure, asthma, pleural effusion (fluid around the lungs), pneumonia, or severe anemia."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

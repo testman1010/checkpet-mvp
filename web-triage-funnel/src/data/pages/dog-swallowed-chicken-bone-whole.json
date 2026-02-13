@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Swallowed a Chicken Bone Whole: Emergency Triage Guide",
+  "meta_desc": "If your dog swallowed a chicken bone whole, it is a high-urgency situation. Learn the risks, emergency symptoms, and why you must contact a vet now.",
+  "content_html": "<h3>What Is It?</h3><p>Swallowing a chicken bone whole occurs when a dog ingests a poultry bone without chewing it into smaller pieces. Unlike cooked bones that splinter, a whole bone presents a significant risk of causing a physical obstruction in the esophagus, stomach, or intestines. Because these bones are dense and do not digest quickly, they can become lodged at narrow points in the digestive tract, potentially leading to serious health complications.</p><h3>Is It an Emergency?</h3><p>The urgency level for this situation is <strong>High</strong>. While some dogs may pass a bone without incident, the risk of life-threatening complications is significant. Immediate concerns include choking or an esophageal blockage, which can prevent the dog from swallowing even water. Over the next 24 to 72 hours, there is a risk of gastrointestinal perforation or a complete bowel obstruction. If your dog is gagging, retching, pacing, or has a bloated abdomen, seek emergency veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you have access to other bones from the same meal or the original packaging, take a clear photo to show your veterinarian. This information is vital for the clinical team to assess the size, shape, and potential sharpness of the object. Seeing a similar bone helps the vet determine whether the bone is likely to pass naturally, if it requires endoscopic retrieval, or if surgical intervention is necessary.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting if your dog swallowed a bone unless explicitly instructed by a veterinarian. The bone could cause damage to the esophagus or become lodged in the throat on the way back up, causing a choking hazard."
+    },
+    {
+      "question": "What are the signs of a gastrointestinal blockage?",
+      "answer": "Watch for repeated vomiting, loss of appetite, extreme lethargy, straining to defecate, or signs of abdominal pain such as whining or a 'prayer' posture (chest on the floor, rear end in the air)."
+    },
+    {
+      "question": "Can I give my dog bread to cushion the bone?",
+      "answer": "Veterinarians sometimes recommend feeding several slices of plain white bread or canned pumpkin to help 'wrap' the bone and protect the digestive tract. However, you should call your vet first to confirm this is appropriate for your dog's size and current condition."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

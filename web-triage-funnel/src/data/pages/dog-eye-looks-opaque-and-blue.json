@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eye Looks Opaque and Blue: Causes and Triage Guide",
+  "meta_desc": "Is your dog's eye cloudy or blue? Learn about cataracts, nuclear sclerosis, and when to seek urgent veterinary care for eye changes.",
+  "content_html": "<h3>What Does a Blue or Opaque Eye Mean?</h3><p>When a dog's eye takes on a bluish, cloudy, or opaque appearance, it typically indicates a change in the transparency of the lens or the cornea. In older dogs, a common and painless aging change called nuclear sclerosis often creates a hazy blue tint. However, opaqueness can also signal more serious issues such as cataracts, which block light from reaching the retina, or corneal edema, which is fluid buildup due to injury or disease.</p><h3>Is This a Veterinary Emergency?</h3><p>The urgency level for a cloudy eye is categorized as Medium. While gradual changes in older pets are often non-emergent, sudden cloudiness accompanied by redness, squinting, or discharge can indicate painful conditions like glaucoma or uveitis. If your dog is showing signs of discomfort or if the change happened overnight, you should seek veterinary care within 24 hours to prevent permanent vision loss.</p><h3>Why Taking a Photo Helps Triage</h3><p>Providing a high-quality, clear photo of the eye helps veterinary professionals determine the location and nature of the cloudiness. A photo taken in natural light can reveal whether the opaqueness is on the surface (the cornea) or deeper inside (the lens). This visual information is vital for triage staff to assess the severity of the condition and prioritize your pet's appointment appropriately.</p>",
+  "faqs": [
+    {
+      "question": "Is a blue eye always a sign of blindness?",
+      "answer": "Not necessarily. While cataracts can eventually lead to blindness, nuclear sclerosis is a normal aging process that usually does not significantly impair a dog's vision."
+    },
+    {
+      "question": "Can eye cloudiness be cured with drops?",
+      "answer": "The treatment depends entirely on the cause. Corneal ulcers or infections may respond to drops, but cataracts often require surgery to restore clear vision."
+    },
+    {
+      "question": "How can I tell if my dog is in pain?",
+      "answer": "Signs of eye pain include squinting, excessive tearing, pawing at the face, or rubbing the eye against furniture. If these signs are present, contact a vet immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

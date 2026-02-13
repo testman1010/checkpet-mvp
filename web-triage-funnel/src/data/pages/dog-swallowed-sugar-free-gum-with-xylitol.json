@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Sugar-Free Gum with Xylitol: Emergency Guide",
+  "meta_desc": "Xylitol ingestion is a life-threatening emergency for dogs. Learn what to do and why immediate veterinary care is essential to save your pet.",
+  "content_html": "<h3>What is Xylitol?</h3><p>Xylitol is a sugar substitute commonly used in sugar-free gum, breath mints, and some peanut butters. While it is safe for human consumption, it is extremely toxic to dogs because it triggers a rapid and massive release of insulin.</p><h3>Is This an Emergency?</h3><p>Yes, this is a <strong>High-Urgency Emergency</strong>. Ingestion of xylitol can cause life-threatening hypoglycemia (dangerously low blood sugar) within 30 minutes and can lead to acute liver failure or even death. If your dog has swallowed gum containing xylitol, you must contact an emergency veterinarian or a pet poison control center immediately.</p><h3>Why a Photo of the Packaging Helps</h3><p>Taking a quick photo of the gum packaging or bringing the wrapper with you to the clinic is incredibly helpful for the triage team. Different brands contain different concentrations of xylitol. Having the ingredient list allows the veterinarian to calculate the exact toxic dose based on your dog's weight, which helps them determine the most effective treatment plan and prognosis.</p>",
+  "faqs": [
+    {
+      "question": "What are the early symptoms of xylitol poisoning?",
+      "answer": "Initial signs include vomiting, followed by symptoms of low blood sugar such as lethargy, stumbling, weakness, collapses, or seizures."
+    },
+    {
+      "question": "Can I wait to see if my dog acts sick?",
+      "answer": "No. By the time symptoms appear, significant internal damage may have already occurred. Immediate intervention is required to prevent liver failure."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless a veterinarian specifically tells you to do so, as this can be dangerous if the dog is already becoming weak or disoriented."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

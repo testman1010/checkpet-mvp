@@ -1,0 +1,20 @@
+{
+  "title": "Cat Skin Tenting and Dehydration: A Veterinary Triage Guide",
+  "meta_desc": "If your cat's skin stays tented when pinched, they are severely dehydrated. This is a high-urgency emergency requiring immediate veterinary care.",
+  "content_html": "<h3>What is Skin Tenting in Cats?</h3><p>Skin tenting, or decreased skin turgor, occurs when the skin loses its elasticity due to a lack of moisture. When you gently pinch the skin between a cat's shoulder blades, it should normally snap back into place instantly. If the skin remains in a peaked \"tent\" shape or returns to position very slowly, it is a clinical sign that your cat is significantly dehydrated.</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, skin tenting is a high-urgency medical emergency. By the time a cat's skin remains tented, they have likely lost at least 7-10% of their body's fluid. Dehydration is not just about thirst; it indicates that the body's organs are struggling to function. This condition is often a secondary symptom of serious issues such as kidney failure, heatstroke, or severe gastrointestinal distress, and it requires immediate professional intervention.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo or a short video of the skin pinch test allows a veterinary professional to visually assess the severity of the dehydration. This visual evidence helps the triage team determine the speed at which your cat needs to be seen and allows them to prepare the necessary life-saving equipment, such as IV fluids or oxygen, before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat water to fix skin tenting?",
+      "answer": "While offering water is fine, skin tenting usually indicates a level of dehydration that cannot be corrected by drinking alone. Your cat likely requires subcutaneous or intravenous fluids from a veterinarian."
+    },
+    {
+      "question": "What are other signs of severe dehydration?",
+      "answer": "In addition to skin tenting, look for tacky or dry gums, sunken eyes, extreme lethargy, and a rapid heart rate."
+    },
+    {
+      "question": "How do I perform the skin turgor test safely?",
+      "answer": "Gently lift a fold of skin over the shoulder blades using your thumb and forefinger, then release it. Do not pull hard; you are simply checking how quickly the skin resumes its natural flat position."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

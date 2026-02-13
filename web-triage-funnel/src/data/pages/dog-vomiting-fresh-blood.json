@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Fresh Blood: Emergency Triage and Care Guide",
+  "meta_desc": "If your dog is vomiting fresh blood, it is a high-urgency emergency. Learn why immediate veterinary care is necessary and how to help your vet.",
+  "content_html": "<h3>What is Hematemesis?</h3><p>Finding fresh, bright red blood in your dog's vomit is a condition medically known as hematemesis. Unlike digested blood, which may look like dark coffee grounds, fresh blood indicates active bleeding in the upper gastrointestinal tract, including the mouth, esophagus, or stomach lining.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level is High. Fresh blood in vomit is a serious symptom that requires immediate veterinary intervention. Internal bleeding can lead to rapid blood loss, shock, and organ failure. Causes can range from the ingestion of toxins (like rat poison) and foreign objects to severe gastric ulcers or clotting disorders. Do not wait for symptoms to worsen; contact an emergency veterinarian immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely do so, take a clear photo of the vomit before cleaning it up. Showing this photo to the triage staff or veterinarian provides vital information regarding the volume, color, and consistency of the blood. This helps the medical team assess the severity of the situation more accurately and can significantly speed up the diagnostic process.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog water or food after they vomit blood?",
+      "answer": "No. You should withhold all food and water until your dog has been examined by a veterinarian, as ingestion could worsen the irritation or interfere with potential emergency surgery."
+    },
+    {
+      "question": "Does a small amount of blood still count as an emergency?",
+      "answer": "Yes. Even a small amount of fresh blood can be the early warning sign of a major internal issue. It is always best to err on the side of caution with gastrointestinal bleeding."
+    },
+    {
+      "question": "What are other symptoms I should watch for?",
+      "answer": "Look for pale gums, lethargy, weakness, a distended abdomen, or black, tarry stools, as these are signs of severe blood loss and shock."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ate a Lily? Urgent Emergency Guide for Pet Owners",
+  "meta_desc": "If your cat ate a lily, this is a high-priority emergency. Lilies cause rapid kidney failure in cats. Seek immediate veterinary care now.",
+  "content_html": "<h3>What is Lily Toxicity?</h3><p>Lilies from the Lilium (true lilies) and Hemerocallis (daylilies) genera are extremely poisonous to cats. This includes popular varieties like Easter lilies, Tiger lilies, Stargazer lilies, and Oriental lilies. Every part of the plant is toxic, including the petals, leaves, stems, pollen, and even the water in the vase. Ingesting even a microscopic amount can lead to fatal outcomes.</p><h3>Is it an emergency?</h3><p>Yes. This is a High Urgency emergency. There is no safe amount of lily exposure for a cat. If you suspect your cat has bitten a leaf, licked pollen, or even brushed against the plant, you must seek emergency veterinary care immediately. Without aggressive treatment within the first few hours, cats can develop acute, irreversible kidney failure within 24 to 72 hours.</p><h3>Why a Photo Helps Triage</h3><p>It is vital to take a clear photo of the plant your cat encountered before heading to the clinic. Many plants have \"lily\" in their name but differ in toxicity; for example, a Peace Lily (Spathiphyllum) causes mouth irritation but not kidney failure, whereas a true Easter Lily is lethal. A photo allows the veterinarian to accurately identify the species and determine the specific treatment protocol required for your cat's safety.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of lily poisoning in cats?",
+      "answer": "Early symptoms usually appear within 0 to 6 hours and include vomiting, drooling, lethargy, and a loss of appetite. However, symptoms may temporarily subside before kidney failure begins, so do not wait for signs to worsen."
+    },
+    {
+      "question": "Can a cat survive lily poisoning?",
+      "answer": "Survival is possible only with immediate and aggressive veterinary intervention, typically involving IV fluid therapy and decontamination within 18 hours of ingestion."
+    },
+    {
+      "question": "Is lily pollen dangerous to cats?",
+      "answer": "Yes, lily pollen is highly toxic. If a cat gets pollen on its fur and licks it off during grooming, it can cause the same life-threatening kidney damage as eating a leaf."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

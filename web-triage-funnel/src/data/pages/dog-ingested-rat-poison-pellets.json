@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Rat Poison Pellets: Emergency Triage Guide",
+  "meta_desc": "If your dog ate rat poison pellets, it is a high-priority emergency. Learn why immediate vet care and a photo of the packaging are critical.",
+  "content_html": "<h3>What is Rodenticide Ingestion?</h3><p>Rodenticide ingestion occurs when a dog consumes toxic substances meant to kill rats or mice. These poisons usually come in pellet, block, or paste form and are often brightly colored (green, blue, or pink). They are formulated to taste good to pests, which unfortunately makes them enticing to dogs as well. Common types include anticoagulants, which prevent blood clotting, and neurotoxins like bromethalin.</p><h3>Is it an Emergency?</h3><p>Yes, this is a high-priority medical emergency. Even if your dog is acting normally right now, many rodenticides have a delayed effect, causing internal damage for several days before symptoms appear. Early intervention is the most effective way to prevent permanent organ damage or death. You should contact a veterinarian or an animal poison control center immediately.</p><h3>Why a Photo of the Packaging Helps</h3><p>Taking a clear photo of the product's packaging, specifically the active ingredients and the brand name, is one of the most helpful things you can do for the veterinary team. Because different poisons require vastly different treatments—such as Vitamin K1 for anticoagulants versus specialized care for neurotoxins—knowing exactly what your dog ate allows for a faster, more accurate, and potentially life-saving treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How soon will I see symptoms if my dog ate rat poison?",
+      "answer": "Symptoms depend on the type of poison. Some cause immediate distress, while anticoagulant poisons may not show signs like bruising or bleeding for 3 to 7 days. This is why you must seek help even if they seem fine."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting at home unless specifically instructed to do so by a licensed veterinarian. In some cases, it can cause more harm or lead to aspiration pneumonia."
+    },
+    {
+      "question": "Can a dog survive eating rat poison?",
+      "answer": "Yes, with rapid veterinary treatment, the prognosis is often good. The key is removing the toxin from the system before it is fully absorbed or starting the appropriate antidote immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Abnormal Spinal Curve: Kyphosis and Triage Guide",
+  "meta_desc": "Noticed your dog's spine curving while standing? Learn about potential causes, urgency levels, and how to help your vet with triage.",
+  "content_html": "<h3>What is an abnormal spinal curve in dogs?</h3><p>An abnormal curve in a dog’s spine, often referred to medically as kyphosis (a hunched back) or scoliosis (a sideways curve), is a visible deviation from the natural alignment of the vertebrae. This can be caused by congenital deformities, age-related degenerative disc disease, traumatic injury, or muscle spasms as the dog attempts to shift their weight away from a source of pain.</p><h3>Is it an emergency?</h3><p>The urgency level for an abnormal spinal curve is generally classified as Medium. If your dog is still able to walk, eat, and use the bathroom, you should schedule a veterinary appointment within 24 to 48 hours. However, if the spinal curve is accompanied by sudden hind-leg weakness, an inability to stand, dragging of the paws, or loss of bladder control, this shifts to an immediate emergency requiring urgent care.</p><h3>Why a photo helps triage</h3><p>Taking a clear photo or video of your dog while they are standing naturally is an essential tool for veterinary triage. Because dogs often experience adrenaline spikes at the clinic, they may temporarily mask their pain or change their posture. A photo from home provides the veterinarian with an objective view of the spine's alignment in a relaxed environment, helping them determine the severity and the specific area of concern more accurately.</p>",
+  "faqs": [
+    {
+      "question": "What is the most common cause of a hunched back in dogs?",
+      "answer": "Intervertebral Disc Disease (IVDD) and general abdominal or spinal pain are the most common causes of a hunched or curved appearance."
+    },
+    {
+      "question": "Can a curved spine be cured?",
+      "answer": "Treatment depends on the underlying cause. Many dogs see significant improvement through pain management, anti-inflammatory medications, and physical therapy, while some may require surgery."
+    },
+    {
+      "question": "Should I let my dog exercise if their spine looks curved?",
+      "answer": "No, you should restrict their activity immediately. Avoid jumping, stairs, and rough play until a veterinarian has performed an assessment to prevent further injury."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

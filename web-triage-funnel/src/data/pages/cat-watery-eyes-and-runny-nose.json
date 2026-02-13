@@ -1,0 +1,20 @@
+{
+  "title": "Cat Watery Eyes and Runny Nose: Causes and Triage Guide",
+  "meta_desc": "Understand why your cat has watery eyes and a runny nose. Learn about feline URIs, urgency levels, and how to help your pet today.",
+  "content_html": "<h3>What Is It?</h3><p>When a cat experiences watery eyes and a runny nose, it is most frequently a sign of an Upper Respiratory Infection (URI), which is similar to a human cold. These symptoms are often caused by common feline viruses, such as Feline Herpesvirus or Calicivirus, or occasionally by bacterial infections. In some instances, clear discharge can also be a reaction to environmental allergens like dust, pollen, or strong fragrances.</p><h3>Is It an Emergency?</h3><p>The urgency level for simple watery eyes and a clear nasal discharge is generally <strong>Low</strong>. Most cats will recover with rest and supportive care. However, you should monitor your cat closely. If they stop eating, appear very lethargic, or if the discharge becomes thick and discolored (yellow or green), it is time to schedule a non-emergency visit with your veterinarian.</p><h3>Why a Photo Helps Triage</h3><p>Capturing a clear, close-up photo of your cat’s face can be a vital tool for triage. Visuals allow a professional to assess the color and consistency of the discharge and check for secondary signs like swelling of the third eyelid or crusting around the nostrils. This information helps determine whether the issue is likely viral, bacterial, or allergic, ensuring your cat receives the most appropriate advice quickly.</p>",
+  "faqs": [
+    {
+      "question": "Can my cat catch a cold from me?",
+      "answer": "No, the viruses that cause runny noses and watery eyes in cats are species-specific and cannot be transmitted from humans to cats or vice versa."
+    },
+    {
+      "question": "What can I do at home to help my cat?",
+      "answer": "You can gently wipe away discharge with a soft, damp cloth and provide a humid environment, such as a steamy bathroom, to help clear their nasal passages."
+    },
+    {
+      "question": "When should I seek immediate veterinary care?",
+      "answer": "Seek care immediately if your cat is struggling to breathe, gasping with an open mouth, or if their tongue and gums appear bluish in color."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

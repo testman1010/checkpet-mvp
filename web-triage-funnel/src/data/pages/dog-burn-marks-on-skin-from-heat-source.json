@@ -1,0 +1,20 @@
+{
+  "title": "Dog Burn Marks on Skin: Triage and First Aid Guide",
+  "meta_desc": "Identify and manage thermal burns in dogs. Learn when to seek emergency care and why photos are vital for veterinary triage assessment.",
+  "content_html": "<h3>What Are Thermal Burns in Dogs?</h3><p>Thermal burns occur when your dog's skin is damaged by a heat source such as a heating pad, hot pavement, boiling water, or a space heater. These injuries can range from superficial redness to deep tissue damage. Because a dog's fur can hide the extent of the injury, what looks like a small mark on the surface may actually involve significant damage to the underlying layers of skin.</p><h3>Is It an Emergency?</h3><p>The urgency level for a heat burn is typically <strong>Medium</strong>. While a very small, superficial burn may be managed with veterinary guidance, any burn that results in blistering, charred skin, or significant pain is a serious concern. If the burn covers a large portion of the body or if your dog is showing signs of shock, such as pale gums or rapid breathing, you should seek veterinary care immediately to prevent infection and manage pain.</p><h3>Why a Photo Helps Triage</h3><p>Submitting a clear, well-lit photo of the burn area is one of the most effective ways to help a veterinary professional assess the severity of the injury. A photo allows the triage team to see the color, texture, and borders of the wound, which helps them distinguish between a mild first-degree burn and a more severe deep-tissue injury. This visual information ensures you receive the most accurate advice on whether your dog needs to be seen urgently.</p>",
+  "faqs": [
+    {
+      "question": "Can I put ice on my dog's burn?",
+      "answer": "No, you should never use ice or ice water on a burn, as it can further damage the skin. Use cool, room-temperature water or a damp cloth to gently cool the area instead."
+    },
+    {
+      "question": "Should I apply butter or ointment to the burn?",
+      "answer": "Do not apply butter, oils, or human antibiotic ointments. These can trap heat in the skin and may contain ingredients that are toxic if your dog licks them."
+    },
+    {
+      "question": "What are the signs of an infected burn?",
+      "answer": "Keep an eye out for increased redness, swelling, a foul odor, or yellow/green discharge. If your dog develops a fever or becomes lethargic, contact your veterinarian immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

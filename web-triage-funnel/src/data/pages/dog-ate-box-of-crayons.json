@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate a Box of Crayons: Triage Guide and Next Steps",
+  "meta_desc": "If your dog ate crayons, don't panic. Most are non-toxic. Learn about the low urgency level, potential risks, and when to call your veterinarian.",
+  "content_html": "<h3>What is it?</h3><p>Crayons are primarily composed of paraffin wax and non-toxic pigments. Because they are designed for use by children, most major brands follow strict safety standards (like the AP seal) to ensure they are non-poisonous if accidentally ingested. While they are not a food item, the ingredients themselves are generally inert in a dog's digestive system.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: Low.</strong> In the vast majority of cases, eating crayons is not a medical emergency. The wax does not digest; it simply softens and passes through the intestinal tract, often resulting in colorful stools. However, you should monitor for signs of a gastrointestinal blockage, such as repeated vomiting, lethargy, or straining to defecate, especially if a small dog consumed a large volume of crayons or the cardboard packaging.</p><h3>Why a photo helps triage</h3><p>If you choose to contact a veterinarian or a pet poison helpline, providing a photo of the crayon packaging and any remaining pieces is extremely helpful. This allows the professional to confirm the brand's non-toxic status and estimate the total volume ingested, which helps determine if the risk of a physical obstruction is high or low.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog's stool change color?",
+      "answer": "Yes, it is very common to see brightly colored flecks or streaks in your dog's poop for 24 to 48 hours as the wax passes through."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No, you should never induce vomiting unless specifically directed to do so by a veterinarian, as it can sometimes cause more harm than good."
+    },
+    {
+      "question": "What if my dog ate the cardboard box too?",
+      "answer": "The cardboard adds bulk and could increase the risk of a minor stomach upset or a blockage in very small breeds. Watch for any signs of abdominal pain or loss of appetite."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

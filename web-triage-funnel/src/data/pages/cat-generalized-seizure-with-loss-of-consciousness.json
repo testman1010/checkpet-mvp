@@ -1,0 +1,20 @@
+{
+  "title": "Cat Generalized Seizure & Loss of Consciousness: Immediate Care Guide",
+  "meta_desc": "If your cat is experiencing a generalized seizure with loss of consciousness, it is a high-priority emergency. Learn how to respond and triage.",
+  "content_html": "<h3>What is a Generalized Seizure?</h3><p>A generalized seizure, often referred to as a grand mal seizure, occurs when abnormal electrical activity involves both sides of a cat's brain. During these episodes, a cat will lose consciousness, fall over, and exhibit involuntary movements such as muscle twitching, limb paddling, or jaw snapping. It is common for cats to lose control of their bladder or bowels during the event.</p><h3>Is it a Medical Emergency?</h3><p><strong>Urgency Level: High.</strong> Any seizure involving a loss of consciousness is considered a veterinary emergency. While the seizure itself may end quickly, it is a symptom of an underlying issue that needs immediate investigation. If your cat experiences a seizure lasting more than five minutes, or multiple seizures within a 24-hour period (cluster seizures), they are in a life-threatening state and must be taken to an emergency hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>If it is safe to do so without putting your hands near the cat's mouth, recording a video of the episode is one of the most helpful things you can do for the veterinary team. Seizures can look very similar to other conditions like fainting (syncope) or severe vestibular episodes. A video allows the veterinarian to observe the specific physical markers of the event, helping them confirm it was a true seizure and determine the severity of the neurological dysfunction.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is having a seizure?",
+      "answer": "Clear the area of sharp objects or furniture, keep the room dark and quiet, and never put your hands in or near the cat's mouth as they may bite involuntarily."
+    },
+    {
+      "question": "How long does the recovery period last?",
+      "answer": "The 'post-ictal' phase, or recovery period, can last from a few minutes to several hours. Your cat may appear blind, disoriented, or restless during this time."
+    },
+    {
+      "question": "Can I give my cat human medication to stop the seizure?",
+      "answer": "No. Never administer human medications to a cat. Many are toxic and can worsen the situation. Only a veterinarian can safely administer anticonvulsants."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Intense Itching & Fox Mange: A Veterinary Triage Guide",
+  "meta_desc": "Discover the causes of fox mange in dogs, how to handle intense itching, and why this condition is generally a low-urgency concern for your pet.",
+  "content_html": "<h3>What is Fox Mange?</h3><p>Fox mange, also known as Sarcoptic Mange, is a skin condition caused by microscopic mites called Sarcoptes scabiei. These mites burrow into the skin, leading to an intense allergic reaction. This typically results in extreme itching, redness, crusting of the skin, and hair loss, often starting around the ears, elbows, and hocks. It is highly contagious between dogs and can occasionally cause a temporary rash in humans.</p><h3>Is Fox Mange an Emergency?</h3><p>The urgency level for fox mange is categorized as Low. While the intense scratching can be very distressing for both you and your dog, it is not a life-threatening emergency. However, it does require a veterinary visit for prescription treatment, as over-the-counter flea products are often ineffective against these specific mites. Seeking care promptly will prevent secondary bacterial infections caused by constant scratching.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of your dog's skin lesions can be immensely helpful for your veterinary team. High-quality images allow a professional to see the distribution of the rash and the specific appearance of the crusting. This helps differentiate mange from other conditions like seasonal allergies or fungal infections, ensuring your dog receives the correct diagnostic plan as soon as you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I catch mange from my dog?",
+      "answer": "Yes, sarcoptic mange is zoonotic. While the mites cannot complete their life cycle on humans, they can cause itchy, red bumps on your skin if you are in close contact with your infected pet."
+    },
+    {
+      "question": "How long does it take for treatment to work?",
+      "answer": "Most dogs begin to feel relief within a few days of starting prescription medication, though the skin may take several weeks to fully heal and for the hair to grow back."
+    },
+    {
+      "question": "Do I need to treat my house for mange?",
+      "answer": "While the mites don't survive long off the host, it is a good idea to wash your dog's bedding and vacuum common areas to prevent any potential re-infestation during the recovery period."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

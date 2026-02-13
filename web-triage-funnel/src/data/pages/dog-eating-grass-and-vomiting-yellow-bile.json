@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eating Grass and Vomiting Yellow Bile: Triage and Care Guide",
+  "meta_desc": "Understand why your dog is eating grass and vomiting yellow bile. Learn about urgency levels and how to triage your pet's digestive health.",
+  "content_html": "<h3>What Is It?</h3><p>Vomiting yellow bile, also known as bilious vomiting, typically occurs when a dog's stomach is empty. The yellow fluid is bile, a digestive enzyme produced by the liver and stored in the gallbladder. Dogs often instinctively eat grass when they feel nauseous or have an upset stomach, as the long strands can wrap around irritants or help induce vomiting to clear their system.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Medium. While a single episode of eating grass and vomiting bile might simply mean your dog had an empty stomach for too long, it should not be ignored if it becomes a pattern. You should contact a veterinarian if the vomiting occurs more than twice in 24 hours, if your dog is lethargic, or if you notice a complete loss of appetite, as these could be signs of GI inflammation or an obstruction.</p><h3>Why a Photo Helps Triage</h3><p>During a veterinary consultation, a photo of the vomit and the grass can provide vital diagnostic clues. It allows the veterinarian to see the exact shade of the bile, the consistency of the fluid, and whether there are traces of blood, mucus, or foreign objects. This visual evidence helps the medical team determine the severity of the irritation and decide on the best course of diagnostic testing.</p>",
+  "faqs": [
+    {
+      "question": "Can I feed my dog after they vomit yellow bile?",
+      "answer": "It is generally recommended to withhold food for 6 to 12 hours to let the stomach settle, then offer a bland diet of boiled chicken and white rice in small portions."
+    },
+    {
+      "question": "Why is the vomit yellow?",
+      "answer": "The yellow color comes from bile, which enters the small intestine to aid digestion. If the stomach is empty, the bile can reflux back into the stomach and cause irritation, leading to vomiting."
+    },
+    {
+      "question": "Is eating grass dangerous for dogs?",
+      "answer": "Grass itself is generally not toxic, but it can be a concern if the lawn has been treated with chemical fertilizers or pesticides, or if the dog ingests intestinal parasite larvae found in the soil."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

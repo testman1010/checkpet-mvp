@@ -1,0 +1,20 @@
+{
+  "title": "Dog Staring Blankly Into Space: Causes and Triage Advice",
+  "meta_desc": "Is your dog staring into space? Learn about focal seizures, CCD, and when to seek veterinary care for a dog who seems lost or unresponsive.",
+  "content_html": "<h3>What Does it Mean When a Dog Stares Blankly?</h3><p>When a dog stares blankly into space, it is often described by veterinarians as being 'obtunded' or having an altered mental status. This behavior can range from a simple distraction to a sign of an underlying neurological or metabolic issue. Common causes include focal seizures (sometimes called 'fly-biting' seizures), Canine Cognitive Dysfunction in senior dogs, or even vision impairment that leaves the dog feeling disoriented.</p><h3>Is This an Emergency?</h3><p>The urgency level for a dog staring into space is categorized as Medium. While it may not require an immediate trip to the emergency room in the middle of the night—provided the dog is breathing normally and can be snapped out of the trance—it does require a veterinary exam within 24 to 48 hours. If the staring is accompanied by a loss of consciousness, rhythmic shaking, or an inability to stand, the urgency increases to High.</p><h3>The Importance of Visual Evidence</h3><p>Because these episodes are often intermittent, your dog will likely act completely normal by the time you reach the veterinary clinic. This is why capturing a video of the behavior is the most helpful tool for triage. A clear video allows your veterinarian to observe the duration, eye movement, and responsiveness of your dog, which is critical for distinguishing between a behavioral quirk and a neurological event.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be having a seizure while standing up?",
+      "answer": "Yes, these are known as focal seizures. Unlike 'grand mal' seizures, the dog may remain upright but will appear unresponsive to their name or environment for several seconds or minutes."
+    },
+    {
+      "question": "Is staring a normal sign of aging?",
+      "answer": "In senior dogs, staring into corners or space can be a symptom of Canine Cognitive Dysfunction (CCD), which is similar to dementia in humans. It is manageable with medication and diet but should be diagnosed by a vet."
+    },
+    {
+      "question": "What should I do while my dog is staring?",
+      "answer": "Gently try to call their name or offer a high-value treat. Note whether they can be easily distracted or if they remain 'locked' in the stare, as this information is vital for your vet."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

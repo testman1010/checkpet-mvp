@@ -1,0 +1,20 @@
+{
+  "title": "Dog Rubbing Nose and Sneezing: Causes and Triage Advice",
+  "meta_desc": "Is your dog sneezing and rubbing their nose? Learn about common causes, urgency levels, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What is it?</h3><p>When a dog repeatedly rubs their nose against furniture or with their paws while sneezing, it usually indicates irritation within the nasal passages. This behavior is often triggered by environmental factors such as dust, pollen, or strong fragrances. In some cases, it may be caused by a 'foreign body,' such as a small blade of grass or a seed that has been inhaled and is stuck in the nostril.</p><h3>Is it an emergency?</h3><p>The urgency level for this condition is typically Low. If your dog is still energetic, eating well, and the sneezing is intermittent, you can usually wait for a scheduled veterinary appointment. However, if you notice active bleeding from the nose, significant facial swelling, or if your dog is struggling to breathe, you should contact an emergency clinic immediately.</p><h3>Why a photo or video helps triage</h3><p>Providing your veterinarian with a video of the sneezing episodes or a high-quality photo of any nasal discharge is extremely beneficial. Visual evidence allows the vet to observe the specific type of sneeze (such as a reverse sneeze versus a productive sneeze) and the color of any discharge, which are critical clues in determining if the cause is viral, bacterial, or an allergy.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have something stuck in its nose?",
+      "answer": "Yes, it is possible. Dogs often inhale small objects like grass awns or seeds. If the sneezing started suddenly after being outdoors and is very violent, a foreign body is a likely culprit."
+    },
+    {
+      "question": "Can I give my dog human allergy medication?",
+      "answer": "You should never administer human medications without consulting your veterinarian first, as some ingredients can be toxic to dogs or the dosage may be incorrect for their size."
+    },
+    {
+      "question": "What does yellow or green nasal discharge mean?",
+      "answer": "Thick, colored discharge usually suggests a secondary bacterial infection or a more significant inflammatory process that requires a physical exam and potentially antibiotics."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

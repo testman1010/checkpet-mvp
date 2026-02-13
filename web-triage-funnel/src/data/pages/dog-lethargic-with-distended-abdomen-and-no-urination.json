@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargic with Distended Abdomen and No Urination: Emergency Triage",
+  "meta_desc": "Immediate veterinary attention is required for dogs with a distended abdomen, lethargy, and inability to urinate. This is a high-level emergency.",
+  "content_html": "<h3>What is happening to your dog?</h3><p>The combination of a distended (bloated) abdomen, extreme lethargy, and an inability to urinate suggests a critical medical crisis. This cluster of symptoms often points to life-threatening conditions such as Gastric Dilatation-Volvulus (GDV or 'Bloat'), a urinary tract obstruction, or internal hemorrhaging from an organ rupture. When the abdomen expands rapidly, it can put pressure on major veins and the diaphragm, leading to shock and respiratory distress.</p><h3>Urgency Level: High Emergency</h3><p>This is a maximum-priority emergency. You should not wait for an appointment or monitor your dog at home. If your dog is unable to urinate while also appearing weak and bloated, they may be suffering from a total urethral blockage or a ruptured bladder, both of which can cause systemic toxicity and death within hours. Please contact the nearest 24-hour emergency veterinary hospital immediately and let them know you are on your way.</p><h3>Why a photo helps triage</h3><p>Taking a quick photo or short video of your dog’s abdomen and their standing posture can provide vital information to the triage team. A photo allows the veterinarian to see the specific shape of the distension and observe signs of 'splinting' or abdominal pain. This visual data helps the medical team prepare the necessary equipment, such as decompression needles or ultrasound, before you even through the clinic doors.</p>",
+  "faqs": [
+    {
+      "question": "Could this be Gastric Dilatation-Volvulus (GDV)?",
+      "answer": "Yes. GDV occurs when the stomach fills with gas and twists. It is a surgical emergency characterized by a distended abdomen and rapid onset of lethargy."
+    },
+    {
+      "question": "What happens if a dog cannot urinate?",
+      "answer": "An inability to urinate can lead to a buildup of potassium and toxins in the blood, which can cause the heart to stop. It is often caused by bladder stones or crystals blocking the urethra."
+    },
+    {
+      "question": "Should I try to induce vomiting or give water?",
+      "answer": "No. Do not give anything by mouth. If the dog has a twisted stomach or a blockage, ingestion of any substance can worsen the condition and delay life-saving surgery."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Unexplained Bruising on Abdomen: Urgent Triage Guide",
+  "meta_desc": "Find out why unexplained bruising on your cat's belly is a medical emergency and how a photo can help your veterinarian triage the situation.",
+  "content_html": "<h3>What is unexplained bruising on a cat's abdomen?</h3><p>Unexplained bruising, which may appear as purple splotches, tiny red dots (petechiae), or large discolored patches on the skin of the belly, indicates bleeding under the skin. Unlike humans, cats do not typically bruise from minor bumps because their fur and skin structure provide significant protection. Therefore, visible bruising often signals a serious internal issue, such as a blood clotting disorder, exposure to toxins like rodenticide, or severe internal trauma.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level for unexplained bruising is <strong>High</strong>. Because bruising is often the only visible sign of a life-threatening systemic problem, you should seek immediate veterinary care at an emergency clinic. This is especially critical if the bruising is accompanied by lethargy, pale gums, difficulty breathing, or a loss of appetite, as these are signs of active internal bleeding or shock.</p><h3>Why a photo helps triage</h3><p>Taking a clear, well-lit photo of the abdomen can be an invaluable tool for your veterinary team. Bruising can shift, spread, or change in appearance very quickly. A photo provides a timestamped baseline that allows the veterinarian to see exactly how the site looked when you first noticed it, helping them determine the speed and severity of the underlying condition while you are en route to the hospital.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have just bumped into something?",
+      "answer": "While physical trauma can cause bruising, it is very rare for a cat to develop significant abdominal bruising from everyday activity. It is much more likely to be caused by a medical condition like thrombocytopenia (low platelets) or toxin ingestion."
+    },
+    {
+      "question": "What should I do while traveling to the vet?",
+      "answer": "Keep your cat as calm and still as possible in a secure carrier. Avoid pressing on the abdomen, as this could exacerbate internal bleeding or cause pain."
+    },
+    {
+      "question": "What common toxins cause bruising in cats?",
+      "answer": "The most common cause is anticoagulant rodenticides (rat poison). Even if you do not use these in your home, cats can be exposed by hunting rodents that have ingested the poison."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

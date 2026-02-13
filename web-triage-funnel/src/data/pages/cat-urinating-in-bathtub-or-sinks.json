@@ -1,0 +1,20 @@
+{
+  "title": "Cat Urinating in Sinks or Bathtubs: Causes and Triage Guide",
+  "meta_desc": "Is your cat peeing in the sink or tub? Learn if it's an emergency, common causes like UTIs or stress, and how to help your cat today.",
+  "content_html": "<h3>What is it?</h3><p>When a cat begins urinating in unusual, smooth-surfaced locations like bathtubs or sinks, it is referred to as periuria. This behavior is often a feline's way of communicating that something is wrong. They may be seeking out cool surfaces to soothe discomfort, or they may have developed an aversion to their litter box due to pain associated with urination. Common causes include Urinary Tract Infections (UTIs), Feline Idiopathic Cystitis (FIC), bladder stones, or environmental stress.</p><h3>Is it an emergency?</h3><p>Urgency Level: Low. In most cases, if your cat is successfully passing urine in the sink or tub, it is not an immediate life-threatening emergency. However, it does require a veterinary exam within 24 to 48 hours to rule out infection or crystals. <strong>Note:</strong> if your cat is straining, crying out, or unable to produce any urine at all, this is a medical emergency (urethral obstruction) and you must seek a vet immediately.</p><h3>Why a photo helps triage</h3><p>Capturing a photo of the urine left in the sink or bathtub can be a valuable diagnostic tool for your veterinarian. Because these surfaces are white or light-colored, a photo can clearly show if the urine is tinged with pink or red (indicating blood) or if there are visible grains like sand (indicating crystals). This visual evidence helps the vet determine the severity of the inflammation before they even begin a physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Is my cat doing this to be spiteful?",
+      "answer": "No, cats do not urinate outside the box out of spite. They are usually trying to communicate physical pain or significant environmental stress."
+    },
+    {
+      "question": "Can stress cause a cat to pee in the sink?",
+      "answer": "Yes, stress can lead to Feline Idiopathic Cystitis (FIC), which causes bladder inflammation and leads to urinating in strange places."
+    },
+    {
+      "question": "Should I change the litter box immediately?",
+      "answer": "While a clean box is important, you should consult a vet first to rule out a medical issue. If the cat associates the box with pain, they will continue to avoid it until the medical cause is treated."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

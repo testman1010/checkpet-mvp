@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Ibuprofen: Emergency Triage Guide and Next Steps",
+  "meta_desc": "If your dog ate ibuprofen, this is a medical emergency. Learn why Advil and Motrin are toxic to dogs and what you must do immediately to help.",
+  "content_html": "<h3>What is Ibuprofen?</h3><p>Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) commonly found in household brands like Advil and Motrin. While safe for humans to treat pain and fever, it is extremely toxic to dogs. A dog's body cannot break down this medication efficiently, leading to rapid accumulation in the bloodstream.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level is <strong>High</strong>. Ibuprofen ingestion is a life-threatening veterinary emergency. Even a small dose can cause severe gastric ulcers, acute kidney failure, and neurological issues such as seizures or coma. You should not wait for symptoms to appear, as internal damage often begins before the dog shows outward signs of distress.</p><h3>Why a Photo Helps Triage</h3><p>When you contact an emergency veterinarian or animal poison control, having a photo of the medication packaging is incredibly helpful. A photo allows the medical team to see the exact strength (milligrams per pill) and the full ingredient list. This helps them calculate the toxicity level based on your dog's weight and check for other dangerous additives, such as xylitol, which may be present in certain coated or liquid versions.</p>",
+  "faqs": [
+    {
+      "question": "How much ibuprofen is toxic to a dog?",
+      "answer": "There is no safe dose of ibuprofen for dogs. Depending on the size of your pet, even a single 200mg pill can cause serious stomach ulceration or kidney damage."
+    },
+    {
+      "question": "What are the symptoms of ibuprofen poisoning in dogs?",
+      "answer": "Common symptoms include vomiting (sometimes with blood), dark or tarry stools, loss of appetite, lethargy, increased thirst, and stumbling."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian. Doing so incorrectly can lead to aspiration pneumonia or other complications."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

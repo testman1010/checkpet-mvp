@@ -1,0 +1,20 @@
+{
+  "title": "Cat Non-Healing Sores on Nose or Ears: Triage and Care Guide",
+  "meta_desc": "Persistent scabs or sores on a cat's ears or nose require veterinary attention. Learn about potential causes like SCC and why a photo helps triage.",
+  "content_html": "<h3>What is a non-healing sore?</h3><p>A non-healing sore or persistent scab on a cat's nose or ears is a lesion that fails to resolve with time or standard home care. In cats, especially those with white or light-colored pigmentation, these sensitive areas are prone to solar dermatitis (sunburn) which can progress to Squamous Cell Carcinoma (SCC), a common form of skin cancer. Other possibilities include chronic fungal infections like ringworm, autoimmune conditions such as pemphigus foliaceus, or deep-seated bacterial infections that require prescription-strength treatment.</p><h3>Is it an emergency?</h3><p>The urgency level for this condition is <strong>Medium</strong>. While a non-healing sore is typically not an immediate life-threatening emergency, it is a sign of a progressive underlying issue. You should aim to have your cat evaluated by a veterinarian within 24 to 48 hours. If the lesion is bleeding profusely, seems extremely painful, or if your cat is lethargic and not eating, you should seek care sooner. Early intervention is vital, especially if the cause is cancerous, as early-stage lesions are much easier to treat.</p><h3>Why a photo helps triage</h3><p>Capturing a clear, well-lit photo of the sore is one of the most helpful things you can do for a triage professional. A photo allows a veterinarian to observe the texture of the scab, the color of the surrounding skin, and whether the lesion appears to be eroding the tissue or growing outward. This visual data helps differentiate between a simple infection and a more concerning growth, ensuring your cat is prioritized correctly for their appointment.</p>",
+  "faqs": [
+    {
+      "question": "Can I put Neosporin on my cat's sore?",
+      "answer": "No, you should avoid using human topical ointments. Some ingredients in human creams can be toxic to cats if ingested during grooming, and they may mask the symptoms, making it harder for your vet to diagnose the issue."
+    },
+    {
+      "question": "Is a non-healing scab always cancer?",
+      "answer": "Not always. While Squamous Cell Carcinoma is a common cause for sores on the ears and nose, it could also be a persistent infection, an allergy, or an autoimmune response. Only a veterinarian can confirm the cause through a physical exam or biopsy."
+    },
+    {
+      "question": "Why are white cats more at risk?",
+      "answer": "Cats with white fur or pink skin lack the protective pigment melanin in their skin. This makes them highly susceptible to UV damage from the sun, which is the primary cause of solar dermatitis and subsequent skin cancer on the ears and nose."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

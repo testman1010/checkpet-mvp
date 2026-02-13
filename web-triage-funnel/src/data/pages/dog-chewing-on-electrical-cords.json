@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chewed Electrical Cord: Urgent Safety & Triage Guide",
+  "meta_desc": "If your dog chewed an electrical cord, they need immediate veterinary care. Learn why this is a high-priority emergency and how triage photos help.",
+  "content_html": "<h3>What is it?</h3><p>Electrical cord chewing occurs when a dog gnaws through the protective insulation of a wire, causing their mouth to come into contact with live electricity. This can result in localized thermal burns to the tongue and gums, but more dangerously, it can cause systemic issues like fluid accumulation in the lungs (pulmonary edema) or disruptions to the heart's natural rhythm.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. This is a critical medical emergency. Even if your dog appears normal immediately after the incident, the internal effects of an electric shock—specifically damage to the lungs—can take several hours to manifest and can be fatal if left untreated. You should contact an emergency veterinarian immediately.</p><h3>Why a photo helps triage</h3><p>Providing a clear photo of your dog's mouth and gums allows a triage professional to identify early signs of tissue necrosis or charring. Additionally, a photo of the damaged cord (taken only after the power source is safely disconnected) can help the veterinary team estimate the potential voltage exposure. These images allow the clinic to prepare the necessary oxygen or cardiac monitoring equipment before you even arrive.</p>",
+  "faqs": [
+    {
+      "question": "What are the immediate signs of electric shock in dogs?",
+      "answer": "Common signs include visible burn marks on the lips or tongue, heavy drooling, coughing, difficulty breathing, and a fast or irregular heartbeat."
+    },
+    {
+      "question": "What should I do first if I see my dog chewing a live wire?",
+      "answer": "Do not touch your dog until the power is disconnected. Turn off the circuit breaker or safely unplug the cord to avoid being shocked yourself, then move your dog away from the area."
+    },
+    {
+      "question": "Can a dog survive chewing an electrical cord?",
+      "answer": "Yes, many dogs survive with prompt veterinary intervention, which often includes oxygen therapy, pain management, and monitoring for heart and lung complications."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

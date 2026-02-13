@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Paint Thinner: Immediate Emergency Steps & Triage Guide",
+  "meta_desc": "If your dog ingested paint thinner, this is a high-level emergency. Learn why immediate vet care is vital and what information you need to save them.",
+  "content_html": "<h3>What is Paint Thinner?</h3><p>Paint thinners are potent chemical solvents, typically composed of hydrocarbons like mineral spirits, turpentine, or acetone. These substances are highly corrosive and toxic to dogs, affecting the gastrointestinal tract, central nervous system, and respiratory system. Because these liquids are volatile, they pose a severe risk if they are swallowed or inhaled.</p><h3>Is it an Emergency?</h3><p><strong>Urgency Level: High.</strong> Ingesting paint thinner is a life-threatening emergency. These chemicals can cause severe chemical burns to the mouth and esophagus, and if aspirated into the lungs, they can cause fatal pneumonia. Symptoms may include extreme lethargy, seizures, vomiting, or difficulty breathing. You should contact an emergency veterinarian or a pet poison control center immediately. Do not attempt to induce vomiting at home, as the chemical can cause even more damage to the throat and lungs on the way back up.</p><h3>Why a Photo Helps Triage</h3><p>If possible, quickly snap a clear photo of the product label and the ingredient list before heading to the vet. Because 'paint thinner' is a broad term for many different chemical formulas, knowing the exact ingredients allows the veterinary team to provide a more targeted and effective treatment plan. A photo of the area where the ingestion occurred can also help the vet estimate the volume consumed, which is critical for determining the level of toxicity.</p>",
+  "faqs": [
+    {
+      "question": "Should I give my dog milk or water after ingestion?",
+      "answer": "Do not give your dog anything by mouth unless specifically instructed by a veterinarian. Certain liquids can actually speed up the absorption of chemicals or increase the risk of vomiting and aspiration."
+    },
+    {
+      "question": "What if my dog only got paint thinner on their fur?",
+      "answer": "This is still an emergency because dogs will naturally try to lick the chemical off, leading to ingestion. You should prevent them from licking and call a vet immediately for instructions on how to safely decontaminate their skin."
+    },
+    {
+      "question": "What are the common signs of hydrocarbon poisoning?",
+      "answer": "Common signs include a strong chemical odor on the breath, excessive drooling, pawing at the mouth, gagging, unsteadiness, and labored breathing."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Unable to Lift Head: Emergency Care and Triage Guide",
+  "meta_desc": "If your dog cannot lift its head, this is a high-urgency emergency. Learn why immediate veterinary care is vital and how to assist your pet now.",
+  "content_html": "<h3>What Does It Mean When a Dog Cannot Lift Its Head?</h3><p>Seeing your dog unable to lift their head off the ground is deeply concerning. This symptom, often associated with severe muscle weakness, neurological dysfunction, or extreme pain, indicates that your dog's body is unable to perform basic postural movements. It may be accompanied by lethargy, shallow breathing, or an inability to stand, suggesting a systemic failure or a localized issue in the neck and spine.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes. This is considered a high-urgency medical emergency. An inability to lift the head often points to critical conditions such as spinal cord trauma, severe toxicity, metabolic crises, or advanced neurological disease. Because this symptom can lead to respiratory distress or indicates a failing nervous system, you should transport your pet to an emergency veterinary hospital immediately. Do not attempt to wait for an appointment or monitor the situation at home.</p><h3>How Photos and Videos Assist Triage</h3><p>While your priority is getting to the vet, capturing a quick 10-second video of your dog’s attempts to move or their resting posture can be invaluable. Documentation of their gum color, eye movement, or any twitching allows the triage staff to assess the severity of the neurological or physical impairment the moment you walk through the door. This visual evidence helps the medical team prepare the correct life-saving equipment and prioritize your dog's treatment based on their clinical presentation.</p>",
+  "faqs": [
+    {
+      "question": "How should I move my dog if they cannot lift their head?",
+      "answer": "Use a flat, sturdy surface like a piece of plywood or a very thick, folded blanket as a stretcher. Keep their neck as straight and still as possible to avoid aggravating a potential spinal injury."
+    },
+    {
+      "question": "Could this be caused by something my dog ate?",
+      "answer": "Yes, certain toxins—such as botulism, Macadamia nuts, or certain human medications—can cause acute 'limp' paralysis or profound weakness that prevents a dog from lifting its head."
+    },
+    {
+      "question": "What will the vet do first for my dog?",
+      "answer": "The veterinary team will likely perform an immediate neurological assessment, check vital signs, and provide oxygen or IV fluids to stabilize your pet before moving on to diagnostic imaging like X-rays or an MRI."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

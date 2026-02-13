@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sensitivity to Bright Light (Photophobia): Triage Guide",
+  "meta_desc": "Is your dog squinting in bright light? Learn about canine photophobia, urgency levels, and why capturing a photo can help your vet triage the issue.",
+  "content_html": "<h3>What is Photophobia in Dogs?</h3><p>Sensitivity to bright light, or photophobia, is not a disease itself but a clinical sign that your dog is experiencing ocular pain or discomfort. It often manifests as squinting, blinking excessively, or your dog actively seeking out dark areas of the home to hide. This reaction occurs because the nerves in the eye are overstimulated or inflamed.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Medium. While photophobia may be caused by minor irritation, it is frequently a symptom of more serious conditions such as corneal ulcers, uveitis (internal inflammation), or acute glaucoma. If the light sensitivity is accompanied by a change in eye color, a bulging eye, or sudden vision loss, you should seek veterinary care within 12 to 24 hours to prevent permanent damage.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, close-up photo of your dog’s eyes in a neutral, dimly lit setting can be incredibly helpful for a triage professional. A photo allows a veterinarian to look for subtle signs like pupil size asymmetry, cloudiness on the surface of the eye, or redness in the whites of the eyes. This visual information helps determine if your dog needs immediate emergency intervention or if a standard appointment will suffice.</p>",
+  "faqs": [
+    {
+      "question": "Can eye injuries cause light sensitivity?",
+      "answer": "Yes, corneal scratches or ulcers are common causes of extreme light sensitivity and require prompt medical treatment to prevent infection."
+    },
+    {
+      "question": "Should I keep my dog in a dark room until our vet visit?",
+      "answer": "Yes, providing a dim or dark environment can help reduce your dog's discomfort and prevent them from pawing at or further irritating the eye."
+    },
+    {
+      "question": "Can I use human eye drops for my dog?",
+      "answer": "No, you should never use human eye medications on a dog unless specifically directed by a veterinarian, as some ingredients can be harmful or mask serious symptoms."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

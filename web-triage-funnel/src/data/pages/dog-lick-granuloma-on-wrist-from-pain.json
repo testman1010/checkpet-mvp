@@ -1,0 +1,20 @@
+{
+  "title": "Understanding Dog Lick Granulomas on the Wrist: Causes and Triage",
+  "meta_desc": "Learn about canine lick granulomas on the wrist, why they occur due to pain, and how to triage this common skin condition at home.",
+  "content_html": "<h3>What is a Lick Granuloma?</h3><p>A lick granuloma, medically known as acral lick dermatitis, is a skin condition caused by a dog's compulsive licking of a specific area, typically the lower limb or wrist. This repetitive licking leads to a thickened, firm, and often hairless lesion. While it starts as a simple irritation, the constant moisture and friction prevent the skin from healing, creating a self-perpetuating cycle of inflammation.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. In most cases, a lick granuloma is a chronic condition rather than an acute emergency. While the lesion may look angry, red, or even bleed slightly, it does not typically require an emergency room visit unless you notice signs of a severe systemic infection, such as extreme lethargy, loss of appetite, or a foul-smelling discharge from the site. A scheduled appointment with your primary veterinarian is the appropriate course of action.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo of the lesion is a vital part of the triage process. A clear image allows a veterinary professional to assess the severity of the tissue damage, identify signs of secondary bacterial infection (like pustules or deep crusting), and rule out other potential causes like tumors or embedded foreign bodies. Seeing the location and appearance helps us determine how quickly your pet needs to be seen and what immediate at-home care might be helpful.</p>",
+  "faqs": [
+    {
+      "question": "Can joint pain cause a lick granuloma?",
+      "answer": "Yes, many dogs begin licking their wrist because of underlying joint pain, such as arthritis or a previous injury. The licking is an attempt to soothe the internal discomfort, which then creates the external skin lesion."
+    },
+    {
+      "question": "How are lick granulomas typically treated?",
+      "answer": "Treatment involves a multi-modal approach: addressing the skin infection with antibiotics, managing the underlying pain with anti-inflammatories, and sometimes using behavioral medications or barriers like E-collars to break the licking habit."
+    },
+    {
+      "question": "Are certain breeds more prone to this condition?",
+      "answer": "Yes, larger breeds like Doberman Pinschers, Great Danes, Labrador Retrievers, and German Shepherds are more commonly diagnosed with lick granulomas, often due to a combination of orthopedic issues and boredom or anxiety."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

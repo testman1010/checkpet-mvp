@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Grapes? Immediate Emergency Steps & Triage Guide",
+  "meta_desc": "If your dog ate a handful of grapes, seek veterinary care immediately. Learn about grape toxicity, symptoms, and why this is a critical emergency.",
+  "content_html": "<h3>What is Grape Toxicity?</h3><p>Grapes, raisins, and currants are highly toxic to dogs. They contain substances that can cause sudden, acute kidney failure. Recent research suggests that tartaric acid within the fruit is the primary culprit. Unlike many other toxicities, there is no established safe dose; even a small amount can cause a severe reaction in some dogs regardless of their weight or breed.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, this is a life-threatening veterinary emergency. Because the onset of kidney damage is rapid and often irreversible once clinical symptoms appear, time is of the essence. You should contact an emergency veterinarian or a pet poison control hotline immediately. Do not wait for your dog to show signs of illness before seeking professional help.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a photo of the grapes or the packaging they came in. Showing this to your veterinarian helps them confirm the exact fruit type and estimate the potential quantity ingested. This information allows the medical team to prioritize your dog's care and decide whether immediate decontamination, such as induced vomiting or administering activated charcoal, is the best course of action.</p>",
+  "faqs": [
+    {
+      "question": "How many grapes are toxic to dogs?",
+      "answer": "There is no known safe amount. Toxicity is idiosyncratic, meaning one dog might eat several with no effect while another could suffer kidney failure from just one or two grapes."
+    },
+    {
+      "question": "What are the symptoms of grape poisoning?",
+      "answer": "Early symptoms include vomiting, diarrhea, lethargy, and loss of appetite. As kidney failure progresses, you may notice increased thirst followed by a significant decrease or total stop in urination."
+    },
+    {
+      "question": "Can I wait to see if my dog gets sick?",
+      "answer": "No. By the time a dog shows symptoms of grape poisoning, significant kidney damage has already occurred. Immediate treatment is necessary to prevent permanent organ failure."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

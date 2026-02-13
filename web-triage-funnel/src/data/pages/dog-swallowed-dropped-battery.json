@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do If Your Dog Swallowed a Battery",
+  "meta_desc": "If your dog swallowed a battery, it is a high-priority emergency. Learn the risks of chemical burns and why immediate veterinary care is essential.",
+  "content_html": "<h3>What is it?</h3><p>Battery ingestion occurs when a dog swallows any type of battery, such as alkaline (AA, AAA), lithium, or small button batteries. These items are extremely hazardous because they contain corrosive chemicals and heavy metals. When the battery comes into contact with saliva or gastrointestinal fluids, it can leak toxic substances or create an electric current that damages the surrounding tissue.</p><h3>Is it an emergency?</h3><p>Yes, this is a <strong>High Urgency Emergency</strong>. You must contact a veterinarian or an emergency pet clinic immediately. Lithium button batteries are especially dangerous because they can generate an electrical circuit in the esophagus, causing life-threatening tissue necrosis and perforation in as little as two hours. Even if your dog seems fine, internal chemical burns can occur rapidly and silently.</p><h3>Why a photo helps triage</h3><p>If you have the packaging or a matching spare battery, take a clear photo of it. This helps the veterinary team identify the battery's size, voltage, and chemical composition (alkaline vs. lithium). Knowing the exact type of battery allows the vet to assess the risk of leakage or electrical burns and determines whether the battery needs to be removed via endoscopy or surgery versus being monitored as it passes.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. Never induce vomiting if your dog swallowed a battery. If the battery is damaged or leaking, the corrosive chemicals can cause severe burns to the esophagus on the way back up."
+    },
+    {
+      "question": "What are the symptoms of battery poisoning in dogs?",
+      "answer": "Common signs include excessive drooling, oral ulcers (black or gray stains in the mouth), vomiting, abdominal pain, and a refusal to eat. However, internal damage often occurs before external symptoms appear."
+    },
+    {
+      "question": "Can a dog pass a battery naturally?",
+      "answer": "While small, intact batteries may occasionally pass, the risk of the casing breaking or a lithium battery reacting with tissue is too high to risk 'waiting and seeing.' Only a veterinarian can determine if it is safe to let it pass."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

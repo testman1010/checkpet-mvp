@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Grapes or Raisins: Emergency Triage Guide",
+  "meta_desc": "If your dog ate grapes or raisins, this is a high-priority medical emergency. Learn the risks of kidney failure and immediate steps to take.",
+  "content_html": "<h3>What is Grape and Raisin Toxicity?</h3><p>Grapes, raisins, and currants are highly toxic to dogs. While the exact toxic mechanism was long a mystery, recent research suggests that tartaric acid within the fruit causes a sudden and severe reaction. Unlike other toxins that are dose-dependent based on a dog's weight, grape toxicity is unpredictable; a single raisin can be fatal to some dogs while others may seem unaffected by a handful. Because we cannot predict sensitivity, any ingestion must be treated with extreme caution.</p><h3>Is it an Emergency?</h3><p>Yes. This is a <strong>High Urgency Emergency</strong>. Ingestion of grapes or raisins can lead to acute kidney failure within hours or days. Signs of poisoning include vomiting, diarrhea, lethargy, and a loss of appetite, but waiting for these symptoms to appear often means the kidneys have already sustained significant damage. You should contact an emergency veterinarian or a pet poison helpline immediately, even if your dog is acting normally.</p><h3>Why a Photo Helps Triage</h3><p>If you are calling a vet or heading to an emergency clinic, taking a quick photo of the fruit or its packaging can be incredibly helpful for the triage team. A photo helps the vet confirm the exact type of grape or raisin and, more importantly, allows them to check ingredient labels if the grapes were part of a trail mix or baked good. This helps identify co-toxins like xylitol or chocolate that may require additional treatment protocols.</p>",
+  "faqs": [
+    {
+      "question": "How many grapes are toxic to dogs?",
+      "answer": "There is no known safe dose for grapes or raisins. Because some dogs are significantly more sensitive than others, any amount consumed—even one—is considered a medical emergency."
+    },
+    {
+      "question": "What are the early signs of grape poisoning?",
+      "answer": "The most common early sign is vomiting, usually within 6 to 12 hours of ingestion. Other signs include lethargy, dehydration, abdominal pain, and a change in urination frequency."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically instructed to do so by a licensed veterinarian. Doing so incorrectly can lead to aspiration pneumonia or other complications."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

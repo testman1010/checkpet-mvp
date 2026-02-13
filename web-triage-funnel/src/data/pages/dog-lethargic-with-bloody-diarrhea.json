@@ -1,0 +1,20 @@
+{
+  "title": "Dog Lethargic with Bloody Diarrhea: Urgent Care Guide",
+  "meta_desc": "Lethargy and bloody diarrhea in dogs are signs of a medical emergency. Learn why immediate veterinary intervention is required for your pet.",
+  "content_html": "<h3>Understanding the Symptoms</h3><p>When a dog exhibits both lethargy (extreme tiredness or lack of energy) and bloody diarrhea, it indicates a significant disruption in the gastrointestinal tract or a systemic illness. The blood may appear as bright red streaks (hematochezia) or dark, coffee-ground-like spots (melena), both of which signify different types of internal distress.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Yes, this is a veterinary emergency. The combination of blood loss and lethargy suggests that your dog's body is no longer able to compensate for the underlying issue. This can quickly lead to life-threatening dehydration, hypovolemic shock, or sepsis. You should contact an emergency animal hospital immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to safely take a photo of the stool, it can be an invaluable tool for the veterinary triage team. A photo helps the vet quickly identify the volume of blood loss and whether the bleeding is originating from the upper or lower digestive tract, allowing them to prioritize your dog's care the moment you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the common causes of bloody diarrhea and lethargy?",
+      "answer": "Potential causes include Parvovirus (especially in puppies), Hemorrhagic Gastroenteritis (HGE), ingestion of toxins, severe bacterial infections, or intestinal obstructions."
+    },
+    {
+      "question": "Should I try to feed my dog or give water?",
+      "answer": "Do not offer food or medication until you have spoken with a veterinarian. If your dog is lethargic, they may have a reduced gag reflex, and forced hydration can lead to aspiration."
+    },
+    {
+      "question": "How quickly can this condition worsen?",
+      "answer": "Because dogs can dehydrate rapidly through diarrhea, a dog's condition can shift from stable to critical within just a few hours."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

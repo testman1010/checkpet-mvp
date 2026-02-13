@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Ingested Rat Poison Pellets",
+  "meta_desc": "If your cat ate rat poison, this is a high-priority emergency. Learn the immediate steps to take and how to help your vet identify the toxin.",
+  "content_html": "<h3>What is it?</h3><p>Rat poison pellets are toxic chemical baits used to control rodent populations. These pellets usually contain active ingredients like anticoagulants, which prevent blood from clotting, or neurotoxins like bromethalin. Because cats are small and have unique metabolic pathways, even a tiny amount of these substances can be fatal.</p><h3>Is it an emergency?</h3><p>Urgency Level: High. Yes, this is a life-threatening emergency. You must contact an emergency veterinarian or a pet poison control center immediately. Do not wait for symptoms to appear; many rodenticides have a delayed effect, and by the time your cat shows signs of illness, internal damage may be severe or irreversible.</p><h3>Why a photo helps triage</h3><p>If you have access to the packaging, safely take a clear photo of the brand name and the list of active ingredients. There are many different types of rodenticides, and each requires a specific treatment plan or antidote. Providing a photo allows the veterinary team to identify the exact poison and start the correct life-saving treatment the moment you arrive.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home without a direct instruction from a veterinarian. Cats are difficult to make vomit safely, and doing so incorrectly can lead to lung aspiration or further injury."
+    },
+    {
+      "question": "What if my cat just ate a mouse that might have been poisoned?",
+      "answer": "This is known as secondary poisoning. While the dose may be lower than direct ingestion, it can still be toxic. You should treat this as a potential emergency and consult your vet."
+    },
+    {
+      "question": "How long does it take for symptoms to show?",
+      "answer": "Depending on the toxin, it can take anywhere from a few hours to several days. This is why immediate treatment is vital even if your cat seems perfectly fine right now."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

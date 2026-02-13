@@ -1,0 +1,20 @@
+{
+  "title": "Dog Breathing Fast (Over 40 BPM at Rest): Veterinary Triage Guide",
+  "meta_desc": "If your dog is breathing over 40 times per minute while resting, it is a high-priority emergency. Learn the signs and why you must act now.",
+  "content_html": "<h3>What is Tachypnea?</h3><p>Tachypnea is the clinical term for an abnormally fast breathing rate. While it is normal for a dog to pant after exercise or when warm, breathing rapidly while sleeping or resting is a significant health concern. A healthy dog typically takes between 15 to 30 breaths per minute while at rest.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Yes, a resting respiratory rate consistently over 40 breaths per minute is a veterinary emergency. This often indicates that the lungs are not effectively oxygenating the blood, which can be caused by heart failure, fluid in the lungs (pulmonary edema), or severe pneumonia. If your dog also has blue or purple-tinged gums, or is using their abdomen to help pull in air, seek immediate emergency care.</p><h3>Why a Video Helps Triage</h3><p>When you call or head to an emergency clinic, having a short video of your dog breathing can be incredibly helpful for the veterinary team. A video allows the triage nurse to see the character of the breath—specifically if there is increased abdominal effort or an unusual rhythm. This visual data helps them determine the severity of the respiratory distress and ensures your pet is prioritized correctly upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "How do I accurately count my dog's respiratory rate?",
+      "answer": "Wait until your dog is calm or sleeping. Watch the chest rise and fall; one full rise and fall counts as one breath. Count the number of breaths in 15 seconds and multiply by four to get the breaths per minute."
+    },
+    {
+      "question": "Could my dog just be dreaming?",
+      "answer": "While dogs may twitch or huff briefly during REM sleep, their breathing should return to a normal, steady rate quickly. If the fast breathing persists for several minutes or happens every time they rest, it is not just dreaming."
+    },
+    {
+      "question": "What are other signs of respiratory distress?",
+      "answer": "In addition to a fast rate, look for 'orthopnea' (standing with elbows out and neck extended), flared nostrils, or a reluctantance to lie down."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

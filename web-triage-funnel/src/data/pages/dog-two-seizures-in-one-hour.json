@@ -1,0 +1,20 @@
+{
+  "title": "Dog Having Two Seizures in One Hour: Emergency Guide & Next Steps",
+  "meta_desc": "Two seizures in one hour (cluster seizures) is a high-priority veterinary emergency. Learn why immediate care is needed and how to help your dog now.",
+  "content_html": "<h3>What are Cluster Seizures?</h3><p>When a dog experiences two or more seizures within a 24-hour period, it is medically referred to as cluster seizures. Experiencing two seizures within a single hour is a particularly intense and concerning neurological event. This indicates that the brain's electrical activity is significantly disrupted and the body is struggling to return to a normal state between episodes.</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for two seizures in one hour is High. This is considered a critical medical emergency. Frequent seizures can lead to a dangerous spike in body temperature (hyperthermia) and may progress into status epilepticus, a life-threatening state where the brain remains in a continuous seizure. You should contact your nearest emergency veterinarian immediately for stabilization and treatment to break the seizure cycle.</p><h3>Why Video Documentation Helps Triage</h3><p>If it is safe to do so, or if a second person is available, capturing a brief video of the seizure can be an invaluable tool for the veterinary team. Visual evidence allows the doctor to observe the specific type of muscle movements, the duration of the event, and the dog's level of consciousness. This helps differentiate between neurological seizures and other conditions, such as fainting or tremors, ensuring your dog receives the correct medication as soon as you arrive.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my dog is seizing?",
+      "answer": "Keep your dog clear of stairs or sharp furniture. Do not put your hands or any objects in their mouth, as they may accidentally bite. Remain calm and speak in a soothing voice until the episode passes."
+    },
+    {
+      "question": "Can I wait until my regular vet opens?",
+      "answer": "No. Cluster seizures are a progressive emergency. Waiting several hours increases the risk of permanent brain damage or life-threatening complications. Seek an emergency clinic immediately."
+    },
+    {
+      "question": "Will my dog be okay after the seizures stop?",
+      "answer": "While many dogs recover from individual episodes, the underlying cause of cluster seizures must be identified and managed by a veterinarian to prevent future, more severe occurrences."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

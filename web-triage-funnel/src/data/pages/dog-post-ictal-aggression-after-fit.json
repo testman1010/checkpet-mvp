@@ -1,0 +1,20 @@
+{
+  "title": "Dog Post-Ictal Aggression: Management and Veterinary Triage Guide",
+  "meta_desc": "Understand why dogs may show aggression after a seizure, the urgency of veterinary care, and how to stay safe during the post-ictal phase.",
+  "content_html": "<h3>Understanding Post-Ictal Aggression</h3><p>Post-ictal aggression occurs during the recovery period immediately following a seizure. In this state, a dog's brain is attempting to return to normal function, often leaving them in a state of profound confusion, temporary blindness, or sensory overload. It is important to remember that your dog is not acting out of malice; they are experiencing a neurological 'short circuit' that can trigger a fight-or-flight response.</p><h3>Is Post-Ictal Aggression an Emergency?</h3><p><strong>Urgency Level: High.</strong> Any neurological event involving a loss of consciousness or behavioral changes requires an urgent veterinary assessment. If your dog is experiencing their first seizure, or if they are having cluster seizures (more than one in 24 hours), they must be seen by a vet immediately. During the aggressive phase, prioritize your safety by keeping your distance and avoiding any physical contact until they are fully conscious and recognize you.</p><h3>Why Video or Photos Help Triage</h3><p>While your primary focus should be on safety and comfort, capturing a video of the episode (if safe to do so) is an invaluable diagnostic tool. A video allows your veterinarian to observe the specific characteristics of the fit and the nature of the post-ictal behavior. This visual evidence helps the vet determine the focal point of the seizure in the brain and differentiate it from other conditions like syncope or behavioral episodes, leading to a faster and more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How long does the post-ictal phase usually last?",
+      "answer": "The post-ictal phase can last anywhere from a few minutes to several hours, though most dogs begin to return to normal within 30 to 60 minutes."
+    },
+    {
+      "question": "Will my dog remember being aggressive toward me?",
+      "answer": "No, dogs are generally unaware of their actions during the ictal and post-ictal phases and do not have any memory of the event."
+    },
+    {
+      "question": "What should I do to keep my dog safe during this time?",
+      "answer": "Keep the environment dark and quiet, block off stairs, and remove sharp objects. Avoid touching them or putting your face near theirs until the disorientation has completely passed."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

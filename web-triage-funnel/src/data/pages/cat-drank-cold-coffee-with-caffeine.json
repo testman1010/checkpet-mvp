@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Drank Cold Coffee: Triage and Symptoms Guide",
+  "meta_desc": "Cat drank cold coffee? Caffeine is toxic to felines. Learn about symptoms, why it is a medium-urgency concern, and how to help your vet today.",
+  "content_html": "<h3>What is it?</h3><p>Caffeine ingestion occurs when a cat consumes coffee, tea, or energy drinks. Caffeine belongs to a class of chemicals called methylxanthines. While humans can process these stimulants easily, cats are hypersensitive to them. Even cold coffee contains enough caffeine to significantly impact a cat's central nervous system and heart.</p><h3>Is it an Emergency?</h3><p>The urgency level for caffeine ingestion is Medium. While a single lick may only cause mild hyperactivity, larger amounts can be life-threatening. You should monitor your cat closely for symptoms such as restlessness, rapid breathing, heart palpitations, or tremors. Because caffeine is absorbed quickly, it is important to seek veterinary advice promptly rather than waiting for severe symptoms to manifest.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the spill, the coffee container, or the nutritional label can be incredibly helpful during triage. A photo allows a veterinary professional to estimate the volume of liquid consumed and determine the concentration of caffeine (for example, cold brew is often much more concentrated than standard drip coffee). This information is vital for calculating whether the dose consumed is reaching toxic levels for your cat's specific weight.</p>",
+  "faqs": [
+    {
+      "question": "How long does it take for caffeine symptoms to show in cats?",
+      "answer": "Symptoms of caffeine poisoning usually appear within 30 to 60 minutes of ingestion."
+    },
+    {
+      "question": "Can I give my cat water to flush out the caffeine?",
+      "answer": "While hydration is important, you should not force-feed your cat water. Contact a vet first, as they may need to administer intravenous fluids or activated charcoal."
+    },
+    {
+      "question": "Is decaf coffee safe for cats?",
+      "answer": "No. Decaf coffee still contains trace amounts of caffeine and compounds that can cause gastrointestinal upset in cats."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

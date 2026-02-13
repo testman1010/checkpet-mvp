@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eating Plastic and Non-Food Items: A Guide to Pica",
+  "meta_desc": "Is your cat eating plastic? Learn about Pica, the urgency level for vet care, and why documenting the behavior helps your veterinarian diagnose.",
+  "content_html": "<h3>What is Pica in Cats?</h3><p>Pica is a behavioral and sometimes medical condition where cats develop a compulsive craving to eat non-food items. While plastic is a very common target, cats with pica may also chew on or consume wool, cardboard, rubber bands, or electrical cords. This behavior can stem from dietary deficiencies, boredom, stress, or underlying health issues like anemia or gastrointestinal disease.</p><h3>Is it an emergency?</h3><p>The urgency level for eating non-food items is generally classified as <strong>Medium</strong>. While the act of chewing itself isn't always an immediate crisis, the risk of an intestinal blockage is a serious concern. If your cat has actually swallowed the item and begins vomiting, acting lethargic, or stops eating, the urgency becomes <strong>High</strong> and you should seek immediate veterinary care.</p><h3>Why a Photo Helps Triage</h3><p>If you catch your cat in the act or find evidence of chewed items, taking a photo can be incredibly helpful for your veterinary team. A photo of the material allows the vet to assess the texture, size, and potential for the item to cause an obstruction or show up on an X-ray. It also helps them determine if the item might be toxic or if it has sharp edges that could damage the digestive tract.</p>",
+  "faqs": [
+    {
+      "question": "Why is my cat suddenly obsessed with licking plastic bags?",
+      "answer": "Some plastic bags are coated in cornstarch or contain tallow (animal fats), which cats can smell and taste. It may also be the crinkly sound that provides sensory stimulation."
+    },
+    {
+      "question": "Can pica be a sign of a nutritional deficiency?",
+      "answer": "Yes, in some cases, cats may eat non-food items if they are lacking specific vitamins, minerals, or fiber in their diet. Your vet can run blood work to rule this out."
+    },
+    {
+      "question": "How can I stop my cat from eating non-food items?",
+      "answer": "Management involves removing the items from the cat's reach, providing more environmental enrichment like puzzle feeders, and consulting a vet to address any underlying medical triggers."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

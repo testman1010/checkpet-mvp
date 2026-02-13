@@ -1,0 +1,20 @@
+{
+  "title": "Cat Head Tilt and Loss of Balance: Is it an Emergency?",
+  "meta_desc": "If your cat has a sudden head tilt or loss of balance, it could be vestibular disease. Learn why this requires urgent veterinary triage.",
+  "content_html": "<h3>What is it?</h3><p>A sudden head tilt and loss of balance in cats is typically caused by a disruption in the vestibular system, which is responsible for maintaining equilibrium and spatial orientation. This condition, often referred to as vestibular disease, can stem from various issues including middle or inner ear infections, inflammatory disease, polyps, or idiopathic vestibular syndrome (common in older cats).</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> While some causes are less severe than others, a cat experiencing a sudden loss of coordination (ataxia) or a persistent head tilt should be seen by a veterinarian immediately. These symptoms can mimic or indicate serious neurological events, severe infections, or toxicity that require prompt medical intervention to prevent permanent damage or distress.</p><h3>Why a photo or video helps triage</h3><p>Providing a clear photo or, more importantly, a short video of your cat's behavior is extremely valuable for emergency triage. Capturing their gait, the specific angle of the head tilt, and any involuntary eye movements (nystagmus) allows the veterinary team to assess the severity of the neurological deficit and prepare the necessary diagnostic tools before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are common signs of vestibular disease in cats?",
+      "answer": "Common signs include a persistent leaning or tilting of the head to one side, stumbling, circling, falling over, and rapid, involuntary eye movements."
+    },
+    {
+      "question": "Can an ear infection cause a cat to lose its balance?",
+      "answer": "Yes, deep infections of the middle or inner ear are among the most common causes of vestibular signs and require professional cleaning and antibiotics."
+    },
+    {
+      "question": "How long does it take for a cat to recover from vestibular issues?",
+      "answer": "Recovery depends on the underlying cause. If it is idiopathic vestibular syndrome, many cats show significant improvement within 48 to 72 hours, though a slight head tilt may persist."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

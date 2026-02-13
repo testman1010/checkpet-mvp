@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate a Used Tea Bag: Risks and Triage Guide",
+  "meta_desc": "Find out if your dog eating a used tea bag is an emergency. Learn about caffeine toxicity risks, blockage symptoms, and when to call your vet.",
+  "content_html": "<h3>What is it?</h3><p>Ingesting used tea bags involves your dog consuming three potential hazards: the tea leaves themselves, the bag material (paper, silk, or nylon), and often a string or metal staple. While used leaves have less caffeine than fresh ones, they still contain stimulants like caffeine and theophylline that dogs cannot metabolize efficiently. Furthermore, the physical components of the bag can pose a risk of choking or intestinal blockage.</p><h3>Is it an emergency?</h3><p>The urgency level for this situation is Medium. Caffeine toxicity can set in quickly, and even small amounts can cause agitation, an increased heart rate, and tremors in smaller dogs. While a single bag might pass through a large dog safely, the risk of a gastrointestinal obstruction from the bag or string is always present. You should monitor your pet closely and contact a veterinarian or pet poison control immediately for a professional assessment based on your dog's size and the quantity consumed.</p><h3>Why a photo helps triage</h3><p>Taking a photo of the tea packaging or a duplicate tea bag can be incredibly helpful for your veterinary team. A photo allows the vet to identify the specific type of tea—such as black, green, or herbal—and check for additional dangerous ingredients like chocolate or xylitol. Seeing the size and material of the bag (and whether it has a staple) also helps the vet determine if the primary concern is chemical toxicity or a physical blockage.</p>",
+  "faqs": [
+    {
+      "question": "What are the signs of caffeine poisoning in dogs?",
+      "answer": "Symptoms include extreme restlessness, rapid breathing, muscle tremors, vomiting, and an elevated heart rate. In severe cases, it can lead to seizures."
+    },
+    {
+      "question": "Can the tea bag itself cause a blockage?",
+      "answer": "Yes, especially the string or the mesh material. These items can become lodged in the digestive tract, which is a serious condition requiring medical intervention."
+    },
+    {
+      "question": "Is herbal tea safer than black tea?",
+      "answer": "While many herbal teas are caffeine-free, some herbs can be toxic to dogs, and the physical risk of the bag and string remains the same."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Collapse and Loss of Mobility: Emergency Triage Guide",
+  "meta_desc": "If your cat suddenly collapses and cannot walk, it is a high-priority emergency. Learn about potential causes and the importance of immediate vet care.",
+  "content_html": "<h3>What is a Sudden Collapse?</h3><p>A sudden collapse, often referred to as syncope or a mobility crisis, occurs when a cat unexpectedly loses their balance, falls over, or is unable to use their limbs. This may involve the cat appearing limp, dragging their hind legs, or showing signs of intense vocalization and distress. It is a sign that the body is experiencing a critical failure in the neurological, cardiovascular, or musculoskeletal systems.</p><h3>Is it an Emergency?</h3><p>Yes. A sudden collapse with the inability to walk is a <strong>High Urgency</strong> emergency. These symptoms can indicate life-threatening conditions such as Feline Aortic Thromboembolism (Saddle Thrombus), congestive heart failure, severe internal bleeding, or acute neurological trauma. Every minute counts in these situations, and immediate veterinary intervention is required to stabilize your pet and manage pain.</p><h3>Why a Photo or Video Helps Triage</h3><p>While your priority should be getting to the clinic, capturing a quick video of the event or a photo of your cat's posture can be vital for the veterinary team. These visuals allow the vet to see exactly how the cat was moving—or failing to move—which helps them distinguish between different types of episodes, such as a seizure versus a cardiac event. This information can significantly speed up the diagnostic process upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "What is 'Saddle Thrombus'?",
+      "answer": "Saddle Thrombus is a serious condition where a blood clot lodges at the base of the aorta, cutting off blood flow to the hind legs, often causing sudden paralysis and extreme pain."
+    },
+    {
+      "question": "How should I move my cat after a collapse?",
+      "answer": "Handle your cat very gently. Place them on a flat, firm surface like a piece of plywood or inside a secure carrier lined with a soft towel to prevent further injury during transport."
+    },
+    {
+      "question": "Can a cat recover from a sudden collapse?",
+      "answer": "Recovery depends entirely on the underlying cause. While some conditions are life-threatening, others can be managed if caught early and treated aggressively by a veterinarian."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

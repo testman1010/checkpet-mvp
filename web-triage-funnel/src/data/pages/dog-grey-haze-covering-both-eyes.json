@@ -1,0 +1,20 @@
+{
+  "title": "Grey Haze Over Your Dog's Eyes: Causes and Triage Guide",
+  "meta_desc": "Discover why your dog has a grey haze in their eyes. Learn about nuclear sclerosis, cataracts, and why this is usually a low-urgency concern.",
+  "content_html": "<h3>What Is the Grey Haze in My Dog's Eyes?</h3><p>Noticing a bluish or greyish haze in your dog’s eyes can be a source of worry, but it is a very common occurrence in middle-aged and senior dogs. Most often, this is a condition called Lenticular Sclerosis (also known as Nuclear Sclerosis). This is a natural aging process where the lens of the eye becomes denser and more compressed over time. While it can look similar to cataracts, it is actually a normal change that usually does not significantly impact your dog's quality of life or vision.</p><h3>Is This an Emergency?</h3><p>The urgency level for a bilateral grey haze is generally Low. If your dog is behaving normally, is not squinting, and there is no sudden redness or discharge, this is a condition that can be discussed during your next routine veterinary visit. However, if the cloudiness appeared very suddenly, is accompanied by signs of pain, or if your dog is bumping into furniture, you should schedule a check-up sooner to rule out cataracts or glaucoma.</p><h3>Why a Photo Helps with Triage</h3><p>If you are unsure about the urgency, taking a clear, well-lit photo of your dog's eyes can be an invaluable tool for your veterinary team. A high-quality photo allows a professional to look for the 'depth' of the cloudiness. They can often distinguish between a surface-level issue on the cornea and a deeper change within the lens. This visual information helps your vet prioritize your appointment and gives them a baseline for monitoring your dog’s eye health over time.</p>",
+  "faqs": [
+    {
+      "question": "Will my dog go blind from this grey haze?",
+      "answer": "If the haze is Lenticular Sclerosis, your dog will retain functional vision, though they may lose some fine-focusing ability. If the haze is caused by cataracts, it could lead to blindness, which is why a professional diagnosis is important."
+    },
+    {
+      "question": "Is there a cure for cloudy eyes in older dogs?",
+      "answer": "Nuclear sclerosis does not require treatment as it is a natural aging process. If the cloudiness is due to cataracts, surgery is the only way to remove them, though many dogs adapt well to limited vision."
+    },
+    {
+      "question": "How can I tell the difference between cataracts and sclerosis?",
+      "answer": "It is difficult to tell with the naked eye. Generally, sclerosis allows some light to reflect off the back of the eye (the 'tapetal reflex'), while a cataract acts as a solid white or grey wall that blocks that reflection."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Why Cats Eat Grass and Vomit: A Guide for Concerned Owners",
+  "meta_desc": "Is your cat eating grass and vomiting? Discover why this behavior occurs, why the urgency level is low, and how photos help your veterinarian.",
+  "content_html": "<h3>What is it?</h3><p>Cats are instinctive hunters and explorers, and eating grass is a common behavior. Because cats lack the necessary enzymes to fully digest plant matter, the grass often acts as a natural emetic. This causes them to vomit, which helps clear their digestive tract of indigestible materials such as fur, feathers, or bone fragments. In many cases, it is simply a way for your cat to settle an upset stomach.</p><h3>Is it an emergency?</h3><p>Urgency level: Low. If your cat eats grass and vomits occasionally but otherwise appears healthy, active, and has a normal appetite, it is typically not an emergency. However, you should contact a veterinarian if the vomiting becomes frequent (multiple times a day), if there is blood in the vomit, or if your cat appears lethargic or refuses to eat.</p><h3>Why a photo helps triage.</h3><p>If you are concerned about your cat's health, taking a clear photo of the vomit can be incredibly useful for a veterinary professional. A photo allows the vet to inspect the color, consistency, and contents of the vomit, helping them differentiate between a standard hairball clearing and more concerning signs like bile, blood, or toxic plant fragments.</p>",
+  "faqs": [
+    {
+      "question": "Is it safe for my cat to eat grass from the lawn?",
+      "answer": "It is generally safe unless the lawn has been treated with chemical fertilizers, pesticides, or herbicides, which can be toxic to pets."
+    },
+    {
+      "question": "Can I provide a safer alternative to outdoor grass?",
+      "answer": "Yes, many pet stores sell 'cat grass' kits (usually wheat, barley, or rye) that are grown specifically for feline consumption in a controlled environment."
+    },
+    {
+      "question": "What if my cat is gagging but not bringing anything up?",
+      "answer": "If your cat is repeatedly retching or gagging without producing vomit, it could indicate an obstruction or a respiratory issue, and you should consult a vet promptly."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

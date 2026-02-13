@@ -1,0 +1,20 @@
+{
+  "title": "Cat Seizures and Convulsions: Emergency Care and Triage Guide",
+  "meta_desc": "Identify cat seizure signs and learn why they are high-priority emergencies. Find out how recording the episode helps your vet provide faster care.",
+  "content_html": "<h3>What Are Cat Seizures and Convulsions?</h3><p>A seizure is a sudden, uncontrolled burst of electrical activity in the brain. In cats, this often presents as involuntary muscle contractions, paddling of the limbs, jaw snapping, or loss of consciousness. Convulsions are the physical manifestation of these electrical storms. Watching your cat go through this can be frightening, but understanding that they are not in pain during the event can help you stay calm and provide the necessary support.</p><h3>Is This an Emergency?</h3><p>The urgency level for cat seizures is High. While a single, short seizure may not be immediately fatal, it is a symptom of an underlying medical condition—such as toxicity, metabolic disease, or neurological issues—that requires a prompt veterinary diagnosis. If your cat experiences multiple seizures in a 24-hour period (cluster seizures) or a single seizure lasting longer than five minutes, you must seek emergency veterinary care immediately, as these situations can lead to permanent brain damage or overheating.</p><h3>Why a Photo or Video Helps Triage</h3><p>When you arrive at the clinic, your cat may no longer be seizing. Because many different conditions can mimic a seizure—such as fainting, inner ear infections, or heart problems—having a video of the event is an invaluable tool for your veterinarian. A clear video allows the medical team to observe the specific type of movement, the duration of the episode, and the post-seizure behavior, enabling a much faster and more accurate diagnosis during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is having a seizure?",
+      "answer": "Keep your cat safe by moving furniture or sharp objects away from them. Do not put your hands near their mouth, as they may bite accidentally. Avoid restraining them, as this can cause more stress or injury."
+    },
+    {
+      "question": "Can a cat die from a seizure?",
+      "answer": "While most brief seizures are not fatal, prolonged seizures (status epilepticus) can cause the body temperature to rise to dangerous levels, leading to organ failure. This is why immediate veterinary evaluation is essential."
+    },
+    {
+      "question": "What causes sudden seizures in cats?",
+      "answer": "Common causes include ingestion of toxins (like lilies or certain flea medications), low blood sugar, liver or kidney disease, or idiopathic epilepsy. A vet will use blood work and physical exams to determine the cause."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

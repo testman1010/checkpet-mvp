@@ -1,0 +1,20 @@
+{
+  "title": "Cat Cold Back Paws and Limping: Emergency Triage Guide",
+  "meta_desc": "If your cat has cold back paws and is limping, this is a critical emergency. Learn about Saddle Thrombus and why immediate vet care is required.",
+  "content_html": "<h3>What is it?</h3><p>When a cat suddenly begins limping and has cold back paws, it is frequently a sign of a life-threatening condition known as Feline Aortic Thromboembolism (FATE), or a 'Saddle Thrombus.' This occurs when a blood clot, often originating from the heart, travels down the aorta and lodges where the artery splits to supply the hind legs. This blockage cuts off blood flow, leading to sudden pain, paralysis, or weakness in the rear limbs.</p><h3>Is it an emergency?</h3><p>Yes. The urgency level is High. This is a critical medical emergency. Cats with a saddle thrombus are in extreme pain and are at high risk for permanent tissue damage, organ failure, or death if not treated immediately. Do not wait for an appointment; take your cat to the nearest 24-hour emergency veterinary hospital right away.</p><h3>Why a photo or video helps triage</h3><p>Providing your veterinarian with a quick video of your cat's movement or a clear photo of their paw pads can be invaluable during triage. Visual evidence allows the medical team to see the severity of the limping and check for cyanosis (a blue or pale tint to the paw pads), which confirms a lack of oxygenated blood. This information helps them prioritize your cat the moment you walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat aspirin for the pain?",
+      "answer": "No. Never give your cat human medications. Aspirin and other NSAIDs can be toxic to cats and may complicate the emergency treatment needed for a blood clot."
+    },
+    {
+      "question": "How can I tell for sure if the paws are cold?",
+      "answer": "Gently feel your cat's front paws first to establish their normal body temperature, then feel the back paws. If the back paws feel significantly cooler like room temperature or chilled, it indicates a lack of circulation."
+    },
+    {
+      "question": "Is a saddle thrombus treatable?",
+      "answer": "While the prognosis is often guarded, some cats can recover with intensive hospitalization, pain management, and blood-thinning medications. Immediate intervention is the best chance for a positive outcome."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

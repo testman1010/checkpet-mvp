@@ -1,0 +1,20 @@
+{
+  "title": "Cat Urinating in Corners: Causes, Urgency, and Triage Advice",
+  "meta_desc": "Is your cat suddenly urinating in corners? Learn about potential medical causes, urgency levels, and why a photo can help your veterinarian triage.",
+  "content_html": "<h3>What is Sudden Inappropriate Urination?</h3><p>When a cat suddenly begins urinating in corners or on other soft surfaces instead of using their litter box, it is rarely a behavioral 'protest.' In most cases, this is a sign of physical discomfort or environmental stress. Common medical causes include Feline Lower Urinary Tract Disease (FLUTD), urinary tract infections (UTIs), or the presence of crystals and stones in the bladder. The cat may associate the litter box with the pain they feel while urinating, leading them to seek out new, quiet locations like corners.</p><h3>Is It an Emergency? (Urgency Level: Medium)</h3><p>The urgency level for this behavior is typically Medium. If your cat is otherwise acting normal, eating, and successfully passing urine, you should schedule a veterinary appointment within the next 24 to 48 hours. However, this becomes a High-Priority Emergency if your cat is straining, crying out, or unable to produce any urine. A 'blocked' cat, particularly in males, is a life-threatening condition that requires immediate emergency care.</p><h3>Why a Photo Helps Triage</h3><p>Providing your veterinarian with a photo of the urine spot can be incredibly helpful for a quick diagnosis. A clear image allows the vet to check for signs of hematuria (blood in the urine), cloudiness, or unusual discharge. Additionally, a photo or video of your cat's posture while they are in the corner can help the vet distinguish between 'spraying' (territorial marking) and 'straining' (a sign of pain or obstruction).</p>",
+  "faqs": [
+    {
+      "question": "Can stress cause my cat to pee in the corner?",
+      "answer": "Yes, environmental changes like a new pet, moving house, or even a dirty litter box can cause stress-related urination, but medical issues must always be ruled out first."
+    },
+    {
+      "question": "Why is my male cat suddenly straining in the corner?",
+      "answer": "Straining without producing urine is a critical emergency sign of a urinary blockage, which is most common in male cats and requires immediate ER intervention."
+    },
+    {
+      "question": "What will the vet do to diagnose the issue?",
+      "answer": "Your vet will likely perform a physical exam and a urinalysis to check for bacteria, crystals, and blood to determine if the cause is an infection or inflammation."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

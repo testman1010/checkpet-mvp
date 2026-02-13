@@ -1,0 +1,20 @@
+{
+  "title": "Dog Shaking Head and Flapping Ears: Causes and Vet Triage Guide",
+  "meta_desc": "Is your dog shaking their head or flapping ears? Learn about potential causes, urgency levels, and why a photo is vital for veterinary triage.",
+  "content_html": "<h3>What Does Head Shaking and Ear Flapping Mean?</h3><p>When a dog persistently shakes their head or flaps their ears, it is a clear sign of discomfort, itching, or pain. This behavior is usually an instinctive attempt to dislodge something from the ear canal or to soothe irritation. It often points to an underlying issue such as a bacterial or yeast infection, ear mites, or even a foreign object like a grass seed stuck inside the canal.</p><h3>Is It an Emergency?</h3><p>The urgency level for head shaking is <strong>Medium</strong>. While it is rarely a life-threatening emergency, it is a condition that should be addressed by a veterinarian within 24 to 48 hours. If the shaking is violent and frequent, it can lead to an 'aural hematoma'—a painful condition where blood vessels in the ear flap burst, causing the ear to swell like a balloon. Furthermore, untreated infections can move deeper into the ear, potentially damaging the eardrum or affecting the dog's balance.</p><h3>How a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the inside of your dog's ear flap and the entrance to the canal is extremely helpful for triage. A photo allows a veterinary professional to see the color and consistency of any discharge (such as dark coffee-ground debris or yellow pus) and the level of inflammation. This information helps the vet prioritize your appointment and may even help differentiate between a simple allergy flare-up and a more serious infection before you arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I use over-the-counter drops to stop the shaking?",
+      "answer": "It is not recommended to put any drops or cleaners in the ear until a vet has confirmed the eardrum is intact. If the eardrum is ruptured, certain medications can cause permanent deafness or neurological issues."
+    },
+    {
+      "question": "Why does my dog's ear smell bad?",
+      "answer": "A foul or sweet odor is often a sign of a yeast or bacterial infection. This usually requires prescription medicated drops to resolve properly."
+    },
+    {
+      "question": "Could allergies be the cause?",
+      "answer": "Yes, many dogs with environmental or food allergies experience ear inflammation as their primary symptom, which leads to secondary infections and head shaking."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

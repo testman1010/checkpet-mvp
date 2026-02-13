@@ -1,0 +1,20 @@
+{
+  "title": "Why is My Cat Eating Cat Litter? Pica and Veterinary Triage Guide",
+  "meta_desc": "Learn why cats eat litter or dirt, the urgency level for veterinary care, and how to identify potential health risks like anemia or blockages.",
+  "content_html": "<h3>What is it?</h3><p>When a cat eats non-food items like litter, dirt, or rocks, it is a condition known as pica. In cats, this behavior is rarely just a quirk; it is often a biological signal that something is wrong. Common causes include nutritional deficiencies, such as a lack of iron or vitamins, or underlying illnesses like feline leukemia, kidney disease, or severe anemia.</p><h3>Is it an emergency?</h3><p>The urgency level for eating litter is generally considered Medium. It is not always an immediate life-threatening emergency, but it does require a veterinary exam within the next 24 to 48 hours. If your cat is eating clumping clay litter, the risk increases significantly due to the potential for intestinal blockages. Seek immediate emergency care if your cat is also experiencing vomiting, extreme lethargy, or has very pale or white gums.</p><h3>Why a photo helps triage</h3><p>Capturing a photo or video of your cat engaging in this behavior, as well as a photo of the litter brand's ingredient list, can be incredibly helpful for your veterinarian. Different types of litter pose different risks; for example, a photo helps the vet determine if the material is likely to cause a mechanical blockage or if it contains chemicals that could be toxic if ingested. This visual evidence allows for a more precise and rapid triage process.</p>",
+  "faqs": [
+    {
+      "question": "Can anemia cause a cat to eat litter?",
+      "answer": "Yes, anemia is one of the most common medical reasons for pica in cats. They may instinctively seek out minerals found in litter or dirt to compensate for a lack of red blood cells or iron."
+    },
+    {
+      "question": "Is it safe if my cat only eats a little bit of dirt?",
+      "answer": "While small amounts of dirt might not be immediately toxic, the behavior itself indicates an underlying health or behavioral issue that needs to be addressed by a professional."
+    },
+    {
+      "question": "What is the biggest risk of eating clumping litter?",
+      "answer": "The primary risk is a gastrointestinal blockage. Clumping litter is designed to expand and harden when it touches moisture, which can cause a life-threatening obstruction in the intestines."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

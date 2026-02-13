@@ -1,0 +1,20 @@
+{
+  "title": "Urgent Help: My Cat Ate Sago Palm Leaves - Emergency Guide",
+  "meta_desc": "Sago Palm is extremely toxic to cats. If ingested, seek emergency veterinary care immediately. Learn the risks and next steps here.",
+  "content_html": "<h3>What is a Sago Palm?</h3><p>The Sago Palm (Cycas revoluta) is a popular ornamental plant often found in landscaping and as a houseplant. Despite its name and appearance, it is not a true palm but a cycad. Every part of the Sago Palm—including the leaves, trunk, and especially the seeds—contains a potent toxin called cycasin. This substance is highly poisonous to cats and can cause devastating internal damage if even a small amount is ingested.</p><h3>Is This an Emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a life-threatening medical emergency. Ingesting any part of a Sago Palm can lead to acute liver failure and death in cats. Because the toxin is so concentrated, a single leaf or seed can be fatal. You should not wait for your cat to show symptoms; immediate veterinary intervention is required. Contact your nearest emergency vet or a pet poison control hotline immediately.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to do so safely, take a clear photo of the plant your cat encountered. Showing this photo to the veterinary staff allows them to positively identify the plant species instantly. Since many plants look similar, a photo ensures that your cat is treated specifically for Sago Palm toxicity (cycasin exposure) rather than a less dangerous irritant, potentially saving vital time during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of Sago Palm poisoning in cats?",
+      "answer": "Symptoms can include vomiting, diarrhea, black or bloody stools, drooling, lethargy, and loss of appetite. Within a few days, signs of liver failure such as jaundice (yellowing of eyes and skin), bruising, and seizures may occur."
+    },
+    {
+      "question": "What is the survival rate for Sago Palm ingestion?",
+      "answer": "The prognosis is guarded. Even with aggressive veterinary treatment, the survival rate is approximately 50%. This is why seeking medical help within the first hour of ingestion is absolutely critical."
+    },
+    {
+      "question": "Can I give my cat anything at home to help?",
+      "answer": "No. Do not attempt to induce vomiting or give any home remedies to your cat. These actions can cause more harm. Your cat requires professional decontamination and intravenous support that can only be provided at a clinic."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

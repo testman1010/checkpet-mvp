@@ -1,0 +1,20 @@
+{
+  "title": "Blood in Cat Urine Clumps: Causes and Emergency Triage Guide",
+  "meta_desc": "Finding blood in your cat's litter box can be scary. Learn what it means, why it is a high-priority concern, and how to get help for your cat now.",
+  "content_html": "<h3>What is Hematuria in Cats?</h3><p>Finding pink, red, or dark brown discoloration in your cat's urine clumps is a condition known as hematuria. This is a common clinical sign that your cat is experiencing inflammation, infection, or irritation within their lower urinary tract. Common causes include Feline Idiopathic Cystitis (FIC), urinary tract infections, bladder stones, or even crystals in the urine.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. While blood in the urine can be caused by various issues, it is always considered a high-priority concern in feline medicine. Most importantly, if your cat is a male, blood in the urine can be a precursor to a life-threatening urethral obstruction (a \"blocked cat\"). If your cat is straining, vocalizing in the litter box, or unable to produce urine, you must seek emergency veterinary care immediately.</p><h3>How a Photo Helps with Triage</h3><p>If it is safe to do so, taking a clear photo of the bloody urine clumps can be incredibly helpful for your veterinary team. A photo allows the triage nurse or veterinarian to assess the severity of the bleeding and the color of the urine (bright red vs. tea-colored), which helps them determine the level of urgency and prepare the necessary diagnostic tests before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "My cat seems fine otherwise, can I wait a few days?",
+      "answer": "It is not recommended to wait. Cats are masters at hiding pain, and urinary issues can escalate from mild discomfort to a life-threatening emergency in a matter of hours."
+    },
+    {
+      "question": "What if my cat is also urinating outside the litter box?",
+      "answer": "Inappropriate urination is often a sign that the cat associates the litter box with the pain they feel when urinating. This further confirms that a medical evaluation is needed."
+    },
+    {
+      "question": "How will the vet diagnose the cause?",
+      "answer": "Your veterinarian will likely perform a physical exam, a urinalysis, and potentially an ultrasound or X-ray to look for stones or inflammation in the bladder."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

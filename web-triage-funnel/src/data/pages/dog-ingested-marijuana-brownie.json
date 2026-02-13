@@ -1,0 +1,20 @@
+{
+  "title": "My Dog Ate a Marijuana Brownie: Emergency Guide and Next Steps",
+  "meta_desc": "If your dog ingested a marijuana brownie, it is a high-priority emergency. Learn about the risks of THC and chocolate toxicity for dogs.",
+  "content_html": "<h3>What Is Marijuana Brownie Ingestion?</h3><p>Ingesting a marijuana brownie means your dog has consumed two potentially lethal toxins: THC (tetrahydrocannabinol) and chocolate. While THC affects the central nervous system, chocolate contains theobromine and caffeine, which can cause severe cardiac and neurological distress. This combination is particularly dangerous because the fat content in brownies can also trigger pancreatitis.</p><h3>Is This an Emergency?</h3><p>Urgency Level: High. Yes, this is a medical emergency. You should contact your veterinarian or the nearest pet emergency clinic immediately. Do not wait for symptoms to appear, as the chocolate can cause rapid heart rate and seizures, while the THC can lead to extreme lethargy, urinary incontinence, and respiratory depression. Prompt professional intervention is the best way to ensure your dog's safety.</p><h3>Why a Photo Helps Triage</h3><p>If possible, take a photo of the brownie packaging or the remaining portion before heading to the vet. A photo of the ingredient list helps the veterinary team determine the concentration of THC and the type of chocolate involved (dark chocolate is much more toxic than milk chocolate). Additionally, it allows the vet to check for other hidden toxins like Xylitol, a common sugar substitute that is deadly to dogs.</p>",
+  "faqs": [
+    {
+      "question": "What are the common symptoms of THC toxicity in dogs?",
+      "answer": "Symptoms include stumbling or lack of coordination (ataxia), dilated pupils, sensitivity to touch or sound, slow heart rate, and leaking urine."
+    },
+    {
+      "question": "How long does it take for a dog to show signs of poisoning?",
+      "answer": "Signs typically begin to show between 30 minutes and 3 hours after ingestion, though the effects of the chocolate may manifest sooner than the THC."
+    },
+    {
+      "question": "Can I induce vomiting at home?",
+      "answer": "Never induce vomiting unless specifically instructed to do so by a licensed veterinarian. If the dog is already showing neurological signs, inducing vomiting can lead to aspiration pneumonia."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Losing Weight Despite Increased Appetite: Causes and Veterinary Triage",
+  "meta_desc": "Is your dog losing weight but eating more? Learn about common causes, urgency levels, and why a veterinary consultation is necessary.",
+  "content_html": "<h3>What is Weight Loss Despite High Caloric Intake?</h3><p>It can be very distressing to see your beloved dog eating ravenously while their ribs and spine become increasingly prominent. When a dog loses weight despite an increased appetite (polyphagia), it typically indicates that their body is unable to properly digest food, absorb nutrients, or utilize the energy they are consuming. This 'starvation in the midst of plenty' is a clinical sign that requires medical investigation.</p><h3>Is it an Emergency?</h3><p>This situation is classified as <strong>Medium Urgency</strong>. While your dog likely does not need to visit an emergency room this second, they should be evaluated by a veterinarian within the next 24 to 48 hours. However, if this weight loss is accompanied by extreme lethargy, persistent vomiting, or a complete collapse, you should seek immediate emergency care.</p><h3>Common Underlying Causes</h3><p>Several conditions can lead to this paradox. Diabetes mellitus prevents the body from using glucose for energy, causing it to burn fat and muscle instead. Exocrine Pancreatic Insufficiency (EPI) occurs when the pancreas doesn't produce enough digestive enzymes, meaning food passes through the tract without being absorbed. Other possibilities include intestinal parasites, inflammatory bowel disease (IBD), or certain metabolic disorders.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo to your veterinary team can be a vital diagnostic tool. A clear photo of your dog from a 'bird's eye view' (looking down at their back) and a side profile helps the vet determine their Body Condition Score (BCS). Additionally, a photo of your dog's stool can provide immediate clues—for example, greasy or voluminous stools often point toward malabsorption issues like EPI.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just have worms?",
+      "answer": "Yes, intestinal parasites are a common cause of weight loss despite a good appetite, as the parasites consume the nutrients intended for your dog. A simple fecal test at the vet can confirm this."
+    },
+    {
+      "question": "What tests will my veterinarian run?",
+      "answer": "Your vet will likely recommend a full blood panel to check organ function and blood sugar, a urinalysis, and potentially specific tests for pancreatic function or intestinal absorption."
+    },
+    {
+      "question": "Should I just feed my dog more for now?",
+      "answer": "While it is tempting to increase their portions, if the underlying cause is a condition like Diabetes or EPI, simply adding more food will not solve the problem and could lead to further digestive upset. It is best to maintain their current diet until a vet provides a diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

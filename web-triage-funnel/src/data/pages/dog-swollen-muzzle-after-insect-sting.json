@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swollen Muzzle After Insect Sting: Emergency Triage Guide",
+  "meta_desc": "Is your dog's snout swollen after a sting? Learn the urgency levels, symptoms of anaphylaxis, and why you should take a photo for your vet.",
+  "content_html": "<h3>What is it?</h3><p>A swollen muzzle after an insect sting is an inflammatory response to venom. When a bee, wasp, or hornet stings a dog on the snout, the immune system releases histamines, causing rapid fluid accumulation in the soft tissues of the face. This can range from a mild local reaction to a severe systemic allergic response.</p><h3>Is it an emergency? (Urgency Level: High)</h3><p>Any facial swelling in a dog is considered a high-priority medical situation. Because the muzzle is so close to the airway, there is a risk that swelling could spread to the throat or larynx, making it difficult for your dog to breathe. You should contact an emergency veterinarian immediately if you notice lethargy, pale gums, vomiting, or any change in their breathing pattern.</p><h3>Why a photo helps triage</h3><p>Taking a quick, clear photo of your dog's face can be life-saving. It provides your veterinarian with a visual baseline to determine if the swelling is progressing or receding during your travel to the clinic. Additionally, if the swelling masks the sting site, a photo taken early can help the vet identify the point of entry and check for a stinger that may still be releasing venom.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog human antihistamines?",
+      "answer": "You should never administer any medication without a veterinarian's direct advice. Some human medications contain xylitol or decongestants that are toxic to dogs, and the dosage must be precisely calculated by a professional."
+    },
+    {
+      "question": "How quickly do allergic reactions happen in dogs?",
+      "answer": "Allergic reactions can occur within minutes of a sting. While some are delayed, the most severe reactions (anaphylaxis) typically happen very rapidly, which is why immediate monitoring is essential."
+    },
+    {
+      "question": "What if I can see the stinger?",
+      "answer": "If a stinger is visible, you can try to gently scrape it away using a credit card. Avoid using tweezers, as squeezing the stinger can actually inject more venom into your dog's skin."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

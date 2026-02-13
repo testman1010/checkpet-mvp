@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Cat Ingested Liquid Cleaning Products",
+  "meta_desc": "If your cat swallowed a liquid cleaner, this is a high-priority emergency. Learn immediate steps to take and why you should call a vet right now.",
+  "content_html": "<h3>What is Cleaning Product Ingestion?</h3><p>Ingestion occurs when a cat consumes household chemicals such as bleach, detergents, floor cleaners, or disinfectants. These products often contain corrosive or toxic ingredients that can cause immediate chemical burns to the tongue, throat, and stomach lining.</p><h3>Is This an Emergency?</h3><p>Yes, this is considered a High Urgency emergency. Many common cleaners are highly acidic or alkaline, which can lead to permanent internal damage within minutes. If you suspect your cat has licked or swallowed any cleaning product, you must contact an emergency veterinarian or a pet poison control hotline immediately. Do not wait for symptoms to manifest, as internal damage may already be occurring.</p><h3>Why Taking a Photo Helps</h3><p>Taking a clear photo of the product's label, specifically the ingredient list and the brand name, is vital for triage. Different chemicals require different treatments; for example, some substances are more dangerous if vomited back up. Providing this photo to your vet allows them to quickly identify the toxic components and prepare the correct neutralizing agents or medical procedures before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never induce vomiting in a cat that has ingested a cleaning product unless specifically told to do so by a veterinarian. If the substance is corrosive, it can cause severe burns to the esophagus on the way back up."
+    },
+    {
+      "question": "What are the common signs of chemical poisoning in cats?",
+      "answer": "Signs include excessive drooling, pawing at the mouth, redness or swelling of the gums, vomiting, and difficulty swallowing or breathing."
+    },
+    {
+      "question": "Can I give my cat milk to neutralize the cleaner?",
+      "answer": "Do not give your cat any food or liquids like milk unless directed by a professional. In some cases, small amounts of water or milk may be used to dilute a toxin, but this depends entirely on the chemical involved."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

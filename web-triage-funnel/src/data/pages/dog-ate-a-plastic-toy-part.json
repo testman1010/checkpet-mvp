@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate a Plastic Toy Part: Emergency Guide and Triage Steps",
+  "meta_desc": "If your dog ate plastic, it could be a medical emergency. Learn the risks of intestinal blockage and why you need to contact a vet immediately.",
+  "content_html": "<h3>What Is Plastic Toy Ingestion?</h3><p>When a dog consumes a piece of a plastic toy, it is medically referred to as foreign body ingestion. Unlike food, plastic cannot be digested by the stomach acid. Depending on the size, density, and sharp edges of the fragment, it can cause a physical obstruction in the gastrointestinal tract or even puncture the lining of the stomach or intestines.</p><h3>Is It an Emergency? (Urgency: High)</h3><p>Yes, this is considered a high-urgency situation. While some very small, smooth pieces may pass through the digestive system, many plastic fragments lead to life-threatening blockages. If your dog is retching, vomiting, experiencing abdominal pain, or acting lethargic, you should head to an emergency animal hospital immediately. Even if your dog seems fine now, internal damage can occur silently.</p><h3>Why a Photo Helps Triage</h3><p>If you have the remains of the toy, take a photo of it next to a common object (like a coin) for scale. Providing this image to your veterinarian or a triage assistant is incredibly helpful. It allows the medical team to assess the size, shape, and sharpness of the missing piece, which determines whether the object is likely to pass on its own or if surgical removal is the only safe option.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting without consulting a veterinarian first. If the plastic piece has sharp edges, it can cause severe lacerations to the esophagus if it is brought back up."
+    },
+    {
+      "question": "What are the signs of a bowel obstruction?",
+      "answer": "Common symptoms include repeated vomiting, loss of appetite, straining to defecate, a painful or bloated abdomen, and extreme lethargy."
+    },
+    {
+      "question": "Can plastic show up on an X-ray?",
+      "answer": "Some dense plastics are visible on traditional X-rays, but many are 'radiolucent,' meaning they do not show up well. In these cases, a vet may use ultrasound or a contrast study (barium) to find the object."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

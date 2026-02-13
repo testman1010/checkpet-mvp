@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Human Pain Medication: Emergency Guide & Next Steps",
+  "meta_desc": "If your dog ate human pain meds like Ibuprofen or Tylenol, it is a medical emergency. Learn why immediate veterinary care is essential for your pet.",
+  "content_html": "<h3>What is Human Pain Medication Ingestion?</h3><p>Human pain medication ingestion occurs when a dog consumes over-the-counter or prescription drugs intended for people, such as Ibuprofen (Advil, Motrin), Acetaminophen (Tylenol), or Naproxen (Aleve). These medications are formulated for human metabolism and can be highly toxic to dogs, even in very small quantities.</p><h3>Is it an emergency?</h3><p>Yes, this is a high-priority medical emergency. Unlike humans, dogs lack the specific enzymes needed to safely break down these chemicals. Ingestion can lead to rapid kidney failure, severe liver damage, or life-threatening stomach ulcers. Because symptoms often do not appear until internal damage has already occurred, you must seek veterinary help immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the medication's packaging, including the ingredient list and the dosage (milligrams), is one of the most helpful things you can do. This allows your veterinarian to calculate the exact toxicity level based on your dog's weight and the amount consumed. Seeing the bottle also helps the medical team identify if there were other ingredients involved, such as caffeine or xylitol, which require additional treatment protocols.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my dog a small dose of Tylenol for pain?",
+      "answer": "No. You should never give human medications to your dog unless specifically directed by your veterinarian. Acetaminophen can cause fatal liver failure and red blood cell damage in dogs."
+    },
+    {
+      "question": "What are the symptoms of pain pill toxicity in dogs?",
+      "answer": "Symptoms may include vomiting, lethargy, abdominal pain, black or tarry stools, and a yellowish tint to the eyes or gums (jaundice)."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless a veterinarian or poison control specialist explicitly tells you to do so, as it can sometimes cause more harm depending on the substance and the dog's condition."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

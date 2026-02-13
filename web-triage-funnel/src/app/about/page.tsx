@@ -72,15 +72,14 @@ export default function AboutPage() {
                                 <p className="text-slate-600 leading-relaxed">
                                     We prioritize your pet's health and your privacy. Your data is analyzed securely and is used solely to generate your symptom report. We do not sell your personal information.
                                 </p>
+                                <div className="mt-4">
+                                    <Link href="/privacy" className="text-sm font-semibold text-blue-600 hover:text-blue-800 hover:underline inline-flex items-center gap-1">
+                                        Read full Privacy Policy →
+                                    </Link>
+                                </div>
                             </div>
                         </div>
                     </Card>
-
-                    {/* Branding Note */}
-                    <div className="text-center pt-8 text-slate-400 text-sm">
-                        <p>© {new Date().getFullYear()} CheckPet. All rights reserved.</p>
-                        <p className="mt-1">CheckPet - AI Pet Symptom Analysis</p>
-                    </div>
 
                 </div>
             </div>

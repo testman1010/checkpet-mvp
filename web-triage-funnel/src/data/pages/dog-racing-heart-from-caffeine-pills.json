@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ingested Caffeine Pills: Emergency Triage Guide",
+  "meta_desc": "If your dog has a racing heart from caffeine pills, it is a high-priority emergency. Learn about toxicity signs and why you must seek help now.",
+  "content_html": "<h3>What is Caffeine Toxicity?</h3><p>Caffeine toxicity is a severe medical condition that occurs when a dog ingests concentrated stimulants. Unlike humans, dogs cannot metabolize caffeine efficiently. When a dog consumes caffeine pills, the stimulant rapidly enters the bloodstream, causing overstimulation of the central nervous system, heart, and kidneys.</p><h3>Is It an Emergency? (Urgency: High)</h3><p>Yes, this is a life-threatening emergency. If your dog is experiencing a racing heart, extreme restlessness, or tremors after ingesting caffeine, you must seek immediate veterinary care at an emergency clinic. High concentrations of caffeine can lead to dangerous heart arrhythmias, seizures, and even death if left untreated. Do not wait for symptoms to worsen.</p><h3>Why a Photo Helps Triage</h3><p>Providing the veterinary team with a clear photo of the caffeine pill packaging or the supplement bottle is incredibly helpful. This allows the medical staff to identify the exact milligram dosage per pill and check for other dangerous ingredients like xylitol. Knowing the specific concentration helps the vet calculate the toxicity level relative to your dog's weight, ensuring a faster and more accurate treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "How soon do symptoms of caffeine poisoning appear?",
+      "answer": "Symptoms typically manifest within 30 to 60 minutes of ingestion and can last for several hours or even days depending on the dose."
+    },
+    {
+      "question": "Can a single caffeine pill kill a dog?",
+      "answer": "Yes, depending on the size of the dog and the concentration of the pill. Small dogs are at much higher risk for fatal toxicity from a single dose."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting unless specifically directed to do so by a veterinarian or pet poison control expert, as it may be unsafe depending on your dog's current neurological state."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

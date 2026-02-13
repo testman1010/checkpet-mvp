@@ -1,0 +1,20 @@
+{
+  "title": "Cat Pupils Dilated in Bright Light: Causes and Emergency Triage",
+  "meta_desc": "Persistent dilated pupils in cats can signal serious health issues. Learn why this is a high-priority emergency and how to help your vet triage.",
+  "content_html": "<h3>What Does Persistent Pupil Dilation Mean?</h3><p>Normally, a cat's pupils should constrict into narrow slits when exposed to bright light. If your cat's pupils remain wide and circular regardless of the lighting, this is known as persistent mydriasis. This condition indicates that the eye's normal reflex—or the neurological pathway connecting the eye to the brain—is compromised. It is often a sign of an underlying medical problem rather than a simple eye irritation.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes, the urgency level for this symptom is High. Dilated pupils in bright light can be a clinical sign of several serious conditions, including systemic hypertension (high blood pressure), retinal detachment, glaucoma, head trauma, or toxicity. Many of these conditions are painful and can lead to permanent blindness or other life-threatening complications if not treated within hours. Please contact your veterinarian or the nearest emergency animal hospital immediately.</p><h3>Why a Photo Helps with Triage</h3><p>If your cat is stable enough to do so, taking a clear photo or a short video of their eyes in a bright room can be extremely beneficial for the veterinary team. A visual record allows the vet to see the exact size and symmetry of the pupils, check for cloudiness, and look for involuntary eye movements. This information helps the triage staff prioritize your cat's case and prepare the necessary diagnostic equipment before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "Can my cat be dilated just because they are scared?",
+      "answer": "While adrenaline from fear or excitement can cause temporary pupil dilation, the pupils should still show some constriction when a bright light is shined directly into them. If they remain fixed and wide in bright light, it is a medical concern."
+    },
+    {
+      "question": "Could this mean my cat is blind?",
+      "answer": "Persistent dilation is often a sign that the cat is not perceiving light correctly, which can indicate partial or total blindness. Sudden onset blindness is a medical emergency that requires immediate diagnostic testing."
+    },
+    {
+      "question": "What will the vet do to diagnose the cause?",
+      "answer": "The vet will likely perform an ophthalmic exam, check your cat's blood pressure, and may recommend blood work to rule out systemic diseases like kidney failure or hyperthyroidism which can cause high blood pressure."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

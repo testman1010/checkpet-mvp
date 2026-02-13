@@ -1,0 +1,20 @@
+{
+  "title": "Cat Defecating Outside the Litter Box: Causes and Triage Guide",
+  "meta_desc": "Is your cat pooping just outside the litter box? Learn about potential medical and behavioral causes and when you should consult a veterinarian.",
+  "content_html": "<h3>What is Inappropriate Defecation?</h3><p>Inappropriate defecation occurs when a cat, who previously used their litter box correctly, begins to deposit stool in other areas of the home. When the stool is found specifically just outside the box, it often suggests that the cat has the intention of using the box but finds something about the environment or the physical act of entry unsuitable.</p><h3>Is it an Emergency?</h3><p>The urgency level for this behavior is generally Low. While frustrating, defecating outside the box is rarely an immediate life-threatening emergency. However, it should not be ignored. If your cat is also experiencing vomiting, lethargy, a total loss of appetite, or is straining without producing anything, you should contact a veterinarian more urgently. Otherwise, a scheduled appointment to rule out medical issues like arthritis or GI discomfort is the best next step.</p><h3>Why a Photo Helps Triage</h3><p>Taking a photo of the stool and the surrounding setup can be incredibly helpful for your veterinary team. A clear image allows the vet to assess the consistency, color, and size of the stool, which helps determine if the issue is digestive (like constipation or diarrhea) or behavioral. Furthermore, seeing the proximity of the waste to the box helps the vet evaluate if mobility issues, such as joint pain, are preventing your cat from stepping over the entry wall.</p>",
+  "faqs": [
+    {
+      "question": "Why is my cat pooping right next to the box instead of inside it?",
+      "answer": "This is often a sign of 'litter box aversion.' Your cat likely wants to use the box but may find the litter texture unpleasant, the box too dirty, or may be experiencing pain when trying to step inside."
+    },
+    {
+      "question": "Can stress cause a cat to poop outside the box?",
+      "answer": "Yes, changes in the household, such as new pets, moving, or even changes in your schedule, can cause stress-related behavioral changes in cats, including house soiling."
+    },
+    {
+      "question": "Should I change the litter type immediately?",
+      "answer": "It is best to consult your vet first. If you do change litter, provide one box with the old type and one with the new type to see which your cat prefers, rather than forcing a sudden switch."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

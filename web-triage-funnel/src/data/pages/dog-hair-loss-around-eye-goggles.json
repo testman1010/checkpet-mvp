@@ -1,0 +1,20 @@
+{
+  "title": "Dog Hair Loss Around Eyes: Causes and Triage Guide",
+  "meta_desc": "Learn about periocular alopecia in dogs, why it happens, and why it is usually a low-urgency concern that benefits from veterinary photos.",
+  "content_html": "<h3>What Is It?</h3><p>Hair loss around a dog's eyes, often referred to as \"spectacling\" or periocular alopecia, is a condition where the fur thins or disappears in a circular pattern resembling goggles. This occurs when the hair follicles are damaged or when the dog chronically rubs the area due to irritation. Common causes include Demodex mites (mange), ringworm, environmental allergies, or even certain autoimmune conditions.</p><h3>Is It an Emergency?</h3><p>The urgency level for hair loss around the eyes is Low. In most cases, this is a localized dermatological issue rather than a systemic crisis. However, if your dog is squinting, has heavy yellow discharge, or if the eye itself appears cloudy or red, you should move from a routine check-up to a more urgent appointment, as these symptoms may indicate a secondary eye infection or corneal ulcer.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, high-resolution photo of the affected area is one of the best things you can do for your veterinarian. A photo allows the professional to see the skin's texture, look for signs of crusting or pustules, and assess the degree of inflammation. Since skin conditions can change rapidly, a photo provides a baseline for comparison and helps the vet determine if your pet needs to be seen immediately or if it can wait for the next available routine slot.</p>",
+  "faqs": [
+    {
+      "question": "Can I use human eye drops on my dog's eye area?",
+      "answer": "No, you should never apply human medications to your dog's eyes without professional guidance, as some ingredients can be toxic or worsen an undiagnosed ulcer."
+    },
+    {
+      "question": "Is 'spectacling' contagious to humans?",
+      "answer": "It depends on the underlying cause. If the hair loss is caused by ringworm or sarcoptic mange, it can be zoonotic (spread to humans). If it is caused by allergies or Demodex mites, it is generally not contagious."
+    },
+    {
+      "question": "Will the hair grow back?",
+      "answer": "In most cases, once the underlying cause—such as a mite infestation or an allergy—is treated and the inflammation subsides, the hair follicles will recover and the fur will grow back."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

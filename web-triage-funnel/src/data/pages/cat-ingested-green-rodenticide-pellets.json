@@ -1,0 +1,20 @@
+{
+  "title": "Cat Ingested Green Rodenticide Pellets: Immediate Triage Guide",
+  "meta_desc": "Emergency guide for cats who have eaten green rat poison. Understand the high urgency level and why immediate veterinary care is critical.",
+  "content_html": "<h3>What are Green Rodenticide Pellets?</h3><p>Rodenticides are chemical baits used to kill rodents. Manufacturers often dye these products bright colors like green, blue, or pink to distinguish them from food or animal feed. These pellets can contain various lethal active ingredients, including anticoagulants that prevent blood clotting, Bromethalin which attacks the nervous system, or Cholecalciferol which causes rapid organ failure. Regardless of the color, all are highly toxic to felines.</p><h3>Is it an Emergency?</h3><p>Yes. Ingestion of any amount of rodenticide is a high-priority emergency. You should not wait for symptoms to appear. Many of these toxins have a delayed onset, meaning your cat may appear fine for hours or even days while internal damage is actively occurring. Immediate decontamination and treatment by a veterinarian are the only ways to ensure a positive outcome.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo of the original bait packaging or the ingredient label is one of the most helpful things you can do for your vet. Different poisons require completely different medical protocols. For instance, while anticoagulant poisons can be treated with Vitamin K1, that treatment will not work for neurotoxins like Bromethalin. A photo allows the veterinary team to identify the specific toxin and begin the correct life-saving treatment immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "My cat seems fine, can I wait and watch them?",
+      "answer": "No. Waiting for symptoms like lethargy, seizures, or bruising means the toxin has already been absorbed and is causing systemic damage. Early intervention is significantly more successful and less expensive than treating a symptomatic cat."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not attempt to induce vomiting in a cat at home. Many methods safe for humans or dogs are toxic to cats or can cause physical harm to their esophagus and lungs. Only a veterinarian should perform this procedure."
+    },
+    {
+      "question": "What if my cat ate a mouse that ate the poison?",
+      "answer": "This is known as secondary relay toxicosis. While the risk is slightly lower than direct ingestion of the pellets, it is still a serious medical concern and requires professional veterinary consultation."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

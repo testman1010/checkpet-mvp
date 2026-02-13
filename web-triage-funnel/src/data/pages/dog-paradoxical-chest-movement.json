@@ -1,0 +1,20 @@
+{
+  "title": "Dog Paradoxical Chest Movement: Emergency Triage Guide",
+  "meta_desc": "Learn about paradoxical chest movement in dogs. This is a high-priority emergency requiring immediate veterinary care. Read our triage guide.",
+  "content_html": "<h3>What is Paradoxical Chest Movement?</h3><p>Paradoxical chest movement, often referred to as asynchronous breathing, is a serious condition where the chest and the abdomen move in opposite directions during respiration. Normally, both the chest and belly should expand outward together when a dog inhales. In paradoxical breathing, the chest may pull inward while the abdomen pushes out, indicating that the dog is using extreme effort to move air.</p><h3>Is it an Emergency?</h3><p>Yes, this is a high-priority medical emergency. Paradoxical breathing is a clinical sign of severe respiratory distress or potential respiratory failure. It often suggests that the diaphragm is fatiguing or that there is a significant obstruction or trauma to the chest wall. If you observe this breathing pattern, you must transport your dog to the nearest emergency veterinary hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>While your priority is getting to the vet, having a 5 to 10-second video of your dog's breathing can be life-saving. It allows the triage nurse to instantly visualize the breathing pattern even if the dog's symptoms change slightly due to the stress of the car ride. This video helps the medical team determine the level of urgency and prepare oxygen therapy or stabilization equipment before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of paradoxical breathing in dogs?",
+      "answer": "Common causes include chest wall trauma (flail chest), diaphragmatic hernia, severe pneumonia, or upper airway obstructions."
+    },
+    {
+      "question": "Should I try to clear my dog's throat if I see this?",
+      "answer": "Only attempt to clear the airway if you can clearly see a foreign object. Otherwise, do not reach into the mouth, as this may cause further distress or result in a bite."
+    },
+    {
+      "question": "What should I do during the car ride to the vet?",
+      "answer": "Keep the car cool, minimize noise, and avoid restraining the dog's chest or neck. Keep them as calm as possible to reduce their oxygen demand."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

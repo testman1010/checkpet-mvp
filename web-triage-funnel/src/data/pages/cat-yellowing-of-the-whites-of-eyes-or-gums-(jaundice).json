@@ -1,0 +1,20 @@
+{
+  "title": "Jaundice in Cats: Yellow Eyes and Gums Triage Guide",
+  "meta_desc": "Notice yellow eyes or gums in your cat? This is jaundice, a sign of a serious medical emergency. Learn why immediate vet care is critical.",
+  "content_html": "<h3>What is Jaundice in Cats?</h3><p>Jaundice, also known as icterus, occurs when there is an accumulation of bilirubin—a yellow pigment—in the bloodstream and tissues. In healthy cats, the liver processes bilirubin. When the liver is overwhelmed, diseased, or if there is excessive red blood cell destruction, the pigment builds up, causing a visible yellow tint to the whites of the eyes, gums, and skin.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, yellowing of the eyes or gums is a medical emergency. Jaundice is not a disease itself but a clinical sign of a severe underlying condition, such as liver disease, toxin ingestion, or feline infectious peritonitis (FIP). Because it indicates that a vital organ system is failing, you must seek veterinary care immediately.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of your cat's eyes or gums can be incredibly helpful for remote triage. Because jaundice can sometimes be subtle in early stages or difficult to see under certain indoor lighting, a high-quality image allows a veterinary professional to confirm the discoloration and prioritize your cat's case before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait until tomorrow to see my regular vet?",
+      "answer": "No. Jaundice is a sign of a critical systemic issue. If you notice yellowing, you should contact an emergency animal hospital immediately, regardless of the time of day."
+    },
+    {
+      "question": "What are other symptoms of jaundice in cats?",
+      "answer": "Along with yellowing, you might notice lethargy, a complete loss of appetite, vomiting, or unusually dark-colored urine."
+    },
+    {
+      "question": "What causes the yellow color?",
+      "answer": "The yellow color is caused by bilirubin, which is a byproduct of the natural breakdown of red blood cells. Normally the liver removes this, but when the liver fails or too many cells break down at once, it stains the body tissues."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

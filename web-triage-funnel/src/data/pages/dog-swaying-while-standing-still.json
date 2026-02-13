@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swaying While Standing Still: Causes and Triage Guide",
+  "meta_desc": "Is your dog swaying while standing? Learn about potential causes, why the urgency is low, and how a video can help your veterinarian diagnose them.",
+  "content_html": "<h3>What is Swaying While Standing?</h3><p>Swaying while standing still, often described as truncal ataxia or postural instability, occurs when a dog lacks the balance or muscle control to remain perfectly stationary. You may notice your dog's torso drifting gently from side to side or their legs shifting frequently to stay upright. This symptom is generally related to the vestibular system (the body's internal GPS), the neurological system, or generalized muscle weakness.</p><h3>Is It an Emergency?</h3><p>The urgency level for swaying while standing still is <strong>Low</strong>, provided it is the only symptom your dog is experiencing. If your pet is alert, eating normally, and able to walk without collapsing, you can typically monitor them and schedule a routine visit with your veterinarian. However, if the swaying is accompanied by a sudden head tilt, rapid flickering of the eyes, or an inability to stand at all, you should contact a clinic more promptly.</p><h3>Why a Photo or Video Helps Triage</h3><p>Because swaying can be intermittent, your dog might act completely normal by the time you reach the veterinary clinic. Capturing a short video of the swaying behavior while it is happening is an invaluable tool for your vet. It allows them to analyze the specific rhythm and direction of the movement, helping them differentiate between a balance issue in the inner ear, a spinal cord problem, or simple fatigue.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be swaying because of old age?",
+      "answer": "Yes, senior dogs often experience muscle atrophy or canine cognitive dysfunction, both of which can lead to swaying or instability while standing still."
+    },
+    {
+      "question": "Is swaying a sign of a seizure?",
+      "answer": "While swaying is typically a balance or neurological issue, 'focal seizures' can sometimes cause unusual movements. A video will help your vet distinguish between the two."
+    },
+    {
+      "question": "Can an ear infection cause swaying?",
+      "answer": "Absolutely. A deep inner ear infection can disrupt the vestibular system, which is responsible for maintaining balance, leading to a wobbly or swaying appearance."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

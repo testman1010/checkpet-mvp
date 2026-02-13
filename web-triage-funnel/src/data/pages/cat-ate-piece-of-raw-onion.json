@@ -1,0 +1,20 @@
+{
+  "title": "My Cat Ate Raw Onion: Triage Guide and Risk Factors",
+  "meta_desc": "Find out what to do if your cat ate raw onion. Learn about toxicity risks, symptoms, and why this is a medium-priority veterinary concern.",
+  "content_html": "<h3>What is Onion Toxicity in Cats?</h3><p>Onions, along with garlic, leeks, and chives, belong to the Allium genus. These plants contain compounds called N-propyl disulfides which cause oxidative damage to a cat's red blood cells. This damage can lead to Heinz body anemia, a serious condition where the red blood cells break down and can no longer carry oxygen effectively throughout the body.</p><h3>Is it an Emergency?</h3><p>The urgency level for a cat eating raw onion is classified as Medium. While a single tiny sliver may not cause immediate collapse, even small amounts are toxic to felines. Because the symptoms of anemia often do not appear for several days after ingestion, it is critical to contact your veterinarian or a pet poison control center immediately rather than waiting for your cat to act sick.</p><h3>Why a Photo Helps Triage</h3><p>If you still have access to the onion or the scraps your cat was eating, take a clear photo next to a common object (like a coin) for scale. Showing this photo to a veterinary professional helps them estimate the exact volume of toxin ingested. This information is vital for calculating the risk level based on your cat's body weight and determining if emergency decontamination, such as induced vomiting, is required.</p>",
+  "faqs": [
+    {
+      "question": "How much onion is toxic to a cat?",
+      "answer": "As little as 5 grams of onion per kilogram of a cat's body weight is enough to cause significant toxic effects. Even a small piece of raw onion can be dangerous for a typical house cat."
+    },
+    {
+      "question": "What are the symptoms of onion poisoning?",
+      "answer": "Common signs include lethargy, weakness, pale or bluish gums, decreased appetite, and reddish-brown urine. Note that these symptoms may take 1 to 5 days to develop after ingestion."
+    },
+    {
+      "question": "Is cooked onion safer than raw onion?",
+      "answer": "No. Cooking, dehydrating, or processing onions does not destroy the toxic compounds. All forms of onion are dangerous to cats."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

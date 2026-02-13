@@ -1,0 +1,20 @@
+{
+  "title": "Dog Tick in Inner Ear: Veterinary Triage and Removal Guide",
+  "meta_desc": "Found a tick in your dog's ear? Learn why it is usually a low-urgency situation and how to safely handle it with our veterinary guide.",
+  "content_html": "<h3>What is it?</h3><p>Ticks are parasitic arachnids that latch onto your dog's skin to feed on their blood. The inner ear is a common site for attachment because it is dark, warm, and the skin is relatively thin, making it easy for the tick to feed. To the touch, it may feel like a small, smooth bump, and depending on the species and how long it has been feeding, it can range in color from light brown to a bluish-grey.</p><h3>Is it an emergency?</h3><p>The urgency level for a tick in the ear is generally Low. While ticks can transmit diseases such as Lyme disease or Anaplasmosis, these infections typically require the tick to be attached for 24 to 48 hours. Finding a tick does not require an emergency clinic visit unless your dog is showing signs of 'Tick Paralysis,' such as sudden weakness in the hind legs, or if the ear is showing signs of severe secondary infection like heavy discharge or an extreme foul odor.</p><h3>Why a photo helps triage</h3><p>Taking a clear, close-up photo of the tick before removal is highly beneficial for your veterinarian. A photo allows a professional to identify the specific species of tick, which helps determine the risk of specific regional diseases. Furthermore, a photo helps the vet confirm that the object is indeed a tick and not a skin growth, such as a histiocytoma or a skin tag, which should not be pulled on.</p>",
+  "faqs": [
+    {
+      "question": "Should I use a match or alcohol to make the tick let go?",
+      "answer": "No. Using heat, alcohol, or petroleum jelly can irritate the tick and cause it to regurgitate saliva into your dog, which actually increases the risk of disease transmission. Use fine-tipped tweezers or a specialized tick removal tool instead."
+    },
+    {
+      "question": "What if the tick's head stays in the ear?",
+      "answer": "If the head breaks off and remains in the skin, do not dig for it, as this can cause more trauma and infection. The body will typically treat the head like a splinter and eventually push it out or encapsulate it."
+    },
+    {
+      "question": "When should I call my regular veterinarian?",
+      "answer": "You should call your vet if you are unable to safely remove the tick yourself, if the ear becomes extremely red and painful, or if your dog develops a fever or lethargy in the weeks following the bite."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

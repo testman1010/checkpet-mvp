@@ -1,0 +1,20 @@
+{
+  "title": "Dog Ate Ibuprofen: Emergency Triage and Next Steps",
+  "meta_desc": "If your dog ate ibuprofen (Advil/Motrin), it is a medical emergency. Learn why immediate veterinary care is critical for your dog's safety.",
+  "content_html": "<h3>What is Ibuprofen Toxicity?</h3><p>Ibuprofen is a common human non-steroidal anti-inflammatory drug (NSAID) found in brands like Advil and Motrin. While safe for people, it is highly toxic to dogs. Dogs lack the specific enzymes required to break down this medication safely, leading to a rapid buildup of toxins in their system that can cause severe damage to the stomach lining and kidneys.</p><h3>Is it an emergency?</h3><p>Yes, this is a High-Urgency Emergency. If your dog has ingested ibuprofen, you should not wait for symptoms to appear. Toxicity can lead to life-threatening stomach ulcers, kidney failure, and even seizures. Immediate veterinary intervention is required to minimize absorption and protect your dog's internal organs.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with a photo of the medication bottle and the specific milligram strength is incredibly helpful. This allows the medical team to calculate the exact toxic dose based on your dog's weight. Seeing the packaging helps identify if the pills were extra strength, gel caps, or flavored, all of which change the treatment plan.</p>",
+  "faqs": [
+    {
+      "question": "What are the early signs of ibuprofen poisoning in dogs?",
+      "answer": "Early signs include vomiting (sometimes with blood), abdominal pain, lethargy, and a loss of appetite. However, internal damage can occur before you see any outward symptoms."
+    },
+    {
+      "question": "Can I give my dog a small dose of ibuprofen for pain?",
+      "answer": "No, you should never give your dog human ibuprofen. There are dog-specific NSAIDs that are much safer and specifically formulated for their metabolism."
+    },
+    {
+      "question": "How long does it take for ibuprofen to affect a dog?",
+      "answer": "Signs of stomach irritation can appear within a few hours, while kidney failure may take 24 to 48 hours to become apparent. This is why immediate treatment is vital."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

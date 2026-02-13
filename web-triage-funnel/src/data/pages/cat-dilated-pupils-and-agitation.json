@@ -1,0 +1,20 @@
+{
+  "title": "Cat Dilated Pupils and Agitation: Triage Guide for Owners",
+  "meta_desc": "Is your cat agitated with dilated pupils? Learn what it means, why it is a medium-priority concern, and how to help your vet with a simple photo.",
+  "content_html": "<h3>Understanding Dilated Pupils and Agitation in Cats</h3><p>When a cat experiences persistently dilated pupils (mydriasis) alongside agitated behavior, it is a sign that their autonomic nervous system is in a state of high alert. This can be triggered by external stressors, intense pain, or internal medical issues such as high blood pressure or toxic exposure. In many cases, the cat is feeling a sense of 'fight or flight,' making them act restless, vocal, or even aggressive.</p><h3>Is This an Emergency?</h3><p>The urgency level for this condition is Medium. While dilated pupils and agitation may not always be life-threatening in the immediate moment, they often indicate significant discomfort or an underlying systemic issue that needs addressing. You should contact your veterinarian to schedule an appointment within 24 hours. However, if your cat is also experiencing seizures, sudden blindness, or an inability to walk, you should seek emergency care immediately.</p><h3>The Importance of a Photo for Triage</h3><p>Taking a clear photo of your cat’s eyes in normal room lighting is one of the most helpful things you can do for a triage professional. Cats often hide their symptoms or react differently when they arrive at a veterinary clinic due to the stress of travel. A photo taken at home captures the exact state of the pupils and provides a visual baseline, helping the vet determine if the dilation is symmetrical and how it compares to the cat's normal appearance.</p>",
+  "faqs": [
+    {
+      "question": "Can high blood pressure cause dilated pupils in cats?",
+      "answer": "Yes, systemic hypertension is a common cause of dilated pupils, especially in senior cats, and can lead to agitation and even retinal detachment if left untreated."
+    },
+    {
+      "question": "What if only one pupil is dilated?",
+      "answer": "If your cat has pupils of different sizes (anisocoria), this is considered a higher priority and could indicate a neurological issue or eye injury; contact a vet immediately."
+    },
+    {
+      "question": "Could my cat have eaten something toxic?",
+      "answer": "Certain plants, human medications, and chemicals can cause neurological stimulation leading to dilated pupils and restlessness. If you suspect ingestion, contact a pet poison helpline."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

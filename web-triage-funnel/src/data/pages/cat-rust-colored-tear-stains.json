@@ -1,0 +1,20 @@
+{
+  "title": "Cat Rust Colored Tear Stains: Causes and Triage Guide",
+  "meta_desc": "Learn why cats get rust-colored tear stains, the urgency level for veterinary care, and how photos help in diagnosing eye issues.",
+  "content_html": "<h3>What Are Rust-Colored Tear Stains?</h3><p>Rust-colored tear stains are a common sight, especially on white or light-colored cats. These stains are primarily caused by porphyrins, which are iron-containing molecules produced when the body breaks down red blood cells. Porphyrins are excreted through tears, saliva, and urine. When these tears sit on the fur and are exposed to oxygen, the iron oxidizes, leaving behind that characteristic reddish-brown or 'rusty' hue.</p><h3>Is This an Emergency?</h3><p>The urgency level for rust-colored tear staining is typically Low. On its own, staining is usually a cosmetic issue or a sign of chronic, mild irritation such as environmental allergies or slightly blocked tear ducts. However, you should seek veterinary advice if you notice secondary symptoms such as the eye appearing cloudy, excessive squinting, or if the discharge changes to a thick yellow or green consistency, which may indicate an infection.</p><h3>Why a Photo Helps Triage</h3><p>Providing a high-quality photo is one of the best ways to help a veterinary professional triage your cat's condition. A photo allows a vet to see the exact distribution of the stain, the health of the surrounding skin, and whether the eye itself looks inflamed or irritated. It helps distinguish between simple porphyrin staining and more serious issues like entropion (eyelids folding inward) or corneal ulcers, ensuring your cat gets the right level of care without unnecessary stress.</p>",
+  "faqs": [
+    {
+      "question": "Are certain cat breeds more prone to tear staining?",
+      "answer": "Yes, brachycephalic (flat-faced) breeds like Persians, Himalayans, and Exotic Shorthairs are more prone to staining due to their facial structure and shallow eye sockets which prevent normal tear drainage."
+    },
+    {
+      "question": "How can I safely clean my cat's tear stains at home?",
+      "answer": "You can use a soft cloth dampened with warm water or a veterinarian-approved eye cleaning solution. Gently wipe the area daily to prevent buildup, but avoid getting any cleaning agents directly into the eyeball."
+    },
+    {
+      "question": "Can high mineral content in water cause these stains?",
+      "answer": "It is possible. Some owners find that switching from tap water to filtered or distilled water reduces the amount of iron and minerals the cat ingests, which can subsequently reduce porphyrin levels in tears."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

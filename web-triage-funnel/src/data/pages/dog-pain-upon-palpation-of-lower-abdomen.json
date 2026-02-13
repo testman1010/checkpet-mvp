@@ -1,0 +1,20 @@
+{
+  "title": "Dog Pain Upon Palpation of Lower Abdomen: Veterinary Triage Guide",
+  "meta_desc": "Find out why your dog has lower abdominal pain, the level of urgency, and how photos help your vet diagnose the issue quickly.",
+  "content_html": "<h3>What Is Lower Abdominal Pain?</h3><p>Pain upon palpation of the lower abdomen occurs when a dog shows signs of distress, tension, or vocalization when their lower belly is touched. This sensitivity usually points to inflammation or issues within the bladder, lower intestines, or reproductive organs. In many cases, dogs may also adopt a 'hunched' posture or appear restless.</p><h3>Urgency Level: Medium</h3><p>Abdominal pain is categorized as Medium Urgency. While it may not be an immediate life-threatening emergency like a bloat (GDV) event, it indicates significant discomfort that needs professional evaluation. You should schedule a veterinary appointment within the next 12 to 24 hours. However, if the abdomen feels hard, your dog is lethargic, or they are unable to urinate, you should go to an emergency clinic immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a photo or video of your dog's behavior can be an invaluable tool for your veterinarian. A video showing your dog's 'guarding' behavior, their stance, or any straining to go to the bathroom provides context that physical touch alone might miss. Additionally, photos of recent stools or urine can help the vet identify signs of blood or infection, leading to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What are common causes of lower abdominal pain in dogs?",
+      "answer": "Common causes include urinary tract infections (UTI), bladder stones, severe constipation, or prostatitis in intact males."
+    },
+    {
+      "question": "Can I give my dog human pain medication?",
+      "answer": "No, never give your dog human medications like ibuprofen or aspirin, as these can be toxic and cause internal bleeding."
+    },
+    {
+      "question": "How can I tell if my dog's belly is 'guarded'?",
+      "answer": "A guarded abdomen feels very firm or rigid to the touch, and the dog may tensing their muscles to prevent you from pressing inward."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

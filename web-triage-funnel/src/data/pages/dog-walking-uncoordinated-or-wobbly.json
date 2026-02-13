@@ -1,0 +1,20 @@
+{
+  "title": "Dog Walking Uncoordinated or Wobbly: Causes and Emergency Guide",
+  "meta_desc": "Is your dog walking wobbly or uncoordinated? Learn about ataxia, when it's a high-urgency emergency, and how to help your pet right now.",
+  "content_html": "<h3>What is Ataxia?</h3><p>Ataxia is a clinical sign characterized by a lack of voluntary muscle coordination, making a dog appear wobbly, off-balance, or even \"drunk.\" This condition occurs when there is a disruption in the communication between the brain and the body. It typically stems from issues in three areas: the spinal cord (sensory ataxia), the inner ear/brainstem (vestibular ataxia), or the cerebellum (cerebellar ataxia).</p><h3>Is it an Emergency? (Urgency Level: High)</h3><p>Yes, the sudden onset of uncoordinated walking is considered a high-priority medical emergency. Because this symptom often points to serious underlying issues such as toxin ingestion (like xylitol or marijuana), spinal cord compression (IVDD), strokes, or severe infections, immediate veterinary evaluation is required. If your dog is also collapsing, experiencing rapid eye movements, or seems disoriented, please head to the nearest emergency animal hospital immediately.</p><h3>Why Video and Photos Help Triage</h3><p>Capturing a short video of your dog's movement can be vital for an accurate diagnosis. Dogs often experience an adrenaline rush at the vet clinic that may temporarily mask their wobbliness, or they may be too stressed to walk naturally. A video provides your veterinarian with a clear look at the specific type of incoordination occurring in a relaxed environment, which helps distinguish between a neurological issue and a physical injury more efficiently.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have been poisoned?",
+      "answer": "Yes, toxin ingestion is one of the leading causes of sudden wobbliness in dogs. Common culprits include chocolate, grapes, human medications, or certain plants."
+    },
+    {
+      "question": "What is 'Old Dog Vestibular Disease'?",
+      "answer": "This is a common condition in senior dogs that affects their sense of balance. It causes sudden wobbliness, head tilts, and circling, and while scary, it often improves with supportive care."
+    },
+    {
+      "question": "Should I wait to see if it clears up on its own?",
+      "answer": "No. Because ataxia can indicate life-threatening conditions like internal bleeding or neurological failure, waiting can lead to permanent damage or a worse prognosis."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

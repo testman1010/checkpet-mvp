@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Help: My Cat Swallowed a Button Battery",
+  "meta_desc": "If your cat swallowed a button battery, it is a life-threatening emergency. Learn why immediate action is required and how to help your vet save them.",
+  "content_html": "<h3>What is a button battery ingestion?</h3><p>Button batteries are small, round, disc-shaped batteries frequently found in remote controls, watches, and hearing aids. While they may seem harmless because of their size, they are extremely dangerous to cats. If ingested, they can cause severe electrical and chemical burns to the esophagus, stomach, and intestines.</p><h3>Is this an emergency?</h3><p>Yes. This is a high-priority medical emergency. When a battery comes into contact with saliva or gastrointestinal fluids, it can create an electrical current that causes rapid tissue necrosis (death of the tissue) in as little as two hours. Even if the battery does not leak, the electrical charge alone can burn through the esophagus. Do not wait for symptoms to appear; take your cat to an emergency veterinarian immediately.</p><h3>Why taking a photo helps triage</h3><p>If you have the packaging or a matching battery from the same device, please take a clear photo of it. This photo provides the veterinary team with critical information regarding the battery's size and chemistry (such as lithium vs. alkaline). Knowing the exact diameter helps the vet determine if the battery is likely to pass or if it is at a high risk of becoming lodged, allowing them to prepare for immediate endoscopic or surgical removal.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of battery ingestion in cats?",
+      "answer": "Common signs include excessive drooling, vomiting, difficulty swallowing, abdominal pain, or a sudden loss of appetite. However, internal damage can occur before any outward signs are visible."
+    },
+    {
+      "question": "Should I induce vomiting if my cat swallowed a battery?",
+      "answer": "No. Never induce vomiting unless specifically instructed by a veterinarian. If the battery is damaged or caustic, it can cause even more harm to the esophagus if it is brought back up."
+    },
+    {
+      "question": "Can a button battery pass through a cat's system naturally?",
+      "answer": "While it is possible, the risk of electrical burns or caustic leakage is far too high to 'wait and see.' Veterinary intervention is required to safely monitor or remove the object."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

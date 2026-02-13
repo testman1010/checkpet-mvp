@@ -1,0 +1,20 @@
+{
+  "title": "Cat Eating Grass and Vomiting: Is it Normal?",
+  "meta_desc": "Find out why cats eat grass and vomit, if it is a medical emergency, and how to help your pet at home. Urgency level: Low.",
+  "content_html": "<h3>What Is This Behavior?</h3><p>It is very common for domestic cats to nibble on grass. While cats are obligate carnivores, grass provides folic acid and dietary fiber, which can help move indigestible items—such as hairballs or feathers—through their digestive tract. Because cats lack the specific enzymes needed to break down large amounts of plant matter, eating grass often triggers a gag reflex, causing them to vomit shortly after ingestion.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the vast majority of cases, a cat eating grass and vomiting is a natural, instinctual behavior and not a cause for immediate alarm. However, if the vomiting is accompanied by lethargy, a complete loss of appetite, or if the grass was treated with pesticides or fertilizers, you should contact your veterinarian immediately for guidance.</p><h3>Why a Photo Helps Triage</h3><p>If you are concerned and decide to seek professional advice, taking a clear photo of the vomit and the grass consumed is incredibly helpful for triage. A veterinarian can examine the color, consistency, and presence of foreign materials or parasites in the sample. This visual evidence helps determine if the vomiting is a simple stomach clearing or a sign of an underlying gastrointestinal issue.</p>",
+  "faqs": [
+    {
+      "question": "Is all grass safe for my cat to eat?",
+      "answer": "While most common lawn grasses are non-toxic, many are treated with chemical fertilizers, herbicides, or pesticides which can be poisonous. Providing 'cat grass' grown indoors is a safer alternative."
+    },
+    {
+      "question": "How often is 'too often' for vomiting grass?",
+      "answer": "If your cat is vomiting more than once or twice a week, or if they are vomiting even when they haven't eaten grass, it may indicate a chronic digestive issue that requires a check-up."
+    },
+    {
+      "question": "Can grass cause an intestinal blockage?",
+      "answer": "While rare, if a cat consumes a very large amount of coarse grass, it can potentially cause a blockage or become stuck in the back of the throat or nose, requiring veterinary removal."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

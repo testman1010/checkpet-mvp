@@ -1,0 +1,20 @@
+{
+  "title": "Blue Gums in Cats: Emergency Triage Guide for Cyanosis",
+  "meta_desc": "If your cat has blue gums or skin, it is a life-threatening emergency. Learn about cyanosis and why you must seek immediate veterinary care now.",
+  "content_html": "<h3>What is Cyanosis?</h3><p>A blue, purple, or slate-grey tint to your cat's gums, tongue, or skin is a clinical sign known as cyanosis. This discoloration indicates that there is a dangerous lack of oxygen in the bloodstream or a severe failure in blood circulation. It typically suggests that the hemoglobin in the blood is not carrying enough oxygen to sustain the body's vital organs.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, this is a critical medical emergency. If your cat is displaying blue gums or skin, they are in a state of oxygen deprivation. This condition can lead to organ failure or death within minutes to hours. You should immediately transport your pet to the nearest open veterinary clinic or 24-hour emergency animal hospital. Do not wait for symptoms to improve on their own.</p><h3>Why a Photo Helps Triage</h3><p>If you can safely and quickly take a clear photo of your cat's gums or skin without delaying your departure, it can be an invaluable tool for the veterinary team. A photo provides a baseline of the discoloration at the time of the event, which helps the vet determine if the condition is stable, worsening, or improving upon arrival. It also allows the triage nurse to quickly prioritize your cat for immediate oxygen therapy.</p>",
+  "faqs": [
+    {
+      "question": "What are other symptoms of low oxygen in cats?",
+      "answer": "Other signs include open-mouth breathing, panting, lethargy, gasping for air, or a hunched posture with the neck extended."
+    },
+    {
+      "question": "What causes a cat's gums to turn blue?",
+      "answer": "Common causes include congestive heart failure, severe asthma, pneumonia, physical airway obstruction (choking), or exposure to certain toxins."
+    },
+    {
+      "question": "Can I wait an hour to see if the color returns to pink?",
+      "answer": "No. Blue gums indicate a severe lack of oxygen. Any delay in treatment could result in irreversible organ damage or death."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

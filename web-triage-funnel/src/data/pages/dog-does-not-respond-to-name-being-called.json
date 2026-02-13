@@ -1,0 +1,20 @@
+{
+  "title": "Dog Not Responding to Name: Causes, Triage, and When to See a Vet",
+  "meta_desc": "Is your dog ignoring their name? Learn about hearing loss, cognitive decline, and ear health. Low urgency triage guide for concerned pet owners.",
+  "content_html": "<h3>What Is It?</h3><p>When a dog stops responding to their name, it usually indicates a breakdown in communication between the sound and the dog's brain. This can be caused by sensory issues like hearing loss (common in senior dogs), physical obstructions such as ear infections or wax buildup, or neurological issues. In some cases, it may be a behavioral change where the dog has become desensitized to the sound of their name.</p><h3>Is It an Emergency?</h3><p>Urgency Level: Low. In the absence of other symptoms like collapse, extreme lethargy, or seizures, a dog not responding to their name is typically not a medical emergency. However, it does require a scheduled veterinary visit to determine if the cause is a treatable ear infection or a more complex neurological condition. If your dog also appears dizzy or is tilting their head, you should seek an appointment more promptly.</p><h3>Why a Photo Helps Triage</h3><p>Providing a clear, close-up photo of your dog's ear canals can be incredibly helpful for a triage professional. Visible redness, swelling, or dark discharge can immediately point toward an ear infection as the culprit. Additionally, a video of you calling your dog while they are looking away can help a professional assess whether the dog is truly failing to hear the sound or simply choosing to ignore it.</p>",
+  "faqs": [
+    {
+      "question": "Can dogs suddenly go deaf?",
+      "answer": "While gradual hearing loss is more common with age, sudden deafness can occur due to severe infection, trauma, or certain medications. A veterinary exam is necessary to find the cause."
+    },
+    {
+      "question": "Could my dog just be ignoring me?",
+      "answer": "Yes, behavioral 'selective hearing' is possible, especially if the dog is distracted or hasn't had consistent training. However, it is safest to rule out medical hearing loss first."
+    },
+    {
+      "question": "Is hearing loss in dogs treatable?",
+      "answer": "If the cause is an ear infection or a physical blockage, hearing often returns once the condition is treated. Age-related hearing loss is usually permanent but manageable."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Chewed on Easter Lily Leaf",
+  "meta_desc": "If your cat chewed an Easter lily leaf, this is a life-threatening emergency. Immediate veterinary care is required to prevent kidney failure.",
+  "content_html": "<h3>What is Easter Lily Toxicity?</h3><p>Easter lilies (Lilium longiflorum) are highly poisonous to cats. Every single part of the plant—including the leaves, flowers, pollen, and even the water in the vase—contains water-soluble toxins. When ingested, these toxins cause severe and rapid damage to a cat's renal system, leading to acute kidney failure within a very short timeframe.</p><h3>Is it an emergency?</h3><p>Yes. This is a high-priority, life-threatening emergency. There is no safe amount of exposure; even a small nibble of a leaf or licking a few grains of pollen off their fur can be fatal. It is critical that you do not wait for symptoms to appear. Once a cat shows signs of illness, such as vomiting or lethargy, the damage to the kidneys may already be irreversible. Immediate veterinary intervention within the first few hours is the only way to ensure a positive outcome.</p><h3>Why a Photo Helps Triage</h3><p>If you are able to do so quickly, take a clear photo of the plant and any bite marks. Showing this photo to your veterinarian or an emergency clinic helps them confirm the exact species of lily, as some varieties are more toxic than others. This confirmation allows the medical team to bypass identification steps and begin life-saving decontamination and fluid therapy immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait to see if my cat gets sick before going to the vet?",
+      "answer": "No. Waiting for symptoms like vomiting or loss of appetite usually means kidney failure has already begun. Early treatment is the only way to prevent permanent damage or death."
+    },
+    {
+      "question": "My cat only touched the pollen, is that still dangerous?",
+      "answer": "Yes. If a cat gets pollen on their fur and grooms themselves, they will ingest the toxin. This is just as dangerous as eating a leaf and requires immediate veterinary care."
+    },
+    {
+      "question": "What is the typical treatment for lily poisoning?",
+      "answer": "Veterinarians typically perform decontamination (like inducing vomiting or using activated charcoal) and provide aggressive intravenous fluid therapy for 48 to 72 hours to protect the kidneys."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

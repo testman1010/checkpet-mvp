@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Cat Drooling and Difficulty Breathing | Vet Triage",
+  "meta_desc": "If your cat is drooling and struggling to breathe, this is a high-priority emergency. Seek immediate veterinary care now.",
+  "content_html": "<h3>Understanding Drooling and Respiratory Distress in Cats</h3><p>When a cat exhibits both excessive drooling (ptyalism) and labored breathing (dyspnea), it is a sign that their body is in significant distress. This combination of symptoms often suggests that the cat is unable to swallow properly because they are prioritizing the effort to move air, or there is an acute obstruction or systemic reaction occurring.</p><h3>Urgency Level: High (Critical Emergency)</h3><p>This is a life-threatening emergency. Difficulty breathing in cats is often subtle until it reaches a crisis point. If your cat is panting like a dog, breathing with an open mouth, or has a bluish tint to their tongue or gums, they are not getting enough oxygen. You should contact the nearest emergency animal hospital immediately.</p><h3>Why a Photo or Video Helps Triage</h3><p>Providing a clear photo or a 5-second video of your cat’s breathing pattern and the drool can be incredibly helpful for the veterinary triage team. It allows them to witness the specific type of respiratory effort (such as abdominal breathing or extended neck posture) and the consistency of the drool, which helps them prepare the necessary life-saving equipment before you even arrive at the clinic.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just be stressed?",
+      "answer": "While extreme stress can cause temporary panting, it should resolve quickly once the stressor is removed. Drooling combined with labored breathing is rarely just stress and almost always indicates an underlying medical crisis like heart failure or toxin ingestion."
+    },
+    {
+      "question": "What are common causes for these symptoms?",
+      "answer": "Common causes include congestive heart failure (fluid in the lungs), feline asthma, ingestion of toxic plants (like lilies), or a foreign object stuck in the throat."
+    },
+    {
+      "question": "What should I do while transporting my cat?",
+      "answer": "Keep the carrier level, minimize noise, and keep the car cool. Do not try to give the cat water or food, as this can increase the risk of choking or aspiration."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

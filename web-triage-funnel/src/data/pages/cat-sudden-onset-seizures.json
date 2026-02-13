@@ -1,0 +1,20 @@
+{
+  "title": "Cat Sudden Onset Seizures: Emergency Triage Guide",
+  "meta_desc": "Sudden seizures in cats are high-priority emergencies. Learn what they are, why they happen, and how video triage helps your veterinarian.",
+  "content_html": "<h3>Understanding Sudden Onset Seizures in Cats</h3><p>A seizure is a sudden, involuntary disturbance in the brain's electrical activity. In cats, this can manifest as full-body convulsions (grand mal), localized twitching, or even brief periods of altered consciousness. When these episodes occur suddenly in a cat with no prior history of neurological issues, it is a significant clinical sign that requires professional evaluation.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. Sudden onset seizures are considered a medical emergency. While a single, short seizure may not be immediately fatal, it often indicates an underlying acute problem such as toxin ingestion, metabolic imbalance, or head trauma. If your cat experiences \"cluster seizures\" (multiple episodes in 24 hours) or status epilepticus (a seizure lasting more than five minutes), it can lead to permanent brain damage or hyperthermia.</p><h3>The Role of Video Documentation in Triage</h3><p>If your cat is currently having a seizure, your first priority is to keep them safe by moving sharp objects away and avoiding their mouth to prevent bites. If you can safely do so, recording a video of the episode is one of the most helpful things you can do for the veterinary team. Because seizures are rarely occurring by the time you arrive at the clinic, a video allows the vet to see the exact nature of the movements, the duration, and the post-seizure behavior, which is critical for an accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "What should I do while my cat is seizing?",
+      "answer": "Stay calm, keep the environment dark and quiet, and do not put your hands near the cat's mouth. Move any furniture that might cause injury."
+    },
+    {
+      "question": "What causes sudden seizures in otherwise healthy cats?",
+      "answer": "Potential causes include ingestion of toxins (like lilies or certain essential oils), low blood sugar, liver disease, or inflammatory brain conditions."
+    },
+    {
+      "question": "Will my cat be conscious during the seizure?",
+      "answer": "Most cats lose consciousness or have a severely altered state of awareness during a seizure and will not respond to their name or touch."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

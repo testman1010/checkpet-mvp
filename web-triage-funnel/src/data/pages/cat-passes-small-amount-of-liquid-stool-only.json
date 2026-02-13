@@ -1,0 +1,20 @@
+{
+  "title": "Cat Passing Small Amount of Liquid Stool: Triage and Care Guide",
+  "meta_desc": "Find out why your cat is passing small amounts of liquid stool, the urgency level, and how to help your pet before your vet appointment.",
+  "content_html": "<h3>What Does Liquid Stool Mean?</h3><p>When a cat passes only small amounts of liquid stool, it is often referred to as 'leaking' or 'frequent small-volume diarrhea.' This typically indicates inflammation in the lower gastrointestinal tract or colon. In some cases, it may actually be a sign of 'paradoxical diarrhea,' where liquid stool is the only thing capable of passing around a hard, obstructive mass of feces further up the digestive tract.</p><h3>Urgency Level: Medium</h3><p>The urgency level for this condition is Medium. While one or two episodes may not be an immediate life-threatening crisis, it warrants a veterinary consultation within 24 to 48 hours. However, if your cat is also vomiting, refusing to eat, or appears to be straining painfully (tenesmus) without producing anything else, the urgency increases, and you should contact an emergency clinic immediately.</p><h3>Why a Photo Helps Triage</h3><p>It may feel strange, but taking a clear photo of the stool can be incredibly beneficial for your veterinary team. A visual record helps the vet identify the presence of mucus, flecks of blood, or specific color changes that indicate which part of the digestive system is affected. This allows for a much faster and more accurate diagnosis during the triage process.</p>",
+  "faqs": [
+    {
+      "question": "Can I give my cat over-the-counter human diarrhea medicine?",
+      "answer": "No, you should never give your cat human medications without a direct instruction from your vet, as many are toxic to felines."
+    },
+    {
+      "question": "Could this be caused by a change in diet?",
+      "answer": "Yes, sudden changes in brand or flavor of food can lead to gastrointestinal upset and liquid stools."
+    },
+    {
+      "question": "Is it possible my cat is actually constipated?",
+      "answer": "Yes, sometimes only liquid can bypass a blockage caused by severe constipation, making it look like diarrhea when the underlying issue is actually a blockage."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

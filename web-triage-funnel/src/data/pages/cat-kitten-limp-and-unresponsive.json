@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: Kitten is Limp and Unresponsive",
+  "meta_desc": "If your kitten is limp and unresponsive, this is a life-threatening emergency. Seek immediate veterinary care. Learn the next steps for triage.",
+  "content_html": "<h3>What is it?</h3><p>When a kitten is described as limp and unresponsive, it means they have lost muscle tone and do not react to external stimuli like sound, touch, or pain. In young felines, this is often a sign of systemic collapse, which may be caused by severe hypoglycemia (low blood sugar), extreme dehydration, hypothermia, or a serious underlying infection.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Kittens have very little body reserves, and an unresponsive state indicates that their vital organs are struggling to function. You should immediately transport the kitten to the nearest 24-hour emergency veterinary clinic. Every minute is vital to their survival.</p><h3>Why a photo helps triage</h3><p>While you are preparing to leave or are in transit, taking a quick photo or short video can be incredibly helpful for the veterinary team. A visual of the kitten’s gum color (which should be pink) and their breathing pattern allows the triage nurse to immediately assess the level of shock and prepare life-saving interventions before you even walk through the door.</p>",
+  "faqs": [
+    {
+      "question": "How can I keep the kitten safe during transport?",
+      "answer": "Wrap the kitten gently in a warm towel to help maintain their body temperature, as they cannot regulate heat well when in shock. Keep them on a flat surface and ensure their neck is straight so they can breathe easily."
+    },
+    {
+      "question": "Should I try to feed an unresponsive kitten?",
+      "answer": "No. Never attempt to force-feed a limp or unresponsive kitten, as they can easily inhale the food or liquid into their lungs, causing aspiration pneumonia. If you suspect low blood sugar, you may rub a tiny amount of Karo syrup or honey on their gums, but do not delay your trip to the vet."
+    },
+    {
+      "question": "What are common causes for this condition?",
+      "answer": "Common causes include 'Fading Kitten Syndrome,' severe parasitic loads, viral infections, or sudden drops in glucose levels. Only a veterinarian can provide a definitive diagnosis through blood work and physical examination."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

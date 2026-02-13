@@ -1,0 +1,20 @@
+{
+  "title": "Cat Licked Hand Sanitizer: Guide to Risks and Triage",
+  "meta_desc": "If your cat licked a small amount of hand sanitizer, stay calm. Read our guide on symptoms, why it is low urgency, and how to help your pet.",
+  "content_html": "<h3>What Happens When a Cat Licks Hand Sanitizer?</h3><p>Hand sanitizer gels typically contain a high concentration of ethanol or isopropanol (usually 60% to 95%). While alcohol is toxic to cats, a single lick from your hand or a small drop represents a very tiny volume of the chemical. Most cats find the taste extremely bitter and will immediately stop, though they may drool or shake their head due to the unpleasant sensation and mild irritation to the tongue.</p><h3>Is It an Emergency?</h3><p>The urgency level for a single lick of hand sanitizer is <strong>Low</strong>. In the vast majority of cases, a cat will not ingest enough to cause systemic alcohol poisoning. However, you should monitor your pet for the next few hours. If your cat has consumed a large volume (such as lapping up a significant spill), this would transition to a high-urgency situation requiring immediate veterinary intervention.</p><h3>Why a Photo Helps Triage</h3><p>If you are consulting with a remote vet or triage service, taking a photo of the product label is vital. Different brands include various additives like xylitol, essential oils, or fragrances that might have different toxicity profiles than the alcohol itself. Additionally, a photo of your cat's mouth can help a professional determine if there is any visible chemical irritation or redness that requires topical treatment.</p>",
+  "faqs": [
+    {
+      "question": "What symptoms should I look for?",
+      "answer": "Watch for excessive drooling, lethargy, stumbling (ataxia), or vomiting. If your cat seems 'drunk' or becomes unresponsive, seek emergency care immediately."
+    },
+    {
+      "question": "Should I wash my cat's mouth?",
+      "answer": "You can offer your cat a small amount of water or the liquid from canned tuna to help rinse the bitter taste away, but do not force water into their mouth as they could inhale it."
+    },
+    {
+      "question": "Is it the alcohol or the scent that is dangerous?",
+      "answer": "Both can be problematic, but the alcohol is the primary concern for toxicity. Some scents are derived from essential oils which can also be toxic to a cat's liver if ingested in quantity."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

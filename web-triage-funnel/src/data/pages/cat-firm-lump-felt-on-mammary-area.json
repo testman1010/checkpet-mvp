@@ -1,0 +1,20 @@
+{
+  "title": "Cat Mammary Lumps: A Triage Guide for Pet Owners",
+  "meta_desc": "Find a firm lump on your cat's mammary area? Learn what it could be, why it is a medium-priority concern, and how to help your vet with triage photos.",
+  "content_html": "<h3>What is it?</h3><p>Finding a firm lump in your cat's mammary area—the space along the underside where the nipples are located—can be a distressing discovery. These masses can represent several different conditions, ranging from benign cysts or localized infections (mastitis) to mammary gland hyperplasia. However, in cats, a high percentage of mammary lumps are found to be mammary tumors, which require professional diagnosis to determine if they are malignant or benign.</p><h3>Is it an emergency?</h3><p>The urgency level for a firm mammary lump is classified as Medium. It is generally not a life-threatening emergency that requires a midnight visit to the ER, provided your cat is eating, drinking, and breathing normally. However, because feline mammary masses can progress quickly, you should schedule a veterinary appointment within the next 24 to 48 hours. If the lump is rapidly growing, bleeding, or causing your cat obvious pain, you should seek care sooner.</p><h3>Why a photo helps triage</h3><p>Capturing a clear, high-resolution photograph of the lump can be an invaluable tool for your veterinary team. Photos provide a visual baseline that helps the vet assess the size, color, and precise location of the mass. This is particularly helpful if the lump changes appearance or size between the time you first notice it and your scheduled appointment. When taking the photo, try to part the fur clearly and include a common object (like a coin) for scale.</p>",
+  "faqs": [
+    {
+      "question": "Can male cats get mammary lumps?",
+      "answer": "Yes, while much less common than in females, male cats do have mammary tissue and can develop both benign and malignant mammary masses."
+    },
+    {
+      "question": "Does spaying my cat reduce the risk of mammary tumors?",
+      "answer": "Yes, spaying a cat before her first heat cycle significantly reduces the lifetime risk of developing mammary gland tumors."
+    },
+    {
+      "question": "What will the vet do to test the lump?",
+      "answer": "A veterinarian will typically perform a physical exam and may suggest a fine-needle aspirate (FNA) or a surgical biopsy to identify the type of cells present."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

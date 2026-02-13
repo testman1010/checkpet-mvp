@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: My Dog Ingested Rat Poison",
+  "meta_desc": "If your dog ate rat poison, this is a high-priority veterinary emergency. Learn what to do immediately to save your pet's life.",
+  "content_html": "<h3>What is Rodenticide Ingestion?</h3><p>Rodenticide ingestion occurs when a dog consumes poisonous bait intended for rats or mice. These products contain various toxic chemicals such as anticoagulants, which prevent blood from clotting, or neurotoxins like bromethalin. Because these baits are often flavored to be attractive to pests, they are unfortunately also appealing to dogs.</p><h3>Is it an emergency?</h3><p><strong>Urgency Level: High.</strong> Yes, this is a critical medical emergency. Rat poison is designed to be lethal, and the effects on a dog can be devastating or fatal if not treated immediately. Even if your dog is acting normally right now, the toxic effects often have a delayed onset. Early decontamination and treatment by a veterinarian are essential for a positive prognosis.</p><h3>Why a Photo Helps Triage</h3><p>Providing a photo of the product packaging or the ingredient label is one of the most helpful things you can do. Different types of rat poison affect the body in completely different ways; for example, one might cause internal bleeding while another causes brain swelling. Identifying the specific active ingredient allows your veterinarian to administer the correct antidote or treatment plan immediately upon your arrival.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Do not induce vomiting unless specifically directed to do so by a veterinarian or poison control specialist, as it can sometimes lead to aspiration pneumonia or other complications."
+    },
+    {
+      "question": "How long does it take for symptoms to show?",
+      "answer": "Symptoms can appear within hours or take several days to manifest depending on the type of poison. Waiting for symptoms to appear is dangerous; immediate treatment is required."
+    },
+    {
+      "question": "What if I only suspect they ate it?",
+      "answer": "If there is any possibility of ingestion, treat it as an emergency. It is far safer to have a veterinarian examine the dog than to risk the poison being absorbed into their system."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

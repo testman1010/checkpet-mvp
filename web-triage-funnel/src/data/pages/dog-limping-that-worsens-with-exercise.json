@@ -1,0 +1,20 @@
+{
+  "title": "Dog Limping Worsening with Exercise: Causes and Triage Guide",
+  "meta_desc": "Is your dog limping more after activity? Learn why exercise-induced lameness happens, how urgent it is, and how to help your vet diagnose the issue.",
+  "content_html": "<h3>What Is Exercise-Induced Limping?</h3><p>When a dog's limp becomes more pronounced during or after physical activity, it typically indicates that the mechanical stress of movement is aggravating an underlying issue. Unlike 'cold lameness' where a dog is stiff after sleep but improves as they warm up, exercise-induced lameness often points toward soft tissue injuries, such as ligament tears, muscle strains, or progressive joint conditions like osteoarthritis.</p><h3>Is It an Emergency?</h3><p>The urgency level for a limp that worsens with exercise is generally <strong>Medium</strong>. It is not usually a life-threatening emergency, but it does require a veterinary exam within 24 to 48 hours. If your dog is still able to put some weight on the leg and is eating and drinking normally, you can likely wait for a scheduled appointment. However, seek immediate care if the dog becomes completely non-weight-bearing, shows signs of extreme distress, or if there is significant heat and swelling in the limb.</p><h3>Why a Photo or Video Helps Triage</h3><p>It is very common for dogs to hide their pain at the clinic due to the 'adrenaline effect' of being in a new environment. Taking a video of your dog walking at home—specifically when the limp is most visible—is one of the best tools you can provide. A clear video of their gait from the side and from behind allows your veterinarian to perform a more accurate visual triage, helping them identify which joint or muscle group is the likely source of the problem before the physical exam even begins.</p>",
+  "faqs": [
+    {
+      "question": "Should I still take my dog for short walks?",
+      "answer": "Until you have seen a veterinarian, it is best to strictly limit activity. Use a short leash for potty breaks only and avoid any running, jumping, or stairs."
+    },
+    {
+      "question": "Can I give my dog aspirin for the pain?",
+      "answer": "No. Never administer human pain medications to dogs, as many are toxic. Some can also prevent your vet from being able to prescribe the correct canine-specific anti-inflammatories immediately."
+    },
+    {
+      "question": "What are common causes for this type of limp?",
+      "answer": "Common causes include Cranial Cruciate Ligament (CCL) tears, tendonitis, or the early stages of arthritis that flares up with repetitive motion."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

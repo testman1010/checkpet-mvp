@@ -1,0 +1,20 @@
+{
+  "title": "Dog Limping After Sleeping: Causes and Triage Guide",
+  "meta_desc": "Is your dog stiff or limping after a nap? Learn about common causes like arthritis, when to see a vet, and how to triage your pet's mobility at home.",
+  "content_html": "<h3>What is Post-Nap Limping?</h3><p>When a dog experiences lameness specifically after resting, it is often referred to as \"warm-up\" lameness. This occurs when a dog appears stiff or hesitant to use a limb immediately after waking up but gradually improves as they move around. This pattern is a classic hallmark of chronic joint issues, where the joints become stiff during inactivity and require movement to lubricate the joint capsule.</p><h3>Is This an Emergency?</h3><p>Urgency Level: Low. If your dog is able to put some weight on the leg and the limping improves within a few minutes of walking, it is generally not an immediate emergency. You should monitor your pet and schedule a non-emergency appointment with your veterinarian to discuss pain management. However, seek immediate care if your dog is completely non-weight-bearing, vocalizing in pain, or has significant swelling.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of your dog as they first stand up and begin to walk is one of the most valuable tools for a veterinary professional. Because dogs often experience an adrenaline rush at the vet clinic that masks their limp, a video provides an objective look at their gait in a natural environment. It helps the vet determine which leg is affected and whether the issue is orthopedic or neurological.</p>",
+  "faqs": [
+    {
+      "question": "Why does my dog walk fine after a few minutes of limping?",
+      "answer": "This is often due to osteoarthritis. Movement helps circulate synovial fluid within the joints, which reduces friction and discomfort as the dog 'warms up' their muscles and ligaments."
+    },
+    {
+      "question": "Can I give my dog human pain medication for their limp?",
+      "answer": "No. Never administer human medications like Ibuprofen, Advil, or Tylenol to your dog, as these are highly toxic to pets. Always consult a vet for pet-safe anti-inflammatory options."
+    },
+    {
+      "question": "Does a limp after sleeping always mean arthritis?",
+      "answer": "While arthritis is the most common cause in older dogs, it could also indicate a soft tissue strain, a minor ligament tear, or even Lyme disease. A veterinary exam is necessary for a definitive diagnosis."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog One Testicle Much Larger Than the Other: Causes and Triage",
+  "meta_desc": "Learn why your dog has one enlarged testicle, common causes like tumors or infection, and why this medium-urgency issue needs a vet visit.",
+  "content_html": "<h3>Understanding Testicular Swelling in Dogs</h3><p>Noticing that your dog has one testicle significantly larger than the other can be a concerning discovery. This asymmetry is usually a sign of an underlying medical condition rather than a natural variation. Common causes include Orchitis (inflammation often due to infection), Epididymitis, or Testicular Neoplasia (tumors). In some cases, trauma to the area can also lead to significant swelling and discomfort.</p><h3>Is This an Emergency?</h3><p>The urgency level for a swollen testicle is classified as Medium. While this is rarely a life-threatening emergency in the first few hours, it is not a condition that should be ignored. You should aim to have your dog evaluated by a veterinarian within 24 to 48 hours. If your dog is also showing signs of extreme pain, lethargy, persistent vomiting, or if the area is hot to the touch, you should seek veterinary care sooner.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear photo of the affected area can be incredibly beneficial for your veterinary team or a triage assistant. A visual record allows professionals to assess the degree of enlargement, look for skin discoloration or bruising, and check for any visible discharge. This helps them determine the severity of the situation and prioritize your dog's appointment appropriately.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog have a tumor?",
+      "answer": "Testicular tumors are common in older, unneutered dogs. While many are benign, they can still cause significant swelling and should be diagnosed by a vet."
+    },
+    {
+      "question": "Will my dog need to be neutered?",
+      "answer": "Neutering is often the primary treatment for testicular swelling caused by tumors or chronic infection, as it removes the source of the problem entirely."
+    },
+    {
+      "question": "Is testicular swelling painful?",
+      "answer": "It depends on the cause. Infections and torsion are typically very painful, while some tumors may cause only mild discomfort in the early stages."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

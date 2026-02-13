@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed a Squeaker Toy? Emergency Guide & Veterinary Triage",
+  "meta_desc": "If your dog swallowed a squeaker, it is a high-priority emergency. Learn why immediate veterinary care is vital and how to help your vet triage.",
+  "content_html": "<h3>What Happened?</h3><p>A squeaker is a small, rigid device—usually made of plastic or metal—located inside dog toys to produce sound. Because these objects are non-digestible and often have sharp or irregular edges, they pose a significant risk to your dog's internal health if ingested.</p><h3>Is it an emergency? (Urgency: High)</h3><p>Yes, this is a high-urgency situation. A swallowed squeaker can cause a gastrointestinal obstruction, preventing food and water from passing, or it could potentially puncture the stomach or intestinal walls. You should contact your veterinarian or the nearest emergency animal hospital immediately. Do not wait for symptoms like vomiting or lethargy to appear, as internal damage can occur quickly.</p><h3>Why a Photo Helps Triage</h3><p>If you have an identical toy or the remains of the toy that was destroyed, take a clear photograph of the squeaker type. Providing this image to your veterinary team is incredibly helpful; it allows them to assess the size, shape, and material of the foreign body. This information helps the vet determine the best course of action, whether it be induced vomiting, endoscopic retrieval, or emergency surgery.</p>",
+  "faqs": [
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "No. You should never induce vomiting without a veterinarian's explicit instruction. If the squeaker has sharp edges, it could cause severe damage to the esophagus if it is brought back up."
+    },
+    {
+      "question": "What symptoms should I look for if I can't get to a vet immediately?",
+      "answer": "While immediate care is necessary, watch for persistent vomiting, loss of appetite, abdominal pain, or straining to defecate. These are signs of a life-threatening blockage."
+    },
+    {
+      "question": "Can a squeaker pass on its own?",
+      "answer": "While very small smooth objects sometimes pass, squeakers are typically too large or jagged to move safely through a dog's digestive tract. The risk of a fatal obstruction is too high to 'wait and see'."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

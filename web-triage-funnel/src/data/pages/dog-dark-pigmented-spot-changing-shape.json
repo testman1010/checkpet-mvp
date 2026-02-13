@@ -1,0 +1,20 @@
+{
+  "title": "Dog Dark Pigmented Spot Changing Shape: A Veterinary Triage Guide",
+  "meta_desc": "Is your dog's dark spot changing shape? Find out why this is a medium-urgency concern and how documenting changes can help your vet.",
+  "content_html": "<h3>Understanding Dark Spots and Pigmentation Changes</h3><p>When you notice a dark pigmented spot on your dog’s skin that is changing shape, it is essential to monitor it closely. These lesions can be caused by various factors, ranging from benign hyperpigmentation and freckles (lentigo) to more serious conditions like cutaneous melanomas or mast cell tumors. A change in the border, size, or symmetry of a spot indicates active cellular activity, which requires professional evaluation to ensure the growth is not malignant.</p><h3>Urgency Level: Medium</h3><p>A changing skin lesion is generally classified as a medium-priority concern. While it is rarely an immediate life-threatening emergency that requires a visit to an after-hours clinic, it should not be ignored. You should schedule a veterinary exam within the next 48 to 72 hours. Early intervention is key; if a pigmented spot is cancerous, removing it while it is small significantly improves the prognosis and reduces the risk of the cancer spreading to other parts of the body.</p><h3>Why Taking a Photo Helps Triage</h3><p>Clear photography is one of the most helpful tools in veterinary triage. By taking a high-resolution photo—ideally with a ruler or a common object like a coin next to the lesion for scale—you provide your vet with a baseline for comparison. This documentation allows the medical team to see exactly how fast the spot is evolving, which helps them determine whether a fine-needle aspirate or a surgical biopsy is the most appropriate next step.</p>",
+  "faqs": [
+    {
+      "question": "Can dog skin spots change as they age?",
+      "answer": "Yes, many dogs develop 'age spots' or lentigo as they get older, which are typically harmless. However, any spot that is actively changing its shape, becoming raised, or bleeding should be checked by a professional immediately."
+    },
+    {
+      "question": "What are the warning signs of a malignant spot?",
+      "answer": "Pet owners should look for the 'ABCDE' signs: Asymmetry, irregular Borders, Color variations (getting darker or multi-colored), Diameter increasing, and Evolution or any change in appearance."
+    },
+    {
+      "question": "How will a vet test a pigmented spot?",
+      "answer": "Vets usually begin with a Fine Needle Aspirate (FNA) to collect cells for microscopic review. If the results are inconclusive, they may recommend a punch biopsy or full surgical excision to send to a pathologist."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

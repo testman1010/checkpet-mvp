@@ -1,0 +1,20 @@
+{
+  "title": "Dog Chemical Burns on Paws: Emergency Triage and Care Guide",
+  "meta_desc": "Find out if your dog's chemical burn is an emergency. Learn how to identify symptoms, provide first aid, and why photos are vital for vet triage.",
+  "content_html": "<h3>What is a Chemical Burn on Paws?</h3><p>A chemical burn occurs when a dog's paw pads or the sensitive skin between their toes comes into contact with caustic substances. Common culprits include concentrated household cleaners, bleach, pool chemicals, fertilizers, or certain types of road salts. Unlike thermal burns, chemical burns can continue to damage the tissue until the substance is completely neutralized or removed.</p><h3>Is it an Emergency?</h3><p>Urgency Level: High. Yes, chemical burns on the paws are considered a medical emergency. These injuries are often deeper than they initially appear and are extremely painful. Furthermore, dogs naturally lick their paws when in pain, which can lead to the ingestion of the toxic chemical, causing internal burns to the mouth, throat, and stomach. Immediate veterinary intervention is necessary to stop the chemical reaction and manage the pain.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the affected paws can be incredibly helpful for your veterinary team. A photo allows a professional to visually assess the degree of tissue damage, look for signs of necrosis or deep ulceration, and provide specific first-aid instructions—such as whether or not to flush the area with water—while you are in transit to the emergency clinic.</p>",
+  "faqs": [
+    {
+      "question": "What are the symptoms of a chemical burn on a dog's paw?",
+      "answer": "Common symptoms include redness, swelling, skin peeling, blisters, limping, and the dog repeatedly licking or biting at their feet."
+    },
+    {
+      "question": "Should I try to neutralize the chemical at home?",
+      "answer": "Do not attempt to neutralize the chemical with other substances like vinegar or baking soda, as this can cause a heat-releasing reaction that worsens the burn. Call a vet for specific flushing instructions."
+    },
+    {
+      "question": "Can I apply an antibiotic ointment to the burn?",
+      "answer": "No, do not apply any ointments or creams unless specifically directed by a veterinarian. These products can trap the chemical against the skin or be toxic if licked off."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

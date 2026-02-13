@@ -1,0 +1,20 @@
+{
+  "title": "Cat Chronic Low-Grade Cough: Causes, Symptoms, and Triage Guide",
+  "meta_desc": "Learn about chronic coughing in cats, including feline asthma and bronchitis, and find out why this low-urgency symptom still needs a vet visit.",
+  "content_html": "<h3>What is a Chronic Low-Grade Cough?</h3><p>A chronic low-grade cough in cats often manifests as a dry, hacking sound, frequently accompanied by the cat hunching low to the ground with their neck extended. This behavior is often mistaken for trying to pass a hairball, but if no fur is produced, it usually indicates an issue within the lower airways. Common causes include feline asthma, chronic bronchitis, or occasionally parasitic infections like lungworms.</p><h3>Is it an Emergency?</h3><p>Urgency Level: Low. While a persistent cough is not normal and requires a veterinary evaluation, it is typically not an immediate emergency if your cat is otherwise acting normally. However, if the coughing is accompanied by open-mouth breathing, blue-tinged gums, or extreme lethargy, the situation shifts to an emergency. For a stable cat with a low-grade cough, an appointment should be scheduled within the next few days.</p><h3>Why a Video Helps Triage</h3><p>Because cats rarely cough on command during a physical exam, capturing a video of an episode is one of the most helpful tools you can provide your vet. A video allows the clinical team to observe the cat's posture, the sound of the cough, and the effort required to breathe. This visual evidence helps differentiate between cardiac issues, respiratory inflammation, and gastrointestinal hacking, leading to a faster and more accurate diagnosis.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat just have a stubborn hairball?",
+      "answer": "While hairballs involve retching, a true cough is a respiratory action. If your cat frequently hunches down to 'cough' but never produces hair, it is likely an airway issue like asthma rather than a digestive one."
+    },
+    {
+      "question": "What tests will the vet perform for a chronic cough?",
+      "answer": "Vets typically start with a physical exam and chest X-rays to look at the lungs and heart. They may also recommend blood work or a fecal test to rule out parasites."
+    },
+    {
+      "question": "Is feline asthma treatable?",
+      "answer": "Yes, feline asthma is very manageable. Treatment often involves environmental changes to reduce dust and smoke, along with medications like corticosteroids or even kitty inhalers."
+    }
+  ],
+  "reviewer_name": "Dr. Michael Ross, DVM"
+}

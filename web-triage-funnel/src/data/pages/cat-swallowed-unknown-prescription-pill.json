@@ -1,0 +1,20 @@
+{
+  "title": "Cat Swallowed Unknown Prescription Pill: Emergency Triage Guide",
+  "meta_desc": "If your cat swallowed an unknown pill, it is a high-priority emergency. Learn the immediate steps to take and why medication identification matters.",
+  "content_html": "<h3>What Happened When Your Cat Ingested a Pill</h3><p>Finding that your cat has swallowed a human prescription medication is an incredibly stressful situation. Because cats have a unique metabolism and a much smaller body mass than humans, even a single pill can lead to severe toxicity or organ failure. Human medications are not designed for feline physiology and can quickly become life-threatening.</p><h3>Urgency Level: High Emergency</h3><p>This is a high-priority emergency. You should not wait for symptoms to manifest before seeking help. Many medications, such as NSAIDs, antidepressants, or heart medications, can cause irreversible damage to the kidneys or liver within hours. If your cat has swallowed an unknown pill, please contact an emergency veterinarian or a pet poison control center immediately.</p><h3>Why a Photo is Vital for Triage</h3><p>If you can safely do so, take a clear photograph of the pill bottle, the label, or any remaining pills. Veterinarians use the imprints, colors, and shapes on pills to identify the specific medication and dosage. Providing a photo allows the medical team to prepare the correct antidote or treatment protocol before you even arrive at the clinic, saving precious time.</p>",
+  "faqs": [
+    {
+      "question": "Should I try to make my cat vomit at home?",
+      "answer": "No. Never attempt to induce vomiting in a cat at home using hydrogen peroxide or other methods, as this can cause severe chemical burns to the esophagus or lead to aspiration pneumonia."
+    },
+    {
+      "question": "What if my cat is acting normal right now?",
+      "answer": "Many toxins do not show immediate effects. By the time symptoms like tremors, lethargy, or vomiting appear, significant internal damage may have already occurred. Immediate veterinary intervention is still necessary."
+    },
+    {
+      "question": "What information should I have ready for the vet?",
+      "answer": "Have the pill name (if known), the dosage (mg), the estimated time of ingestion, and your cat's weight ready to provide to the emergency staff."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

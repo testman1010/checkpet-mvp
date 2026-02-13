@@ -1,0 +1,20 @@
+{
+  "title": "Cat Maggots in Wound: Emergency Triage and Myiasis Guide",
+  "meta_desc": "If you see maggots in your cat's wound, it is a medical emergency. Learn about fly strike (myiasis) and why immediate vet care is required.",
+  "content_html": "<h3>What is Fly Strike (Myiasis)?</h3><p>Finding maggots in your cat’s wound is a condition known as myiasis, commonly referred to as fly strike. This occurs when flies are attracted to an open injury or soiled fur and lay eggs that hatch into larvae. These larvae then feed on the cat's skin and underlying tissue, often burrowing deep where they cannot be seen.</p><h3>Is This a Veterinary Emergency?</h3><p>Yes, this is considered a high-urgency emergency. Maggots can cause extensive tissue damage very quickly and release toxins that can lead to systemic infection, shock, or even death if left untreated. Do not attempt to treat this at home with over-the-counter pesticides, as these can be toxic to cats. Immediate professional veterinary intervention is necessary to safely remove the larvae and treat the infection.</p><h3>Why a Photo Helps Triage</h3><p>Taking a clear, well-lit photo of the wound can be incredibly helpful for the veterinary triage team. It allows the medical staff to assess the extent of the infestation and the condition of the surrounding tissue before you even arrive. This helps the clinic prioritize your cat's case and prepare the necessary surgical or cleaning tools for immediate treatment.</p>",
+  "faqs": [
+    {
+      "question": "Can I use tweezers to remove the maggots myself?",
+      "answer": "It is not recommended. Maggots often burrow deep into the tissue, and if they are crushed or if parts are left behind, it can cause a severe inflammatory reaction or worsening infection. A veterinarian needs to sedate the cat and perform a sterile debridement."
+    },
+    {
+      "question": "How did my cat get maggots?",
+      "answer": "Flies are attracted to moisture, blood, or the smell of infection. If a cat has an outdoor wound, or even if they are an indoor cat with a dirty coat or an untreated sore, flies can lay eggs which hatch into maggots in as little as 24 hours."
+    },
+    {
+      "question": "What is the treatment for fly strike?",
+      "answer": "Treatment involves a veterinarian physically removing all larvae, cleaning and flushing the wound, and administering antibiotics and pain relief. In some cases, surgery is required to remove dead or necrotic tissue."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

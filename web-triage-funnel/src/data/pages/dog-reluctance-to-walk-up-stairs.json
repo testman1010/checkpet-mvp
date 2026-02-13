@@ -1,0 +1,20 @@
+{
+  "title": "Dog Reluctance to Walk Up Stairs: Causes and Triage Guide",
+  "meta_desc": "Is your dog refusing to climb stairs? Learn about potential causes like joint pain or injury and find out when to seek urgent veterinary care.",
+  "content_html": "<h3>What is Reluctance to Climb Stairs?</h3><p>Reluctance to climb stairs occurs when a dog hesitates, whines, or completely refuses to ascend or descend steps. This behavior is rarely just stubbornness; it is usually a physical manifestation of pain, weakness, or neurological discomfort. It may appear as a slow, cautious approach or a sudden change in their daily routine.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is categorized as Medium. While a gradual onset often points toward chronic conditions like arthritis or hip dysplasia, a sudden refusal to use stairs can indicate an acute injury or Intervertebral Disc Disease (IVDD). If your dog is also showing signs of a hunched back, dragging their toes, or yelping when touched, you should seek veterinary care within 24 hours to prevent further damage.</p><h3>How Visual Documentation Helps Triage</h3><p>Capturing a short video of your dog attempting to walk or stand can be an invaluable tool for your veterinarian. Seeing the specific way your dog carries their weight, whether they are 'bunny hopping' with their back legs, or if they are favoring a specific limb helps the medical team differentiate between orthopedic issues and neurological deficits before you even enter the exam room.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog just be getting old?",
+      "answer": "While slowing down is common in senior dogs, reluctance to use stairs usually indicates underlying pain from osteoarthritis or muscle wastage. These conditions can be managed to improve your dog's quality of life."
+    },
+    {
+      "question": "Should I force my dog to use the stairs?",
+      "answer": "No, you should not force them. If they are in pain, forcing the movement could exacerbate an injury, especially if the cause is spinal. Use a ramp or carry them safely until they have been evaluated."
+    },
+    {
+      "question": "What are common causes for this behavior?",
+      "answer": "Common causes include hip dysplasia, arthritis, torn ligaments (like the CCL), or neurological conditions such as IVDD or degenerative myelopathy."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Vomiting Blood and Mucus: Emergency Care & Triage Guide",
+  "meta_desc": "Is your dog vomiting blood and mucus? This is a high-priority emergency. Learn why it happens and why you must see a veterinarian immediately.",
+  "content_html": "<h3>What Does Blood and Mucus in Dog Vomit Mean?</h3><p>Finding blood mixed with mucus in your dog's vomit, a condition known as hematemesis, is a serious clinical sign. This combination typically indicates that the protective lining of the stomach or upper intestines is severely irritated or damaged. The mucus is the body's attempt to protect the gastrointestinal tract, while the blood indicates that the irritation has progressed to a point of tissue injury or bleeding.</p><h3>Urgency Level: High Emergency</h3><p>Seeing blood and mucus in vomit is considered a high-priority veterinary emergency. It can be a symptom of life-threatening conditions such as Hemorrhagic Gastroenteritis (HGE), toxic ingestion, parvovirus, or a foreign body obstruction. Because these conditions can lead to rapid dehydration, blood loss, and shock, you should not wait for the symptoms to resolve on their own. Contact your nearest emergency veterinarian immediately.</p><h3>Why Taking a Photo Helps Triage</h3><p>If you are able to do so safely, take a clear photo of the vomit before cleaning it up. Showing this photo to the veterinary triage team is incredibly helpful for diagnosis. The color of the blood (bright red versus dark, coffee-ground texture) and the ratio of mucus provide clues about the location and severity of the bleeding. This visual evidence allows the medical team to prioritize your dog's care more effectively upon arrival.</p>",
+  "faqs": [
+    {
+      "question": "Can I wait a few hours to see if my dog gets better?",
+      "answer": "No. Blood in the vomit is a sign of significant internal distress. Waiting can lead to a rapid decline in your dog's condition, especially if the cause is an infection or internal blockage."
+    },
+    {
+      "question": "What are common causes of bloody mucus in vomit?",
+      "answer": "Common causes include ingestion of toxins (like rat poison), severe bacterial or viral infections, stomach ulcers, or the ingestion of sharp objects that have damaged the GI tract."
+    },
+    {
+      "question": "Should I give my dog water if they are vomiting blood?",
+      "answer": "Do not give your dog food or water until you have spoken with a veterinarian. If they have a blockage or severe irritation, drinking can trigger more vomiting and further dehydration."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Why is My Cat Hissing at the Mirror? | Veterinary Triage Guide",
+  "meta_desc": "Is your cat hissing at their reflection? Learn why cats react to mirrors, when to worry, and how to help your feline friend feel safe at home.",
+  "content_html": "<h3>What is it?</h3><p>When a cat hisses at a mirror, they are experiencing what behaviorists call a lack of self-recognition. Unlike humans, most cats do not realize that the image in the glass is themselves. Instead, they perceive the reflection as a strange, intruding cat that has entered their territory. Because the reflection mimics their every move, the cat may feel threatened or challenged, leading to defensive behaviors like hissing, growling, or arching their back.</p><h3>Is it an emergency?</h3><p>Urgency Level: Low. This is a behavioral reaction and not a medical emergency. While it can be distressing to see your cat upset, they are not in physical danger. However, if this behavior is accompanied by sudden lethargy, disorientation, or if the cat begins to hide and stop eating due to stress, a routine veterinary check-up is recommended to ensure there are no underlying neurological or vision issues.</p><h3>Why a photo helps triage</h3><p>Capturing a photo or video of your cat during these episodes can be very helpful for your veterinarian or a feline behaviorist. Visual evidence allows professionals to analyze specific body language cues—such as ear position, pupil dilation, and tail movement—which helps differentiate between simple curiosity, play-aggression, or genuine fear-based stress. This helps us provide more tailored advice for your cat's specific temperament.</p>",
+  "faqs": [
+    {
+      "question": "Should I cover the mirrors in my house?",
+      "answer": "If your cat is showing signs of significant stress or is repeatedly attacking the glass, it is a good idea to temporarily cover the mirror or move it to a location the cat cannot access until they feel more secure."
+    },
+    {
+      "question": "Can cats ever learn to recognize themselves?",
+      "answer": "Most cats do not recognize themselves in mirrors, but many will eventually habituate to the reflection. Over time, they may realize the 'other cat' has no scent and poses no real threat, leading them to eventually ignore the mirror altogether."
+    },
+    {
+      "question": "Is this a sign of a neurological problem?",
+      "answer": "While usually behavioral, if a cat who was previously fine with mirrors suddenly starts acting aggressively toward them, it could indicate changes in vision or cognitive function. In these cases, a vet visit is the best course of action."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}

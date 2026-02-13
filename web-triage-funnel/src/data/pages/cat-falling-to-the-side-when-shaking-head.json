@@ -1,0 +1,20 @@
+{
+  "title": "Cat Falling to the Side When Shaking Head: Causes and Triage",
+  "meta_desc": "Is your cat falling over after shaking their head? Learn why this happens, the urgency level, and how documentation helps your vet diagnose the issue.",
+  "content_html": "<h3>What is It?</h3><p>When a cat falls to the side or loses balance after shaking their head, it is typically a sign of a vestibular system disturbance. The vestibular system, located in the inner ear and brain, is responsible for maintaining balance and orientation. When inflammation, infection, or a blockage occurs in this area, the brain receives conflicting signals about where the body is in space, leading to a loss of coordination known as ataxia.</p><h3>Is It an Emergency?</h3><p>The urgency level for this symptom is Medium. While seeing your cat lose their balance is frightening, it is often caused by treatable conditions such as a deep ear infection (otitis interna), ear mites, or feline vestibular disease. However, you should schedule a veterinary appointment within 24 to 48 hours. Seek immediate emergency care if your cat is also experiencing rapid, involuntary eye movements (nystagmus), persistent vomiting, or if they are unable to stand at all.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of the behavior or a clear photo of the inside of your cat's ears can be incredibly beneficial for your veterinarian. A video allows the vet to see the specific type of balance loss, which helps them distinguish between an ear issue and a neurological concern. Photos of the ear canal can reveal discharge, redness, or growths that may be triggering the head-shaking and subsequent dizziness.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have an ear infection?",
+      "answer": "Yes, middle or inner ear infections are the most common cause of balance loss and head shaking in cats. These require professional diagnosis and prescription antibiotics."
+    },
+    {
+      "question": "What is 'Old Cat' Vestibular Disease?",
+      "answer": "Idiopathic vestibular disease is a sudden-onset condition that affects balance. While the cause is often unknown, many cats recover on their own with supportive care over a few weeks."
+    },
+    {
+      "question": "Should I try to clean my cat's ears at home?",
+      "answer": "No, if your cat is falling over, do not put any liquids or cleaners in the ear until a vet has checked the eardrum. If the eardrum is ruptured, certain cleaners can cause permanent damage."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

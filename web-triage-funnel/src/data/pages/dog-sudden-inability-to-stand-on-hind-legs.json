@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Inability to Stand on Hind Legs: Emergency Triage Guide",
+  "meta_desc": "If your dog suddenly cannot stand on their back legs, it is a high-priority emergency. Learn about IVDD, symptoms, and immediate steps to take.",
+  "content_html": "<h3>What is Sudden Hind Leg Paralysis?</h3><p>Sudden inability to stand on the hind legs, also known as acute paraparesis or paraplegia, occurs when a dog loses the functional use of their rear limbs. This condition often stems from a neurological issue where the communication between the brain and the legs is interrupted, commonly due to spinal cord compression or injury. It can manifest as dragging the back legs, 'knuckling' over on paws, or complete immobility.</p><h3>Is This a Veterinary Emergency?</h3><p>Urgency Level: High. Yes, this is considered a critical medical emergency. If your dog suddenly loses the use of their back legs, you should seek immediate veterinary care at an emergency clinic. Conditions such as Intervertebral Disc Disease (IVDD) or a Fibrocartilaginous Embolism (FCE) require rapid intervention to prevent permanent nerve damage or lifelong paralysis. The first 24 hours are often the most critical for recovery outcomes.</p><h3>Why Photos and Videos Help Triage</h3><p>While your primary focus should be safely transporting your dog, capturing a brief 10-second video of your dog's attempts to move can be incredibly helpful for the veterinary team. Visual evidence allows the vet to see the exact onset of symptoms and the specific neurological 'deficit'—such as whether the dog is 'drunk-walking' or has total loss of motor function—which helps them locate where the spinal issue is occurring before they even begin a physical exam.</p>",
+  "faqs": [
+    {
+      "question": "Can Intervertebral Disc Disease (IVDD) happen suddenly?",
+      "answer": "Yes, IVDD can cause a sudden 'explosion' of disc material into the spinal canal, leading to immediate loss of leg function, especially in prone breeds like Dachshunds or Corgis."
+    },
+    {
+      "question": "What should I do while transporting my dog to the vet?",
+      "answer": "Keep your dog as still as possible. Use a flat board, a rigid pet carrier, or a large towel as a stretcher to prevent the spine from flexing or twisting during the trip."
+    },
+    {
+      "question": "Can a dog recover from sudden hind leg paralysis?",
+      "answer": "Recovery is possible and depends on the underlying cause, the severity of nerve damage, and how quickly the dog receives treatment or surgery."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

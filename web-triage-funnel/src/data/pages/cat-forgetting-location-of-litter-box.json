@@ -1,0 +1,20 @@
+{
+  "title": "Cat Forgetting Location of Litter Box: Causes and Vet Triage Advice",
+  "meta_desc": "Is your cat forgetting where the litter box is? Learn about cognitive dysfunction, urgency levels, and how to help your feline friend today.",
+  "content_html": "<h3>What is Litter Box Disorientation?</h3><p>When a cat appears to forget the location of their litter box, it is often a symptom of an underlying medical or cognitive issue. This behavior, known as periuria or inappropriate elimination, can be caused by Feline Cognitive Dysfunction (similar to dementia in humans), sensory decline such as loss of sight or smell, or physical conditions like arthritis that make reaching the box difficult. It is rarely a matter of spite; rather, the cat is likely confused or physically unable to access their usual spot.</p><h3>Is it an emergency?</h3><p>The urgency level for this condition is <strong>Low</strong>. While it is distressing for both the owner and the pet, a cat losing track of their litter box is typically a chronic issue that can be addressed during a scheduled veterinary appointment. However, if this behavior is accompanied by a total inability to urinate, straining, or crying out in pain, it becomes a high-priority emergency that requires immediate care.</p><h3>Why a photo helps triage</h3><p>Providing your veterinarian with photos can be incredibly helpful for an accurate diagnosis. Images of the areas where your cat is eliminating help determine if they are seeking specific surfaces or if they are simply unable to reach the box. Furthermore, photos of the litter box setup itself—including the height of the entry point and its location in the home—allow the vet to see if environmental modifications are needed to accommodate a cat with mobility or cognitive challenges.</p>",
+  "faqs": [
+    {
+      "question": "Could my cat have feline dementia?",
+      "answer": "Yes, Feline Cognitive Dysfunction (FCD) is a common cause of spatial disorientation in senior cats, leading them to forget the location of resources like food and litter boxes."
+    },
+    {
+      "question": "Can vision loss cause this behavior?",
+      "answer": "Yes, if a cat's vision is failing, they may have difficulty navigating the home, especially if the litter box is in a dark or remote area."
+    },
+    {
+      "question": "What should I do if my cat is also straining to urinate?",
+      "answer": "If your cat is straining, spending a long time in the box, or producing no urine, this is a medical emergency and you should contact an emergency vet immediately."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

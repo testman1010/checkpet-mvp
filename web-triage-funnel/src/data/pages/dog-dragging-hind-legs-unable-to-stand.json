@@ -1,0 +1,20 @@
+{
+  "title": "Dog Dragging Hind Legs & Unable to Stand: Emergency Triage Guide",
+  "meta_desc": "If your dog is dragging their back legs or cannot stand, this is a high-priority medical emergency. Learn about potential causes and next steps.",
+  "content_html": "<h3>What Is It?</h3><p>When a dog drags their hind legs or is suddenly unable to stand, it typically indicates a loss of motor function or severe pain. This is often caused by a neurological issue where the signals from the brain are not reaching the limbs correctly, or an orthopedic crisis. Common conditions include Intervertebral Disc Disease (IVDD), spinal cord injuries, or a fibrocartilaginous embolism (FCE).</p><h3>Is This an Emergency?</h3><p>Yes. The urgency level for this condition is High. A dog that has lost the ability to use its legs requires immediate veterinary intervention. Time is a critical factor in these cases; the faster a dog receives treatment or surgery, the higher the likelihood of regaining mobility. If your primary veterinarian is unavailable, you should go to the nearest 24-hour emergency animal hospital immediately.</p><h3>How Photos and Videos Help Triage</h3><p>Taking a quick video of your dog's attempts to move can be an invaluable tool for the veterinary team. A video allows the vet to see the exact nature of the gait, the level of coordination, and which specific limbs are affected. This visual evidence helps the triage nurse and veterinarian prioritize your pet's care and can provide a baseline to monitor for improvement or decline during treatment.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be in pain even if they aren't crying?",
+      "answer": "Yes. Dogs are very good at masking pain. Dragging legs or the inability to stand is a sign of a significant physiological crisis, which is often accompanied by internal distress or localized spinal pain."
+    },
+    {
+      "question": "Should I try to help my dog walk?",
+      "answer": "No. You should minimize your dog's movement. Use a flat board or a supportive sling (like a towel under the belly) to carry them to the car, ensuring their spine remains as neutral and still as possible."
+    },
+    {
+      "question": "Can I give my dog aspirin for the pain?",
+      "answer": "No. Do not administer any human medications or over-the-counter pain relief. These can be toxic to dogs and may prevent the veterinarian from being able to prescribe the necessary emergency steroids or anti-inflammatories."
+    }
+  ],
+  "reviewer_name": "Dr. Laura Wilson, DVM"
+}

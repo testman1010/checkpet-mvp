@@ -1,0 +1,20 @@
+{
+  "title": "Dog Obsessive Licking of Floor: Causes and Triage Guide",
+  "meta_desc": "Is your dog obsessively licking the floor? Learn about potential causes, urgency levels, and why capturing a video helps your veterinarian.",
+  "content_html": "<h3>What Is Obsessive Floor Licking?</h3><p>Obsessive licking of floors, often referred to by veterinarians as Excessive Licking of Surfaces (ELS), is a behavior where a dog licks various non-food objects or surfaces repeatedly. While it may look like a simple behavioral habit, research suggests that a high percentage of dogs displaying this behavior actually have underlying gastrointestinal issues, such as acid reflux, nausea, or inflammatory bowel disease. It can also be a sign of cognitive dysfunction in older dogs or a manifestation of anxiety.</p><h3>Is It an Emergency?</h3><p>The urgency level for obsessive floor licking is typically Low. It is rarely a life-threatening situation on its own. However, it is a clinical sign that your dog is experiencing some form of physical or psychological discomfort. You should monitor your dog for other symptoms like vomiting, diarrhea, or a loss of appetite. If the licking is accompanied by a bloated abdomen or unproductive retching, seek immediate veterinary care, as these could be signs of a more serious condition.</p><h3>Why a Video Helps Triage</h3><p>Providing your veterinarian with a video of the behavior is one of the most effective ways to help them reach a diagnosis. Because dogs often stop the behavior once they arrive at the clinic due to the change in environment, a recording allows the vet to see the intensity, frequency, and specific triggers for the licking. It helps them distinguish between a neurological compulsion, a response to gastrointestinal nausea, or a focal seizure.</p>",
+  "faqs": [
+    {
+      "question": "Could my dog be licking the floor because they are hungry?",
+      "answer": "While hunger itself doesn't usually cause obsessive licking, the nausea associated with an empty stomach (bilious vomiting syndrome) can lead a dog to lick surfaces to soothe their GI tract."
+    },
+    {
+      "question": "Is floor licking always related to a medical problem?",
+      "answer": "Not always. It can be a behavioral compulsion or a way for a dog to cope with stress and anxiety. However, veterinarians typically rule out medical issues like GI pain first before diagnosing it as a behavioral tic."
+    },
+    {
+      "question": "Can licking the floor be dangerous for my dog?",
+      "answer": "The primary risk is the secondary ingestion of hair, dust, or cleaning chemicals found on the floor, which can lead to intestinal blockages or toxicity."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

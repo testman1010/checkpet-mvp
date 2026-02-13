@@ -1,0 +1,20 @@
+{
+  "title": "Cat Walking in Repetitive Circles: Causes and Triage Guide",
+  "meta_desc": "Is your cat walking in repetitive circles? This high-urgency symptom requires immediate veterinary care. Learn about potential causes and what to do.",
+  "content_html": "<h3>What Does Repetitive Circling Mean?</h3><p>When a cat walks in repetitive, involuntary circles, it is typically a sign of a neurological or vestibular (balance) dysfunction. This behavior is distinct from normal play; it often appears aimless and persistent. It suggests that the cat's brain or inner ear is receiving incorrect information about its position in space, leading to a loss of orientation.</p><h3>Is it an Emergency?</h3><p>Yes, the urgency level for this symptom is High. Sudden circling is rarely a minor issue and can be caused by severe conditions such as an inner ear infection, feline vestibular disease, inflammatory brain disease, toxicity, or even a stroke or brain tumor. Because many of these conditions are progressive or painful, your cat should be seen by a veterinarian or an emergency animal hospital immediately.</p><h3>Why a Video Helps Triage</h3><p>Providing your veterinarian with a video of the circling behavior is extremely valuable. Cats often experience high stress at the clinic, which can temporarily mask or alter their symptoms. A video allows the doctor to see the exact direction of the circling, the presence of a head tilt, and any rhythmic eye movements (nystagmus), which helps them quickly differentiate between a localized ear problem and a more serious brain-related issue.</p>",
+  "faqs": [
+    {
+      "question": "Can an ear infection cause a cat to walk in circles?",
+      "answer": "Yes, a deep infection in the middle or inner ear can disrupt a cat's balance, leading to circling and a head tilt. This requires professional treatment to prevent permanent damage."
+    },
+    {
+      "question": "Are there other symptoms I should look for?",
+      "answer": "Watch for eyes darting back and forth, stumbling, falling over, or a sudden loss of appetite, as these often accompany neurological circling."
+    },
+    {
+      "question": "Could this be a sign of a stroke?",
+      "answer": "While less common in cats than humans, vascular events in the brain can cause sudden onset circling and require immediate emergency evaluation."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

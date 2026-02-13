@@ -1,0 +1,20 @@
+{
+  "title": "Dog Sudden Fear of Thunderstorms or Loud Noises: Triage Guide",
+  "meta_desc": "Sudden noise phobia in dogs is common but can be stressful. Learn why it happens, when to see a vet, and how to help your pet stay calm.",
+  "content_html": "<h3>What is Noise Aversion?</h3><p>Noise aversion, also known as noise phobia, is an extreme or irrational fear of specific sounds such as thunder, fireworks, or vacuum cleaners. While many dogs develop this gradually, a sudden onset in an adult dog can be distressing for both the pet and the owner. It often manifests as trembling, hiding, pacing, or excessive panting.</p><h3>Is it an Emergency?</h3><p>The urgency level for sudden noise fear is generally Low. While the behavior is upsetting, it is rarely life-threatening. However, if your dog is so panicked that they are attempting to jump through windows, chewing on doors to the point of bleeding, or experiencing prolonged respiratory distress, you should contact an emergency clinic to prevent self-injury.</p><h3>Why a Photo or Video Helps Triage</h3><p>Capturing a video of your dog during a fearful episode is one of the most useful tools for your veterinarian. Because dogs often behave differently in the clinical environment, a recording allows the vet to assess the specific body language, the intensity of the reaction, and potential physical triggers that might not be visible during a standard exam.</p>",
+  "faqs": [
+    {
+      "question": "Can medical pain cause sudden noise sensitivity?",
+      "answer": "Yes, recent studies suggest that dogs with undiagnosed musculoskeletal pain may develop a sudden fear of loud noises, as the tensing of their muscles during a startle reflex can cause physical discomfort."
+    },
+    {
+      "question": "What should I do during a thunderstorm to help my dog?",
+      "answer": "Provide a 'safe space' like a crate with a blanket or an interior room. Using white noise or specialized pressure wraps can also help muffle the sound and provide comfort."
+    },
+    {
+      "question": "Will my dog need medication?",
+      "answer": "In many cases, veterinarians prescribe short-acting anxiolytics specifically for use during predictable events like storms or fireworks to improve the dog's quality of life."
+    }
+  ],
+  "reviewer_name": "Dr. Jessica Williams, DVM"
+}

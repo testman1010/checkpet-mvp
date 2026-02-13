@@ -1,0 +1,20 @@
+{
+  "title": "Emergency: Dog Tremors After Xylitol Ingestion - Immediate Steps",
+  "meta_desc": "Dog trembling after eating xylitol? This is a life-threatening emergency. Learn why immediate vet care is vital and how to assist your vet now.",
+  "content_html": "<h3>What is Xylitol Poisoning?</h3><p>Xylitol is a sugar alcohol found in many sugar-free products like gum, candy, and some peanut butters. While safe for humans, it is extremely toxic to dogs. When ingested, it causes a rapid, massive release of insulin, leading to a dangerous drop in blood sugar known as hypoglycemia. Tremors are a common neurological sign that your dog's blood sugar has reached critically low levels, or it may indicate the onset of acute liver failure.</p><h3>Urgency Level: High Emergency</h3><p>If your dog is experiencing tremors after suspecting xylitol ingestion, this is a life-threatening emergency. You must transport your dog to the nearest emergency veterinary clinic immediately. Do not wait for the tremors to stop or for other symptoms to appear; delayed treatment can lead to seizures, permanent brain damage, or death. Every minute counts in neutralizing the toxin and stabilizing your dog's glucose levels.</p><h3>Why a Photo Helps Triage</h3><p>If it is safe to do so, quickly snap a photo of the product packaging, specifically the ingredient list and the weight of the item. Showing this photo to the veterinary team upon arrival allows them to calculate the exact dosage of xylitol consumed. This information is vital for determining the intensity of the treatment required. Additionally, if your dog has vomited, a photo of the contents can help the vet confirm if the product was partially expelled.</p>",
+  "faqs": [
+    {
+      "question": "How quickly do xylitol symptoms appear?",
+      "answer": "Symptoms like vomiting and weakness can appear within 30 to 60 minutes, though liver failure signs may be delayed by several hours."
+    },
+    {
+      "question": "Should I induce vomiting at home?",
+      "answer": "Never induce vomiting if your dog is already showing tremors or neurological signs, as this can lead to choking or aspiration pneumonia. Consult a vet first."
+    },
+    {
+      "question": "Is any amount of xylitol safe for dogs?",
+      "answer": "No. Even a very small amount, such as one or two sticks of gum, can be toxic to a medium-sized dog. All ingestions should be treated as an emergency."
+    }
+  ],
+  "reviewer_name": "Dr. David Smith, BVSc"
+}
