@@ -48,11 +48,12 @@ export default function RootLayout({
               <span className="text-slate-700">•</span>
               <span className="cursor-not-allowed">Terms</span>
             </div>
-            © {new Date().getFullYear()} CheckPet. All rights reserved. (v1.1)
-          </p>
-        </div>
-      </footer>
-    </body>
+            <p className="text-[10px] text-slate-600 mt-4">
+              © {new Date().getFullYear()} CheckPet. All rights reserved. (v1.1)
+            </p>
+          </div>
+        </footer>
+      </body>
     </html >
   );
 }
