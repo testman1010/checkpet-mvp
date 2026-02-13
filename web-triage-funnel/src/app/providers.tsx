@@ -6,6 +6,7 @@ import { PostHogProvider } from 'posthog-js/react';
 import { useEffect } from 'react';
 
 export function CSPostHogProvider({ children }: { children: React.ReactNode }) {
+    if (typeof window !== 'undefined') console.log('[PostHog] Provider Rendering');
     useEffect(() => {
         if (typeof window !== 'undefined') {
             console.log('[PostHog] Initializing...');

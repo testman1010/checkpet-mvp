@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { CSPostHogProvider } from "./providers";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,9 +29,11 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
       >
-        <main className="flex-grow">
-          {children}
-        </main>
+        <CSPostHogProvider>
+          <main className="flex-grow">
+            {children}
+          </main>
+        </CSPostHogProvider>
 
         {/* GLOBAL FOOTER */}
         <footer className="bg-slate-900 text-slate-400 py-8 px-4 text-center text-xs">
@@ -45,12 +48,11 @@ export default function RootLayout({
               <span className="text-slate-700">•</span>
               <span className="cursor-not-allowed">Terms</span>
             </div>
-            <p className="text-[10px] text-slate-600 mt-4">
-              © {new Date().getFullYear()} CheckPet. All rights reserved.
-            </p>
-          </div>
-        </footer>
-      </body>
-    </html>
+            © {new Date().getFullYear()} CheckPet. All rights reserved. (v1.1)
+          </p>
+        </div>
+      </footer>
+    </body>
+    </html >
   );
 }
