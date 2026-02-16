@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://checkpet.vet'),
   title: "CheckPet - AI Pet Symptom Analysis",
   description: "Immediate AI symptom analysis for your pet. No sign-up required.",
   // itunes: ... (keep existing)
