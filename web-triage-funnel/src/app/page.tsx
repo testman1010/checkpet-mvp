@@ -841,7 +841,7 @@ export default function PanicIntake() {
             {/* Eyebrow Pill */}
             <div className="flex justify-center mb-4">
               <div className="bg-green-100 text-green-800 border border-green-200 px-3 py-1 rounded-full text-[10px] font-bold tracking-widest uppercase shadow-sm">
-                No Sign-Up Required
+                100% Free. Completely Anonymous. No Signup.
               </div>
             </div>
 
