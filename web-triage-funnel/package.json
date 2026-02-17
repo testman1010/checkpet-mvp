@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap",
+    "generate-pseo": "npx tsx scripts/generate_pseo_graph.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

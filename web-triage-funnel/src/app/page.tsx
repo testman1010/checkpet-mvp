@@ -16,6 +16,7 @@ import { usePostHog } from 'posthog-js/react';
 
 import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
 import Link from 'next/link';
+import { CommonEmergenciesWidget } from '@/components/home/CommonEmergenciesWidget';
 
 // --- Screen 4: History View ---
 function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
@@ -1127,6 +1128,8 @@ export default function PanicIntake() {
             </div>
           </div>
 
+          {/* Common Emergencies Widget (SEO / Crawl Hub) */}
+          <CommonEmergenciesWidget />
 
           {/* Sticky Action Button */}
           <div className="fixed bottom-0 left-0 right-0 p-4 bg-white/90 backdrop-blur-xl border-t border-slate-200 safe-area-pb z-50 shadow-[0_-5px_20px_rgba(0,0,0,0.05)]">

@@ -3,6 +3,7 @@ import path from 'path';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { TriageCTA } from '@/components/check/TriageCTA';
+import { RelatedSymptomsWidget } from '@/components/check/RelatedSymptomsWidget';
 
 interface SymptomData {
     title: string;
@@ -147,6 +148,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                             </dl>
                         </section>
                     )}
+
+                    {/* --- Related Symptoms (pSEO Cross-Linking) --- */}
+                    <RelatedSymptomsWidget currentSlug={slug} />
                 </main>
 
                 {/* --- YMYL Compliance Banner (Moved to Bottom) --- */}
