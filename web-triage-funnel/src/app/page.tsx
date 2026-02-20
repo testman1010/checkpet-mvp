@@ -17,6 +17,7 @@ import { usePostHog } from 'posthog-js/react';
 import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
 import Link from 'next/link';
 import { CommonEmergenciesWidget } from '@/components/home/CommonEmergenciesWidget';
+import { MonitoringCard } from '@/components/MonitoringCard';
 
 // --- Screen 4: History View ---
 function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
@@ -96,7 +97,7 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
 }
 
 // --- Screen 3: The Result Gate ("Conversion Engine") ---
-function TriageResult({ result, imagePreview, consultHistory, petDetails }: { result: Assessment, imagePreview: string | null, consultHistory?: { question: string, answer: string }[], petDetails?: any }) {
+function TriageResult({ result, imagePreview, consultHistory, petDetails, caseId }: { result: Assessment, imagePreview: string | null, consultHistory?: { question: string, answer: string }[], petDetails?: any, caseId: string | null }) {
   const isEmergency = result.urgency_level === 'CRITICAL' || result.urgency_level === 'URGENT';
   const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
   // Confidence: Handle 0-1 (decimal) or 0-100 (percentage)
@@ -227,7 +228,9 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
           imagePreview={imagePreview}
           consultHistory={consultHistory}
           isEmergency={true}
+
           petDetails={petDetails}
+          caseId={caseId}
         />
       </div>
     );
@@ -251,13 +254,14 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails }: { re
         consultHistory={consultHistory}
         isEmergency={false}
         petDetails={petDetails}
+        caseId={caseId}
       />
     </div>
   );
 }
 
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
-function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails }: any) {
+function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails, caseId }: any) {
   const [saved, setSaved] = useState(false);
   const posthog = usePostHog();
 
@@ -357,6 +361,13 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
             {primaryCondition}
           </h2>
         </div>
+
+        {/* Monitoring Card Integration */}
+        {!isEmergency && (
+          <div className="px-6 pb-2">
+            <MonitoringCard caseId={caseId} />
+          </div>
+        )}
 
         <div className="p-6 pt-0">
           {/* Confidence */}
@@ -623,7 +634,9 @@ export default function PanicIntake() {
   const [showBreedList, setShowBreedList] = useState(false);
   const [ageBracket, setAgeBracket] = useState<'BABY' | 'YOUNG' | 'ADULT' | 'SENIOR'>('ADULT');
   const [weightBracket, setWeightBracket] = useState<'TOY' | 'SMALL' | 'LARGE' | 'GIANT'>('SMALL');
+
   const [symptoms, setSymptoms] = useState('');
+  const [caseId, setCaseId] = useState<string | null>(null);
   const [isAutoFilled, setIsAutoFilled] = useState(false);
   // State for History View
   const [showHistory, setShowHistory] = useState(false);
@@ -633,6 +646,11 @@ export default function PanicIntake() {
     setShowHistory(false);
     setStep('RESULT');
   };
+
+  // --- Scroll to top on step change ---
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [step]);
 
   // --- Auto-Fill from URL (Page Load) ---
   useEffect(() => {
@@ -724,6 +742,12 @@ export default function PanicIntake() {
       } else {
         setResult(response);
         setStep('RESULT');
+
+        // Background Save: Immediately save case to generate ID for monitoring
+        apiClient.saveCase(symptoms, response).then(id => {
+          console.log("Case Saved:", id);
+          setCaseId(id);
+        }).catch(err => console.error("Background Save Failed:", err));
       }
     } catch (error) {
       console.error('Analysis failed:', error);
@@ -777,6 +801,12 @@ export default function PanicIntake() {
 
       setResult(refinedResponse);
       setStep('RESULT');
+
+      // Background Save: Save refined case
+      apiClient.saveCase(symptoms, refinedResponse).then(id => {
+        console.log("Refined Case Saved:", id);
+        setCaseId(id);
+      }).catch(err => console.error("Background Save Failed:", err));
 
     } catch (error) {
       console.error("Refinement failed:", error);
@@ -1176,22 +1206,23 @@ export default function PanicIntake() {
 
       {/* Screen 3: The Result Gate ("Conversion Engine") */}
       {step === 'RESULT' && result && (
-        <TriageResult
-          result={result}
-          imagePreview={imagePreview}
-          consultHistory={consultHistory}
-          petDetails={{
-            species,
-            breed: isMixed ? `Mixed ${breed}` : breed,
-            sex,
-            isFixed,
-            age: ageBracket,
-            weight: weightBracket
-          }}
-        />
+        <>
+          <TriageResult
+            result={result}
+            imagePreview={imagePreview}
+            consultHistory={consultHistory}
+            petDetails={{
+              species,
+              breed: isMixed ? `Mixed ${breed}` : breed,
+              sex,
+              isFixed,
+              age: ageBracket,
+              weight: weightBracket
+            }}
+            caseId={caseId}
+          />
+        </>
       )}
-
-
     </div >
   );
 }
