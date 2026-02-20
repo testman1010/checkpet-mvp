@@ -138,5 +138,46 @@ export const apiClient = {
             console.error("Triage Analysis API Error:", error);
             throw error;
         }
+    },
+
+    saveCase: async (symptoms: string, ai_analysis: any): Promise<string> => {
+        try {
+            const response = await fetch(`${SUPABASE_URL}/functions/v1/save-case`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+                },
+                body: JSON.stringify({ symptoms, ai_analysis })
+            });
+
+            if (!response.ok) throw new Error("Failed to save case");
+            const data = await response.json();
+            return data.case_id;
+        } catch (error) {
+            console.error("Save Case Error:", error);
+            throw error;
+        }
+    },
+
+    activateMonitoring: async (case_id: string, phone_number: string): Promise<void> => {
+        try {
+            const response = await fetch(`${SUPABASE_URL}/functions/v1/activate-monitoring`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+                },
+                body: JSON.stringify({ case_id, phone_number })
+            });
+
+            if (!response.ok) {
+                const err = await response.json();
+                throw new Error(err.error || "Failed to activate monitoring");
+            }
+        } catch (error) {
+            console.error("Activate Monitoring Error:", error);
+            throw error;
+        }
     }
 };
