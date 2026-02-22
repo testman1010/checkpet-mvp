@@ -1,0 +1,20 @@
+{
+  "title": "Jaundice in Cats: Yellow Eyes and Gums Triage Guide",
+  "meta_desc": "Notice yellow eyes or gums in your cat? This is jaundice, a sign of a serious medical emergency. Learn why immediate vet care is critical.",
+  "content_html": "<p><strong>TL;DR:</strong> Jaundice is a medical emergency indicating a severe underlying condition such as liver failure or toxin ingestion; seek immediate veterinary care if your cat's eyes, gums, or skin appear yellow.</p><h3>What is jaundice in cats and what causes it?</h3><p>Jaundice, also known as icterus, occurs when there is an accumulation of bilirubin—a yellow pigment—in the bloodstream and tissues. In healthy cats, the liver processes bilirubin. When the liver is overwhelmed, diseased, or if there is excessive red blood cell destruction, the pigment builds up, causing a visible yellow tint to the whites of the eyes, gums, and skin.</p><h3>Is yellowing of my cat's eyes or gums a medical emergency?</h3><ul><li><strong>Urgency Level: High.</strong> Yellowing of the eyes or gums is a critical medical emergency.</li><li>Jaundice is a clinical sign of severe underlying conditions, such as liver disease, toxin ingestion, or feline infectious peritonitis (FIP).</li><li>Because it indicates that a vital organ system is failing, you must seek veterinary care immediately.</li></ul><h3>How does taking a photo of my cat help with the triage process?</h3><ul><li>Taking a clear, well-lit photo of your cat's eyes or gums is incredibly helpful for remote triage.</li><li>Because jaundice can be subtle or difficult to see under certain indoor lighting, a high-quality image allows a veterinary professional to confirm discoloration.</li><li>An image helps the clinic prioritize your cat's case before you even arrive at the facility.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Jaundice in cats, characterized by yellowing of the eyes and gums, can develop rapidly, with total bilirubin concentration increasing within 4 hours. Affected animals may exhibit episodic vomiting, variable appetite ranging from inappetence to polyphagia, and possible hepatomegaly. Bleeding tendencies can become notable within 2-3 weeks and are more common in cats. Laboratory findings typically reveal hyperbilirubinemia, bilirubinuria, mild to marked increases in alanine transaminase (ALT) and aspartate transaminase (AST), and marked increases in alkaline phosphatase (ALP). Gamma-glutamyl transferase (GGT) activity is increased in cases involving the pancreas, liver, bile ducts, or gallbladder, and a high GGT level predicts the need for liver or pancreatic biopsy.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Gastroenterology, Hepatology</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 459)</p></div>",
+  "faqs": [
+    {
+      "question": "Can I wait until tomorrow to see my regular vet?",
+      "answer": "No. Jaundice is a sign of a critical systemic issue. If you notice yellowing, you should contact an emergency animal hospital immediately, regardless of the time of day."
+    },
+    {
+      "question": "What are other symptoms of jaundice in cats?",
+      "answer": "Along with yellowing, you might notice lethargy, a complete loss of appetite, vomiting, or unusually dark-colored urine."
+    },
+    {
+      "question": "What causes the yellow color?",
+      "answer": "The yellow color is caused by bilirubin, which is a byproduct of the natural breakdown of red blood cells. Normally the liver removes this, but when the liver fails or too many cells break down at once, it stains the body tissues."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

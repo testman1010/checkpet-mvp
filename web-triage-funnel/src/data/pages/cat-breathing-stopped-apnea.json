@@ -1,0 +1,20 @@
+{
+  "title": "Emergency Guide: What to Do if Your Cat Stops Breathing (Apnea)",
+  "meta_desc": "If your cat has stopped breathing, this is a critical medical emergency. Follow these steps and seek immediate veterinary care.",
+  "content_html": "<p><strong>TL;DR:</strong> Cat apnea is a life-threatening emergency where breathing stops completely, requiring immediate transport to an emergency veterinarian for life-saving intervention.</p><h3>What is cat apnea and why is it dangerous?</h3><p>Apnea is the medical term for the complete cessation of breathing. When a cat stops breathing, oxygen is no longer reaching their vital organs, which can lead to rapid organ failure and death. This condition is distinct from dyspnea (difficulty breathing) as it involves a total lack of respiratory movement.</p><h3>Is my cat stopping breathing a veterinary emergency?</h3><ul><li>Yes, this is a life-threatening emergency with the highest level of urgency.</li><li>If your cat is not breathing, every second is critical; you must immediately transport your cat to the nearest emergency veterinary hospital.</li><li>Call the hospital while you are en route so the medical team can prepare for your arrival.</li></ul><h3>Why should I provide a video of my cat's breathing episode to the vet?</h3><ul><li>While your primary focus must be getting to a vet, a short video of the event can provide invaluable diagnostic clues.</li><li>It helps veterinarians determine if the episode was caused by respiratory arrest, a cardiac event, or a neurological issue like a seizure.</li><li>If it is safe to do so without delaying your departure, showing a video to the triage team helps them choose the most effective life-saving interventions immediately upon your arrival.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>If a cat is unconscious and not breathing, the owner should first ensure their own safety and adequately restrain the cat before proceeding. The owner should close the cat's mouth, place their lips over the cat's nostrils, and initially give 3-4 strong breaths. If spontaneous breathing does not resume, the owner should continue rescue breathing at a rate of 10 breaths per minute. If the cat is cyanotic and collapsed, suspect an upper airway obstruction; the owner should attempt a Heimlich maneuver or sudden chest compression to relieve the obstruction and then manually clear the airway. Mouth-to-nose resuscitation and chest compressions may provide enough respiratory and circulatory support to maintain life during transport to a veterinary facility.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Emergency, General Principles</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 1659)</p></div>",
+  "faqs": [
+    {
+      "question": "How can I tell for sure if my cat is breathing?",
+      "answer": "Look closely at the chest for any rise and fall. You can also place a clear piece of plastic or a small mirror in front of their nose to check for condensation, or feel for a pulse just behind the left elbow."
+    },
+    {
+      "question": "Should I attempt CPR on my cat?",
+      "answer": "If your cat is unresponsive and not breathing, you can attempt chest compressions and rescue breaths (mouth-to-snout). However, you should only perform these actions while someone else is driving you to the emergency clinic, as professional medical equipment is required to stabilize the cat."
+    },
+    {
+      "question": "What are common causes of sudden apnea in cats?",
+      "answer": "Sudden breathing cessation can be caused by various factors including foreign body airway obstruction (choking), severe allergic reactions, heart failure, or blunt force trauma."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

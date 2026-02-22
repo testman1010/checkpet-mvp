@@ -1,0 +1,20 @@
+{
+  "title": "Cat Pupils Different Sizes (Anisocoria): A Veterinary Emergency Guide",
+  "meta_desc": "If your cat's pupils are different sizes, it could be a medical emergency. Learn about anisocoria causes, urgency levels, and next steps.",
+  "content_html": "<p><strong>TL;DR:</strong> Anisocoria is a condition where a cat's pupils are different sizes and is considered a high-priority veterinary emergency requiring immediate medical evaluation.</p><h3>What is anisocoria and why are my cat's pupils different sizes?</h3><p>Anisocoria is the medical term for when a cat's pupils are two different sizes. One pupil may be significantly larger (dilated) or smaller (constricted) than the other. This condition is not a disease in itself but is a clinical sign that something is affecting your cat's neurological system or the physical structure of their eye.</p><h3>Is it a veterinary emergency if my cat has pupils of different sizes?</h3><p><strong>Urgency Level: High.</strong> Yes, anisocoria should be treated as a veterinary emergency. Immediate professional evaluation is required to prevent permanent vision loss or neurological damage, especially if the change in pupil size is caused by:</p><ul><li>Serious eye injuries or glaucoma</li><li>Neurological issues such as brain tumors or stroke</li><li>Systemic diseases like feline leukemia (FeLV)</li><li>Accompanying symptoms like squinting, redness, cloudiness, or sudden behavior changes</li></ul><h3>How can taking a photo of my cat's eyes help the veterinarian?</h3><p>When you contact your vet, providing a clear, high-resolution photo of your cat's eyes can be an invaluable tool because:</p><ul><li>Pupil sizes can change rapidly based on light levels or stress; a photo captures the exact state of the eyes the moment you noticed the problem.</li><li>It helps the triage team determine the immediate severity of the situation.</li><li>It provides a baseline for the veterinarian to compare against during the physical examination.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Anisocoria in cats can be caused by dysautonomia, intracranial diseases, systemic hypertension, intraocular hemorrhage, orbital cellulitis, neoplasia, trauma, or granulomatous meningoencephalomyelitis. Clinical confirmation of dysautonomia may be aided by contrast radiography of the esophagus and reduced lacrimal secretion (<5 mm/min when measured by the Schirmer tear test). Pilocarpine (0.1%) applied to the cornea causes profound miosis within 10-15 min due to denervation hypersensitivity, but has no effect on a healthy cat. Dilute (0.5%) phenylephrine reverses ptosis and protruding third eyelid.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Neurology</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 1256)</p></div>",
+  "faqs": [
+    {
+      "question": "Can anisocoria happen suddenly?",
+      "answer": "Yes, anisocoria often appears quite suddenly, especially if it is caused by trauma, a stroke, or an acute flare-up of an underlying condition like glaucoma."
+    },
+    {
+      "question": "Are there other symptoms I should look for?",
+      "answer": "Keep an eye out for redness in the white of the eye, cloudiness, discharge, drooping of the eyelid, or your cat pawing at their face, as these provide more clues for the vet."
+    },
+    {
+      "question": "Could my cat just be born with different sized pupils?",
+      "answer": "While rare, some cats have congenital anisocoria. However, if you have just noticed a change in your cat's pupils, it must be treated as a new and potentially serious medical issue until a vet proves otherwise."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

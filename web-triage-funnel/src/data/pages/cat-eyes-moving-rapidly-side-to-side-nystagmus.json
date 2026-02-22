@@ -1,0 +1,20 @@
+{
+  "title": "Cat Nystagmus: Why Your Cat's Eyes Are Flicking Side-to-Side",
+  "meta_desc": "Learn about feline nystagmus, its causes, and why rapid eye movement in cats requires a veterinary consultation within 24 hours.",
+  "content_html": "<p><strong>TL;DR:</strong> Nystagmus is an involuntary flicking of a cat's eyes that indicates a balance or neurological issue, typically requiring a veterinary exam within 12 to 24 hours. Seek immediate emergency care if the eye movements are accompanied by a collapse, seizures, or an inability to stand.</p><h3>What is nystagmus and why are my cat's eyes moving involuntarily?</h3><p>Nystagmus is a clinical sign where a cat's eyes move involuntarily and rhythmically, typically flicking rapidly from side to side (horizontal) or up and down (vertical). This condition occurs when there is a disturbance in the vestibular system, which is the delicate network in the inner ear and brain responsible for maintaining balance and orientation.</p><h3>Is my cat's involuntary eye movement a medical emergency?</h3><p>While nystagmus indicates a significant neurological or balance issue, the urgency level is generally considered Medium. You should follow these guidelines for seeking care:</p><ul><li><strong>Seek emergency care immediately</strong> if the eye movement is accompanied by a sudden collapse, seizures, or an inability to stand.</li><li><strong>Schedule an appointment within 12 to 24 hours</strong> if your cat is otherwise stable but experiencing rhythmic eye flicking.</li></ul><h3>How can a photo or video of my cat's eyes help with a veterinary diagnosis?</h3><p>When you contact your veterinarian or a triage service, providing a clear video of your cat's eye movements is incredibly valuable because:</p><ul><li>Nystagmus can be intermittent or change in intensity, and a video captures the behavior in real-time.</li><li>The vet can analyze the exact direction and speed of the eye movement.</li><li>Visual evidence helps the vet differentiate between a localized inner ear infection and a more serious central nervous system issue involving the brain.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Nystagmus, characterized by involuntary rhythmic eye movements, can manifest as spontaneous positional, horizontal, or rotary movements, and indicates a dysfunction of the vestibulocochlear nerves. Pathologic forms include pendular nystagmus, which lacks a fast or slow phase. In cats, nystagmus is a common neurologic sign associated with Feline Infectious Peritonitis (FIP), often accompanied by ataxia and seizures, and reflects the area of central nervous system involvement. Examination should include assessing for spontaneous nystagmus with the head in normal and deviated positions, and noting abnormal eye position.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Neurology</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 1216)</p></div>",
+  "faqs": [
+    {
+      "question": "Does nystagmus make my cat feel sick?",
+      "answer": "Yes, because nystagmus affects the balance center, it often causes vertigo similar to severe motion sickness. This may result in your cat feeling nauseous, drooling, or vomiting."
+    },
+    {
+      "question": "Can a cat recover from rapid eye movements?",
+      "answer": "The prognosis depends on the underlying cause. Many cats with 'Old Cat Vestibular Syndrome' or simple inner ear infections recover very well with supportive care and medication."
+    },
+    {
+      "question": "What other symptoms should I look for?",
+      "answer": "Watch for a head tilt, circling in one direction, stumbling (ataxia), or your cat leaning against walls for support, as these are common signs of vestibular dysfunction."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

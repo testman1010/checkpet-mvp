@@ -2,3 +2,20 @@ project_id = "pkiqnjhuutcnzauhyyqs"
 
 [functions.analyze-symptom]
 verify_jwt = false
+
+[functions.save-case]
+verify_jwt = false
+
+[functions.activate-monitoring]
+verify_jwt = false
+
+[functions.send-scheduled-sms]
+verify_jwt = false
+
+[functions.handle-sms-reply]
+verify_jwt = false
+
+[functions.debug-sms-status]
+verify_jwt = false
+
+

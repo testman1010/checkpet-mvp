@@ -1,0 +1,20 @@
+{
+  "title": "Cat or Kitten Walking Wobbly? Understanding Feline Ataxia and What to Do",
+  "meta_desc": "Is your cat stumbling or wobbly? Learn about feline ataxia, why it is a high-priority emergency, and how to help your vet diagnose the cause.",
+  "content_html": "<p><strong>TL;DR:</strong> Feline ataxia is a lack of coordination resulting in a \"drunk-like\" gait and is considered a high-priority medical emergency. If your cat is wobbly or falling, contact an emergency veterinarian immediately and record a video of the behavior to assist with a fast diagnosis.</p><h3>What is feline ataxia and what are the signs to look for?</h3><p>Ataxia is a medical term used to describe a lack of muscle coordination that results in an unsteady, \"drunk-like\" gait. In cats and kittens, this often manifests as swaying of the hind end, head tilting, or frequently falling over. It is not a disease in itself, but rather a clinical sign that something is affecting the cat's nervous system, inner ear, or brain.</p><h3>Is it a medical emergency if my cat is wobbly or falling over?</h3><ul><li>Sudden onset of wobbliness or falling over is considered a high-priority medical emergency.</li><li>Ataxia can be caused by life-threatening issues such as head trauma, ingestion of toxins (like lilies or certain medications), severe infections, or blood clots.</li><li>Contact an emergency veterinarian immediately, as delaying treatment can lead to permanent neurological damage or worse.</li></ul><h3>How does a video or photo of my cat’s symptoms help with triage?</h3><ul><li>Cats often experience a surge of adrenaline at the clinic which can temporarily mask their symptoms.</li><li>A video allows the veterinarian to see the exact nature of the movement—whether it is a balance issue, weakness, or a specific type of tremor.</li><li>Capturing visual evidence helps the veterinarian reach a diagnosis and begin treatment much faster.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Feline ataxia, presenting as incoordination and tremor, can stem from various causes. Cerebellar hypoplasia, often linked to feline panleukopenia virus (FPV) infection in kittens, was once a more common cause of ataxia but has become relatively rare due to passive transfer of maternal antibodies. Congenital hypomyelination, a familial or inherited disorder seen in some dog breeds, is rare in cats and can be diagnosed via MRI. Swayback, or enzootic ataxia, primarily results from copper deficiency and can also cause ataxia.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Infectious Disease, Neurology</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 797)</p></div>",
+  "faqs": [
+    {
+      "question": "Can a wobbly kitten live a normal life?",
+      "answer": "It depends on the cause. Kittens with Cerebellar Hypoplasia (often called 'Wobbly Cat Syndrome') can live long, happy lives with minor adjustments, but other causes like toxins or infections require urgent medical intervention to ensure survival."
+    },
+    {
+      "question": "What are common causes of sudden stumbling in cats?",
+      "answer": "Common causes include vestibular disease (inner ear issues), spinal cord injuries, exposure to household toxins, low blood sugar, or infectious diseases like FIP."
+    },
+    {
+      "question": "What should I do while transporting my wobbly cat to the vet?",
+      "answer": "Keep your cat in a well-padded, secure carrier to prevent them from hurting themselves if they fall. Minimize noise and light to keep their stress levels low during the trip."
+    }
+  ],
+  "reviewer_name": "Dr. Robert Taylor, DVM"
+}

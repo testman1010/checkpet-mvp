@@ -1,0 +1,20 @@
+{
+  "title": "Cold Paws in Cats: When Temperature Changes are an Emergency",
+  "meta_desc": "Is your cat's paw cold? Learn why temperature changes in limbs can be a sign of a life-threatening emergency like FATE and when to see a vet.",
+  "content_html": "<p><strong>TL;DR:</strong> Cold limbs in cats are a life-threatening emergency usually caused by a blood clot blocking circulation; seek immediate veterinary care if your cat is in pain or cannot move their legs.</p><h3>What causes my cat’s paws or limbs to feel cold?</h3><p>When a cat’s paws or limbs feel significantly colder than the rest of their body, it is usually a sign of decreased blood circulation. Unlike humans, whose hands might get cold from the weather, a cat with cold extremities—especially if limited to the back legs—often indicates a serious internal blockage preventing warm, oxygenated blood from reaching the limbs.</p><h3>Is it an emergency if my cat has cold limbs or trouble moving?</h3><ul><li>Cold limbs are a high-level medical emergency, often signaling Feline Aortic Thromboembolism (FATE), also known as a saddle thrombus.</li><li>This condition occurs when a blood clot lodges at the base of the aorta, cutting off critical blood flow.</li><li>Seek emergency veterinary care immediately if your cat is experiencing sudden paralysis, dragging their legs, or crying out in pain.</li><li>Every minute counts in preserving limb function and managing the extreme pain associated with this condition.</li></ul><h3>How can taking a photo or video help the veterinary team during triage?</h3><ul><li>While you should never delay a trip to the emergency room, taking a quick photo of your cat's paw pads or a short video of their movement can be vital for the veterinary team.</li><li>A photo can show the color of the paw pads, which may appear pale, white, or even bluish-purple in cases of poor circulation.</li><li>These visuals allow the triage staff to instantly recognize the severity of the vascular compromise and prioritize your cat for immediate life-saving treatment.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>In cats, hypothermia, manifested as cold paws or limbs (poikilothermia), can be a sign of severe systemic disease, including cardiovascular disease and limb thromboembolism, carrying prognostic significance. In cases of acute cessation of blood flow to the hindlimbs, such as aortic thromboembolism, clinical signs include pulselessness, pallor of the foot pads, and decreased rectal temperature with cold hindlimbs. Peripheral vasoconstriction, which decreases core heat dissipation, should be avoided; therefore, animals should not be immersed in cold water as a cooling method.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Cardiology, Emergency, Neurology, General Principles</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 1689)</p></div>",
+  "faqs": [
+    {
+      "question": "Could my cat's paws just be cold because of the floor?",
+      "answer": "While cats can have cool paws from a cold surface, their paws should quickly return to a normal, warm temperature. If the paws remain cold and the cat seems weak or in pain, it is not environmental and requires a vet."
+    },
+    {
+      "question": "What are other signs of a blood clot in cats?",
+      "answer": "Common signs include sudden inability to use one or more legs, firm or hard leg muscles, pale or blue-tinted nail beds, and loud vocalization due to intense pain."
+    },
+    {
+      "question": "Is a saddle thrombus treatable?",
+      "answer": "It is a very grave condition, but some cats can recover with intensive emergency care, pain management, and long-term heart medication. Immediate intervention is the only chance for a positive outcome."
+    }
+  ],
+  "reviewer_name": "Dr. James Herriot, BVMS"
+}

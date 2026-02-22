@@ -79,12 +79,32 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
         }
     };
 
+    // FAQ Structured Data (AEO Improvement)
+    const faqSchema = data.faqs && data.faqs.length > 0 ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": data.faqs.map(faq => ({
+            "@type": "Question",
+            "name": faq.question,
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": faq.answer
+            }
+        }))
+    } : null;
+
     return (
         <>
             <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
             />
+            {faqSchema && (
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+                />
+            )}
 
             <div className="min-h-screen bg-white font-sans text-gray-900 flex flex-col">
 

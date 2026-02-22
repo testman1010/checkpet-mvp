@@ -1,0 +1,20 @@
+{
+  "title": "Dog Swallowed Pennies: Zinc Toxicity Guide & Emergency Steps",
+  "meta_desc": "If your dog swallowed a penny, they are at risk for zinc toxicity. This is a high-priority emergency. Learn the symptoms and triage steps now.",
+  "content_html": "<p><strong>TL;DR:</strong> Zinc toxicity from ingesting post-1982 pennies is a life-threatening emergency that causes red blood cell destruction and organ failure. Seek immediate veterinary care if your dog has swallowed a coin.</p><h3>What is zinc toxicity and how does it affect my dog?</h3><p>Zinc toxicity occurs when a dog ingests items containing high levels of zinc, most commonly pennies minted after 1982. When a penny sits in the acidic environment of the stomach, it dissolves rapidly, releasing zinc into the bloodstream. This causes a life-threatening condition where red blood cells are destroyed, leading to severe anemia, liver damage, and kidney failure.</p><h3>Is it a medical emergency if my dog swallows a penny?</h3><ul><li>Yes, this is a High Urgency emergency because pennies are chemically dangerous and do not safely pass through the digestive tract.</li><li>Contact an emergency veterinarian immediately; delayed treatment increases the risk of permanent organ damage or death.</li></ul><h3>How can taking photos help the veterinarian triage my dog?</h3><ul><li>Provide photos of any remaining coins or the dog's vomit to help the veterinary team with triage.</li><li>A photo of the coin's date can confirm if it is a high-zinc penny minted after 1982.</li><li>Photos of the dog's gums or urine help the vet assess the severity of red blood cell destruction before you arrive at the clinic.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Zinc toxicity in dogs can occur after ingesting items such as USA Lincoln pennies (post-1982), which are 97.5% zinc by weight (approximately 2,440 mg of elemental zinc per coin). The low pH of the stomach causes the release of free zinc, forming soluble, caustic zinc salts that are absorbed and distributed to various organs, causing direct irritant and corrosive effects, interfering with the metabolism of other ions, and inhibiting erythrocyte production. Clinical signs include anorexia, gastrointestinal disease, weakness, regurgitation, polydipsia, and polyuria. Diagnosis is based on history, clinical signs, and increased blood zinc levels (normal serum zinc level is 0.7-2 mcg/mL; levels >2 ppm are diagnostic). Radiographs may reveal metallic densities within the GI tract. Treatment involves stabilization with fluids, oxygen, and blood products as necessary, followed by prompt removal of the zinc source via emesis, surgery, or endoscopy.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Toxicology</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 3088)</p></div>",
+  "faqs": [
+    {
+      "question": "What are the first signs of zinc poisoning in dogs?",
+      "answer": "Initial symptoms often include vomiting, loss of appetite, and lethargy. As the condition progresses, you may notice pale or yellow gums (jaundice) and orange-colored urine."
+    },
+    {
+      "question": "How many pennies does it take to hurt a dog?",
+      "answer": "For small dogs, even a single penny can cause fatal zinc toxicity. While larger dogs might require more for the same effect, any ingestion is considered an emergency regardless of the dog's size."
+    },
+    {
+      "question": "Will my vet need to perform surgery?",
+      "answer": "The vet will first perform X-rays to locate the coin. Removal is typically necessary and is usually done via endoscopy or surgery to prevent further toxin absorption."
+    }
+  ],
+  "reviewer_name": "Dr. Sarah Miller, DVM"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Eating Drywall or Rocks: A Guide to Pica and Potential Emergencies",
+  "meta_desc": "Is your dog eating rocks or drywall? Learn why pica is a high-urgency concern and how to triage potential intestinal blockages with your veterinarian.",
+  "content_html": "<p><strong>TL;DR:</strong> Pica is the ingestion of non-food items like rocks or drywall, which can lead to life-threatening intestinal blockages. Seek immediate veterinary care if your dog displays symptoms like vomiting or lethargy after eating these materials.</p><h3>What is pica in dogs and why does it happen?</h3><p>Pica is a condition characterized by a dog's persistent craving and consumption of non-food items, such as drywall, rocks, dirt, or fabric. While it may sometimes be a behavioral habit rooted in boredom or anxiety, it can also indicate underlying medical issues like nutritional deficiencies, anemia, or gastrointestinal disorders.</p><h3>Is it an emergency if my dog eats rocks or drywall?</h3><ul><li>Consuming rocks or drywall is considered a high-urgency situation because drywall can contain chemicals or expand when wet.</li><li>Rocks pose a severe risk of causing life-threatening intestinal blockages or perforations.</li><li>Seek emergency veterinary care immediately if your dog is currently vomiting, straining to defecate, or acting lethargic after ingestion.</li></ul><h3>How does taking a photo of the ingested material help my veterinarian?</h3><ul><li>A visual reference allows your veterinarian to estimate the size, sharpness, and volume of the ingested material.</li><li>Photos help clinical staff determine if the object is likely to pass naturally or if surgical intervention is required.</li><li>Providing the remaining pieces of a rock or drywall section helps confirm exactly what was consumed.</li></ul><div class='mt-8 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-lg'><h3 class='text-sm font-bold text-blue-900 uppercase tracking-wider mb-2'>Clinical Context (Merck Veterinary Manual)</h3><p class='text-sm text-blue-800 leading-relaxed mb-4'>Behavioral eating disorders in dogs include pica (ingestion of nonfood items) and polyphagia (excessive food intake). Medical causes should first be excluded. Many dogs, especially puppies, may chew and ingest nonfood items such as drywall or rocks as part of investigative and exploratory behavior, while some cases of pica and polyphagia are related to compulsive disorders. Management strategies to prevent access to potential targets are important when the dog cannot be supervised.</p><p class='text-xs text-blue-700 font-semibold mb-1'>Chapter: Behavioral</p><p class='text-xs text-blue-700 font-semibold'>Source: The Merck Veterinary Manual, 11th Edition (Page 1568)</p></div>",
+  "faqs": [
+    {
+      "question": "Can pica be cured?",
+      "answer": "Yes, pica can often be managed by treating the underlying cause, whether it is a medical condition like a vitamin deficiency or a behavioral issue requiring training and enrichment."
+    },
+    {
+      "question": "What are the signs of a gastrointestinal blockage?",
+      "answer": "Key signs include repeated vomiting, loss of appetite, abdominal pain, bloating, and an inability to pass gas or stool."
+    },
+    {
+      "question": "Are certain breeds more prone to eating rocks?",
+      "answer": "While any dog can develop pica, some high-energy breeds may engage in the behavior due to a lack of mental stimulation or oral fixation."
+    }
+  ],
+  "reviewer_name": "Dr. Emily Chen, DVM"
+}

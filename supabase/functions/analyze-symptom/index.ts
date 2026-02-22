@@ -8,8 +8,7 @@ const corsHeaders = {
     'Access-Control-Allow-Headers': 'authorization, x-client-info, apikey, content-type',
 };
 
-// --- Type Definitions (Simplified for Edge Function) ---
-
+// --- Type Definitions ---
 interface Pet {
     name: string;
     species: string;
@@ -51,7 +50,189 @@ interface BreedData {
     };
 }
 
-// --- Prompt Logic (Adapted from src/lib/enhanced-prompts.ts) ---
+// --- RAG Helper Function ---
+async function retrieveVeterinaryContext(
+    queryText: string,
+    species: string,
+    genAI: GoogleGenerativeAI,
+    supabase: any,
+    isRefinementMode: boolean = false
+): Promise<string> {
+    if (!queryText || queryText.trim().length === 0) return "";
+
+    try {
+        // Step 1: Query Generation (Extract Filters & Key Concepts)
+        const fastModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" }); // Updated to valid model name
+
+        const focusInstruction = isRefinementMode
+            ? "Focus strictly on medical conditions associated with these confirmed tags."
+            : "Prioritize broad categorization.";
+
+        const queryPrompt = `
+        You are a search optimization agent for a veterinary database.
+        Analyze the user's description and "translate" it into strict search parameters.
+        ${focusInstruction}
+
+        SEARCH TARGET: "${queryText}"
+        PET SPECIES: "${species}"
+
+        RULES:
+        1. "clinical_category": Return up to 3 most relevant categories(e.g., "Dermatology", "Emergency", "Toxicology", "Gastroenterology", "General Principles").
+           - If description implies trauma, wounds, or severe pain, YOU MUST include "Emergency" and "General Principles".
+        2. "species":
+           - If input is "Dog", return ["Dog", "General", "Unknown"].
+           - If input is "Cat", return ["Cat", "General", "Unknown"].
+           - Otherwise, return [${species}, "General", "Unknown"].
+        3. "search_query": A short, keyword - dense query optimized for vector similarity(removing filler words).
+        
+        Return ONLY JSON:
+        {
+            "clinical_category": ["string", "string"],
+            "species": ["string", "string"],
+            "search_query": "string"
+        }
+        `;
+
+        const queryResult = await fastModel.generateContent({
+            contents: [{ role: 'user', parts: [{ text: queryPrompt }] }],
+            generationConfig: { responseMimeType: "application/json" }
+        });
+
+        const queryParams = JSON.parse(queryResult.response.text());
+        console.log("Generated Search Params:", queryParams);
+
+        // Step 2: Fallback Search Logic
+        const performSearch = async (useFilters: boolean) => {
+            // Use gemini-embedding-001 and slice to 768 for the v2 schema
+            const embeddingModel = genAI.getGenerativeModel({ model: "gemini-embedding-001" });
+            const embeddingResult = await embeddingModel.embedContent(queryParams.search_query);
+
+            const rpcParams: any = {
+                query_embedding: embeddingResult.embedding.values.slice(0, 768),
+                match_threshold: isRefinementMode ? 0.30 : (useFilters ? 0.5 : 0.35),
+                match_count: isRefinementMode ? 8 : 5
+            };
+
+            if (useFilters) {
+                rpcParams.filter = {
+                    species: [queryParams.species[0]],
+                    clinical_category: [queryParams.clinical_category[0]]
+                };
+            }
+
+            // Using the new v2 RPC which correctly processes the JSON filter and uses embedding_v2
+            const { data: documents, error } = await supabase.rpc('match_merck_v2', rpcParams);
+            return { documents, error };
+        };
+
+        // Attempt 1: Strict Search
+        let searchResults = await performSearch(true);
+
+        // Attempt 2: Fallback (Relaxed/No Filter)
+        if (!searchResults.documents || searchResults.documents.length === 0) {
+            console.log("Strict search returned 0 results. Triggering Fallback.");
+            searchResults = await performSearch(false);
+        }
+
+        if (searchResults.error) {
+            console.error("Vector search error:", searchResults.error);
+            return "";
+        } else if (searchResults.documents && searchResults.documents.length > 0) {
+            return searchResults.documents.map((d: any) =>
+                `[Reference: Merck Veterinary Manual, Source: ${d.metadata?.source || 'Unknown'}, Page: ${d.metadata?.loc?.pageLabel || d.metadata?.page || 'Unknown'}]
+                 ${d.content} `
+            ).join("\n\n---\n\n");
+        } else {
+            return "No specific veterinary protocols found in database after fallback search.";
+        }
+
+    } catch (err) {
+        console.error("RAG processing error:", err);
+        return "";
+    }
+}
+
+
+// --- New: Monitoring Handler ---
+async function handleMonitoring(
+    reqBody: any,
+    genAI: GoogleGenerativeAI,
+    supabase: any
+): Promise<Response> {
+    const { monitoring_history, original_analysis, pet } = reqBody;
+
+    // Extract pet details or default
+    const petName = pet?.name || "the pet";
+    const species = pet?.species || "animal";
+
+    // 1. Get latest user input (if any) to fetch fresh context
+    const latestUserMessage = monitoring_history
+        .filter((m: any) => m.role === 'user')
+        .pop()?.content || "";
+
+    // 2. Retrieve Context (RAG) based on latest input + original condition
+    const contextQuery = `${latestUserMessage} ${original_analysis?.primaryRecommendation || ""} ${original_analysis?.keyObservations?.join(" ") || ""}`;
+    const veterinaryContext = await retrieveVeterinaryContext(contextQuery, species, genAI, supabase, true);
+
+    // 3. Construct Prompt
+    const model = genAI.getGenerativeModel({ model: 'gemini-3-flash-preview' });
+
+    const prompt = `
+    ROLE: You are an expert Veterinary AI Assistant conducting a follow-up check-in.
+    
+    CONTEXT:
+    - Pet: ${petName} (${species})
+    - Initial Triage (2 hours ago): ${JSON.stringify(original_analysis?.causes?.[0] || "Unknown Issue")}
+    - Urgency: ${original_analysis?.urgency_level || "Unknown"}
+    
+    HISTORY OF CHECK-IN:
+    ${JSON.stringify(monitoring_history)}
+
+    NEW VETERINARY KNOWLEDGE (RAG):
+    ${veterinaryContext}
+
+    GOAL:
+    Determine if the pet's condition is BETTER, WORSE, or SAME.
+    Then generate a SHORT, empathetic, and medically relevant SMS reply (max 160 chars ideally, but up to 300 ok).
+
+    LOGIC:
+    - If this is the FIRST check-in (history is empty):
+      - Ask a specific question about the MAIN symptom from the Initial Triage.
+      - Example: "Hi, this is CheckPet. Has ${petName} vomited again in the last 2 hours?"
+    - If user says YES/BETTER:
+      - Reply with reassurance and close the case. STATUS: RESOLVED.
+    - If user says NO/WORSE:
+      - Advise seeing a vet immediately. STATUS: ESCALATED.
+    - If user provides specific symptom (e.g. "Gum color is pale"):
+      - Analyze it using the Veterinary Context.
+      - If it indicates danger (Pale gums = shock), ESCALATE.
+      - If it's ambiguous, ask ONE clarifying question. STATUS: ONGOING.
+    
+    OUTPUT JSON:
+    {
+        "status": "RESOLVED" | "ESCALATED" | "ONGOING",
+        "reply_text": "string (the SMS content)",
+        "reasoning": "string (internal medical logic)"
+    }
+    `;
+
+    const result = await model.generateContent({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: { responseMimeType: "application/json" }
+    });
+
+    const responseText = result.response.text();
+    return new Response(responseText, {
+        headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+        status: 200,
+    });
+}
+
+
+// --- Original Helpers (Prompt Logic) ---
+// (Kept simplified for brevity, assume full propmt logic is needed if we are replacing the file)
+// IMPORTANT: Since I am replacing the file, I must include the FULL original logic for the Triage Mode too.
+// I will copy the original helper functions here.
 
 const UNIVERSAL_STANDARDS = `
 RESPONSE QUALITY STANDARDS:
@@ -127,12 +308,11 @@ function generateHealthAssessmentPrompt(
     veterinaryContext: string = "",
     imageBase64: string | null = null,
     symptom: string = "",
-    refinedSymptoms: string[] = [], // NEW ARGUMENT for Double-Tap logic
-    initialCauses: any[] = [], // NEW ARGUMENT for Refinement Logic
-    refinementContext: { question: string, answer: string }[] = [] // NEW ARGUMENT for Q&A Context
+    refinedSymptoms: string[] = [],
+    initialCauses: any[] = [],
+    refinementContext: { question: string, answer: string }[] = []
 ): string {
 
-    // 1. Double-Tap Prompt Switching Logic
     const isRefinementMode = refinedSymptoms && refinedSymptoms.length > 0;
 
     const modePrompt = isRefinementMode
@@ -274,7 +454,6 @@ ${generatePetProfileContext(pet, breedInfo)}
     Return ONLY the JSON object.`;
 }
 
-// --- Helper: Map Prompt Urgency to Schema Urgency ---
 function mapUrgencyToSchema(level: string): string {
     const up = (level || '').toUpperCase();
     if (up === 'CRITICAL') return 'emergency';
@@ -284,6 +463,7 @@ function mapUrgencyToSchema(level: string): string {
     if (up === 'NORMAL') return 'normal';
     return 'consult_vet'; // Fallback
 }
+
 
 // --- Main Handler ---
 
@@ -299,7 +479,21 @@ serve(async (req) => {
             throw new Error('Missing Gemini API Key');
         }
 
-        const { imageBase64, pet, breedInfo, symptom, refinedSymptoms, initialCauses, refinementContext } = await req.json();
+        const reqBody = await req.json();
+        const { imageBase64, pet, breedInfo, symptom, refinedSymptoms, initialCauses, refinementContext, monitoring_mode } = reqBody;
+
+        const genAI = new GoogleGenerativeAI(apiKey);
+        const supabase = createClient(
+            Deno.env.get('SUPABASE_URL')!,
+            Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!
+        );
+
+        // --- BRANCH: Monitoring Mode ---
+        if (monitoring_mode) {
+            return await handleMonitoring(reqBody, genAI, supabase);
+        }
+
+        // --- BRANCH: Standard Triage Mode ---
 
         // Default to a generic pet if not provided (Guest Triage)
         const defaultPet = {
@@ -311,119 +505,17 @@ serve(async (req) => {
         };
         const petData = { ...defaultPet, ...pet };
 
-        const genAI = new GoogleGenerativeAI(apiKey);
-
-        // --- RAG: Retrieve Veterinary Context ---
-        const supabase = createClient(
-            Deno.env.get('SUPABASE_URL')!,
-            Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!
-        );
-
-        // 2. Refactored RAG Logic (The 'Search Optimizer')
-        const isRefinementMode = refinedSymptoms && refinedSymptoms.length > 0;
-
         // Define Search Target
+        const isRefinementMode = refinedSymptoms && refinedSymptoms.length > 0;
         const searchTarget = isRefinementMode
             ? refinedSymptoms.join(' ') + ' ' + (symptom || '')
             : (symptom || '');
 
-        let contextText = "";
-        if (searchTarget.trim().length > 0) {
-            try {
-                // Step 1: Query Generation (Extract Filters & Key Concepts)
-                const fastModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
-
-                // Prompt Update for Refinement
-                const focusInstruction = isRefinementMode
-                    ? "Focus strictly on medical conditions associated with these confirmed tags."
-                    : "Prioritize broad categorization.";
-
-                const queryPrompt = `
-                You are a search optimization agent for a veterinary database.
-                Analyze the user's description and "translate" it into strict search parameters.
-                ${focusInstruction}
-
-                SEARCH TARGET: "${searchTarget}"
-                PET SPECIES: "${pet.species}"
-
-    RULES:
-    1. "clinical_category": Return up to 3 most relevant categories(e.g., "Dermatology", "Emergency", "Toxicology", "Gastroenterology", "General Principles").
-                   - If description implies trauma, wounds, or severe pain, YOU MUST include "Emergency" and "General Principles".
-                2. "species":
-    - If input is "Dog", return ["Dog", "General", "Unknown"].
-                   - If input is "Cat", return ["Cat", "General", "Unknown"].
-                   - Otherwise, return [${pet.species}, "General", "Unknown"].
-                3. "search_query": A short, keyword - dense query optimized for vector similarity(removing filler words).
-                
-                Return ONLY JSON:
-    {
-        "clinical_category": ["string", "string"],
-            "species": ["string", "string"],
-                "search_query": "string"
-    }
-    `;
-
-                const queryResult = await fastModel.generateContent({
-                    contents: [{ role: 'user', parts: [{ text: queryPrompt }] }],
-                    generationConfig: { responseMimeType: "application/json" }
-                });
-
-                const queryParams = JSON.parse(queryResult.response.text());
-                console.log("Generated Search Params:", queryParams);
-
-                // Step 2: Fallback Search Logic
-                const performSearch = async (useFilters: boolean) => {
-                    // Use text-embedding-004 to match DB vectors (embedding-001 is legacy/incompatible)
-                    const embeddingModel = genAI.getGenerativeModel({ model: "text-embedding-004" });
-                    const embeddingResult = await embeddingModel.embedContent(queryParams.search_query);
-
-                    const rpcParams: any = {
-                        query_embedding: embeddingResult.embedding.values,
-                        match_threshold: isRefinementMode ? 0.30 : (useFilters ? 0.5 : 0.35), // Lower threshold for refinement to catch more context
-                        match_count: isRefinementMode ? 8 : 5 // More docs for refinement to ensure specific coverage
-                    };
-
-                    if (useFilters) {
-                        // PGVector Filter Logic: metadata @> filter
-                        rpcParams.filter = {
-                            species: [queryParams.species[0]],
-                            clinical_category: [queryParams.clinical_category[0]]
-                        };
-                    }
-
-                    const { data: documents, error } = await supabase.rpc('match_documents', rpcParams);
-                    return { documents, error };
-                };
-
-                // Attempt 1: Strict Search
-                let searchResults = await performSearch(true);
-
-                // Attempt 2: Fallback (Relaxed/No Filter)
-                if (!searchResults.documents || searchResults.documents.length === 0) {
-                    console.log("Strict search returned 0 results. Triggering Fallback.");
-                    searchResults = await performSearch(false);
-                }
-
-                if (searchResults.error) {
-                    console.error("Vector search error:", searchResults.error);
-                } else if (searchResults.documents && searchResults.documents.length > 0) {
-                    contextText = searchResults.documents.map((d: any) =>
-                        `[Reference: Merck Veterinary Manual, Source: ${d.metadata?.source || 'Unknown'}, Page: ${d.metadata?.loc?.pageLabel || d.metadata?.page || 'Unknown'}]
-                         ${d.content} `
-                    ).join("\n\n---\n\n");
-                } else {
-                    contextText = "No specific veterinary protocols found in database after fallback search.";
-                }
-
-            } catch (err) {
-                console.error("RAG processing error:", err);
-                // Fallback: Proceed without context
-            }
-        }
-
+        // Retrieve RAG Context
+        const contextText = await retrieveVeterinaryContext(searchTarget, petData.species, genAI, supabase, isRefinementMode);
 
         const model = genAI.getGenerativeModel({
-            model: 'gemini-3-flash-preview', // Latest preview model
+            model: 'gemini-3-flash-preview',
         });
 
         const prompt = generateHealthAssessmentPrompt(petData, breedInfo, contextText, imageBase64, symptom, refinedSymptoms || [], initialCauses || [], refinementContext || []);
@@ -453,16 +545,14 @@ serve(async (req) => {
             safetySettings: [
                 { category: 'HARM_CATEGORY_HARASSMENT', threshold: 'BLOCK_ONLY_HIGH' },
                 { category: 'HARM_CATEGORY_HATE_SPEECH', threshold: 'BLOCK_ONLY_HIGH' },
-                { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_NONE' }, // Medical context requires anatomical visibility
-                { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_NONE' }, // Medical context requires visible wounds/blood
+                { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_NONE' },
+                { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_NONE' },
             ],
         });
 
         let responseText = '';
         try {
             responseText = result.response.text();
-            const finishReason = result.response.candidates?.[0]?.finishReason;
-            console.log("Gemini Finish Reason:", finishReason);
         } catch (textError) {
             console.error("Error extracting text from response:", textError);
             const candidates = result.response.candidates;
@@ -471,27 +561,15 @@ serve(async (req) => {
             }
         }
 
-        console.log("Raw Gemini Response:", responseText);
-
         // Handle empty response
         if (!responseText || responseText.trim().length === 0) {
-            console.error("Empty response from Gemini");
-            return new Response(JSON.stringify({
-                assessmentPossible: false,
-                failureReason: "Empty response from AI - please try again"
-            }), {
-                headers: { ...corsHeaders, 'Content-Type': 'application/json' },
-                status: 200,
-            });
+            throw new Error("Empty response from Gemini");
         }
 
         let analysisData;
         try {
-            console.log("First 500 chars:", responseText.substring(0, 500));
-
             const firstBrace = responseText.indexOf('{');
             const lastBrace = responseText.lastIndexOf('}');
-
             let cleanJson = '';
             if (firstBrace !== -1 && lastBrace !== -1 && lastBrace > firstBrace) {
                 cleanJson = responseText.substring(firstBrace, lastBrace + 1);
@@ -499,13 +577,14 @@ serve(async (req) => {
                 cleanJson = responseText.replace(/```json\n ?|\n ? ```/g, '').trim();
                 cleanJson = cleanJson.replace(/^[^{]*/, '').replace(/[^}]*$/, '');
             }
-
+            // sanitize
             cleanJson = cleanJson.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/g, '');
+            // fix trailing comma
             cleanJson = cleanJson.replace(/,(\s*[}\]])/g, '$1');
 
             analysisData = JSON.parse(cleanJson);
         } catch (e) {
-            console.error("Failed to parse JSON:", e);
+            console.error("Failed to parse JSON:", e, responseText.substring(0, 500));
             analysisData = {
                 assessmentPossible: false,
                 failureReason: "Could not parse AI response",
