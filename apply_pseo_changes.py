@@ -73,3 +73,6 @@ def main():
         f.write("      return [...pseoRedirects, /* ...existing redirects */];\n")
         
     print("Code for next.config.ts redirects written to next_redirects_code.txt")
+
+if __name__ == '__main__':
+    main()
