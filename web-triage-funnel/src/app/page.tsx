@@ -855,6 +855,43 @@ export default function PanicIntake() {
           }
         }
 
+        // --- FALLBACK RESTORATION (Checkout Cancel, Browser Back, or Refresh) ---
+        if (checkoutStatus !== 'success' && loginStatus !== 'success') {
+          const savedState = localStorage.getItem('pet_triage_pending_result');
+          if (savedState) {
+            try {
+              const parsed = JSON.parse(savedState);
+              // Only restore if it's relatively fresh (within 30 mins)
+              if (Date.now() - parsed.timestamp < 30 * 60 * 1000) {
+                setResult(parsed.result);
+                setImagePreview(parsed.imagePreview);
+                setConsultHistory(parsed.consultHistory || []);
+                setCaseId(parsed.caseId);
+                if (parsed.petDetails) {
+                  setSpecies(parsed.petDetails.species);
+                  setSex(parsed.petDetails.sex);
+                  setIsFixed(parsed.petDetails.isFixed);
+                  setBreed(parsed.petDetails.breed);
+                  setIsMixed(parsed.petDetails.isMixed);
+                  setAgeBracket(parsed.petDetails.ageBracket);
+                  setWeightBracket(parsed.petDetails.weightBracket);
+                }
+
+                // Re-apply the live locks from the server
+                setIsAuthLocked(data.needsAuth);
+                setIsPayLocked(data.needsPay);
+                setStep('RESULT');
+              } else {
+                // Expired
+                localStorage.removeItem('pet_triage_pending_result');
+              }
+            } catch (err) {
+              console.error("Failed to parse pending state", err);
+              localStorage.removeItem('pet_triage_pending_result');
+            }
+          }
+        }
+
         setScanCount(data.count || 0);
 
       } catch (err) {
