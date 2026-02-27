@@ -72,6 +72,9 @@ export default function PrivacyPage() {
                             <p className="text-slate-600 leading-relaxed">
                                 We do not sell your personal information. We share necessary data with trusted third-party AI providers (such as Google Gemini) strictly for the purpose of generating the analysis. These providers are bound by data privacy agreements suited for enterprise and safe processing.
                             </p>
+                            <p className="text-slate-600 leading-relaxed">
+                                No mobile information will be shared with third parties/affiliates for marketing/promotional purposes.
+                            </p>
                         </section>
 
                         <section className="space-y-3">

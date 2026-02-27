@@ -62,7 +62,7 @@ export function ProcessingLoader({ type = 'INITIAL' }: { type?: 'INITIAL' | 'REF
                         initial={{ width: "0%" }}
                         animate={{ width: "100%" }}
                         transition={{
-                            duration: 12, // Slightly longer than usual wait to feel like progress
+                            duration: 22, // Increased by 10s so the loading bar shows fully complete
                             ease: "easeInOut"
                         }}
                     />

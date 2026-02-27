@@ -47,6 +47,7 @@ export default function RootLayout({
             </p>
 
             <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-slate-500 font-medium">
+              <a href="mailto:support@checkpet.vet" className="hover:text-white transition-colors">Contact Us</a>
               <a href="/about" className="hover:text-white transition-colors">About Us</a>
               <a href="/check" className="hover:text-white transition-colors">Symptom Directory</a>
               <a href="/privacy" className="hover:text-white transition-colors cursor-pointer">Privacy Policy</a>

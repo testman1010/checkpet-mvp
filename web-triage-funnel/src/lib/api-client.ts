@@ -140,15 +140,20 @@ export const apiClient = {
         }
     },
 
-    saveCase: async (symptoms: string, ai_analysis: any): Promise<string> => {
+    saveCase: async (symptoms: string, ai_analysis: any, options: { deviceId?: string, userId?: string, isLocked?: boolean } = {}): Promise<string> => {
         try {
-            const response = await fetch(`${SUPABASE_URL}/functions/v1/save-case`, {
+            const response = await fetch('/api/cases/save', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
                 },
-                body: JSON.stringify({ symptoms, ai_analysis })
+                body: JSON.stringify({
+                    symptoms,
+                    ai_analysis,
+                    deviceId: options.deviceId,
+                    userId: options.userId,
+                    isLocked: options.isLocked
+                })
             });
 
             if (!response.ok) throw new Error("Failed to save case");

@@ -9,7 +9,7 @@ import { apiClient, Assessment } from '@/lib/api-client';
 import { CAT_BREEDS, DOG_BREEDS } from '@/lib/breeds';
 import { supabase } from '@/lib/supabaseClient';
 import { Camera, Check, Loader2, Lock, Search, ShieldAlert, AlertTriangle, Clipboard } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { ProcessingLoader } from '@/components/ui/processing-loader';
 import { AnimatePresence, motion } from "framer-motion";
 import { usePostHog } from 'posthog-js/react';
@@ -18,26 +18,48 @@ import { History, X, Trash2, ChevronRight, Clock, Shield } from 'lucide-react';
 import Link from 'next/link';
 import { CommonEmergenciesWidget } from '@/components/home/CommonEmergenciesWidget';
 import { MonitoringCard } from '@/components/MonitoringCard';
+import { AuthWallOverlay } from '@/components/AuthWallOverlay';
+import { PaywallOverlay } from '@/components/PaywallOverlay';
+import { LoginModal } from '@/components/LoginModal';
 
 // --- Screen 4: History View ---
 function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
   const [history, setHistory] = useState<any[]>([]);
+  const [loadingHistory, setLoadingHistory] = useState(true);
 
-  // Load history on mount
-  useEffect(() => { // Need to import useEffect if not already distinct from React.useState, but page.tsx has `import { useState } from 'react'` - we need useEffect too.
-    // Wait, let's fix imports first or assume they exist? 
-    // The file top imports `useState` from 'react'. I need to add `useEffect`.
-    // I will do that in a separate chunk to be safe, or just use React.useEffect if I can't change top easily without viewing.
-    // Actually I can see line 12: `import { useState } from 'react';`
-    // I will assume `useEffect` needs adding.
-    const stored = JSON.parse(localStorage.getItem('pet_triage_history') || '[]');
-    setHistory(stored);
+  // Fetch history from DB on mount
+  useEffect(() => {
+    const fetchHistory = async () => {
+      setLoadingHistory(true);
+      try {
+        const deviceId = localStorage.getItem('pet_triage_device_id') || '';
+
+        let headers: Record<string, string> = {};
+        const { data: { session } } = await supabase.auth.getSession();
+        if (session) {
+          headers['Authorization'] = `Bearer ${session.access_token}`;
+        }
+
+        const res = await fetch(`/api/cases/history?deviceId=${deviceId}`, { headers });
+        const data = await res.json();
+
+        if (data.history) {
+          setHistory(data.history);
+        }
+      } catch (err) {
+        console.error("Failed to load history:", err);
+      } finally {
+        setLoadingHistory(false);
+      }
+    };
+
+    fetchHistory();
   }, []);
 
-  const clearHistory = () => {
-    if (confirm("Clear all history?")) {
-      localStorage.removeItem('pet_triage_history');
-      setHistory([]);
+  const clearHistoryLocal = () => {
+    if (confirm("History is now synced to your account. To completely clear data, please email support.")) {
+      // Opt to soft-close for now since actual deletion requires API changes
+      onClose();
     }
   };
 
@@ -53,7 +75,7 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
             <h2 className="text-xl font-bold text-slate-900">History</h2>
           </div>
           {history.length > 0 && (
-            <Button variant="ghost" size="sm" onClick={clearHistory} className="text-red-500 hover:text-red-600 hover:bg-red-50">
+            <Button variant="ghost" size="sm" onClick={clearHistoryLocal} className="text-red-500 hover:text-red-600 hover:bg-red-50">
               <Trash2 className="h-4 w-4" />
             </Button>
           )}
@@ -61,7 +83,12 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
 
         {/* List */}
         <div className="p-4 space-y-4">
-          {history.length === 0 ? (
+          {loadingHistory ? (
+            <div className="text-center py-20 flex flex-col items-center">
+              <Loader2 className="h-8 w-8 animate-spin text-slate-400 mb-4" />
+              <p className="text-slate-500 font-medium">Loading history...</p>
+            </div>
+          ) : history.length === 0 ? (
             <div className="text-center py-20 text-slate-400">
               <History className="h-12 w-12 mx-auto mb-3 opacity-20" />
               <p>No saved analyses yet.</p>
@@ -70,23 +97,35 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
             history.map((item: any) => (
               <Card
                 key={item.id}
-                className="p-4 border border-slate-100 shadow-sm hover:shadow-md transition-all cursor-pointer active:scale-[0.98]"
+                className="p-3 border border-slate-100 shadow-sm hover:shadow-md transition-all cursor-pointer active:scale-[0.98] overflow-hidden flex gap-3"
                 onClick={() => onViewResult(item.result)}
               >
-                <div className="flex justify-between items-start mb-2">
-                  <Badge variant={item.result?.urgency_level === 'CRITICAL' ? 'destructive' : 'secondary'} className="text-[10px]">
-                    {item.result?.urgency_level || 'UNKNOWN'}
-                  </Badge>
-                  <span className="text-xs text-slate-400">
-                    {new Date(item.date).toLocaleDateString()}
-                  </span>
+                {/* Image Thumbnail */}
+                <div className="w-20 h-20 rounded-lg bg-slate-100 shrink-0 overflow-hidden flex items-center justify-center border border-slate-200/60 shadow-inner">
+                  {item.image_url ? (
+                    <img src={item.image_url} alt="Pet photo" className="w-full h-full object-cover" />
+                  ) : (
+                    <Camera className="w-6 h-6 text-slate-300" />
+                  )}
                 </div>
-                <h3 className="font-bold text-slate-900 mb-1">
-                  {item.result?.causes?.[0]?.condition || "Condition Identified"}
-                </h3>
-                <p className="text-xs text-slate-500 line-clamp-2">
-                  {item.result?.primaryRecommendation}
-                </p>
+
+                {/* Content */}
+                <div className="flex-1 flex flex-col justify-center min-w-0">
+                  <div className="flex justify-between items-start mb-1 gap-2">
+                    <Badge variant={item.result?.urgency_level === 'CRITICAL' || item.result?.urgency_level === 'URGENT' ? 'destructive' : 'secondary'} className="text-[9px] px-1.5 py-0">
+                      {item.result?.urgency_level || 'UNKNOWN'}
+                    </Badge>
+                    <span className="text-[10px] text-slate-400 whitespace-nowrap shrink-0 font-medium">
+                      {item.date} {item.time && `• ${item.time}`}
+                    </span>
+                  </div>
+                  <h3 className="font-bold text-slate-800 text-sm mb-1 truncate">
+                    {item.result?.causes?.[0]?.condition || "Condition Identified"}
+                  </h3>
+                  <p className="text-[11px] text-slate-500 line-clamp-2 leading-tight">
+                    {item.result?.primaryRecommendation}
+                  </p>
+                </div>
               </Card>
             ))
           )}
@@ -97,7 +136,29 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
 }
 
 // --- Screen 3: The Result Gate ("Conversion Engine") ---
-function TriageResult({ result, imagePreview, consultHistory, petDetails, caseId }: { result: Assessment, imagePreview: string | null, consultHistory?: { question: string, answer: string }[], petDetails?: any, caseId: string | null }) {
+function TriageResult({
+  result,
+  imagePreview,
+  consultHistory,
+  petDetails,
+  caseId,
+  isAuthLocked = false,
+  isPayLocked = false,
+  onUnlockAuth,
+  onCheckoutPay,
+  onLogin
+}: {
+  result: Assessment,
+  imagePreview: string | null,
+  consultHistory?: { question: string, answer: string }[],
+  petDetails?: any,
+  caseId: string | null,
+  isAuthLocked?: boolean;
+  isPayLocked?: boolean;
+  onUnlockAuth?: (email: string) => void;
+  onCheckoutPay?: (type: 'emergency_scan' | 'subscription') => void;
+  onLogin?: () => void;
+}) {
   const isEmergency = result.urgency_level === 'CRITICAL' || result.urgency_level === 'URGENT';
   const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
   // Confidence: Handle 0-1 (decimal) or 0-100 (percentage)
@@ -245,17 +306,27 @@ function TriageResult({ result, imagePreview, consultHistory, petDetails, caseId
         </Badge>
       </div>
 
-      {/* 2. Result Card */}
-      <ResultCardContent
-        result={result}
-        primaryCondition={primaryCondition}
-        confidence={confidence}
-        imagePreview={imagePreview}
-        consultHistory={consultHistory}
-        isEmergency={false}
-        petDetails={petDetails}
-        caseId={caseId}
-      />
+      {/* Overlays logic for Emergency */}
+      {isAuthLocked && onUnlockAuth && (
+        <AuthWallOverlay loading={saving} onUnlock={onUnlockAuth} onLogin={onLogin || (() => { })} />
+      )}
+      {isPayLocked && onCheckoutPay && (
+        <PaywallOverlay onCheckout={onCheckoutPay} onLogin={onLogin || (() => { })} />
+      )}
+
+      {/* 2. Result Card - Blurred if locked */}
+      <div className={`transition-all duration-700 ${isAuthLocked || isPayLocked ? 'blur-md pointer-events-none opacity-60 select-none' : ''}`}>
+        <ResultCardContent
+          result={result}
+          primaryCondition={primaryCondition}
+          confidence={confidence}
+          imagePreview={imagePreview}
+          consultHistory={consultHistory}
+          isEmergency={false}
+          petDetails={petDetails}
+          caseId={caseId}
+        />
+      </div>
     </div>
   );
 }
@@ -362,12 +433,7 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
           </h2>
         </div>
 
-        {/* Monitoring Card Integration */}
-        {!isEmergency && (
-          <div className="px-6 pb-2">
-            <MonitoringCard caseId={caseId} />
-          </div>
-        )}
+
 
         <div className="p-6 pt-0">
           {/* Confidence */}
@@ -506,6 +572,13 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
             )}
           </div>
 
+          {/* Monitoring Card Integration */}
+          {!isEmergency && (
+            <div className="mb-4">
+              <MonitoringCard caseId={caseId} />
+            </div>
+          )}
+
           {/* Citations / References */}
           {result.citations && result.citations.length > 0 && (
             <div className="mt-6 mb-2">
@@ -641,11 +714,161 @@ export default function PanicIntake() {
   // State for History View
   const [showHistory, setShowHistory] = useState(false);
 
+  // Tracking States
+  const checkRan = useRef<boolean>(false);
+  const [scanCount, setScanCount] = useState<number>(0);
+  const [isTrackingInitialized, setIsTrackingInitialized] = useState<boolean>(false);
+  const [deviceId, setDeviceId] = useState<string>('');
+  const [isAuthLocked, setIsAuthLocked] = useState(false);
+  const [isPayLocked, setIsPayLocked] = useState(false);
+  const [showLogin, setShowLogin] = useState(false);
+  const [userEmail, setUserEmail] = useState<string | null>(null);
+
   const viewHistoryItem = (savedResult: Assessment) => {
     setResult(savedResult);
     setShowHistory(false);
     setStep('RESULT');
   };
+
+  const handleLogout = async () => {
+    await supabase.auth.signOut();
+    setUserEmail(null);
+    localStorage.removeItem('pet_triage_user_id');
+    window.location.href = '/';
+  };
+
+  // Tracking API Check
+  useEffect(() => {
+    let currentDeviceId = localStorage.getItem('pet_triage_device_id');
+
+    // We must use strict UUIDs for Supabase foreign keys
+    const isValidUUID = currentDeviceId && /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(currentDeviceId);
+
+    if (!isValidUUID) {
+      currentDeviceId = typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() :
+        'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+          var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+          return v.toString(16);
+        });
+      localStorage.setItem('pet_triage_device_id', currentDeviceId);
+    }
+    setDeviceId(currentDeviceId);
+
+    const checkLimit = async () => {
+      try {
+        const { data: { session } } = await supabase.auth.getSession();
+        const userId = session?.user?.id || localStorage.getItem('pet_triage_user_id');
+
+        if (session?.user?.email) {
+          setUserEmail(session.user.email);
+        }
+
+        const res = await fetch('/api/tracking', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ deviceId: currentDeviceId, userId, action: 'check' })
+        });
+        const data = await res.json();
+        console.log("Tracking API returned:", data);
+
+        // If query params have successful stripe session checkout flag, verify it securely
+        const urlParams = new URLSearchParams(window.location.search);
+        const checkoutStatus = urlParams.get('checkout');
+        const sessionId = urlParams.get('session_id');
+
+        if (checkoutStatus === 'success' && sessionId) {
+          try {
+            const verifyRes = await fetch(`/api/stripe/verify?session_id=${sessionId}`);
+            const verifyData = await verifyRes.json();
+
+            if (verifyData.verified) {
+              // Mark active locally to prevent flashing before the webhook arrives
+              data.paymentStatus = 'active';
+              data.needsPay = false;
+
+              // UX: Restore pending result if it exists
+              const savedState = localStorage.getItem('pet_triage_pending_result');
+              if (savedState) {
+                try {
+                  const parsed = JSON.parse(savedState);
+                  // Only restore if it's relatively fresh (within 30 mins)
+                  if (Date.now() - parsed.timestamp < 30 * 60 * 1000) {
+                    setResult(parsed.result);
+                    setImagePreview(parsed.imagePreview);
+                    setConsultHistory(parsed.consultHistory || []);
+                    setCaseId(parsed.caseId);
+                    if (parsed.petDetails) {
+                      setSpecies(parsed.petDetails.species);
+                      setSex(parsed.petDetails.sex);
+                      setIsFixed(parsed.petDetails.isFixed);
+                      setBreed(parsed.petDetails.breed);
+                      setIsMixed(parsed.petDetails.isMixed);
+                      setAgeBracket(parsed.petDetails.ageBracket);
+                      setWeightBracket(parsed.petDetails.weightBracket);
+                    }
+                    setStep('RESULT');
+                    // Cleanup
+                    localStorage.removeItem('pet_triage_pending_result');
+                  }
+                } catch (pErr) {
+                  console.error("Failed to parse restored state", pErr);
+                }
+              }
+            } else {
+              console.warn("Stripe Checkout Session not verified as paid.");
+            }
+          } catch (vErr) {
+            console.error("Error verifying Stripe session:", vErr);
+          } finally {
+            // Strip the parameter from the URL so future scans don't remain continuously unlocked
+            if (typeof window !== 'undefined') {
+              window.history.replaceState({}, document.title, window.location.pathname);
+            }
+          }
+        }
+
+        // --- MAGIC LINK AUTHENTICATION RESTORATION ---
+        const loginStatus = urlParams.get('login');
+        if (loginStatus === 'success') {
+          try {
+            const tokenResponse = await supabase.auth.getSession();
+            if (tokenResponse.data.session) {
+              const fetchRes = await fetch('/api/cases/restore', {
+                headers: { 'Authorization': `Bearer ${tokenResponse.data.session.access_token}` }
+              });
+              const fetchData = await fetchRes.json();
+              if (fetchData.ai_analysis) {
+                setResult(fetchData.ai_analysis);
+                setCaseId(fetchData.case_id);
+                // The backend checks if the user is verified/paid, so we map those locking states here
+                setIsAuthLocked(data.needsAuth);
+                setIsPayLocked(data.needsPay);
+                setStep('RESULT');
+              }
+            }
+          } catch (err) {
+            console.error("Failed to restore locked case after login", err);
+          } finally {
+            if (typeof window !== 'undefined') {
+              window.history.replaceState({}, document.title, window.location.pathname);
+            }
+          }
+        }
+
+        setScanCount(data.count || 0);
+
+      } catch (err) {
+        console.error("Failed to check tracking limits:", err);
+      } finally {
+        setIsTrackingInitialized(true);
+      }
+    };
+
+    if (!checkRan.current) {
+      checkRan.current = true;
+      checkLimit();
+    }
+  }, []);
 
   // --- Scroll to top on step change ---
   useEffect(() => {
@@ -736,15 +959,45 @@ export default function PanicIntake() {
         minDelay
       ]);
 
+      // Handle Tracking Increment
+      const { data: { session } } = await supabase.auth.getSession();
+      const userId = session?.user?.id || localStorage.getItem('pet_triage_user_id');
+      const trackRes = await fetch('/api/tracking', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ deviceId, userId, action: 'increment' })
+      });
+
+      if (!trackRes.ok) {
+        throw new Error("Tracking service is temporarily unavailable. Please try again.");
+      }
+
+      const trackData = await trackRes.json();
+
+      setScanCount(trackData.count);
+      // Wait, if url params had success we assume pay is false for now
+      const isSuccess = new URLSearchParams(window.location.search).get('checkout') === 'success';
+      const actuallyNeedsPay = isSuccess ? false : trackData.needsPay;
+
       if (response.verification_questions && response.verification_questions.length > 0) {
         setPendingAssessment(response);
         setStep('QUESTIONS');
+
+        // Pass lock states to the next step so it flows down to RESULT
+        setIsAuthLocked(trackData.needsAuth);
+        setIsPayLocked(actuallyNeedsPay);
       } else {
         setResult(response);
+        setIsAuthLocked(trackData.needsAuth);
+        setIsPayLocked(actuallyNeedsPay);
         setStep('RESULT');
 
         // Background Save: Immediately save case to generate ID for monitoring
-        apiClient.saveCase(symptoms, response).then(id => {
+        apiClient.saveCase(symptoms, response, {
+          deviceId,
+          userId: userId || undefined,
+          isLocked: trackData.needsAuth || actuallyNeedsPay
+        }).then(id => {
           console.log("Case Saved:", id);
           setCaseId(id);
         }).catch(err => console.error("Background Save Failed:", err));
@@ -803,7 +1056,12 @@ export default function PanicIntake() {
       setStep('RESULT');
 
       // Background Save: Save refined case
-      apiClient.saveCase(symptoms, refinedResponse).then(id => {
+      const currentUserId = localStorage.getItem('pet_triage_user_id') || undefined;
+      apiClient.saveCase(symptoms, refinedResponse, {
+        deviceId,
+        userId: currentUserId,
+        isLocked: isAuthLocked || isPayLocked
+      }).then(id => {
         console.log("Refined Case Saved:", id);
         setCaseId(id);
       }).catch(err => console.error("Background Save Failed:", err));
@@ -816,6 +1074,100 @@ export default function PanicIntake() {
       setStep('RESULT');
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleUnlockAuth = async (email: string, captchaToken?: string) => {
+    setLoading(true);
+    try {
+      // Use our admin unlock route to bypass email confirmation constraints
+      const res = await fetch('/api/auth/unlock', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, captchaToken })
+      });
+      const data = await res.json();
+
+      if (data.error) throw new Error(data.error);
+
+      const newlyFetchedUserId = data.userId;
+      console.log("AUTH UNLOCK SUCCESS. Received User ID from API:", newlyFetchedUserId);
+
+      if (newlyFetchedUserId) {
+        localStorage.setItem('pet_triage_user_id', newlyFetchedUserId);
+        console.log("AUTH UNLOCK SAVED TO LOCAL STORAGE:", localStorage.getItem('pet_triage_user_id'));
+
+        // Merge anonymous device scans into the user's permanent profile
+        await fetch('/api/tracking', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ deviceId, userId: newlyFetchedUserId, action: 'merge' })
+        });
+      }
+
+      // Optional: add to waitlist
+      await supabase.from('waitlist').insert([{ email, source: 'auth_wall' }]);
+
+      setIsAuthLocked(false);
+    } catch (err: any) {
+      console.error("Auth Wall error", err);
+      alert("Auth Failed: " + err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleCheckoutPay = async (type: 'emergency_scan' | 'subscription') => {
+    try {
+      const { data: { session } } = await supabase.auth.getSession();
+
+      const localUserId = localStorage.getItem('pet_triage_user_id');
+      console.log("CHECKOUT INITIATED. Session User ID:", session?.user?.id, "Local Storage User ID:", localUserId);
+
+      const userId = session?.user?.id || localUserId;
+
+      if (!userId) {
+        console.error("CHECKOUT FAILED: Both Session and Local Storage are missing a User ID.");
+        alert("Session expired. Please start over.");
+        return;
+      }
+
+      // UX: Save current state to restore after redirect
+      if (result) {
+        const pendingState = {
+          result,
+          imagePreview,
+          consultHistory,
+          caseId,
+          petDetails: {
+            species,
+            sex,
+            isFixed,
+            breed,
+            isMixed,
+            ageBracket,
+            weightBracket
+          },
+          timestamp: Date.now()
+        };
+        localStorage.setItem('pet_triage_pending_result', JSON.stringify(pendingState));
+      }
+
+      const res = await fetch('/api/stripe/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ userId, type })
+      });
+      const data = await res.json();
+
+      if (data.url) {
+        window.location.href = data.url;
+      } else {
+        alert("Checkout Failed: " + data.error);
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Error reaching checkout provider.");
     }
   };
 
@@ -842,6 +1194,11 @@ export default function PanicIntake() {
         <HistoryView onClose={() => setShowHistory(false)} onViewResult={viewHistoryItem} />
       )}
 
+      {/* Login Modal Overlay */}
+      {showLogin && (
+        <LoginModal onClose={() => setShowLogin(false)} />
+      )}
+
       {/* Header - Only on Input Step */}
       {step === 'INPUT' && (
         <>
@@ -855,15 +1212,36 @@ export default function PanicIntake() {
               <span className="text-lg font-bold text-slate-900 tracking-tight">CheckPet</span>
             </div>
 
-            {/* Right: History Icon */}
-            <Button
-              variant="ghost"
-              size="icon"
-              className="text-slate-400 hover:text-slate-600 hover:bg-slate-50 rounded-full w-10 h-10 transition-all"
-              onClick={() => setShowHistory(true)}
-            >
-              <Clock className="h-5 w-5" />
-            </Button>
+            {/* Right: Actions */}
+            <div className="flex items-center gap-1">
+              {!userEmail ? (
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="text-xs font-bold text-slate-500 hover:text-slate-800 hidden sm:flex bg-slate-100 hover:bg-slate-200 rounded-full px-4 items-center justify-center transition-all"
+                  onClick={() => setShowLogin(true)}
+                >
+                  Log in
+                </Button>
+              ) : (
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="text-xs font-bold text-slate-500 hover:text-red-600 hidden sm:flex bg-slate-100 hover:bg-red-50 hover:border-red-100 rounded-full px-4 items-center justify-center transition-all"
+                  onClick={handleLogout}
+                >
+                  Log out
+                </Button>
+              )}
+              <Button
+                variant="ghost"
+                size="icon"
+                className="text-slate-400 hover:text-slate-600 hover:bg-slate-50 rounded-full w-10 h-10 transition-all"
+                onClick={() => setShowHistory(true)}
+              >
+                <Clock className="h-5 w-5" />
+              </Button>
+            </div>
           </nav>
 
           {/* Hero Section */}
@@ -938,7 +1316,7 @@ export default function PanicIntake() {
               )}
             </div>
 
-            {/* Photo Upload (MOVED BELOW TEXT) */}
+            {/* Photo Upload */}
             <div className="w-full">
               <input
                 type="file"
@@ -1161,12 +1539,22 @@ export default function PanicIntake() {
           {/* Common Emergencies Widget (SEO / Crawl Hub) */}
           <CommonEmergenciesWidget />
 
-          {/* Sticky Action Button */}
+          {/* Sticky Action Button & Post-First Scan Status Pill */}
           <div className="fixed bottom-0 left-0 right-0 p-4 bg-white/90 backdrop-blur-xl border-t border-slate-200 safe-area-pb z-50 shadow-[0_-5px_20px_rgba(0,0,0,0.05)]">
             <div className="max-w-md mx-auto">
+
+              {/* Dynamic Status Pill for Post-First Scan (State One) */}
+              {scanCount === 1 && (
+                <div className="flex justify-center mb-3">
+                  <div className="bg-slate-100/80 border border-slate-200 text-slate-600 px-4 py-1.5 rounded-full text-xs font-bold shadow-sm backdrop-blur-sm">
+                    🐶 1 free scan remaining this month.
+                  </div>
+                </div>
+              )}
+
               <Button
                 size="lg"
-                className="w-full h-14 text-lg font-bold rounded-xl bg-blue-600 hover:bg-blue-700 text-white shadow-xl shadow-blue-200 active:scale-95 transition-all mb-3"
+                className="w-full h-14 rounded-xl shadow-xl transition-all mb-1 bg-slate-900 hover:bg-black text-white active:scale-95"
                 onClick={handleAnalyze}
                 disabled={loading || !symptoms.trim()}
               >
@@ -1176,22 +1564,30 @@ export default function PanicIntake() {
                     ANALYZING...
                   </div>
                 ) : (
-                  "Check My Pet"
+                  <div className="flex flex-col items-center">
+                    <span className="font-bold text-lg">Analyze Pet Symptom</span>
+                  </div>
                 )}
               </Button>
+
+              {/* Microscopic Helper Text for State Zero */}
+              {(isTrackingInitialized === true && scanCount === 0 && loading === false) && (
+                <p className="text-[10px] font-bold text-slate-500 text-center uppercase tracking-widest mt-2 mb-2">
+                  100% Free First Scan
+                </p>
+              )}
 
               {/* Disclaimer Caption with Shield */}
               <div className="flex items-center justify-center gap-3 px-1 opacity-80 mt-2 w-full mx-auto">
                 <Shield className="w-7 h-7 text-slate-300 shrink-0" strokeWidth={1.5} />
-                <p className="text-[10px] font-medium text-slate-500 text-left leading-tight">
+                <p className="text-[10px] font-medium text-slate-500 text-left leading-tight mt-1">
                   Analysis references clinical protocols and data from industry-standard veterinary manuals (e.g. Merck Vet Manual) to ensure accuracy.
                 </p>
               </div>
             </div>
           </div>
         </>
-      )
-      }
+      )}
 
       {/* Screen 2: The Questions ("Investigation") */}
       {
@@ -1220,6 +1616,11 @@ export default function PanicIntake() {
               weight: weightBracket
             }}
             caseId={caseId}
+            isAuthLocked={isAuthLocked}
+            isPayLocked={isPayLocked}
+            onUnlockAuth={handleUnlockAuth}
+            onCheckoutPay={handleCheckoutPay}
+            onLogin={() => setShowLogin(true)}
           />
         </>
       )}
