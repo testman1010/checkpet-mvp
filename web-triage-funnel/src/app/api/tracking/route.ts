@@ -133,7 +133,9 @@ export async function POST(req: NextRequest) {
             paymentStatus,
             needsAuth,
             needsPay,
-            allowedCheck: !needsAuth && !needsPay
+            allowedCheck: !needsAuth && !needsPay,
+            debug_hasServiceKey: !!process.env.SUPABASE_SERVICE_ROLE_KEY,
+            debug_hasAnonKey: !!process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
         });
 
     } catch (error: any) {
