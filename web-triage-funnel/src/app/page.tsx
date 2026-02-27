@@ -752,7 +752,7 @@ export default function PanicIntake() {
         });
       localStorage.setItem('pet_triage_device_id', currentDeviceId);
     }
-    setDeviceId(currentDeviceId);
+    setDeviceId(currentDeviceId as string);
 
     const checkLimit = async () => {
       try {
