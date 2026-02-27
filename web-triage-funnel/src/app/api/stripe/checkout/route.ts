@@ -86,9 +86,11 @@ export async function POST(req: NextRequest) {
             checkoutPayload.customer = customerId;
             checkoutPayload.customer_update = { name: 'auto' };
         } else if (userEmail) {
-            checkoutPayload.customer_email = userEmail;
-            // When using customer_email, Stripe implicitly allows modification on the checkout page.
-            // When the session completes, session.customer_details.email will contain the final email they typed.
+            // We NO LONGER pass customer_email here.
+            // When Stripe receives `customer_email`, it permanently locks the email field on the checkout page.
+            // By leaving it blank, Stripe will present an empty, editable email field to the user so they can 
+            // fix any typos they made on the Auth Wall.
+            // The Webhook intercepts their final typed email and syncs it back to Supabase.
         }
 
         const session = await stripe.checkout.sessions.create(checkoutPayload);
