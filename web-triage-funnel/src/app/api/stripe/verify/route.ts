@@ -3,11 +3,11 @@ import Stripe from "stripe";
 
 export const dynamic = 'force-dynamic';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
-    apiVersion: "2024-04-10" as any,
-});
-
 export async function GET(req: NextRequest) {
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
+        apiVersion: "2024-04-10" as any,
+    });
+
     try {
         const { searchParams } = new URL(req.url);
         const sessionId = searchParams.get('session_id');

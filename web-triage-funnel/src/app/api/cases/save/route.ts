@@ -3,12 +3,11 @@ import { createClient } from "@supabase/supabase-js";
 
 export const dynamic = 'force-dynamic';
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
-// Use admin client to bypass RLS for inserting raw cases
-const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
-
 async function uploadImageBackground(caseId: string, base64Data: string) {
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+    const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
+    const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
+
     try {
         // Strip out the data URI prefix if it exists
         const base64Content = base64Data.includes(',') ? base64Data.split(',')[1] : base64Data;
@@ -49,6 +48,10 @@ async function uploadImageBackground(caseId: string, base64Data: string) {
 }
 
 export async function POST(req: NextRequest) {
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+    const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
+    const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
+
     try {
         const body = await req.json();
         const { symptoms, ai_analysis, deviceId, userId, isLocked, imageBase64 } = body;

@@ -4,17 +4,17 @@ import { createClient } from "@supabase/supabase-js";
 
 export const dynamic = 'force-dynamic';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
-    apiVersion: "2024-04-10" as any,
-});
-
-const endpointSecret = process.env.STRIPE_WEBHOOK_SECRET;
-
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
-const supabase = createClient(supabaseUrl, supabaseKey);
-
 export async function POST(req: NextRequest) {
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
+        apiVersion: "2024-04-10" as any,
+    });
+
+    const endpointSecret = process.env.STRIPE_WEBHOOK_SECRET;
+
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+    const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+    const supabase = createClient(supabaseUrl, supabaseKey);
+
     const payload = await req.text();
     const sig = req.headers.get("stripe-signature");
 

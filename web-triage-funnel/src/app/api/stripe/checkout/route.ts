@@ -4,17 +4,17 @@ import { createClient } from "@supabase/supabase-js";
 
 export const dynamic = 'force-dynamic';
 
-// Initialize Stripe (requires STRIPE_SECRET_KEY in .env.local)
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
-    apiVersion: "2024-04-10" as any,
-});
-
-// Initialize Supabase Admin Client to verify the user exists
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
-const supabase = createClient(supabaseUrl, supabaseKey);
-
 export async function POST(req: NextRequest) {
+    // Initialize Stripe (requires STRIPE_SECRET_KEY in .env.local)
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
+        apiVersion: "2024-04-10" as any,
+    });
+
+    // Initialize Supabase Admin Client to verify the user exists
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+    const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+    const supabase = createClient(supabaseUrl, supabaseKey);
+
     try {
         const { userId, type } = await req.json();
 
