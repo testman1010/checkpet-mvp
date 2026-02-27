@@ -4,11 +4,12 @@ import { createClient } from "@supabase/supabase-js";
 export const dynamic = 'force-dynamic';
 
 export async function GET(req: NextRequest) {
-    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-    const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
-    // Use Admin client to securely traverse device/user matches securely
-    const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
     try {
+        const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+        const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+        // Use Admin client to securely traverse device/user matches securely
+        const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey);
+
         const urlParams = new URL(req.url);
         const deviceId = urlParams.searchParams.get('deviceId');
 
