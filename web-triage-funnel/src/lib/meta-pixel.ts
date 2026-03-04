@@ -87,9 +87,9 @@ export function trackSecondScan() {
   trackMetaCustomEvent('SecondScan');
 }
 
-/** User hits the paywall */
-export function trackInitiateCheckout() {
-  trackMetaEvent('InitiateCheckout', { content_name: 'paywall' });
+/** User hits the paywall / selects a payment option */
+export function trackInitiateCheckout(type?: 'emergency_scan' | 'subscription') {
+  trackMetaEvent('InitiateCheckout', { content_name: type || 'paywall' });
 }
 
 /** Payment completed — fired client-side as backup (CAPI is primary) */

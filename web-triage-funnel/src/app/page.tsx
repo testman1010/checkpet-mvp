@@ -1236,7 +1236,7 @@ export default function PanicIntake() {
 
   const handleCheckoutPay = async (type: 'emergency_scan' | 'subscription') => {
     // Meta Pixel: Track explicit checkout initiation (button click)
-    trackInitiateCheckout();
+    trackInitiateCheckout(type);
 
     try {
       const { data: { session } } = await supabase.auth.getSession();
