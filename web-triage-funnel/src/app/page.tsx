@@ -525,8 +525,8 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                 ];
                 const theme = colors[i % colors.length];
 
-                // Simple collision detection for labels to prevent overlap
-                let labelTopOffset = -3; // Default tailwind `-top-3` (approx 0.75rem or 12px)
+                // Use a wider collision threshold (e.g. 15% top, 20% left) to better prevent overlaps
+                let labelTopOffset = -4; // Base offset approx -16px
                 for (let j = 0; j < i; j++) {
                   let [prevYmin, prevXmin] = arr[j].coordinates;
                   if (prevYmin > 1 || prevXmin > 1) {
@@ -536,14 +536,14 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                   const prevTop = prevYmin * 100;
                   const prevLeft = prevXmin * 100;
 
-                  // If boxes start very close to each other (within 5% top and 15% left), offset vertically
-                  if (Math.abs(top - prevTop) < 5 && Math.abs(left - prevLeft) < 15) {
-                    labelTopOffset -= 6; // Stack the labels higher: -top-9, -top-15 etc.
+                  // If boxes are near each other, stack higher
+                  if (Math.abs(top - prevTop) < 15 && Math.abs(left - prevLeft) < 20) {
+                    labelTopOffset -= 10; // Stack higher (-10 -> -2.5rem -> -40px)
                   }
                 }
 
-                // If the box is too close to the very top edge of the image container, push the label inside the box instead
-                const labelYClass = top < 8 ? "top-1" : `top-[${labelTopOffset * 0.25}rem]`;
+                // If the box is on the right half of the image, pin the label to the right so it grows inward (left)
+                const isRightHalf = left > 50;
 
                 return (
                   <div key={i} className="absolute inset-0 pointer-events-none">
@@ -552,8 +552,17 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                       style={{ top: `${top}%`, left: `${left}%`, width: `${width}%`, height: `${height}%` }}
                     >
                       <div
-                        className={`absolute left-2 ${theme.bg} text-white text-[10px] font-extrabold px-2 py-0.5 rounded shadow-sm whitespace-nowrap uppercase tracking-wider transition-all`}
-                        style={{ top: top < 8 ? '0.25rem' : `${labelTopOffset * 0.25}rem` }}
+                        className={`absolute ${theme.bg} text-white font-extrabold px-2 py-1 rounded shadow-sm uppercase tracking-wider transition-all z-[100] text-center flex items-center justify-center`}
+                        style={{
+                          top: top < 12 ? '0.25rem' : `${labelTopOffset * 0.25}rem`,
+                          [isRightHalf ? 'right' : 'left']: '-0.5rem',
+                          fontSize: '9px',
+                          lineHeight: '1.2',
+                          width: 'max-content',
+                          maxWidth: '120px',
+                          wordWrap: 'break-word',
+                          whiteSpace: 'normal'
+                        }}
                       >
                         {ann.label}
                       </div>
@@ -1063,13 +1072,6 @@ export default function PanicIntake() {
         setPendingAssessment(response);
         setStep('QUESTIONS');
 
-        // Meta Pixel: Track scan completion for question-path scans
-        if (trackData.count === 1) {
-          trackStartTrial(species);
-        } else if (trackData.count === 2) {
-          trackSecondScan();
-        }
-
         // Pass lock states to the next step so it flows down to RESULT
         setIsAuthLocked(trackData.needsAuth);
         setIsPayLocked(actuallyNeedsPay);
@@ -1082,14 +1084,10 @@ export default function PanicIntake() {
         // Meta Pixel: Track scan completion
         if (trackData.count === 1) {
           trackStartTrial(species);
-        } else if (trackData.count === 2) {
+        } else if (trackData.count === 2 && !trackData.needsAuth) {
           trackSecondScan();
         }
 
-        // Meta Pixel: Track paywall impression
-        if (actuallyNeedsPay) {
-          trackInitiateCheckout();
-        }
 
         // Background Save: Immediately save case to generate ID for monitoring
         apiClient.saveCase(symptoms, response, {
@@ -1154,10 +1152,13 @@ export default function PanicIntake() {
       setResult(refinedResponse);
       setStep('RESULT');
 
-      // Meta Pixel: Track paywall impression if locked
-      if (isPayLocked) {
-        trackInitiateCheckout();
+      // Meta Pixel: Track scan completion
+      if (scanCount === 1) {
+        trackStartTrial(species);
+      } else if (scanCount === 2 && !isAuthLocked) {
+        trackSecondScan();
       }
+
 
       // Background Save: Save refined case
       const currentUserId = localStorage.getItem('pet_triage_user_id') || undefined;
@@ -1217,6 +1218,11 @@ export default function PanicIntake() {
       // Meta Pixel: Email capture = qualified Lead event
       trackLead();
 
+      // Meta Pixel: Track SecondScan now that they've unlocked it
+      if (scanCount === 2) {
+        trackSecondScan();
+      }
+
       // Enroll user in email nurture sequence
       try {
         await fetch('/api/email/nurture', {
@@ -1241,9 +1247,8 @@ export default function PanicIntake() {
   };
 
   const handleCheckoutPay = async (type: 'emergency_scan' | 'subscription') => {
-    // Meta Pixel: Client-side Purchase intent (backup — CAPI fires from webhook)
-    const purchaseValue = type === 'subscription' ? 9.99 : 3.99;
-    trackPurchase(purchaseValue, type);
+    // Meta Pixel: Track explicit checkout initiation (button click)
+    trackInitiateCheckout();
 
     try {
       const { data: { session } } = await supabase.auth.getSession();
