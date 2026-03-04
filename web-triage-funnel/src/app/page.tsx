@@ -906,30 +906,18 @@ export default function PanicIntake() {
 
         // --- FALLBACK RESTORATION (Checkout Cancel, Browser Back, or Refresh) ---
         if (checkoutStatus !== 'success' && loginStatus !== 'success') {
+          // If we load the page fresh from the "Start New Scan" button, we want to clear the pending result 
+          // so it doesn't instantly snap back to the results screen
           const savedState = localStorage.getItem('pet_triage_pending_result');
           if (savedState) {
             try {
               const parsed = JSON.parse(savedState);
-              // Only restore if it's relatively fresh (within 30 mins)
+              // Only restore if it's relatively fresh (within 30 mins) AND they haven't manually requested home
               if (Date.now() - parsed.timestamp < 30 * 60 * 1000) {
-                setResult(parsed.result);
-                setImagePreview(parsed.imagePreview);
-                setConsultHistory(parsed.consultHistory || []);
-                setCaseId(parsed.caseId);
-                if (parsed.petDetails) {
-                  setSpecies(parsed.petDetails.species);
-                  setSex(parsed.petDetails.sex);
-                  setIsFixed(parsed.petDetails.isFixed);
-                  setBreed(parsed.petDetails.breed);
-                  setIsMixed(parsed.petDetails.isMixed);
-                  setAgeBracket(parsed.petDetails.ageBracket);
-                  setWeightBracket(parsed.petDetails.weightBracket);
-                }
-
-                // Re-apply the live locks from the server
-                setIsAuthLocked(data.needsAuth);
-                setIsPayLocked(data.needsPay);
-                setStep('RESULT');
+                // Determine if this is a genuine lock/unlock return or an organic reload
+                // For MVP, if they land cleanly on / without params, we assume it's a new check and clear it.
+                // The lock overlays handle unlocking instantly without full reloads for standard paywalls.
+                localStorage.removeItem('pet_triage_pending_result');
               } else {
                 // Expired
                 localStorage.removeItem('pet_triage_pending_result');
