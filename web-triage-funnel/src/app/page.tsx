@@ -21,6 +21,8 @@ import { MonitoringCard } from '@/components/MonitoringCard';
 import { AuthWallOverlay } from '@/components/AuthWallOverlay';
 import { PaywallOverlay } from '@/components/PaywallOverlay';
 import { LoginModal } from '@/components/LoginModal';
+import { trackStartTrial, trackLead, trackSecondScan, trackInitiateCheckout, trackPurchase } from '@/lib/meta-pixel';
+import { captureUtmParams, getUtmParams } from '@/lib/utm';
 
 // --- Screen 4: History View ---
 function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewResult: (item: any) => void }) {
@@ -513,13 +515,23 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                 const height = (ymax - ymin) * 100;
                 const width = (xmax - xmin) * 100;
 
+                // Color palette for multiple distinct boxes
+                const colors = [
+                  { border: 'border-red-500', bg: 'bg-red-500', shadow: 'shadow-[0_0_8px_rgba(239,68,68,0.6)]' },
+                  { border: 'border-blue-500', bg: 'bg-blue-500', shadow: 'shadow-[0_0_8px_rgba(59,130,246,0.6)]' },
+                  { border: 'border-amber-500', bg: 'bg-amber-500', shadow: 'shadow-[0_0_8px_rgba(245,158,11,0.6)]' },
+                  { border: 'border-emerald-500', bg: 'bg-emerald-500', shadow: 'shadow-[0_0_8px_rgba(16,185,129,0.6)]' },
+                  { border: 'border-fuchsia-500', bg: 'bg-fuchsia-500', shadow: 'shadow-[0_0_8px_rgba(217,70,239,0.6)]' }
+                ];
+                const theme = colors[i % colors.length];
+
                 return (
                   <div key={i} className="absolute inset-0 pointer-events-none">
                     <div
-                      className="absolute border-4 border-red-600 shadow-[0_0_15px_rgba(220,38,38,0.8)] z-50 rounded-lg"
+                      className={`absolute border-2 ${theme.border} ${theme.shadow} z-50 rounded-lg`}
                       style={{ top: `${top}%`, left: `${left}%`, width: `${width}%`, height: `${height}%` }}
                     >
-                      <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-red-600 text-white text-[10px] font-extrabold px-3 py-1 rounded-full shadow-md whitespace-nowrap uppercase tracking-wider">
+                      <div className={`absolute -top-3 left-2 max-w-[calc(100%+20px)] truncate ${theme.bg} text-white text-[10px] font-extrabold px-2 py-0.5 rounded shadow-sm uppercase tracking-wider`}>
                         {ann.label}
                       </div>
                     </div>
@@ -573,11 +585,13 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
           </div>
 
           {/* Monitoring Card Integration */}
+          {/*
           {!isEmergency && (
             <div className="mb-4">
               <MonitoringCard caseId={caseId} />
             </div>
           )}
+          */}
 
           {/* Citations / References */}
           {result.citations && result.citations.length > 0 && (
@@ -610,7 +624,10 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
       <div className="fixed bottom-0 left-0 right-0 p-4 bg-white/90 backdrop-blur-xl border-t border-slate-200 z-50">
         <Button
           className="w-full h-12 text-lg font-bold rounded-xl bg-slate-900 text-white"
-          onClick={() => window.location.reload()}
+          onClick={() => {
+            window.scrollTo(0, 0);
+            window.location.href = window.location.pathname;
+          }}
         >
           Start New Check
         </Button>
@@ -912,7 +929,7 @@ export default function PanicIntake() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [step]);
 
-  // --- Auto-Fill from URL (Page Load) ---
+  // --- Auto-Fill from URL (Page Load) + UTM Capture ---
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const qSpecies = params.get('species');
@@ -928,6 +945,9 @@ export default function PanicIntake() {
       setSymptoms(`Potential Issue: ${qSymptom} \n\nDetails: ${qDesc}`);
       setIsAutoFilled(true);
     }
+
+    // Capture UTM params from Instagram ad links
+    captureUtmParams();
   }, []); // Run once on mount
 
   const [imageBase64, setImageBase64] = useState<string | null>(null);
@@ -1020,6 +1040,13 @@ export default function PanicIntake() {
         setPendingAssessment(response);
         setStep('QUESTIONS');
 
+        // Meta Pixel: Track scan completion for question-path scans
+        if (trackData.count === 1) {
+          trackStartTrial(species);
+        } else if (trackData.count === 2) {
+          trackSecondScan();
+        }
+
         // Pass lock states to the next step so it flows down to RESULT
         setIsAuthLocked(trackData.needsAuth);
         setIsPayLocked(actuallyNeedsPay);
@@ -1028,6 +1055,18 @@ export default function PanicIntake() {
         setIsAuthLocked(trackData.needsAuth);
         setIsPayLocked(actuallyNeedsPay);
         setStep('RESULT');
+
+        // Meta Pixel: Track scan completion
+        if (trackData.count === 1) {
+          trackStartTrial(species);
+        } else if (trackData.count === 2) {
+          trackSecondScan();
+        }
+
+        // Meta Pixel: Track paywall impression
+        if (actuallyNeedsPay) {
+          trackInitiateCheckout();
+        }
 
         // Background Save: Immediately save case to generate ID for monitoring
         apiClient.saveCase(symptoms, response, {
@@ -1092,6 +1131,11 @@ export default function PanicIntake() {
       setResult(refinedResponse);
       setStep('RESULT');
 
+      // Meta Pixel: Track paywall impression if locked
+      if (isPayLocked) {
+        trackInitiateCheckout();
+      }
+
       // Background Save: Save refined case
       const currentUserId = localStorage.getItem('pet_triage_user_id') || undefined;
       apiClient.saveCase(symptoms, refinedResponse, {
@@ -1146,6 +1190,25 @@ export default function PanicIntake() {
       await supabase.from('waitlist').insert([{ email, source: 'auth_wall' }]);
 
       setIsAuthLocked(false);
+
+      // Meta Pixel: Email capture = qualified Lead event
+      trackLead();
+
+      // Enroll user in email nurture sequence
+      try {
+        await fetch('/api/email/nurture', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            userId: newlyFetchedUserId,
+            email,
+            action: 'schedule',
+            utmParams: getUtmParams()
+          })
+        });
+      } catch (nurErr) {
+        console.warn('Email nurture scheduling failed:', nurErr);
+      }
     } catch (err: any) {
       console.error("Auth Wall error", err);
       alert("Auth Failed: " + err.message);
@@ -1155,6 +1218,10 @@ export default function PanicIntake() {
   };
 
   const handleCheckoutPay = async (type: 'emergency_scan' | 'subscription') => {
+    // Meta Pixel: Client-side Purchase intent (backup — CAPI fires from webhook)
+    const purchaseValue = type === 'subscription' ? 9.99 : 3.99;
+    trackPurchase(purchaseValue, type);
+
     try {
       const { data: { session } } = await supabase.auth.getSession();
 

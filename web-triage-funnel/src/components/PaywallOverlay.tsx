@@ -23,10 +23,10 @@ export function PaywallOverlay({
             {/* Squeeze Header - Outside Card for maximum hierarchy break */}
             <div className="text-center mb-6">
                 <h2 className="text-3xl font-black text-slate-900 drop-shadow-sm mb-2">
-                    Limit Reached
+                    You&apos;ve Used Your 2 Free Scans
                 </h2>
                 <p className="text-slate-700 font-medium">
-                    Unlock your pet's diagnosis now.
+                    Unlock unlimited scans for ongoing peace of mind.
                 </p>
             </div>
 
@@ -46,7 +46,7 @@ export function PaywallOverlay({
                         <span className="text-xl font-black text-white">$9.99<span className="text-xs font-medium text-slate-400">/mo</span></span>
                     </div>
                     <p className="text-xs text-slate-300">
-                        Unlimited daily scans & permanent health history. Cancel anytime.
+                        Unlimited scans, permanent health history, and ongoing monitoring. Cancel anytime. Less than a single vet copay.
                     </p>
 
                     <Button
@@ -70,7 +70,7 @@ export function PaywallOverlay({
                         <span className="text-lg font-black text-slate-800">$3.99</span>
                     </div>
                     <p className="text-[11px] text-slate-500">
-                        One-time access to this specific diagnosis. No recurring fees.
+                        One-time access to this diagnosis. No subscription, no recurring fees.
                     </p>
 
                     <Button

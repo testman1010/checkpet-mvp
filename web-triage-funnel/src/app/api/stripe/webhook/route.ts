@@ -91,6 +91,47 @@ export async function POST(req: NextRequest) {
         } else {
             console.warn("Checkout completed but no client_reference_id found.");
         }
+
+        // --- Meta Conversions API: Server-Side Purchase Event ---
+        // Fire regardless of mode to ensure accurate purchase attribution
+        try {
+            const purchaseValue = session.mode === 'subscription' ? 9.99 : 3.99;
+            const customerEmail = session.customer_details?.email;
+
+            const capiPayload = {
+                event_name: 'Purchase',
+                event_time: Math.floor(Date.now() / 1000),
+                action_source: 'website',
+                event_source_url: 'https://checkpet.vet',
+                user_data: {
+                    email: customerEmail || undefined,
+                },
+                custom_data: {
+                    value: purchaseValue,
+                    currency: 'USD',
+                    content_name: session.mode === 'subscription' ? 'subscription' : 'emergency_scan',
+                },
+            };
+
+            // Use internal API route for CAPI to keep token server-side
+            const baseUrl = process.env.NODE_ENV === 'development'
+                ? 'http://localhost:3000'
+                : process.env.VERCEL_URL
+                    ? `https://${process.env.VERCEL_URL}`
+                    : 'https://checkpet.vet';
+
+            const capiUrl = `${baseUrl}/api/meta-capi`;
+
+            await fetch(capiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(capiPayload),
+            });
+
+            console.log(`[CAPI] Purchase event sent for ${customerEmail || userId}`);
+        } catch (capiErr) {
+            console.warn('[CAPI] Failed to send Purchase event:', capiErr);
+        }
     }
 
     // Handle subscription cancellations/failures if needed

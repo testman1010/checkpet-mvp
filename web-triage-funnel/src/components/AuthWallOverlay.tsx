@@ -33,11 +33,11 @@ export function AuthWallOverlay({
                 </div>
 
                 <h3 className="text-xl font-extrabold text-slate-900 text-center mb-2 leading-tight">
-                    Diagnosis Ready
+                    Your Results Are Ready
                 </h3>
 
                 <p className="text-sm font-medium text-slate-500 text-center mb-6 leading-relaxed">
-                    Your free trial requires an email to unlock your second pet analysis. We'll send a copy of the report right to your inbox.
+                    Enter your email to save your scan history and unlock your second free scan. We&apos;ll send a copy of the report right to your inbox.
                 </p>
 
                 <form onSubmit={handleSubmit} className="space-y-4">
