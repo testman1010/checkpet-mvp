@@ -18,7 +18,7 @@ export const runtime = 'edge';
 export const dynamic = 'force-dynamic';
 
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
-const FROM_EMAIL = 'CheckPet <noreply@checkpet.vet>';
+const FROM_EMAIL = 'CheckPet <noreply@mail.checkpet.vet>';
 
 interface NurtureRequest {
   userId: string;
@@ -33,27 +33,38 @@ async function sendEmail(to: string, subject: string, html: string) {
     return null;
   }
 
-  const res = await fetch('https://api.resend.com/emails', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${RESEND_API_KEY}`,
-    },
-    body: JSON.stringify({
-      from: FROM_EMAIL,
-      to: [to],
-      subject,
-      html,
-    }),
-  });
+  const payload = {
+    from: FROM_EMAIL,
+    to: [to],
+    subject,
+    html,
+  };
 
-  if (!res.ok) {
-    const error = await res.text();
-    console.error('[Nurture] Resend error:', error);
-    return null;
+  console.log(`[Nurture] Sending email to ${to} from ${FROM_EMAIL}`);
+
+  try {
+    const res = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${RESEND_API_KEY}`,
+      },
+      body: JSON.stringify(payload),
+    });
+
+    if (!res.ok) {
+      const errorText = await res.text();
+      console.error('[Nurture] Resend API rejected request. Status:', res.status, 'Error:', errorText);
+      return { error: errorText };
+    }
+
+    const data = await res.json();
+    console.log('[Nurture] Resend success:', data);
+    return data;
+  } catch (fetchErr: any) {
+    console.error('[Nurture] Fetch to Resend failed:', fetchErr);
+    return { error: fetchErr.message };
   }
-
-  return await res.json();
 }
 
 // Email templates
@@ -171,12 +182,15 @@ export async function POST(req: NextRequest) {
     if (body.action === 'send') {
       // Find users due for their next nurture email
       const now = new Date().toISOString();
+      console.log(`[Nurture][Send Action] Triggered at ${now}. Fetching active users...`);
       const { data: dueUsers, error } = await supabase
         .from('email_nurture')
         .select('*')
         .eq('status', 'active')
         .lte('next_send_at', now)
         .limit(50);
+
+      console.log('[Nurture][Send Action] Query result:', { count: dueUsers?.length, error: error?.message });
 
       if (error || !dueUsers) {
         return NextResponse.json({ sent: 0, error: error?.message });
@@ -258,6 +272,8 @@ export async function GET(req: NextRequest) {
     }
 
     let sent = 0;
+    const failures: any[] = [];
+
     for (const user of dueUsers) {
       const template = getEmailTemplate(user.next_email_sequence, user.email);
       if (!template) {
@@ -269,7 +285,7 @@ export async function GET(req: NextRequest) {
       }
 
       const result = await sendEmail(user.email, template.subject, template.html);
-      if (result) {
+      if (result && !result.error) {
         sent++;
         const nextSequence = user.next_email_sequence + 1;
         const daysBetween = nextSequence === 2 ? 4 : 7;
@@ -284,10 +300,12 @@ export async function GET(req: NextRequest) {
             last_sent_at: new Date().toISOString(),
           })
           .eq('user_id', user.user_id);
+      } else if (result?.error) {
+        failures.push({ email: user.email, error: result.error });
       }
     }
 
-    return NextResponse.json({ sent, triggered_by: 'cron' });
+    return NextResponse.json({ sent, triggered_by: 'cron', failures });
   } catch (error: any) {
     console.error('[Nurture][Cron] Error:', error);
     return NextResponse.json({ error: error.message }, { status: 500 });

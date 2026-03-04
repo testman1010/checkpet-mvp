@@ -393,10 +393,12 @@ ${generatePetProfileContext(pet, breedInfo)}
     BIO - INFERENCE PROTOCOL:
     If image provided, infer Breed, Weight, and Confidence.
 
-    *** DYNAMIC CLARIFICATION RULES ***
-    1. Generate exactly 3 "Yes/No" questions.
-    2. STRICTLY FORBIDDEN: "Or" questions (e.g. "Is it big or small?").
-    3. STRICTLY FORBIDDEN: Open-ended questions.
+    *** DYNAMIC CLARIFICATION RULES (CRITICAL) ***
+    1. Generate exactly 3 strictly BOOLEAN (Yes/No) questions. The user MUST be able to answer them with ONLY a simple 'Yes' or 'No'.
+    2. STRICTLY FORBIDDEN: 'Or' questions. 
+       - BAD: "Is the bump firm or squishy?" -> GOOD: "Is the bump firm to the touch?"
+    3. STRICTLY FORBIDDEN: Open-ended questions. 
+       - BAD: "What color is the vomit?" -> GOOD: "Is the vomit yellow or green?"
     4. NAMING: Refer to the animal as "your pet" (or "your dog/cat"), NEVER "Guest Pet".
 
     CRITICAL: Respond ONLY in valid JSON format.

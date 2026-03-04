@@ -502,7 +502,7 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                 alt="Analysis Target"
               />
               {/* Annotations Overlay */}
-              {result.visualAnnotations?.map((ann: any, i: number) => {
+              {result.visualAnnotations?.map((ann: any, i: number, arr: any[]) => {
                 let [ymin, xmin, ymax, xmax] = ann.coordinates;
                 if (ymin > 1 || xmin > 1 || ymax > 1 || xmax > 1) {
                   ymin /= 1000;
@@ -525,13 +525,36 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                 ];
                 const theme = colors[i % colors.length];
 
+                // Simple collision detection for labels to prevent overlap
+                let labelTopOffset = -3; // Default tailwind `-top-3` (approx 0.75rem or 12px)
+                for (let j = 0; j < i; j++) {
+                  let [prevYmin, prevXmin] = arr[j].coordinates;
+                  if (prevYmin > 1 || prevXmin > 1) {
+                    prevYmin /= 1000;
+                    prevXmin /= 1000;
+                  }
+                  const prevTop = prevYmin * 100;
+                  const prevLeft = prevXmin * 100;
+
+                  // If boxes start very close to each other (within 5% top and 15% left), offset vertically
+                  if (Math.abs(top - prevTop) < 5 && Math.abs(left - prevLeft) < 15) {
+                    labelTopOffset -= 6; // Stack the labels higher: -top-9, -top-15 etc.
+                  }
+                }
+
+                // If the box is too close to the very top edge of the image container, push the label inside the box instead
+                const labelYClass = top < 8 ? "top-1" : `top-[${labelTopOffset * 0.25}rem]`;
+
                 return (
                   <div key={i} className="absolute inset-0 pointer-events-none">
                     <div
                       className={`absolute border-2 ${theme.border} ${theme.shadow} z-50 rounded-lg`}
                       style={{ top: `${top}%`, left: `${left}%`, width: `${width}%`, height: `${height}%` }}
                     >
-                      <div className={`absolute -top-3 left-2 max-w-[calc(100%+20px)] truncate ${theme.bg} text-white text-[10px] font-extrabold px-2 py-0.5 rounded shadow-sm uppercase tracking-wider`}>
+                      <div
+                        className={`absolute left-2 ${theme.bg} text-white text-[10px] font-extrabold px-2 py-0.5 rounded shadow-sm whitespace-nowrap uppercase tracking-wider transition-all`}
+                        style={{ top: top < 8 ? '0.25rem' : `${labelTopOffset * 0.25}rem` }}
+                      >
                         {ann.label}
                       </div>
                     </div>
