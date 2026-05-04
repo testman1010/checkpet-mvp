@@ -2,8 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { TriageCTA } from '@/components/check/TriageCTA';
+import { TriageCTA, StickyMobileCTA, UrgencyBanner } from '@/components/check/TriageCTA';
 import { RelatedSymptomsWidget } from '@/components/check/RelatedSymptomsWidget';
+import { PseoEngagementTracker } from '@/components/check/PseoEngagementTracker';
 
 interface SymptomData {
     title: string;
@@ -62,6 +63,15 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
     const isCat = slug.startsWith('cat-');
     const species = isCat ? 'cat' : 'dog';
     const symptomRaw = slug.replace(/^(cat|dog)-/, '').replace(/-/g, ' ');
+
+    // Infer urgency from content keywords for the mid-article banner
+    const contentLower = (data.content_html || '').toLowerCase();
+    const urgency: 'high' | 'moderate' | 'low' =
+        contentLower.includes('life-threatening') || contentLower.includes('emergency') || contentLower.includes('immediately')
+            ? 'high'
+            : contentLower.includes('urgent') || contentLower.includes('vet visit') || contentLower.includes('within 24')
+                ? 'moderate'
+                : 'low';
 
     // Structured Data (MedicalWebPage)
     const schemaData = {
@@ -127,8 +137,8 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                         <h1 className="text-3xl font-extrabold text-gray-900 sm:text-5xl mb-4 leading-tight">
                             {data.title}
                         </h1>
-                        <p className="text-xl text-blue-800 font-medium mb-8">
-                            Unsure if this is serious?
+                        <p className="text-lg text-slate-600 font-medium mb-8">
+                            Find out if your pet needs a vet — free instant assessment.
                         </p>
 
                         {/* --- Contextual Handoff Widget (New) --- */}
@@ -144,6 +154,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                 <main className="py-12 px-4 sm:px-6 lg:px-8 flex-grow">
                     <article className="prose prose-lg prose-blue mx-auto">
                         <div dangerouslySetInnerHTML={{ __html: data.content_html }} />
+
+                        {/* --- Mid-Article Urgency Banner (Concept C — second touchpoint) --- */}
+                        <UrgencyBanner species={species} symptom={symptomRaw} urgency={urgency} />
 
                         {/* --- Reviewer Footer Block --- */}
                         <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 flex items-center space-x-2">
@@ -175,6 +188,11 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
 
                 {/* --- YMYL Compliance Banner (Moved to Bottom) --- */}
 
+                {/* --- Client-Side Engagement Tracking --- */}
+                <PseoEngagementTracker species={species} symptom={symptomRaw} />
+
+                {/* --- Sticky Mobile CTA (appears when scrolled past hero) --- */}
+                <StickyMobileCTA species={species} symptom={symptomRaw} />
 
             </div>
         </>

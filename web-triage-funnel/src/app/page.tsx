@@ -336,15 +336,31 @@ function TriageResult({
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
 function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails, caseId }: any) {
   const [saved, setSaved] = useState(false);
+  const actionTakenRef = useRef(false);
   const posthog = usePostHog();
+  const resultViewedAtRef = useRef<number>(Date.now());
 
   useEffect(() => {
+    resultViewedAtRef.current = Date.now();
     posthog?.capture('result_viewed', {
       urgency_level: result.urgency_level,
       primary_condition: primaryCondition,
       confidence: confidence,
     });
   }, [result]);
+
+  // Track result abandonment — fires on unmount if user didn't save/email
+  useEffect(() => {
+    return () => {
+      if (!actionTakenRef.current) {
+        posthog?.capture('result_abandoned', {
+          urgency_level: result?.urgency_level,
+          primary_condition: primaryCondition,
+          time_on_result_sec: Math.round((Date.now() - resultViewedAtRef.current) / 1000),
+        });
+      }
+    };
+  }, []);
 
   const handleSave = () => {
     try {
@@ -364,6 +380,7 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
       const existing = JSON.parse(localStorage.getItem('pet_triage_history') || '[]');
       localStorage.setItem('pet_triage_history', JSON.stringify([historyItem, ...existing]));
       setSaved(true);
+      actionTakenRef.current = true;
       posthog?.capture('action_save_result', {
         urgency_level: result.urgency_level,
         condition: primaryCondition
@@ -375,6 +392,7 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
   };
 
   const handleShare = async () => {
+    actionTakenRef.current = true;
     posthog?.capture('action_email_vet', {
       species: petDetails?.species
     });
@@ -964,6 +982,14 @@ export default function PanicIntake() {
       // Decode and Format
       setSymptoms(`Potential Issue: ${qSymptom} \n\nDetails: ${qDesc}`);
       setIsAutoFilled(true);
+
+      // PostHog: Track landing from pSEO — connects pseo_cta_clicked → homepage
+      posthog?.capture('homepage_pseo_landing', {
+        species: qSpecies,
+        symptom: qSymptom,
+        description_length: qDesc.length,
+        referrer: document.referrer || 'direct',
+      });
     }
 
     // Capture UTM params from Instagram ad links
@@ -1089,6 +1115,12 @@ export default function PanicIntake() {
       }
     } catch (error) {
       console.error('Analysis failed:', error);
+      posthog?.capture('analysis_failed', {
+        species,
+        symptom_length: symptoms.length,
+        error_message: error instanceof Error ? error.message : 'Unknown error',
+        stage: 'initial',
+      });
       alert('Analysis failed. Please try again.');
     } finally {
       if (step === 'INPUT') setLoading(false);
@@ -1161,6 +1193,12 @@ export default function PanicIntake() {
 
     } catch (error) {
       console.error("Refinement failed:", error);
+      posthog?.capture('analysis_failed', {
+        species,
+        symptom_length: symptoms.length,
+        error_message: error instanceof Error ? error.message : 'Unknown error',
+        stage: 'refinement',
+      });
       // Fallback to preliminary result if refinement crashes, but alert user
       alert("Refinement connection failed. Showing preliminary result.");
       setResult(pendingAssessment);

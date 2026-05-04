@@ -1,7 +1,8 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
+import { usePostHog } from 'posthog-js/react';
 
 export interface Symptom {
     slug: string;
@@ -25,8 +26,56 @@ export interface DirectoryFilterProps {
 export default function DirectoryFilter({ data }: DirectoryFilterProps) {
     const [activeSpecies, setActiveSpecies] = useState<'Dogs' | 'Cats'>('Dogs');
     const [searchQuery, setSearchQuery] = useState('');
+    const posthog = usePostHog();
+    const viewedRef = useRef(false);
+    const searchTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
     const query = searchQuery.toLowerCase();
+
+    // Track directory page view (once)
+    useEffect(() => {
+        if (!viewedRef.current) {
+            viewedRef.current = true;
+            posthog?.capture('directory_viewed', {
+                total_species: data.length,
+                total_symptoms: data.reduce((sum, s) => sum + s.categories.reduce((cs, c) => cs + c.items.length, 0), 0),
+            });
+        }
+    }, [posthog, data]);
+
+    // Track species toggle
+    const handleSpeciesToggle = useCallback((species: 'Dogs' | 'Cats') => {
+        setActiveSpecies(species);
+        posthog?.capture('directory_species_toggled', { species });
+    }, [posthog]);
+
+    // Track search (debounced — fires 800ms after typing stops)
+    const handleSearchChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+        const value = e.target.value;
+        setSearchQuery(value);
+
+        if (searchTimerRef.current) clearTimeout(searchTimerRef.current);
+        if (value.trim().length > 0) {
+            searchTimerRef.current = setTimeout(() => {
+                posthog?.capture('directory_search_used', {
+                    query: value.trim(),
+                    query_length: value.trim().length,
+                    species: activeSpecies,
+                });
+            }, 800);
+        }
+    }, [posthog, activeSpecies]);
+
+    // Track symptom link click
+    const handleSymptomClick = useCallback((slug: string, name: string, category: string) => {
+        posthog?.capture('directory_symptom_clicked', {
+            slug,
+            symptom_name: name,
+            category,
+            species: activeSpecies,
+            had_search_query: searchQuery.length > 0,
+        });
+    }, [posthog, activeSpecies, searchQuery]);
 
     return (
         <div className="min-h-screen bg-white text-black font-sans flex flex-col">
@@ -74,7 +123,7 @@ export default function DirectoryFilter({ data }: DirectoryFilterProps) {
                         <div className="inline-flex rounded-lg border border-gray-300 p-1 bg-gray-50 shadow-sm">
                             <button
                                 aria-pressed={activeSpecies === 'Dogs'}
-                                onClick={() => setActiveSpecies('Dogs')}
+                                onClick={() => handleSpeciesToggle('Dogs')}
                                 className={`px-10 py-3 rounded-md text-sm font-bold transition-all ${activeSpecies === 'Dogs'
                                     ? 'bg-black text-white shadow'
                                     : 'text-gray-500 hover:text-black hover:bg-gray-100'
@@ -84,7 +133,7 @@ export default function DirectoryFilter({ data }: DirectoryFilterProps) {
                             </button>
                             <button
                                 aria-pressed={activeSpecies === 'Cats'}
-                                onClick={() => setActiveSpecies('Cats')}
+                                onClick={() => handleSpeciesToggle('Cats')}
                                 className={`px-10 py-3 rounded-md text-sm font-bold transition-all ${activeSpecies === 'Cats'
                                     ? 'bg-black text-white shadow'
                                     : 'text-gray-500 hover:text-black hover:bg-gray-100'
@@ -102,7 +151,7 @@ export default function DirectoryFilter({ data }: DirectoryFilterProps) {
                             className="w-full pl-12 pr-4 py-4 bg-gray-50 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent transition-all text-lg text-gray-900 placeholder-gray-400 font-medium"
                             placeholder={"Filter specific symptoms, toxins, or behaviors..."}
                             value={searchQuery}
-                            onChange={(e) => setSearchQuery(e.target.value)}
+                            onChange={handleSearchChange}
                             aria-label="Filter directory"
                         />
                         <svg className="absolute left-4 top-4 h-6 w-6 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -149,6 +198,7 @@ export default function DirectoryFilter({ data }: DirectoryFilterProps) {
                                                             <Link
                                                                 href={`/check/${item.slug}`}
                                                                 className="inline-block text-gray-700 font-medium hover:text-black hover:underline decoration-1 underline-offset-4 transition-colors max-w-[75ch]"
+                                                                onClick={() => handleSymptomClick(item.slug, item.name, category.name)}
                                                             >
                                                                 {item.name}
                                                             </Link>
