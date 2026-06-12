@@ -7,7 +7,10 @@ export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
     title: "The Complete Pet Symptom & Health Database | CheckPet",
-    description: "Search our comprehensive directory of pet symptoms, breed-specific traits, and behavioral conditions to find immediate, actionable answers for your dog or cat."
+    description: "Search our comprehensive directory of pet symptoms, breed-specific traits, and behavioral conditions to find immediate, actionable answers for your dog or cat.",
+    alternates: {
+        canonical: '/check',
+    },
 };
 
 const CATEGORY_ORDER = [

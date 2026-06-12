@@ -2,20 +2,41 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import { Loader2, ArrowRight, Plus, Minus } from 'lucide-react';
+import { Loader2, ArrowRight, ShieldCheck } from 'lucide-react';
 import { usePostHog } from 'posthog-js/react';
+
+/* ────────────────────────────────────────────────────────────────────────────
+ *  Shared hook — fetches scan count for social proof (cached in sessionStorage)
+ * ──────────────────────────────────────────────────────────────────────────── */
+function useScanCount(fallback = 75) {
+    const [count, setCount] = useState<number>(fallback);
+    useEffect(() => {
+        const cached = sessionStorage.getItem('checkpet_scan_count');
+        if (cached) { setCount(parseInt(cached, 10)); return; }
+        fetch('/api/stats/scan-count')
+            .then(r => r.json())
+            .then(d => {
+                const n = d.count ?? fallback;
+                setCount(n);
+                sessionStorage.setItem('checkpet_scan_count', String(n));
+            })
+            .catch(() => { /* keep fallback */ });
+    }, [fallback]);
+    return count;
+}
 
 /* ────────────────────────────────────────────────────────────────────────────
  *  Shared navigation helper — builds URL params and pushes to homepage triage
  * ──────────────────────────────────────────────────────────────────────────── */
 function useTriageNav() {
     const router = useRouter();
-    return (species: string, symptom: string, description?: string) => {
+    return (species: string, symptom: string, description?: string, autostart?: boolean) => {
         const params = new URLSearchParams({
             species: species.toLowerCase(),
             symptom,
             description: description || `My ${species} is showing signs of ${symptom}`,
         });
+        if (autostart) params.set('autostart', '1');
         router.push(`/?${params.toString()}`);
     };
 }
@@ -38,8 +59,8 @@ export function TriageCTA({ species, symptom, symptomTitle }: TriageCTAProps) {
     const navigate = useTriageNav();
     const [description, setDescription] = useState('');
     const [loading, setLoading] = useState(false);
-    const [expanded, setExpanded] = useState(false);
     const [hasTyped, setHasTyped] = useState(false);
+    const [hasFocused, setHasFocused] = useState(false);
     const ctaRef = useRef<HTMLDivElement>(null);
     const viewedRef = useRef(false);
 
@@ -84,44 +105,51 @@ export function TriageCTA({ species, symptom, symptomTitle }: TriageCTAProps) {
             has_description: description.length > 0,
             description_length: description.length,
             source: 'hero',
+            autostart: true,
         });
-        navigate(species, symptom, description || undefined);
+        navigate(species, symptom, description || undefined, true);
     };
 
-    const toggleExpanded = () => {
-        const next = !expanded;
-        setExpanded(next);
-        if (next) {
+    const handleFocus = () => {
+        if (!hasFocused) {
+            setHasFocused(true);
             posthog?.capture('pseo_cta_input_focused', { species, symptom });
         }
     };
+
+    const scanCount = useScanCount();
 
     return (
         <div ref={ctaRef} className="max-w-md mx-auto">
             <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-5 sm:p-6 space-y-4">
 
-                {/* Status indicator */}
-                <div className="flex items-center gap-2">
-                    <span className="relative flex h-2 w-2">
-                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75" />
-                        <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500" />
-                    </span>
-                    <span className="text-xs font-medium text-slate-500">Ready to check</span>
-                </div>
-
-                {/* Main message */}
-                <p className="text-[15px] text-slate-800 leading-snug">
-                    Your {speciesLabel.toLowerCase()}&rsquo;s symptom has been noted.
+                {/* Curiosity hook */}
+                <p className="text-lg font-bold text-slate-900 leading-snug">
+                    Could this be serious?
+                </p>
+                <p className="text-sm text-slate-600 leading-relaxed -mt-2">
+                    Find out if <span className="font-semibold text-slate-800">{symptomLabel.toLowerCase()}</span> needs
+                    emergency care — takes 30 seconds.
                 </p>
 
                 {/* Symptom chip */}
                 <div className="flex flex-wrap gap-2">
                     <span className="inline-flex items-center px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 text-sm font-medium">
-                        {symptomLabel}
+                        {speciesLabel} · {symptomLabel}
                     </span>
                 </div>
 
-                {/* Primary action */}
+                {/* Inline symptom input — always visible so the page IS the tool */}
+                <textarea
+                    placeholder={`What are you seeing? e.g. started 2 hours ago, getting worse...`}
+                    className="w-full text-sm p-3 border border-slate-200 rounded-xl bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all placeholder:text-slate-400 resize-none"
+                    value={description}
+                    onChange={handleDescChange}
+                    onFocus={handleFocus}
+                    rows={2}
+                />
+
+                {/* Primary action — starts the analysis immediately on arrival */}
                 <button
                     onClick={handleGo}
                     disabled={loading}
@@ -131,40 +159,17 @@ export function TriageCTA({ species, symptom, symptomTitle }: TriageCTAProps) {
                         <Loader2 className="h-4 w-4 animate-spin" />
                     ) : (
                         <>
-                            Get Assessment
+                            Analyze Symptoms Free
                             <ArrowRight className="w-4 h-4" />
                         </>
                     )}
                 </button>
 
-                {/* Collapsible details */}
-                <button
-                    onClick={toggleExpanded}
-                    className="w-full flex items-center justify-center gap-1.5 text-xs font-medium text-blue-600 hover:text-blue-700 transition-colors py-1"
-                    type="button"
-                >
-                    {expanded ? (
-                        <><Minus className="w-3 h-3" /> Hide details</>
-                    ) : (
-                        <><Plus className="w-3 h-3" /> Add more details</>
-                    )}
-                </button>
-
-                {expanded && (
-                    <textarea
-                        autoFocus
-                        placeholder="e.g. started 2 hours ago, getting worse..."
-                        className="w-full text-sm p-3 border border-slate-200 rounded-xl bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all placeholder:text-slate-300 resize-none"
-                        value={description}
-                        onChange={handleDescChange}
-                        rows={2}
-                    />
-                )}
-
-                {/* Footer */}
-                <p className="text-[11px] text-center text-slate-400">
-                    30 sec · Anonymous
-                </p>
+                {/* Social proof footer */}
+                <div className="flex items-center justify-center gap-1.5 text-[11px] text-slate-400">
+                    <ShieldCheck className="w-3 h-3" />
+                    <span>Free · No signup · {scanCount}+ checks completed</span>
+                </div>
             </div>
         </div>
     );
@@ -226,10 +231,10 @@ export function UrgencyBanner({ species, symptom, urgency = 'moderate' }: Urgenc
         >
             <div className="flex-1 min-w-0">
                 <p className="text-sm font-semibold text-slate-800 leading-snug">
-                    This symptom may need urgent attention
+                    Not sure how serious this is?
                 </p>
                 <p className="text-xs text-slate-500 mt-0.5">
-                    Get a vet-protocol assessment in 30 seconds
+                    Get a free severity check in 30 seconds
                 </p>
             </div>
             <button
@@ -241,7 +246,7 @@ export function UrgencyBanner({ species, symptom, urgency = 'moderate' }: Urgenc
                     <Loader2 className="h-3.5 w-3.5 animate-spin" />
                 ) : (
                     <>
-                        Check
+                        Check severity
                         <ArrowRight className="w-3 h-3" />
                     </>
                 )}
@@ -291,7 +296,7 @@ export function StickyMobileCTA({ species, symptom }: { species: string; symptom
                     <Loader2 className="h-4 w-4 animate-spin" />
                 ) : (
                     <>
-                        Get Assessment
+                        Is this an emergency? Check now
                         <ArrowRight className="w-3.5 h-3.5" />
                     </>
                 )}

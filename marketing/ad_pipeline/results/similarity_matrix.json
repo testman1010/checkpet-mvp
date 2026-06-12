@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "model": "gemini-embedding-2-preview",
+    "dimensions": 3072,
+    "num_videos": 10,
+    "num_props": 6,
+    "timestamp": "2026-03-11T19:02:50"
+  },
+  "results": [
+    {
+      "prop_id": "instant_triage",
+      "prop_label": "Instant Free Triage",
+      "prop_text": "Free AI pet health triage \u2014 get answers in 30 seconds, no sign-up required. Stop doom-scrolling pet forums at midnight. CheckPet gives you veterinary-grade answers instantly.",
+      "matches": [
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4414
+        },
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.4387
+        },
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.4251
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.416
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.3966
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.3939
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.3895
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3729
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3458
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.3372
+        }
+      ]
+    },
+    {
+      "prop_id": "active_monitoring",
+      "prop_label": "Active SMS Monitoring",
+      "prop_text": "We don't just diagnose, we monitor. CheckPet sends you an automated SMS check-in 2 hours after triage to see if your pet is better or worse \u2014 and escalates if needed.",
+      "matches": [
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4291
+        },
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.421
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.4184
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.41
+        },
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.3941
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.3858
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.3757
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3681
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.3448
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3333
+        }
+      ]
+    },
+    {
+      "prop_id": "vet_grade_trust",
+      "prop_label": "Veterinary-Grade Trust",
+      "prop_text": "Answers grounded in the Merck Veterinary Manual, not Reddit threads. Real veterinary science, not internet opinions. CheckPet uses RAG technology to reference trusted protocols.",
+      "matches": [
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.4463
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.4311
+        },
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.431
+        },
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4306
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.4059
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.4029
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.3912
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3695
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3596
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.34
+        }
+      ]
+    },
+    {
+      "prop_id": "late_night_panic",
+      "prop_label": "Late Night Emergency Decision",
+      "prop_text": "It's 11 PM and your dog just ate something weird. Is it an ER trip or can you wait until morning? Know for sure in 30 seconds with CheckPet \u2014 the free pet health triage tool.",
+      "matches": [
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.4714
+        },
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4701
+        },
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.4375
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.4352
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.4351
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.4316
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.4125
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3955
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.3541
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3492
+        }
+      ]
+    },
+    {
+      "prop_id": "onstar_for_pets",
+      "prop_label": "OnStar for Pet Health",
+      "prop_text": "CheckPet is the OnStar for pet health. Not just a symptom checker \u2014 an active guardian that triages emergencies instantly and stays with you to monitor recovery via SMS.",
+      "matches": [
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4332
+        },
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.4229
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.41
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.4022
+        },
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.4016
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.3872
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3799
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.3782
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.3332
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3307
+        }
+      ]
+    },
+    {
+      "prop_id": "save_er_money",
+      "prop_label": "Save on Unnecessary ER Visits",
+      "prop_text": "Save the ER trip for real emergencies. CheckPet is 100% free and tells you whether your pet needs immediate care or if you can safely monitor at home. No more $500 panic visits.",
+      "matches": [
+        {
+          "video": "10_dr_langer_80.6K.mp4",
+          "video_path": "videos/10_dr_langer_80.6K.mp4",
+          "similarity": 0.4634
+        },
+        {
+          "video": "09_meridenanimalhospital_137.3K.mp4",
+          "video_path": "videos/09_meridenanimalhospital_137.3K.mp4",
+          "similarity": 0.4611
+        },
+        {
+          "video": "07_annaschozer_268.4K.mp4",
+          "video_path": "videos/07_annaschozer_268.4K.mp4",
+          "similarity": 0.422
+        },
+        {
+          "video": "04_miamidoghealth_3.8M.mp4",
+          "video_path": "videos/04_miamidoghealth_3.8M.mp4",
+          "similarity": 0.4196
+        },
+        {
+          "video": "02_allstarveterinaryclinic_7.7M.mp4",
+          "video_path": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+          "similarity": 0.4193
+        },
+        {
+          "video": "08_dr_mikewalker_147.7K.mp4",
+          "video_path": "videos/08_dr_mikewalker_147.7K.mp4",
+          "similarity": 0.4052
+        },
+        {
+          "video": "03_dr_hunterfinn_6.3M.mp4",
+          "video_path": "videos/03_dr_hunterfinn_6.3M.mp4",
+          "similarity": 0.4003
+        },
+        {
+          "video": "06_aguyandagolden_560.8K.mp4",
+          "video_path": "videos/06_aguyandagolden_560.8K.mp4",
+          "similarity": 0.3845
+        },
+        {
+          "video": "01_reignstormpit_9.4M.mp4",
+          "video_path": "videos/01_reignstormpit_9.4M.mp4",
+          "similarity": 0.3397
+        },
+        {
+          "video": "05_haleyandthepets_3.2M.mp4",
+          "video_path": "videos/05_haleyandthepets_3.2M.mp4",
+          "similarity": 0.3362
+        }
+      ]
+    }
+  ],
+  "video_paths": {
+    "01_reignstormpit_9.4M.mp4": "videos/01_reignstormpit_9.4M.mp4",
+    "02_allstarveterinaryclinic_7.7M.mp4": "videos/02_allstarveterinaryclinic_7.7M.mp4",
+    "03_dr_hunterfinn_6.3M.mp4": "videos/03_dr_hunterfinn_6.3M.mp4",
+    "04_miamidoghealth_3.8M.mp4": "videos/04_miamidoghealth_3.8M.mp4",
+    "05_haleyandthepets_3.2M.mp4": "videos/05_haleyandthepets_3.2M.mp4",
+    "06_aguyandagolden_560.8K.mp4": "videos/06_aguyandagolden_560.8K.mp4",
+    "07_annaschozer_268.4K.mp4": "videos/07_annaschozer_268.4K.mp4",
+    "08_dr_mikewalker_147.7K.mp4": "videos/08_dr_mikewalker_147.7K.mp4",
+    "09_meridenanimalhospital_137.3K.mp4": "videos/09_meridenanimalhospital_137.3K.mp4",
+    "10_dr_langer_80.6K.mp4": "videos/10_dr_langer_80.6K.mp4"
+  }
+}

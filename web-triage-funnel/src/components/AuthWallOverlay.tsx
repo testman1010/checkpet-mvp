@@ -37,7 +37,7 @@ export function AuthWallOverlay({
                 </h3>
 
                 <p className="text-sm font-medium text-slate-500 text-center mb-6 leading-relaxed">
-                    Enter your email to save your scan history and unlock your second free scan. We&apos;ll send a copy of the report right to your inbox.
+                    Enter your email to save your scan history and keep using free scans. We&apos;ll send a copy of the report right to your inbox.
                 </p>
 
                 <form onSubmit={handleSubmit} className="space-y-4">

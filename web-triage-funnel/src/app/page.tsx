@@ -146,6 +146,7 @@ function TriageResult({
   caseId,
   isAuthLocked = false,
   isPayLocked = false,
+  source = 'live',
   onUnlockAuth,
   onCheckoutPay,
   onLogin
@@ -153,6 +154,7 @@ function TriageResult({
   result: Assessment,
   imagePreview: string | null,
   consultHistory?: { question: string, answer: string }[],
+  source?: 'live' | 'history',
   petDetails?: any,
   caseId: string | null,
   isAuthLocked?: boolean;
@@ -163,6 +165,15 @@ function TriageResult({
 }) {
   const isEmergency = result.urgency_level === 'CRITICAL' || result.urgency_level === 'URGENT';
   const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
+  const wallPosthog = usePostHog();
+
+  // PostHog: wall impressions — without these, wall conversion is unmeasurable
+  useEffect(() => {
+    if (isAuthLocked) wallPosthog?.capture('auth_wall_shown', { urgency_level: result.urgency_level });
+  }, [isAuthLocked]);
+  useEffect(() => {
+    if (isPayLocked) wallPosthog?.capture('paywall_shown', { urgency_level: result.urgency_level });
+  }, [isPayLocked]);
   // Confidence: Handle 0-1 (decimal) or 0-100 (percentage)
   const rawProb = result.causes?.[0]?.probability || 0;
   const confidence = rawProb > 1 ? Math.round(rawProb) : Math.round(rawProb * 100);
@@ -291,7 +302,8 @@ function TriageResult({
           imagePreview={imagePreview}
           consultHistory={consultHistory}
           isEmergency={true}
-
+          isLocked={false}
+          source={source}
           petDetails={petDetails}
           caseId={caseId}
         />
@@ -325,6 +337,8 @@ function TriageResult({
           imagePreview={imagePreview}
           consultHistory={consultHistory}
           isEmergency={false}
+          isLocked={isAuthLocked || isPayLocked}
+          source={source}
           petDetails={petDetails}
           caseId={caseId}
         />
@@ -334,7 +348,7 @@ function TriageResult({
 }
 
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
-function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, petDetails, caseId }: any) {
+function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, isLocked, source, petDetails, caseId }: any) {
   const [saved, setSaved] = useState(false);
   const actionTakenRef = useRef(false);
   const posthog = usePostHog();
@@ -342,10 +356,15 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
 
   useEffect(() => {
     resultViewedAtRef.current = Date.now();
+    // is_locked: result rendered but blurred behind a wall (user can't read it).
+    // source: 'history' = re-opening a saved result, not a fresh analysis.
+    // Filter to is_locked=false AND source='live' to count real result views.
     posthog?.capture('result_viewed', {
       urgency_level: result.urgency_level,
       primary_condition: primaryCondition,
       confidence: confidence,
+      is_locked: !!isLocked,
+      source: source || 'live',
     });
   }, [result]);
 
@@ -778,6 +797,9 @@ export default function PanicIntake() {
   const [symptoms, setSymptoms] = useState('');
   const [caseId, setCaseId] = useState<string | null>(null);
   const [isAutoFilled, setIsAutoFilled] = useState(false);
+  const [autostartPending, setAutostartPending] = useState(false);
+  const autostartFiredRef = useRef(false);
+  const [resultSource, setResultSource] = useState<'live' | 'history'>('live');
   // State for History View
   const [showHistory, setShowHistory] = useState(false);
 
@@ -790,8 +812,11 @@ export default function PanicIntake() {
   const [isPayLocked, setIsPayLocked] = useState(false);
   const [showLogin, setShowLogin] = useState(false);
   const [userEmail, setUserEmail] = useState<string | null>(null);
+  const [petDetailsExpanded, setPetDetailsExpanded] = useState(true);
+  const [socialProofCount, setSocialProofCount] = useState(75);
 
   const viewHistoryItem = (savedResult: Assessment) => {
+    setResultSource('history');
     setResult(savedResult);
     setShowHistory(false);
     setStep('RESULT');
@@ -828,6 +853,8 @@ export default function PanicIntake() {
 
         if (session?.user?.email) {
           setUserEmail(session.user.email);
+          // PostHog: tie this device to the known user so repeat usage is measurable
+          posthog?.identify(session.user.id, { email: session.user.email });
         }
 
         const res = await fetch('/api/tracking', {
@@ -852,6 +879,9 @@ export default function PanicIntake() {
               // Mark active locally to prevent flashing before the webhook arrives
               data.paymentStatus = 'active';
               data.needsPay = false;
+
+              // PostHog: revenue event — previously only visible in Meta Pixel
+              posthog?.capture('purchase_verified', { session_id: sessionId });
 
               // UX: Restore pending result if it exists
               const savedState = localStorage.getItem('pet_triage_pending_result');
@@ -982,18 +1012,41 @@ export default function PanicIntake() {
       // Decode and Format
       setSymptoms(`Potential Issue: ${qSymptom} \n\nDetails: ${qDesc}`);
       setIsAutoFilled(true);
+      setPetDetailsExpanded(false); // Collapse pet details for pSEO visitors
+
+      // pSEO handoff: user already clicked "Analyze" on the symptom page —
+      // run the analysis immediately instead of asking for a second click.
+      if (params.get('autostart') === '1') {
+        setAutostartPending(true);
+      }
 
       // PostHog: Track landing from pSEO — connects pseo_cta_clicked → homepage
       posthog?.capture('homepage_pseo_landing', {
         species: qSpecies,
         symptom: qSymptom,
         description_length: qDesc.length,
+        autostart: params.get('autostart') === '1',
         referrer: document.referrer || 'direct',
       });
     }
 
     // Capture UTM params from Instagram ad links
     captureUtmParams();
+
+    // Fetch social proof scan count
+    const cachedCount = sessionStorage.getItem('checkpet_scan_count');
+    if (cachedCount) {
+      setSocialProofCount(parseInt(cachedCount, 10));
+    } else {
+      fetch('/api/stats/scan-count')
+        .then(r => r.json())
+        .then(d => {
+          const n = d.count ?? 75;
+          setSocialProofCount(n);
+          sessionStorage.setItem('checkpet_scan_count', String(n));
+        })
+        .catch(() => { /* keep fallback */ });
+    }
   }, []); // Run once on mount
 
   const [imageBase64, setImageBase64] = useState<string | null>(null);
@@ -1062,20 +1115,30 @@ export default function PanicIntake() {
         minDelay
       ]);
 
-      // Handle Tracking Increment
+      // Handle Tracking Increment — FAIL-OPEN. The analysis already succeeded;
+      // a metering hiccup must never destroy the result the user is waiting for.
       const { data: { session } } = await supabase.auth.getSession();
       const userId = session?.user?.id || localStorage.getItem('pet_triage_user_id');
-      const trackRes = await fetch('/api/tracking', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ deviceId, userId, action: 'increment' })
-      });
-
-      if (!trackRes.ok) {
-        throw new Error("Tracking service is temporarily unavailable. Please try again.");
+      let trackData: { count: number; needsAuth: boolean; needsPay: boolean } = {
+        count: scanCount + 1,
+        needsAuth: false,
+        needsPay: false,
+      };
+      try {
+        const trackRes = await fetch('/api/tracking', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ deviceId, userId, action: 'increment' })
+        });
+        if (trackRes.ok) {
+          trackData = await trackRes.json();
+        } else {
+          posthog?.capture('tracking_failed', { status: trackRes.status, stage: 'increment' });
+        }
+      } catch (trackErr) {
+        console.error('Tracking failed (fail-open):', trackErr);
+        posthog?.capture('tracking_failed', { stage: 'increment', error: trackErr instanceof Error ? trackErr.message : 'unknown' });
       }
-
-      const trackData = await trackRes.json();
 
       setScanCount(trackData.count);
       // Wait, if url params had success we assume pay is false for now
@@ -1091,9 +1154,21 @@ export default function PanicIntake() {
         setIsPayLocked(actuallyNeedsPay);
       } else {
         setResult(response);
+        setResultSource('live');
         setIsAuthLocked(trackData.needsAuth);
         setIsPayLocked(actuallyNeedsPay);
         setStep('RESULT');
+
+        // PostHog: the North Star event — a completed analysis
+        posthog?.capture('analysis_completed', {
+          species,
+          urgency_level: response.urgency_level,
+          had_questions: false,
+          has_photo: !!imageBase64,
+          scan_number: trackData.count,
+          is_auth_locked: trackData.needsAuth,
+          is_pay_locked: actuallyNeedsPay,
+        });
 
         // Meta Pixel: Track scan completion
         if (trackData.count === 1) {
@@ -1126,6 +1201,24 @@ export default function PanicIntake() {
       if (step === 'INPUT') setLoading(false);
     }
   };
+
+  // --- pSEO Autostart: fire the analysis once tracking + identity are ready ---
+  useEffect(() => {
+    if (
+      autostartPending &&
+      !autostartFiredRef.current &&
+      isTrackingInitialized &&
+      deviceId &&
+      symptoms.trim().length > 0 &&
+      step === 'INPUT' &&
+      !loading
+    ) {
+      autostartFiredRef.current = true;
+      setAutostartPending(false);
+      handleAnalyze();
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autostartPending, isTrackingInitialized, deviceId, symptoms, step, loading]);
 
   const handleQuestionsComplete = async (answers: Record<string, string>) => {
     if (!pendingAssessment) return;
@@ -1170,7 +1263,19 @@ export default function PanicIntake() {
       ]);
 
       setResult(refinedResponse);
+      setResultSource('live');
       setStep('RESULT');
+
+      // PostHog: the North Star event — a completed analysis (refined path)
+      posthog?.capture('analysis_completed', {
+        species,
+        urgency_level: refinedResponse.urgency_level,
+        had_questions: true,
+        has_photo: !!imageBase64,
+        scan_number: scanCount,
+        is_auth_locked: isAuthLocked,
+        is_pay_locked: isPayLocked,
+      });
 
       // Meta Pixel: Track scan completion
       if (scanCount === 1) {
@@ -1228,6 +1333,10 @@ export default function PanicIntake() {
         localStorage.setItem('pet_triage_user_id', newlyFetchedUserId);
         console.log("AUTH UNLOCK SAVED TO LOCAL STORAGE:", localStorage.getItem('pet_triage_user_id'));
 
+        // PostHog: link the anonymous device history to the new identity
+        posthog?.identify(newlyFetchedUserId, { email });
+        posthog?.capture('auth_wall_unlocked', { scan_count: scanCount });
+
         // Merge anonymous device scans into the user's permanent profile
         await fetch('/api/tracking', {
           method: 'POST',
@@ -1275,6 +1384,8 @@ export default function PanicIntake() {
   const handleCheckoutPay = async (type: 'emergency_scan' | 'subscription') => {
     // Meta Pixel: Track explicit checkout initiation (button click)
     trackInitiateCheckout(type);
+    // PostHog: monetization funnel — previously only visible in Meta Pixel
+    posthog?.capture('checkout_initiated', { product_type: type, scan_count: scanCount });
 
     try {
       const { data: { session } } = await supabase.auth.getSession();
@@ -1520,6 +1631,7 @@ export default function PanicIntake() {
 
 
           {/* SECONDARY: Pet Identity Input */}
+          {petDetailsExpanded ? (
           <div className="w-full max-w-md bg-slate-50 p-5 rounded-3xl border border-slate-200 shadow-sm mb-32 space-y-6 opacity-90 hover:opacity-100 transition-opacity">
             <div className="flex items-center gap-2 border-b border-slate-200 pb-2 mb-4">
               <h2 className="text-xs font-bold text-slate-400 uppercase tracking-wide">2. Pet Details</h2>
@@ -1693,6 +1805,43 @@ export default function PanicIntake() {
               </div>
             </div>
           </div>
+          ) : (
+          /* Collapsed pet details + inline analyze button for pSEO visitors */
+          <div className="w-full max-w-md space-y-3 mb-32">
+            <button
+              onClick={() => setPetDetailsExpanded(true)}
+              className="w-full bg-slate-50 p-4 rounded-2xl border border-slate-200 shadow-sm flex items-center justify-between hover:bg-slate-100 transition-colors active:scale-[0.99]"
+            >
+              <div className="flex items-center gap-2">
+                <span className="text-base">{species === 'dog' ? '🐶' : '🐱'}</span>
+                <span className="text-sm text-slate-600 font-medium">
+                  {species === 'dog' ? 'Dog' : 'Cat'} · {ageBracket === 'BABY' ? 'Baby' : ageBracket === 'SENIOR' ? 'Senior' : 'Adult'} · {weightBracket === 'TOY' ? 'Tiny' : weightBracket === 'SMALL' ? 'Medium' : 'Large'}
+                </span>
+              </div>
+              <span className="text-xs text-blue-600 font-semibold">Edit ›</span>
+            </button>
+
+            {/* Inline analyze button — visible without scrolling for pSEO visitors */}
+            <Button
+              size="lg"
+              className="w-full h-14 rounded-xl shadow-xl transition-all bg-slate-900 hover:bg-black text-white active:scale-95"
+              onClick={handleAnalyze}
+              disabled={loading || !symptoms.trim()}
+            >
+              {loading ? (
+                <div className="flex items-center gap-2">
+                  <Loader2 className="h-5 w-5 animate-spin" />
+                  ANALYZING...
+                </div>
+              ) : (
+                <span className="font-bold text-lg">Analyze Pet Symptom</span>
+              )}
+            </Button>
+            <p className="text-[10px] font-bold text-slate-500 text-center uppercase tracking-widest">
+              Free · Trusted by {socialProofCount}+ pet owners
+            </p>
+          </div>
+          )}
 
           {/* Common Emergencies Widget (SEO / Crawl Hub) */}
           <CommonEmergenciesWidget />
@@ -1731,7 +1880,7 @@ export default function PanicIntake() {
               {/* Microscopic Helper Text for State Zero */}
               {(isTrackingInitialized === true && scanCount === 0 && loading === false) && (
                 <p className="text-[10px] font-bold text-slate-500 text-center uppercase tracking-widest mt-2 mb-2">
-                  100% Free First Scan
+                  Free · Trusted by {socialProofCount}+ pet owners
                 </p>
               )}
 
@@ -1776,6 +1925,7 @@ export default function PanicIntake() {
             caseId={caseId}
             isAuthLocked={isAuthLocked}
             isPayLocked={isPayLocked}
+            source={resultSource}
             onUnlockAuth={handleUnlockAuth}
             onCheckoutPay={handleCheckoutPay}
             onLogin={() => setShowLogin(true)}

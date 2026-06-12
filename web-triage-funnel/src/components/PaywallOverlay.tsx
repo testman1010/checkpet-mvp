@@ -23,7 +23,7 @@ export function PaywallOverlay({
             {/* Squeeze Header - Outside Card for maximum hierarchy break */}
             <div className="text-center mb-6">
                 <h2 className="text-3xl font-black text-slate-900 drop-shadow-sm mb-2">
-                    You&apos;ve Used Your 2 Free Scans
+                    You&apos;ve Used Your Free Scans
                 </h2>
                 <p className="text-slate-700 font-medium">
                     Unlock unlimited scans for ongoing peace of mind.

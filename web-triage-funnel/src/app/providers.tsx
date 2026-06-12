@@ -14,7 +14,10 @@ export function CSPostHogProvider({ children }: { children: React.ReactNode }) {
                 capture_pageview: true,
                 loaded: (posthog_instance) => {
                     const urlParams = new URLSearchParams(window.location.search);
-                    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || urlParams.get('ph_optout') === 'true') {
+                    const isAutomated = typeof navigator !== 'undefined' && navigator.webdriver === true;
+                    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || urlParams.get('ph_optout') === 'true' || isAutomated) {
+                        // isAutomated: headless/automated browsers (Puppeteer, Selenium)
+                        // were polluting analytics with thousands of fake pageviews
                         posthog_instance.opt_out_capturing();
                     }
                 },

@@ -1,0 +1,43 @@
+{
+  "prop_label": "Late Night Emergency Decision",
+  "reference_video": "10_dr_langer_80.6K.mp4",
+  "similarity_score": 0.4714,
+  "scenes": [
+    {
+      "section": "hook",
+      "visual": "Close-up of a worried pet owner pacing, illuminated by phone screen.",
+      "text_overlay": "11 PM. Is this an ER trip?? \ud83d\ude29",
+      "timing": "0-3 sec"
+    },
+    {
+      "section": "body_scene_1",
+      "visual": "*   Transition to a dog looking distressed, maybe pawing at its mouth.",
+      "text_overlay": "*   \"\ud83e\udd14 ER or wait 'til morning?",
+      "timing": "3-6 sec"
+    },
+    {
+      "section": "body_scene_2",
+      "visual": "*   Quick cut to a cat vomiting.",
+      "text_overlay": "*   \"\ud83e\udd2f PANIC!",
+      "timing": "6-9 sec"
+    },
+    {
+      "section": "body_scene_3",
+      "visual": "*   Phone screen showing CheckPet's interface, AI loading animation.",
+      "text_overlay": "*   \"\u2705 FREE AI Triage",
+      "timing": "9-12 sec"
+    },
+    {
+      "section": "body_scene_4",
+      "visual": "*   Phone screen displays triage result: \"Low risk. Monitor at home.\" Owner visibly relaxes.",
+      "text_overlay": "*   \"\ud83d\ude0c Relief!",
+      "timing": "12-15 sec"
+    },
+    {
+      "section": "cta",
+      "visual": "CheckPet logo prominently displayed.",
+      "text_overlay": "\ud83d\udc49 CheckPet.vet \ud83d\udc3e FREE",
+      "timing": "last 3-5 sec"
+    }
+  ]
+}

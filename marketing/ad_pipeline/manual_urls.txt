@@ -1,0 +1,78 @@
+# Top Viral Pet Health TikTok Videos
+# Discovered via browser search — sorted roughly by engagement
+# Run: python discover_videos.py --from-file manual_urls.txt --top-n 10
+
+# @thejunglevet — 22.6M Likes — Viral Pet Health
+https://www.tiktok.com/@thejunglevet/video/7371637452869553451
+
+# @haleyandthepets — 487.4K Likes — Caring for Sick Dogs
+https://www.tiktok.com/@haleyandthepets/video/7598260406364179725
+
+# @doctorindya — 2.6M Views — Pet Emergency
+https://www.tiktok.com/@doctorindya/video/7587987182212615437
+
+# @aguyandagolden — 63.9K Likes — Viral Dog Health
+https://www.tiktok.com/@aguyandagolden/video/7521745366664875295
+
+# @dr.mikewalker — 16.1K Likes — Vet Advice
+https://www.tiktok.com/@dr.mikewalker/video/7505592362849111342
+
+# @veterinarysecrets — Viral — 5 Signs of Dog in Shock
+https://www.tiktok.com/@veterinarysecrets/video/7331186088704298246
+
+# @thepetmedic — Viral — Pet First Aid
+https://www.tiktok.com/@thepetmedic/video/7354362769547889966
+
+# @toxic_vet — Viral — Dog Ate Chocolate
+https://www.tiktok.com/@toxic_vet/video/7183670987140025642
+
+# @bettervetusa — Trending — Dog Vomiting Emergency
+https://www.tiktok.com/@bettervetusa/video/7337390564599647534
+
+# @dr.tannetje.crocker — 1347 Likes — Urgent Care
+https://www.tiktok.com/@dr.tannetje.crocker/video/7196625895736626475
+
+# @slvs_ec — Viral — Signs for Immediate Care
+https://www.tiktok.com/@slvs_ec/video/7600070137806441759
+
+# @thejunglevet — Viral — Picky Dog Tips
+https://www.tiktok.com/@thejunglevet/video/7429412143956512046
+
+# @dr.hunterfinn — Viral — Vet Tips
+https://www.tiktok.com/@dr.hunterfinn/video/6873254394930957573
+
+# @modernvetdubai — Trending — Pet Seizures
+https://www.tiktok.com/@modernvetdubai/video/7559505708820040972
+
+# @dr.langer — Viral — Pet Health Tips
+https://www.tiktok.com/@dr.langer/video/7498843968768085279
+
+# @montgomeryvethospital — High — Emergency Pet Care
+https://www.tiktok.com/@montgomeryvethospital/video/7477567506140499246
+
+# @miamidoghealth — High — Essential Dog Health Tips
+https://www.tiktok.com/@miamidoghealth/video/7603123952503754014
+
+# @reignstormpit — Viral — Puppy Morning Routine
+https://www.tiktok.com/@reignstormpit/video/7572262310283185463
+
+# @vethernarian — 589 Likes — Emergency Calls
+https://www.tiktok.com/@vethernarian/video/7603908657486613773
+
+# @meridenanimalhospital — Trending — Vet Emergency
+https://www.tiktok.com/@meridenanimalhospital/video/7397834416040578334
+
+# @annaschozer — Viral — Puppy Health
+https://www.tiktok.com/@annaschozer/video/7602826153241447711
+
+# @nativepet — High — Pet Nutrition
+https://www.tiktok.com/@nativepet/video/7553000984650272013
+
+# @thebkpets — 1978 Likes — Dog Health
+https://www.tiktok.com/@thebkpets/video/7521492983410167053
+
+# @allstarveterinaryclinic — High — Vet Clinic Life
+https://www.tiktok.com/@allstarveterinaryclinic/video/7546240881884433695
+
+# @thebkpets — 121 Likes — Pet Vital Signs
+https://www.tiktok.com/@thebkpets/video/7527703311365967159

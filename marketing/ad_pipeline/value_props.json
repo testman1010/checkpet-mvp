@@ -1,0 +1,32 @@
+[
+  {
+    "id": "instant_triage",
+    "label": "Instant Free Triage",
+    "text": "Free AI pet health triage — get answers in 30 seconds, no sign-up required. Stop doom-scrolling pet forums at midnight. CheckPet gives you veterinary-grade answers instantly."
+  },
+  {
+    "id": "active_monitoring",
+    "label": "Active SMS Monitoring",
+    "text": "We don't just diagnose, we monitor. CheckPet sends you an automated SMS check-in 2 hours after triage to see if your pet is better or worse — and escalates if needed."
+  },
+  {
+    "id": "vet_grade_trust",
+    "label": "Veterinary-Grade Trust",
+    "text": "Answers grounded in the Merck Veterinary Manual, not Reddit threads. Real veterinary science, not internet opinions. CheckPet uses RAG technology to reference trusted protocols."
+  },
+  {
+    "id": "late_night_panic",
+    "label": "Late Night Emergency Decision",
+    "text": "It's 11 PM and your dog just ate something weird. Is it an ER trip or can you wait until morning? Know for sure in 30 seconds with CheckPet — the free pet health triage tool."
+  },
+  {
+    "id": "onstar_for_pets",
+    "label": "OnStar for Pet Health",
+    "text": "CheckPet is the OnStar for pet health. Not just a symptom checker — an active guardian that triages emergencies instantly and stays with you to monitor recovery via SMS."
+  },
+  {
+    "id": "save_er_money",
+    "label": "Save on Unnecessary ER Visits",
+    "text": "Save the ER trip for real emergencies. CheckPet is 100% free and tells you whether your pet needs immediate care or if you can safely monitor at home. No more $500 panic visits."
+  }
+]

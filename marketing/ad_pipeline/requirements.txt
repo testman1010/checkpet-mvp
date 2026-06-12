@@ -1,0 +1,8 @@
+google-genai>=1.0.0
+numpy
+python-dotenv
+rich
+yt-dlp
+playwright
+Pillow
+

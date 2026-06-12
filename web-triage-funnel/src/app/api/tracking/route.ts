@@ -128,8 +128,36 @@ export async function POST(req: NextRequest) {
             }
         }
 
-        const needsAuth = currentCount >= 2 && !userId;
-        const needsPay = currentCount >= 3 && paymentStatus !== 'active';
+        // Wall thresholds — env-configurable so they can be tuned without a deploy.
+        // Loosened from auth@2/pay@3: at MVP volume the early email wall was
+        // deleting the scarcest PMF signal (organic repeat usage) before it existed.
+        const AUTH_AT = parseInt(process.env.SCANS_BEFORE_AUTH || '5', 10);
+        const PAY_AT = parseInt(process.env.SCANS_BEFORE_PAY || '8', 10);
+        const needsAuth = currentCount >= AUTH_AT && !userId;
+        const needsPay = currentCount >= PAY_AT && paymentStatus !== 'active';
+
+        // Server-side PostHog capture: client events are lost to adblockers and
+        // dead tabs; this makes the scan count trustworthy. Fire-and-forget.
+        if (action === 'increment' && process.env.NEXT_PUBLIC_POSTHOG_KEY) {
+            try {
+                await fetch(`${process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com'}/capture/`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        api_key: process.env.NEXT_PUBLIC_POSTHOG_KEY,
+                        event: 'scan_recorded',
+                        distinct_id: userId || deviceId,
+                        properties: {
+                            scan_number: currentCount,
+                            is_authenticated: !!userId,
+                            source: 'server',
+                        },
+                    }),
+                });
+            } catch (phErr) {
+                console.error('PostHog server capture failed (non-fatal):', phErr);
+            }
+        }
 
         return NextResponse.json({
             count: currentCount,

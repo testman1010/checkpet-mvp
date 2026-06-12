@@ -18,9 +18,9 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://checkpet.vet'),
   title: "CheckPet - AI Pet Symptom Analysis",
   description: "Immediate AI symptom analysis for your pet. No sign-up required.",
-  alternates: {
-    canonical: '/',
-  },
+  // NOTE: Do not set a site-wide canonical here. A root-layout canonical of '/'
+  // is inherited by every page that doesn't define its own, telling Google
+  // those pages are duplicates of the homepage (de-indexing them).
   // itunes: ... (keep existing)
 };
 
