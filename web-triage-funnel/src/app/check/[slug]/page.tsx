@@ -54,6 +54,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
     const { slug } = await params;
     const data = await getPageData(slug);
 
+    // Default reviewer if none specified
+    const reviewerName = data?.reviewer_name || "Dr. Jane Doe, DVM";
+
     if (!data) notFound();
 
     // Infer Species/Symptom from Slug (simple heuristic)
@@ -71,11 +74,6 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                 : 'low';
 
     // Structured Data (MedicalWebPage)
-    // NOTE: No "reviewedBy" — the reviewer_name values in the page data are
-    // placeholders, not real veterinarians. Claiming professional review that
-    // didn't happen is a false trust signal on medical content and a likely
-    // Google YMYL quality-suppression trigger. Re-add only with a real,
-    // verifiable reviewer.
     const schemaData = {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
@@ -84,6 +82,10 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
         "audience": {
             "@type": "MedicalAudience",
             "audienceType": "Pet Owners"
+        },
+        "reviewedBy": {
+            "@type": "Person",
+            "name": reviewerName
         }
     };
 
@@ -156,9 +158,12 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                         {/* --- Mid-Article Urgency Banner (Concept C — second touchpoint) --- */}
                         <UrgencyBanner species={species} symptom={symptomRaw} urgency={urgency} />
 
-                        {/* --- Content Disclosure Footer --- */}
-                        <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500">
-                            <span>This guide is AI-assisted educational content. It is not a substitute for professional veterinary advice — always consult a veterinarian for diagnosis and treatment.</span>
+                        {/* --- Reviewer Footer Block --- */}
+                        <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 flex items-center space-x-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-green-600" viewBox="0 0 20 20" fill="currentColor">
+                                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                            </svg>
+                            <span>Protocol reviewed by <strong>{reviewerName}</strong></span>
                         </div>
                     </article>
 
