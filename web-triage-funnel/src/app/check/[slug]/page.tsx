@@ -10,8 +10,8 @@ interface SymptomData {
     title: string;
     meta_desc: string;
     content_html: string;
-    reviewer_name?: string;
     faqs?: { question: string; answer: string }[];
+    __lastModified?: string;
 }
 
 // 1. Generate Static Params (replaces getStaticPaths)
@@ -29,7 +29,11 @@ async function getPageData(slug: string): Promise<SymptomData | null> {
     const filePath = path.join(process.cwd(), 'src/data/pages', `${slug}.json`);
     try {
         const fileContent = fs.readFileSync(filePath, 'utf-8');
-        return JSON.parse(fileContent);
+        const parsed = JSON.parse(fileContent) as SymptomData;
+        // Real "last updated" signal from the content file's modified time.
+        const stat = fs.statSync(filePath);
+        parsed.__lastModified = stat.mtime.toISOString();
+        return parsed;
     } catch {
         return null;
     }
@@ -54,10 +58,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
     const { slug } = await params;
     const data = await getPageData(slug);
 
-    // Default reviewer if none specified
-    const reviewerName = data?.reviewer_name || "Dr. Jane Doe, DVM";
-
     if (!data) notFound();
+
+    // Honest "last updated" from the content file's modified time (no fabricated review date).
+    const dateModified = data.__lastModified || new Date().toISOString();
+    const lastUpdatedLabel = new Date(dateModified).toLocaleDateString('en-US', {
+        year: 'numeric', month: 'long', day: 'numeric',
+    });
 
     // Infer Species/Symptom from Slug (simple heuristic)
     const isCat = slug.startsWith('cat-');
@@ -73,19 +80,42 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                 ? 'moderate'
                 : 'low';
 
-    // Structured Data (MedicalWebPage)
+    // Structured Data (MedicalWebPage) — honest, organization-level authorship.
+    // No fabricated human reviewer; content is compiled by the CheckPet Editorial Team
+    // and aligned with the Merck Veterinary Manual (cited below).
     const schemaData = {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": data.title,
         "description": data.meta_desc,
+        "inLanguage": "en",
+        "dateModified": dateModified,
         "audience": {
             "@type": "MedicalAudience",
             "audienceType": "Pet Owners"
         },
-        "reviewedBy": {
-            "@type": "Person",
-            "name": reviewerName
+        "about": {
+            "@type": "MedicalCondition",
+            "name": symptomRaw
+        },
+        "citation": {
+            "@type": "CreativeWork",
+            "name": "Merck Veterinary Manual",
+            "url": "https://www.merckvetmanual.com/"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "CheckPet Editorial Team",
+            "url": "https://checkpet.vet"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "CheckPet",
+            "url": "https://checkpet.vet",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://checkpet.vet/checkpet-logo.png"
+            }
         }
     };
 
@@ -158,12 +188,20 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                         {/* --- Mid-Article Urgency Banner (Concept C — second touchpoint) --- */}
                         <UrgencyBanner species={species} symptom={symptomRaw} urgency={urgency} />
 
-                        {/* --- Reviewer Footer Block --- */}
-                        <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500 flex items-center space-x-2">
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-green-600" viewBox="0 0 20 20" fill="currentColor">
-                                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                            </svg>
-                            <span>Protocol reviewed by <strong>{reviewerName}</strong></span>
+                        {/* --- Editorial Attribution + Medical Disclaimer (honest E-E-A-T) --- */}
+                        <div className="mt-12 pt-6 border-t border-gray-200 text-sm text-gray-500">
+                            <div className="flex items-center space-x-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-green-600" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                                </svg>
+                                <span>
+                                    Compiled by the <strong>CheckPet Editorial Team</strong>, aligned with the{' '}
+                                    <a href="https://www.merckvetmanual.com/" target="_blank" rel="nofollow noopener" className="underline hover:text-gray-700">Merck Veterinary Manual</a>. Last updated {lastUpdatedLabel}.
+                                </span>
+                            </div>
+                            <p className="mt-3 text-xs text-gray-400 leading-relaxed">
+                                This article is for general informational purposes only and is not a substitute for professional veterinary advice, diagnosis, or treatment. If you think your pet may be unwell, contact a licensed veterinarian.
+                            </p>
                         </div>
                     </article>
 

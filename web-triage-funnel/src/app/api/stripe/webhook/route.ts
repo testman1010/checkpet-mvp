@@ -132,6 +132,45 @@ export async function POST(req: NextRequest) {
         } catch (capiErr) {
             console.warn('[CAPI] Failed to send Purchase event:', capiErr);
         }
+
+        // --- PostHog: Server-Side Purchase Event (source of truth for revenue) ---
+        // The client-side `purchase_verified` event only fires if the user lands back
+        // on the /?checkout=success URL AND isn't running an ad blocker — so it badly
+        // undercounts. This server event fires on every Stripe-confirmed payment and is
+        // the reliable revenue signal for the monetization funnel.
+        try {
+            const posthogKey = process.env.NEXT_PUBLIC_POSTHOG_KEY;
+            if (posthogKey) {
+                const posthogHost = process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com';
+                const purchaseValue = session.mode === 'subscription' ? 9.99 : 3.99;
+                await fetch(`${posthogHost}/capture/`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        api_key: posthogKey,
+                        event: 'purchase_completed',
+                        // Tie to the identified Supabase user (posthog.identify uses this id on
+                        // unlock) so the purchase merges into that person's timeline. Fall back to
+                        // the Stripe customer/session id for guest edge cases.
+                        distinct_id: userId || stripeCustomerId || session.id,
+                        properties: {
+                            value: purchaseValue,
+                            currency: 'USD',
+                            product_type: (session.metadata && session.metadata.type)
+                                || (session.mode === 'subscription' ? 'subscription' : 'emergency_scan'),
+                            mode: session.mode,
+                            stripe_customer_id: stripeCustomerId,
+                            stripe_session_id: session.id,
+                            source: 'stripe_webhook',
+                            $process_person_profile: true,
+                        },
+                    }),
+                });
+                console.log(`[PostHog] purchase_completed sent for ${userId || session.id}`);
+            }
+        } catch (phErr) {
+            console.warn('[PostHog] Failed to send purchase_completed (non-fatal):', phErr);
+        }
     }
 
     // Handle subscription cancellations/failures if needed

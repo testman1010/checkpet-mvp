@@ -1143,7 +1143,14 @@ export default function PanicIntake() {
       setScanCount(trackData.count);
       // Wait, if url params had success we assume pay is false for now
       const isSuccess = new URLSearchParams(window.location.search).get('checkout') === 'success';
-      const actuallyNeedsPay = isSuccess ? false : trackData.needsPay;
+      // Experiment (paywall-placement): the `early_gate` variant pay-gates the detailed
+      // result starting on the first scan, to test whether earlier monetization lifts
+      // revenue vs. the current server-metered repeat-scan paywall. `control` leaves
+      // metering untouched. The flag defaults to 0% early_gate rollout, so this is a
+      // no-op in production until the experiment is dialed up in PostHog. It also doubles
+      // as the QA hook for end-to-end testing the purchase funnel (see PURCHASE_FUNNEL_QA.md).
+      const earlyGate = posthog?.getFeatureFlag?.('paywall-placement') === 'early_gate';
+      const actuallyNeedsPay = isSuccess ? false : (trackData.needsPay || (earlyGate && trackData.count >= 1));
 
       if (response.verification_questions && response.verification_questions.length > 0) {
         setPendingAssessment(response);
