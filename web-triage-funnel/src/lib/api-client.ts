@@ -110,6 +110,11 @@ export const apiClient = {
             // Normalize Response (Handle Snake Case vs Camel Case)
             const normalizedData: Assessment = {
                 ...assessmentData,
+                // Backend returns camelCase `urgencyLevel`; the frontend + analytics use snake_case
+                // `urgency_level`. Without this mapping it was undefined everywhere — which broke the
+                // result urgency badge, the `isEmergency` detection, AND the `urgency_level` property on
+                // the analysis_completed / paywall_shown / auth_wall_shown analytics events.
+                urgency_level: assessmentData.urgency_level || assessmentData.urgencyLevel,
                 // Ensure visualAnnotations is populated if backend returns snake_case
                 visualAnnotations: assessmentData.visualAnnotations || assessmentData.visual_annotations || [],
                 // Ensure other potential mismatch fields are handled
