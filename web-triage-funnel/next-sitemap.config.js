@@ -3,9 +3,24 @@
 // Top pages by Search Console impressions/clicks. Add your winners here to concentrate
 // crawl budget + authority on them WITHOUT removing or down-ranking the long tail.
 // (Authority concentration via priority, not pruning — see PSEO_QUALITY_DIAGNOSIS.md.)
+// Seeded from PostHog top-traffic pages (last ~30d), emergency-leaning.
+// REFINE with Search Console impressions/clicks once pulled (see SPRINT_01_BACKLOG.md · S1/S2).
 const FEATURED_SLUGS = new Set([
-    // 'dog-black-tarry-stools',
-    // 'cat-abdomen-feels-hard-and-bloated',
+    'dog-gum-chewing-motion-no-food',
+    'dog-unproductive-retching',
+    'dog-ate-ibuprofen-or-tylenol',
+    'cat-walking-in-circles-or-loss-of-balance',
+    'cat-vomiting-liquid-resembling-coffee-grounds',
+    'dog-fast-breathing-rate-over-40-breaths-per-minute-while-sleeping',
+    'dog-refusing-to-eat-and-lying-still',
+    'dog-puppy-breathing-fast-while-sleeping',
+    'dog-yelping-during-bowel-movement',
+    'cat-hard-dry-pebble-like-stool',
+    'dog-hoarse-bark-and-voice-loss',
+    'dog-growth-or-tumor-on-penis',
+    'dog-preputial-discharge-that-is-yellow-green',
+    'dog-constant-dripping-of-blood-from-penis',
+    'dog-excessive-licking-of-genital-area',
 ]);
 
 module.exports = {

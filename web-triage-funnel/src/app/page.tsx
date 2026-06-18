@@ -290,9 +290,26 @@ function TriageResult({
             <ShieldAlert className="h-6 w-6 text-red-600 mr-2" />
             <h2 className="text-xl font-bold text-red-700 uppercase tracking-wider">Emergency Alert</h2>
           </div>
-          <p className="text-red-900 font-medium">
-            Analysis suggests immediate medical attention is required. Do not wait.
+          <p className="text-red-900 font-medium mb-4">
+            Analysis suggests your pet needs medical attention now. Don&apos;t wait for it to pass.
           </p>
+          <div className="bg-white/70 rounded-lg p-4 border border-red-200">
+            <p className="text-xs font-bold text-red-700 uppercase tracking-wider mb-2">What to do right now</p>
+            <ol className="list-decimal list-inside space-y-1.5 text-sm text-red-900">
+              <li>Call your vet or the nearest 24/7 emergency animal hospital and tell them you&apos;re on the way.</li>
+              <li>Keep your pet warm, calm, and as still as possible — limit movement.</li>
+              <li>Don&apos;t give food, water, or any medication unless a vet tells you to.</li>
+              <li>Bring this summary and a photo of the symptom so the team can triage faster.</li>
+            </ol>
+            <a
+              href="https://www.google.com/maps/search/24+hour+emergency+vet+near+me"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 flex items-center justify-center w-full bg-red-600 text-white font-bold py-3 rounded-lg hover:bg-red-700 transition-colors"
+            >
+              Find a 24/7 emergency vet near me →
+            </a>
+          </div>
         </div>
 
         <ResultCardContent
@@ -1530,10 +1547,10 @@ export default function PanicIntake() {
             </div>
 
             <h1 className="text-3xl font-extrabold text-slate-900 tracking-tighter leading-tight mb-2">
-              Check Your Pet's<br />Symptoms Instantly
+              Is It a Pet<br />Emergency?
             </h1>
             <p className="text-sm font-medium text-slate-500 leading-relaxed max-w-md mx-auto">
-              Instant triage assessment grounded in professional veterinary protocols.
+              Get an instant read on whether your dog or cat needs a vet right now — free, in under a minute, grounded in professional veterinary protocols.
             </p>
           </div>
         </>
@@ -1564,7 +1581,7 @@ export default function PanicIntake() {
             <div className="w-full">
               <Card className={`p-4 border-2 shadow-sm rounded-2xl bg-white min-h-[140px] flex flex-col relative focus-within:ring-2 focus-within:ring-blue-500 transition-all ${isAutoFilled ? 'border-blue-300 ring-4 ring-blue-50/50' : 'border-slate-200'}`}>
                 <Textarea
-                  placeholder="e.g. Limping on left paw, not eating..."
+                  placeholder="e.g. Vomiting, trouble breathing, ate something toxic..."
                   className="flex-1 w-full text-lg p-0 border-0 focus-visible:ring-0 resize-none placeholder:text-slate-300 min-h-[80px]"
                   value={symptoms}
                   onChange={(e) => setSymptoms(e.target.value)}

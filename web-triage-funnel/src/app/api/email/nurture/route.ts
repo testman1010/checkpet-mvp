@@ -19,6 +19,10 @@ export const dynamic = 'force-dynamic';
 
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
 const FROM_EMAIL = 'CheckPet <noreply@mail.checkpet.vet>';
+// Hosted outcome/accuracy survey (PostHog external survey). This is the right channel for the
+// outcome loop because on-site return is ~0 — reach users async by email instead.
+// Verified live 2026-06-17: this URL serves the "CheckPet outcome & accuracy" hosted form.
+const OUTCOME_SURVEY_URL = 'https://us.posthog.com/external_surveys/019ed24d-e5b4-0000-95b3-48c7e01fe9f1';
 
 interface NurtureRequest {
   userId: string;
@@ -110,6 +114,12 @@ function getEmailTemplate(sequence: number, email: string): { subject: string; h
             </p>
             <a href="${scanUrl}" style="display: inline-block; background: #0f172a; color: white; padding: 12px 24px; border-radius: 12px; text-decoration: none; font-weight: 600; font-size: 15px; margin-top: 12px;">
               Check My Pet Again →
+            </a>
+            <p style="color: #475569; line-height: 1.6; font-size: 15px; margin-top: 20px;">
+              And if you have 30 seconds — how did it turn out? Your answer helps us make CheckPet more accurate for every pet owner.
+            </p>
+            <a href="${OUTCOME_SURVEY_URL}" style="display: inline-block; background: #ffffff; color: #0f172a; border: 1px solid #cbd5e1; padding: 10px 20px; border-radius: 12px; text-decoration: none; font-weight: 600; font-size: 14px; margin-top: 4px;">
+              Tell us what happened →
             </a>
             <p style="color: #94a3b8; font-size: 12px; margin-top: 24px;">
               You're receiving this because you used CheckPet. Reply STOP to unsubscribe.
