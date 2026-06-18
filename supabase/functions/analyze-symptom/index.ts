@@ -62,7 +62,7 @@ async function retrieveVeterinaryContext(
 
     try {
         // Step 1: Query Generation (Extract Filters & Key Concepts)
-        const fastModel = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" }); // Updated to valid model name
+        const fastModel = genAI.getGenerativeModel({ model: "gemini-3.5-flash" }); // Updated to valid model name
 
         const focusInstruction = isRefinementMode
             ? "Focus strictly on medical conditions associated with these confirmed tags."
@@ -175,7 +175,7 @@ async function handleMonitoring(
     const veterinaryContext = await retrieveVeterinaryContext(contextQuery, species, genAI, supabase, true);
 
     // 3. Construct Prompt
-    const model = genAI.getGenerativeModel({ model: 'gemini-3-flash-preview' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-3.5-flash' });
 
     const prompt = `
     ROLE: You are an expert Veterinary AI Assistant conducting a follow-up check-in.
@@ -517,7 +517,7 @@ serve(async (req) => {
         const contextText = await retrieveVeterinaryContext(searchTarget, petData.species, genAI, supabase, isRefinementMode);
 
         const model = genAI.getGenerativeModel({
-            model: 'gemini-3-flash-preview',
+            model: 'gemini-3.5-flash',
         });
 
         const prompt = generateHealthAssessmentPrompt(petData, breedInfo, contextText, imageBase64, symptom, refinedSymptoms || [], initialCauses || [], refinementContext || []);
