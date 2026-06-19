@@ -8,7 +8,7 @@ import { Textarea } from '@/components/ui/textarea';
 import { apiClient, Assessment } from '@/lib/api-client';
 import { CAT_BREEDS, DOG_BREEDS } from '@/lib/breeds';
 import { supabase } from '@/lib/supabaseClient';
-import { Camera, Check, Loader2, Lock, Search, ShieldAlert, AlertTriangle, Clipboard } from 'lucide-react';
+import { Camera, Check, Loader2, Lock, Search, ShieldAlert, AlertTriangle, Clipboard, ThumbsUp, ThumbsDown } from 'lucide-react';
 import React, { useState, useEffect, useRef } from 'react';
 import { ProcessingLoader } from '@/components/ui/processing-loader';
 import { AnimatePresence, motion } from "framer-motion";
@@ -367,6 +367,7 @@ function TriageResult({
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
 function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, isLocked, source, petDetails, caseId }: any) {
   const [saved, setSaved] = useState(false);
+  const [rating, setRating] = useState<'up' | 'down' | null>(null);
   const actionTakenRef = useRef(false);
   const posthog = usePostHog();
   const resultViewedAtRef = useRef<number>(Date.now());
@@ -476,6 +477,22 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
       navigator.clipboard.writeText(text);
       alert("Report copied to clipboard!");
     }
+  };
+
+  const handleRate = (value: 'up' | 'down') => {
+    if (rating) return; // one rating per result
+    setRating(value);
+    actionTakenRef.current = true; // a rating counts as engagement (suppresses result_abandoned)
+    posthog?.capture('result_rated', {
+      rating: value,
+      rating_value: value === 'up' ? 1 : 0,
+      urgency_level: result?.urgency_level,
+      primary_condition: primaryCondition,
+      confidence,
+      is_emergency: !!isEmergency,
+      case_id: caseId,
+      source: source || 'live',
+    });
   };
 
   return (
@@ -694,6 +711,38 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                   </li>
                 ))}
               </ul>
+            </div>
+          )}
+
+          {/* In-app result rating (thumbs) — direct, reliable quality signal that does NOT
+              depend on the PostHog popover rendering. Hidden when the result is paywall-locked. */}
+          {!isLocked && (
+            <div className="mt-4 pt-4 border-t border-slate-100 flex flex-col items-center">
+              {rating === null ? (
+                <>
+                  <p className="text-xs font-semibold text-slate-500 mb-2">Was this analysis helpful?</p>
+                  <div className="flex items-center gap-3">
+                    <button
+                      type="button"
+                      onClick={() => handleRate('up')}
+                      aria-label="Helpful"
+                      className="flex items-center justify-center w-12 h-11 rounded-xl border border-slate-200 bg-white text-slate-600 hover:bg-green-50 hover:text-green-600 hover:border-green-200 active:scale-95 transition-all"
+                    >
+                      <ThumbsUp className="h-5 w-5" />
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => handleRate('down')}
+                      aria-label="Not helpful"
+                      className="flex items-center justify-center w-12 h-11 rounded-xl border border-slate-200 bg-white text-slate-600 hover:bg-red-50 hover:text-red-600 hover:border-red-200 active:scale-95 transition-all"
+                    >
+                      <ThumbsDown className="h-5 w-5" />
+                    </button>
+                  </div>
+                </>
+              ) : (
+                <p className="text-sm font-semibold text-green-600">Thanks for the feedback 🐾</p>
+              )}
             </div>
           )}
 
