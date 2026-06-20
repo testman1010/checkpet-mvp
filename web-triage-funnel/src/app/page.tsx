@@ -114,7 +114,7 @@ function HistoryView({ onClose, onViewResult }: { onClose: () => void, onViewRes
                 {/* Content */}
                 <div className="flex-1 flex flex-col justify-center min-w-0">
                   <div className="flex justify-between items-start mb-1 gap-2">
-                    <Badge variant={item.result?.urgency_level === 'CRITICAL' || item.result?.urgency_level === 'URGENT' ? 'destructive' : 'secondary'} className="text-[9px] px-1.5 py-0">
+                    <Badge variant={['CRITICAL', 'URGENT', 'EMERGENCY'].includes((item.result?.urgency_level || '').toUpperCase()) ? 'destructive' : 'secondary'} className="text-[9px] px-1.5 py-0">
                       {item.result?.urgency_level || 'UNKNOWN'}
                     </Badge>
                     <span className="text-[10px] text-slate-400 whitespace-nowrap shrink-0 font-medium">
@@ -163,7 +163,10 @@ function TriageResult({
   onCheckoutPay?: (type: 'emergency_scan' | 'subscription') => void;
   onLogin?: () => void;
 }) {
-  const isEmergency = result.urgency_level === 'CRITICAL' || result.urgency_level === 'URGENT';
+  // The backend maps urgency to lowercase ('emergency'/'urgent'/'monitor'/...), so compare
+  // case-insensitively against the emergency tier. (A strict === 'CRITICAL'||'URGENT' check
+  // never matched the real values, so the emergency screen never triggered.)
+  const isEmergency = ['CRITICAL', 'URGENT', 'EMERGENCY'].includes((result.urgency_level || '').toUpperCase());
   const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
   const wallPosthog = usePostHog();
 
