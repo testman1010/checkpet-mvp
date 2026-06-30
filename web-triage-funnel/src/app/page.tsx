@@ -484,18 +484,26 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
 
   const handleRate = (value: 'up' | 'down') => {
     if (rating) return; // one rating per result
-    setRating(value);
+    setRating(value); // optimistic UI update
     actionTakenRef.current = true; // a rating counts as engagement (suppresses result_abandoned)
-    posthog?.capture('result_rated', {
-      rating: value,
-      rating_value: value === 'up' ? 1 : 0,
-      urgency_level: result?.urgency_level,
-      primary_condition: primaryCondition,
-      confidence,
-      is_emergency: !!isEmergency,
-      case_id: caseId,
-      source: source || 'live',
-    });
+    // Capture server-side via /api/rating (persists to Supabase + adblock-proof PostHog capture).
+    // The browser-side posthog.capture was being silently dropped by adblockers, so ratings never
+    // reached PostHog. Fire-and-forget — the UI already reflects the tap.
+    const distinctId = (posthog as any)?.get_distinct_id?.();
+    fetch('/api/rating', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        rating: value,
+        urgency_level: result?.urgency_level,
+        primary_condition: primaryCondition,
+        confidence,
+        is_emergency: !!isEmergency,
+        case_id: caseId,
+        source: source || 'live',
+        distinct_id: distinctId,
+      }),
+    }).catch(() => { /* best-effort; UI already reflects the rating */ });
   };
 
   return (
