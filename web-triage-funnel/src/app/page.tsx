@@ -1528,14 +1528,19 @@ export default function PanicIntake() {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center p-4 pb-24 font-sans">
 
-      {/* Gamified Loader Overlay */}
+      {/* Gamified Loader Overlay.
+          pointer-events-none: ProcessingLoader is purely presentational (no interactive elements), but as a
+          fixed inset-0 overlay it was swallowing taps during its fade-out — the window right as the finished
+          result (and its thumbs-up/down) appears. That silently dropped ratings (a first tap did nothing).
+          Making the overlay click-through lets those taps reach the result beneath it. Safe: the Analyze
+          button is disabled while loading, and the result only mounts at step === 'RESULT'. */}
       <AnimatePresence>
         {loading && (
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-50"
+            className="fixed inset-0 z-50 pointer-events-none"
           >
             <ProcessingLoader type={loadingType} />
           </motion.div>
