@@ -25,6 +25,11 @@ function useScanCount(fallback = 75) {
     return count;
 }
 
+/** sessionStorage key for an in-progress description, scoped to the guide the user is on. */
+function descriptionKey(species: string, symptom: string) {
+    return `checkpet_draft_${species}_${symptom}`.toLowerCase().replace(/\s+/g, '-');
+}
+
 /* ────────────────────────────────────────────────────────────────────────────
  *  Shared navigation helper — builds URL params and pushes to homepage triage
  * ──────────────────────────────────────────────────────────────────────────── */
@@ -98,8 +103,25 @@ export function TriageCTA({ species, symptom, symptomTitle }: TriageCTAProps) {
         [hasTyped, posthog, species, symptom],
     );
 
+    // Rehydrate anything typed before a previous submit. Users who back out of the analysis land
+    // back here with an empty box and retype from scratch — the replays show near-identical text
+    // being entered twice in the same session. Keyed per symptom so a different guide starts clean.
+    const draftKey = descriptionKey(species, symptom);
+    useEffect(() => {
+        try {
+            const saved = sessionStorage.getItem(draftKey);
+            // sessionStorage does not exist during SSR, so this cannot move into the useState
+            // initializer without causing a hydration mismatch. Reading after mount is correct.
+            // eslint-disable-next-line react-hooks/set-state-in-effect
+            if (saved) setDescription(saved);
+        } catch { /* private mode / storage disabled */ }
+    }, [draftKey]);
+
     const handleGo = () => {
         setLoading(true);
+        try {
+            if (description) sessionStorage.setItem(draftKey, description);
+        } catch { /* non-fatal */ }
         posthog?.capture('pseo_cta_clicked', {
             species, symptom, symptom_title: symptomTitle,
             has_description: description.length > 0,
@@ -221,7 +243,9 @@ export function UrgencyBanner({ species, symptom, urgency = 'moderate' }: Urgenc
     const handleClick = () => {
         setLoading(true);
         posthog?.capture('pseo_urgency_banner_clicked', { species, symptom, urgency });
-        navigate(species, symptom);
+        // autostart MUST be passed, or the visitor lands on an intake form that looks like it
+        // ignored their click and sits there until they give up. This was ~20% of all CTA clicks.
+        navigate(species, symptom, undefined, true);
     };
 
     return (
@@ -278,7 +302,8 @@ export function StickyMobileCTA({ species, symptom }: { species: string; symptom
     const handleClick = () => {
         setLoading(true);
         posthog?.capture('pseo_sticky_cta_clicked', { species, symptom });
-        navigate(species, symptom);
+        // Same as the urgency banner: without autostart the analysis never begins on its own.
+        navigate(species, symptom, undefined, true);
     };
 
     return (

@@ -178,8 +178,12 @@ function TriageResult({
     if (isPayLocked) wallPosthog?.capture('paywall_shown', { urgency_level: result.urgency_level });
   }, [isPayLocked]);
   // Confidence: Handle 0-1 (decimal) or 0-100 (percentage)
-  const rawProb = result.causes?.[0]?.probability || 0;
-  const confidence = rawProb > 1 ? Math.round(rawProb) : Math.round(rawProb * 100);
+  // The backend now returns `probability: null` when the model omitted it (rather than 0), so a
+  // missing number reads as "unknown" instead of rendering a "0% Match Confidence" badge that
+  // makes a sound diagnosis look like a failed one.
+  const rawProb = result.causes?.[0]?.probability;
+  const hasConfidence = typeof rawProb === 'number' && isFinite(rawProb) && rawProb > 0;
+  const confidence = hasConfidence ? (rawProb > 1 ? Math.round(rawProb) : Math.round(rawProb * 100)) : null;
 
   // Determine Urgency Display
   const getUrgencyConfig = (level: string) => {
@@ -449,7 +453,7 @@ PATIENT DETAILS:
 
 
 PRIMARY ANALYSIS: ${primaryCondition}
-Confidence: ${confidence}%
+Confidence: ${confidence !== null ? `${confidence}%` : 'not reported'}
 Urgency: ${result.urgency_level}
 
 OBSERVATIONS:
@@ -520,12 +524,15 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
 
 
         <div className="p-6 pt-0">
-          {/* Confidence */}
-          <div className="flex items-center justify-center gap-2 mb-6">
-            <Badge variant="outline" className="text-green-600 border-green-200 bg-green-50">
-              {confidence}% Match Confidence
-            </Badge>
-          </div>
+          {/* Confidence — omitted entirely when the model didn't give us a number, rather than
+              printing "0% Match Confidence" under a real diagnosis. */}
+          {confidence !== null && (
+            <div className="flex items-center justify-center gap-2 mb-6">
+              <Badge variant="outline" className="text-green-600 border-green-200 bg-green-50">
+                {confidence}% Match Confidence
+              </Badge>
+            </div>
+          )}
 
           {/* safety-override: Check for dangerous secondary causes */}
           {(() => {
@@ -1130,6 +1137,10 @@ export default function PanicIntake() {
   const [imagePreview, setImagePreview] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [loadingType, setLoadingType] = useState<'INITIAL' | 'REFINEMENT'>('INITIAL');
+  // Inline, recoverable analysis error — replaces the browser alert() dead-end.
+  const [analysisError, setAnalysisError] = useState<string | null>(null);
+  // True when the refinement pass failed and we fell back to the preliminary assessment.
+  const [refinementDegraded, setRefinementDegraded] = useState(false);
 
   // Results & Questions
   const [result, setResult] = useState<Assessment | null>(null);
@@ -1160,6 +1171,8 @@ export default function PanicIntake() {
   const handleAnalyze = async () => {
     if (!symptoms.trim()) return;
 
+    setAnalysisError(null);
+    setRefinementDegraded(false);
     setLoading(true);
     setLoadingType('INITIAL');
 
@@ -1280,29 +1293,57 @@ export default function PanicIntake() {
         error_message: error instanceof Error ? error.message : 'Unknown error',
         stage: 'initial',
       });
-      alert('Analysis failed. Please try again.');
+      // Inline, recoverable error instead of a browser alert(). The person on the other end of
+      // this is worried about their pet; a modal OS dialog that dead-ends is the wrong response.
+      setAnalysisError(
+        error instanceof Error && /timed out/i.test(error.message)
+          ? "That took too long to come back. Your description is still here — try again."
+          : "Something went wrong running the analysis. Your description is still here — try again."
+      );
     } finally {
-      if (step === 'INPUT') setLoading(false);
+      // Always clear the loader. This previously read `step` captured at call time, so a step
+      // change mid-flight could leave the spinner running forever.
+      setLoading(false);
     }
   };
+
+  // --- pSEO Autostart: show the analyzing state IMMEDIATELY, before waiting on anything. ---
+  // Arriving from a guide with ?autostart=1 used to land on a static intake form for 2-5 seconds
+  // while identity/metering bootstrapped. It reads as "my click did nothing", and the replays
+  // show people hitting back mid-wait and re-clicking. Paint the loader on arrival instead; the
+  // effect below still gates the actual request on the bootstrap completing.
+  useEffect(() => {
+    if (autostartPending && !autostartFiredRef.current && !loading) {
+      setLoadingType('INITIAL');
+      setLoading(true);
+    }
+  }, [autostartPending]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Safety valve for the loader above: if the identity/metering bootstrap never completes we must
+  // not spin forever. Scan metering is already explicitly fail-open, so after a short grace period
+  // run the analysis anyway rather than holding a worried owner on a spinner.
+  const [autostartBootstrapTimedOut, setAutostartBootstrapTimedOut] = useState(false);
+  useEffect(() => {
+    if (!autostartPending) return;
+    const t = setTimeout(() => setAutostartBootstrapTimedOut(true), 2500);
+    return () => clearTimeout(t);
+  }, [autostartPending]);
 
   // --- pSEO Autostart: fire the analysis once tracking + identity are ready ---
   useEffect(() => {
     if (
       autostartPending &&
       !autostartFiredRef.current &&
-      isTrackingInitialized &&
-      deviceId &&
+      (( isTrackingInitialized && deviceId ) || autostartBootstrapTimedOut) &&
       symptoms.trim().length > 0 &&
-      step === 'INPUT' &&
-      !loading
+      step === 'INPUT'
     ) {
       autostartFiredRef.current = true;
       setAutostartPending(false);
       handleAnalyze();
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [autostartPending, isTrackingInitialized, deviceId, symptoms, step, loading]);
+  }, [autostartPending, isTrackingInitialized, deviceId, symptoms, step, autostartBootstrapTimedOut]);
 
   const handleQuestionsComplete = async (answers: Record<string, string>) => {
     if (!pendingAssessment) return;
@@ -1330,7 +1371,12 @@ export default function PanicIntake() {
         apiClient.analyzeSymptoms({
           symptom: symptoms,
           imageBase64: imageBase64,
-          refinedSymptoms: [],
+          // The refinement pass needs BOTH halves of the evidence: the questions the owner
+          // confirmed, and the hypothesis it is being asked to revise. Sending `refinedSymptoms: []`
+          // and omitting `initialCauses` meant the backend never entered refinement mode at all,
+          // so the answers were collected and then ignored.
+          refinedSymptoms: history.filter(h => h.answer === 'Yes').map(h => h.question),
+          initialCauses: pendingAssessment.causes || [],
           refinementContext: history,
           pet: {
             species,
@@ -1388,8 +1434,10 @@ export default function PanicIntake() {
         error_message: error instanceof Error ? error.message : 'Unknown error',
         stage: 'refinement',
       });
-      // Fallback to preliminary result if refinement crashes, but alert user
-      alert("Refinement connection failed. Showing preliminary result.");
+      // Degrade to the preliminary result rather than losing the case entirely — but say so
+      // on the page instead of in a browser alert. Without this the owner answers three
+      // questions and is shown an un-refined result with no indication anything went wrong.
+      setRefinementDegraded(true);
       setResult(pendingAssessment);
       setStep('RESULT');
     } finally {
@@ -1536,10 +1584,17 @@ export default function PanicIntake() {
           button is disabled while loading, and the result only mounts at step === 'RESULT'. */}
       <AnimatePresence>
         {loading && (
+          // AnimatePresence matches children by key. Without one, framer-motion can't reliably
+          // track the exiting child, and the overlay lingered in the DOM well past its fade
+          // (observed on production too). It is transparent and click-through by then, so there
+          // was no visible breakage — but an explicit key + transition makes the exit
+          // deterministic instead of leaving a stray fixed overlay on the result screen.
           <motion.div
+            key="processing-loader"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
             className="fixed inset-0 z-50 pointer-events-none"
           >
             <ProcessingLoader type={loadingType} />
@@ -1910,6 +1965,32 @@ export default function PanicIntake() {
               <span className="text-xs text-blue-600 font-semibold">Edit ›</span>
             </button>
 
+            {/* Recoverable failure state. Keeps the description, offers a retry, and gives an
+                immediate way out to a real vet for anyone who can't afford to keep retrying. */}
+            {analysisError && (
+              <div className="rounded-xl border border-red-200 bg-red-50 p-4 space-y-3" role="alert">
+                <p className="text-sm font-semibold text-red-900">{analysisError}</p>
+                <div className="flex flex-col gap-2">
+                  <Button
+                    size="lg"
+                    className="w-full h-11 rounded-lg bg-red-600 hover:bg-red-700 text-white"
+                    onClick={() => { setAnalysisError(null); handleAnalyze(); }}
+                    disabled={loading}
+                  >
+                    Try again
+                  </Button>
+                  <a
+                    href="https://www.google.com/maps/search/24+hour+emergency+vet+near+me"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-center font-semibold text-red-700 underline underline-offset-2"
+                  >
+                    Can&apos;t wait? Find a 24/7 emergency vet near me →
+                  </a>
+                </div>
+              </div>
+            )}
+
             {/* Inline analyze button — visible without scrolling for pSEO visitors */}
             <Button
               size="lg"
@@ -1999,6 +2080,15 @@ export default function PanicIntake() {
       {/* Screen 3: The Result Gate ("Conversion Engine") */}
       {step === 'RESULT' && result && (
         <>
+          {refinementDegraded && (
+            <div className="w-full max-w-md mb-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3" role="status">
+              <p className="text-sm text-amber-900">
+                <span className="font-semibold">Showing the preliminary assessment.</span>{' '}
+                Your answers couldn&apos;t be applied — the result below hasn&apos;t been narrowed down
+                with them. If anything looks serious, call a vet rather than relying on this.
+              </p>
+            </div>
+          )}
           <TriageResult
             result={result}
             imagePreview={imagePreview}
