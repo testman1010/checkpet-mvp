@@ -19,6 +19,7 @@ import Link from 'next/link';
 import { CommonEmergenciesWidget } from '@/components/home/CommonEmergenciesWidget';
 import { MonitoringCard } from '@/components/MonitoringCard';
 import { AuthWallOverlay } from '@/components/AuthWallOverlay';
+import { VetHandoffOffer } from '@/components/result/VetHandoffOffer';
 import { PaywallOverlay } from '@/components/PaywallOverlay';
 import { LoginModal } from '@/components/LoginModal';
 import { trackStartTrial, trackLead, trackSecondScan, trackInitiateCheckout, trackPurchase } from '@/lib/meta-pixel';
@@ -730,6 +731,20 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
                 ))}
               </ul>
             </div>
+          )}
+
+          {/* Willingness-to-pay probe. Deliberately placed AFTER every piece of clinical content
+              and the emergency action, so it can never compete with "go to a vet". Hidden on
+              locked results — we don't stack an offer on top of a wall. */}
+          {!isLocked && (
+            <VetHandoffOffer
+              urgencyLevel={result.urgency_level}
+              confidence={confidence}
+              primaryCondition={primaryCondition}
+              isEmergency={isEmergency}
+              caseId={caseId}
+              species={petDetails?.species}
+            />
           )}
 
           {/* In-app result rating (thumbs) — direct, reliable quality signal that does NOT
