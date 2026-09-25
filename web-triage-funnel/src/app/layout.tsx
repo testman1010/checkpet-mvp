@@ -31,6 +31,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* Impact.com site ownership verification (Vetster affiliate program). Impact's snippet
+            uses a non-standard `value` attribute, which Next's Metadata API can't emit and
+            React's meta typings don't declare — hence the spread. `content` is added as well
+            in case their crawler reads the standard attribute. */}
+        <meta
+          name="impact-site-verification"
+          content="6048537e-6f0f-4bd3-8457-52bc2117a23d"
+          {...{ value: '6048537e-6f0f-4bd3-8457-52bc2117a23d' }}
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col`}
       >
