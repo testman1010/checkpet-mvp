@@ -1418,8 +1418,19 @@ export default function PanicIntake() {
     })) || [];
     setConsultHistory(history);
 
+    // How the owner answered, next to the urgency before refinement. The refinement prompt treats
+    // "Unsure" as high risk, so this is what shows how often an Unsure answer escalates a mild case.
+    const countAnswers = (a: string) => history.filter(h => h.answer === a).length;
+    const answerProps = {
+      yes_count: countAnswers('Yes'),
+      no_count: countAnswers('No'),
+      unsure_count: countAnswers('Unsure'),
+      initial_urgency_level: pendingAssessment.urgency_level ?? null,
+    };
+
     posthog?.capture('questions_answered', {
-      question_count: history.length
+      question_count: history.length,
+      ...answerProps,
     });
 
     setLoading(true);
@@ -1463,6 +1474,8 @@ export default function PanicIntake() {
       posthog?.capture('analysis_completed', {
         species,
         urgency_level: refinedResponse.urgency_level,
+        initial_urgency_level: answerProps.initial_urgency_level,
+        unsure_count: answerProps.unsure_count,
         had_questions: true,
         has_photo: !!imageBase64,
         scan_number: scanCount,
