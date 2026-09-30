@@ -326,6 +326,133 @@ function formatProbability(p: unknown): string {
     return `${Math.round(Math.max(0, Math.min(100, pct)))}%`;
 }
 
+/**
+ * Response schema for the diagnostic core (Gemini structured output).
+ *
+ * The model intermittently returned `causes` as a bare array of condition-name strings (~3% of
+ * results, logged as COERCED_STRING_CAUSES), which loses every probability. The prompt already
+ * forbade that shape and it still happened; a schema makes it impossible at the source.
+ * normalizeCauses and the prompt's JSON example stay in place as belt-and-braces.
+ *
+ * Mirrors the prompt's "Expected JSON structure". The one addition is the 0-100 hint on probability:
+ * without it, schema-constrained output switched to a 0-1 scale in 2 of 40 test responses (never
+ * seen in production since June). propertyOrdering keeps the prompt's field order — without it
+ * Gemini emits properties alphabetically. The urgencyLevel enum also rules out values like
+ * "EMERGENCY" (which the refinement prompt's Safety Override invites), which mapUrgencyToSchema
+ * would downgrade to 'consult_vet'.
+ */
+const CORE_RESPONSE_SCHEMA: any = {
+    type: 'OBJECT',
+    properties: {
+        assessmentPossible: { type: 'BOOLEAN' },
+        quickInsight: { type: 'STRING' },
+        keyObservations: { type: 'ARRAY', items: { type: 'STRING' } },
+        primaryRecommendation: { type: 'STRING' },
+        urgencyLevel: { type: 'STRING', enum: ['CRITICAL', 'URGENT', 'CONSULT', 'WATCH', 'NORMAL'] },
+        confidenceScore: { type: 'NUMBER' },
+        causes: {
+            type: 'ARRAY',
+            items: {
+                type: 'OBJECT',
+                properties: {
+                    condition: { type: 'STRING' },
+                    probability: { type: 'NUMBER', description: 'Likelihood of this condition, 0-100.' },
+                    urgency: { type: 'STRING', enum: ['LOW', 'MEDIUM', 'HIGH', 'EMERGENCY'] },
+                    reasoning: { type: 'STRING' },
+                    system_category: { type: 'STRING' },
+                },
+                required: ['condition', 'probability', 'urgency', 'reasoning', 'system_category'],
+                propertyOrdering: ['condition', 'probability', 'urgency', 'reasoning', 'system_category'],
+            },
+        },
+        detectedSystems: { type: 'ARRAY', items: { type: 'STRING' } },
+        triage_strategy: {
+            type: 'OBJECT',
+            properties: { immediate_aid: { type: 'ARRAY', items: { type: 'STRING' } } },
+            required: ['immediate_aid'],
+        },
+        conversion_hooks: {
+            type: 'OBJECT',
+            properties: {
+                complication_risk_badge: { type: 'STRING' },
+                protocol_header: { type: 'STRING' },
+                locked_categories: {
+                    type: 'ARRAY',
+                    items: {
+                        type: 'OBJECT',
+                        properties: { title: { type: 'STRING' }, subtitle: { type: 'STRING' } },
+                        required: ['title', 'subtitle'],
+                        propertyOrdering: ['title', 'subtitle'],
+                    },
+                },
+                redFlagChecklist: {
+                    type: 'ARRAY',
+                    items: {
+                        type: 'OBJECT',
+                        properties: {
+                            question: { type: 'STRING' },
+                            riskIfConfirmed: { type: 'STRING' },
+                            logic: { type: 'STRING' },
+                        },
+                        required: ['question', 'riskIfConfirmed', 'logic'],
+                        propertyOrdering: ['question', 'riskIfConfirmed', 'logic'],
+                    },
+                },
+            },
+            required: ['complication_risk_badge', 'protocol_header', 'locked_categories', 'redFlagChecklist'],
+            propertyOrdering: ['complication_risk_badge', 'protocol_header', 'locked_categories', 'redFlagChecklist'],
+        },
+        patient_demographics: {
+            type: 'OBJECT',
+            properties: {
+                species: { type: 'STRING' },
+                breed_prediction: { type: 'STRING', nullable: true },
+                weight_class_guess: { type: 'STRING', nullable: true },
+                confidence: { type: 'NUMBER' },
+            },
+            required: ['species', 'breed_prediction', 'weight_class_guess', 'confidence'],
+            propertyOrdering: ['species', 'breed_prediction', 'weight_class_guess', 'confidence'],
+        },
+        visualAnnotations: {
+            type: 'ARRAY',
+            items: {
+                type: 'OBJECT',
+                properties: {
+                    label: { type: 'STRING' },
+                    coordinates: { type: 'ARRAY', items: { type: 'NUMBER' }, description: '[ymin, xmin, ymax, xmax]' },
+                },
+                required: ['label', 'coordinates'],
+                propertyOrdering: ['label', 'coordinates'],
+            },
+        },
+        refinement_reasoning: { type: 'STRING' },
+        verification_questions: {
+            type: 'ARRAY',
+            items: {
+                type: 'OBJECT',
+                properties: { id: { type: 'STRING' }, text: { type: 'STRING' }, riskWeight: { type: 'NUMBER' } },
+                required: ['id', 'text', 'riskWeight'],
+                propertyOrdering: ['id', 'text', 'riskWeight'],
+            },
+        },
+        conditional_assessment: { type: 'STRING' },
+        watch_for_symptoms: { type: 'ARRAY', items: { type: 'STRING' } },
+        citations: { type: 'ARRAY', items: { type: 'STRING' } },
+    },
+    required: [
+        'assessmentPossible', 'quickInsight', 'keyObservations', 'primaryRecommendation', 'urgencyLevel',
+        'confidenceScore', 'causes', 'detectedSystems', 'triage_strategy', 'conversion_hooks',
+        'patient_demographics', 'visualAnnotations', 'refinement_reasoning', 'verification_questions',
+        'conditional_assessment', 'watch_for_symptoms', 'citations',
+    ],
+    propertyOrdering: [
+        'assessmentPossible', 'quickInsight', 'keyObservations', 'primaryRecommendation', 'urgencyLevel',
+        'confidenceScore', 'causes', 'detectedSystems', 'triage_strategy', 'conversion_hooks',
+        'patient_demographics', 'visualAnnotations', 'refinement_reasoning', 'verification_questions',
+        'conditional_assessment', 'watch_for_symptoms', 'citations',
+    ],
+};
+
 function generateHealthAssessmentPrompt(
     pet: Pet,
     breedInfo: BreedData | null,
@@ -727,7 +854,7 @@ serve(async (req) => {
         const [coreResult, detailResult] = await Promise.all([
             model.generateContent({
                 contents: [{ role: 'user', parts: coreParts }],
-                generationConfig: { maxOutputTokens: 12000, temperature: 0.4, responseMimeType: "application/json", thinkingConfig: { thinkingBudget: 0 } },
+                generationConfig: { maxOutputTokens: 12000, temperature: 0.4, responseMimeType: "application/json", responseSchema: CORE_RESPONSE_SCHEMA, thinkingConfig: { thinkingBudget: 0 } },
                 safetySettings,
             }),
             model.generateContent({
@@ -751,10 +878,7 @@ serve(async (req) => {
         try {
             analysisData = parseModelJson(responseText);
         } catch (e) {
-            // Diagnostics for the parse-failure investigation (F3). The dominant hypothesis is
-            // output truncation rather than malformed generation: a response cut off at
-            // maxOutputTokens leaves unterminated JSON, and parseModelJson's lastIndexOf('}')
-            // salvage then yields invalid syntax. finishReason distinguishes the two.
+            // Diagnostics for the parse-failure investigation (F3).
             const finishReason = coreResult?.response?.candidates?.[0]?.finishReason ?? 'unknown';
             const usage = coreResult?.response?.usageMetadata ?? null;
             console.error("PARSE_FAILURE", JSON.stringify({

@@ -28,7 +28,9 @@ function loadEnv() {
 }
 
 const env = loadEnv();
-const URL = `${env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/analyze-symptom`;
+// ANALYZE_URL points the suite at a candidate build (e.g. one served by ./serve-local.sh) so a
+// change can be tested before it is deployed. Defaults to production.
+const URL = process.env.ANALYZE_URL || `${env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/analyze-symptom`;
 const KEY = env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
 /* ── The cases. Chosen to span urgency tiers, body systems, and both species. ── */

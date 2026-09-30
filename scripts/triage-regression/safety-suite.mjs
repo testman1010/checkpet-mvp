@@ -18,7 +18,8 @@ const env = Object.fromEntries(
     .filter(Boolean)
     .map((m) => [m[1], m[2].replace(/^["']|["']$/g, '')])
 );
-const ENDPOINT = `${env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/analyze-symptom`;
+// ANALYZE_URL points the suite at a candidate build (see golden-cases.mjs). Defaults to production.
+const ENDPOINT = process.env.ANALYZE_URL || `${env.NEXT_PUBLIC_SUPABASE_URL}/functions/v1/analyze-symptom`;
 const KEY = env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
 const EMERGENCY = new Set(['emergency', 'urgent']);
