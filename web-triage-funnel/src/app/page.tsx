@@ -170,6 +170,10 @@ function TriageResult({
   const isEmergency = ['CRITICAL', 'URGENT', 'EMERGENCY'].includes((result.urgency_level || '').toUpperCase());
   const primaryCondition = result.causes?.[0]?.condition || "Condition Identified";
   const wallPosthog = usePostHog();
+  // Shared with ResultCardContent. Set by anything that counts as engaging with the result
+  // (rating, save, email, the ER finder, fake-door intent, a new check), so result_abandoned
+  // only fires when the user left without doing any of them.
+  const engagedRef = useRef(false);
 
   // PostHog: wall impressions — without these, wall conversion is unmeasurable
   useEffect(() => {
@@ -313,6 +317,16 @@ function TriageResult({
               href="https://www.google.com/maps/search/24+hour+emergency+vet+near+me"
               target="_blank"
               rel="noopener noreferrer"
+              onClick={() => {
+                // The most important action on an emergency result. It opens a new tab, so the
+                // result stays mounted and this capture isn't lost to a page unload.
+                engagedRef.current = true;
+                wallPosthog?.capture('action_find_emergency_vet', {
+                  placement: 'result',
+                  urgency_level: result.urgency_level,
+                  primary_condition: primaryCondition,
+                });
+              }}
               className="mt-3 flex items-center justify-center w-full bg-red-600 text-white font-bold py-3 rounded-lg hover:bg-red-700 transition-colors"
             >
               Find a 24/7 emergency vet near me →
@@ -331,6 +345,7 @@ function TriageResult({
           source={source}
           petDetails={petDetails}
           caseId={caseId}
+          engagedRef={engagedRef}
         />
       </div>
     );
@@ -366,6 +381,7 @@ function TriageResult({
           source={source}
           petDetails={petDetails}
           caseId={caseId}
+          engagedRef={engagedRef}
         />
       </div>
     </div>
@@ -373,7 +389,7 @@ function TriageResult({
 }
 
 // Extracted Content Component to reuse for both Emergency/Standard and handle Actions
-function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, isLocked, source, petDetails, caseId }: any) {
+function ResultCardContent({ result, primaryCondition, confidence, imagePreview, consultHistory, isEmergency, isLocked, source, petDetails, caseId, engagedRef }: any) {
   const [saved, setSaved] = useState(false);
   const [rating, setRating] = useState<'up' | 'down' | null>(null);
   const actionTakenRef = useRef(false);
@@ -394,16 +410,36 @@ function ResultCardContent({ result, primaryCondition, confidence, imagePreview,
     });
   }, [result]);
 
-  // Track result abandonment — fires on unmount if user didn't save/email
+  // Track result abandonment — fires on unmount only if the user left without engaging.
+  // Engagement inside this card (rating, save, email-vet, fake-door intent, Start New Check) sets
+  // actionTakenRef; the ER finder on the emergency screen sets the parent's engagedRef.
+  // Navigating to a symptom guide — usually "back" to the article the user came from — is
+  // continued engagement, so it gets its own event. definition_version 2 marks this narrower
+  // definition; before it, all of those exits were counted as abandonment.
   useEffect(() => {
+    const originPath = window.location.pathname;
     return () => {
-      if (!actionTakenRef.current) {
-        posthog?.capture('result_abandoned', {
+      if (actionTakenRef.current || engagedRef?.current) return;
+      const timeOnResultSec = Math.round((Date.now() - resultViewedAtRef.current) / 1000);
+      // Back/forward and client-side navigation update the URL before this page unmounts, so
+      // pathname is the destination. If it isn't, this falls back to the old behaviour.
+      const destination = window.location.pathname;
+      const toGuide = destination !== originPath && (destination === '/check' || destination.startsWith('/check/'));
+      if (toGuide) {
+        posthog?.capture('action_open_guide', {
+          path: destination,
           urgency_level: result?.urgency_level,
           primary_condition: primaryCondition,
-          time_on_result_sec: Math.round((Date.now() - resultViewedAtRef.current) / 1000),
+          time_on_result_sec: timeOnResultSec,
         });
+        return;
       }
+      posthog?.capture('result_abandoned', {
+        urgency_level: result?.urgency_level,
+        primary_condition: primaryCondition,
+        time_on_result_sec: timeOnResultSec,
+        definition_version: 2,
+      });
     };
   }, []);
 
@@ -733,22 +769,10 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
             </div>
           )}
 
-          {/* Willingness-to-pay probe. Deliberately placed AFTER every piece of clinical content
-              and the emergency action, so it can never compete with "go to a vet". Hidden on
-              locked results — we don't stack an offer on top of a wall. */}
-          {!isLocked && (
-            <VetHandoffOffer
-              urgencyLevel={result.urgency_level}
-              confidence={confidence}
-              primaryCondition={primaryCondition}
-              isEmergency={isEmergency}
-              caseId={caseId}
-              species={petDetails?.species}
-            />
-          )}
-
           {/* In-app result rating (thumbs) — direct, reliable quality signal that does NOT
-              depend on the PostHog popover rendering. Hidden when the result is paywall-locked. */}
+              depend on the PostHog popover rendering. Hidden when the result is paywall-locked.
+              Kept ABOVE the fake door below: with the offer in between, the rating rate fell
+              from ~7% to under 1%. */}
           {!isLocked && (
             <div className="mt-4 pt-4 border-t border-slate-100 flex flex-col items-center">
               {rating === null ? (
@@ -779,6 +803,22 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
             </div>
           )}
 
+          {/* Willingness-to-pay probe. Deliberately placed AFTER every piece of clinical content,
+              the emergency action, and the rating prompt, so it can never compete with "go to a
+              vet" or crowd out the quality signal. Hidden on locked results — we don't stack an
+              offer on top of a wall. */}
+          {!isLocked && (
+            <VetHandoffOffer
+              urgencyLevel={result.urgency_level}
+              confidence={confidence}
+              primaryCondition={primaryCondition}
+              isEmergency={isEmergency}
+              caseId={caseId}
+              species={petDetails?.species}
+              onEngaged={() => { actionTakenRef.current = true; }}
+            />
+          )}
+
         </div>
       </Card>
 
@@ -793,6 +833,14 @@ ${consultHistory?.map((h: any) => `Q: ${h.question}\nA: ${h.answer}`).join('\n')
         <Button
           className="w-full h-12 text-lg font-bold rounded-xl bg-slate-900 text-white"
           onClick={() => {
+            // Starting another check is engagement, not abandonment. The reload below never runs
+            // React cleanup, so capture here — posthog-js flushes its queue on pagehide.
+            actionTakenRef.current = true;
+            posthog?.capture('action_start_new_check', {
+              urgency_level: result?.urgency_level,
+              primary_condition: primaryCondition,
+              time_on_result_sec: Math.round((Date.now() - resultViewedAtRef.current) / 1000),
+            });
             window.scrollTo(0, 0);
             window.location.href = window.location.pathname;
           }}
@@ -1998,6 +2046,7 @@ export default function PanicIntake() {
                     href="https://www.google.com/maps/search/24+hour+emergency+vet+near+me"
                     target="_blank"
                     rel="noopener noreferrer"
+                    onClick={() => posthog?.capture('action_find_emergency_vet', { placement: 'analysis_error' })}
                     className="text-xs text-center font-semibold text-red-700 underline underline-offset-2"
                   >
                     Can&apos;t wait? Find a 24/7 emergency vet near me →

@@ -40,6 +40,8 @@ interface VetHandoffOfferProps {
     isEmergency?: boolean;
     caseId?: string | null;
     species?: string;
+    /** Called on purchase intent so the result screen counts it as engagement, not abandonment. */
+    onEngaged?: () => void;
 }
 
 type Stage = 'offer' | 'revealed' | 'submitted';
@@ -51,6 +53,7 @@ export function VetHandoffOffer({
     isEmergency,
     caseId,
     species,
+    onEngaged,
 }: VetHandoffOfferProps) {
     const posthog = usePostHog();
     const [stage, setStage] = useState<Stage>('offer');
@@ -100,6 +103,7 @@ export function VetHandoffOffer({
 
     const handleIntent = () => {
         posthog?.capture('paid_offer_clicked', baseProps());
+        onEngaged?.();
         setStage('revealed');
     };
 
@@ -124,8 +128,8 @@ export function VetHandoffOffer({
                 },
             }]);
             if (error) {
-                // Surface it rather than silently dropping the signal — the rating route's
-                // swallowed insert is exactly how we lost the only thumbs-down we ever got.
+                // Surface it rather than silently dropping the signal. (The one PostHog thumbs-down
+                // with no result_ratings row was a live test deleted on request, not a failed insert.)
                 console.error('[vet-handoff-probe] waitlist insert failed:', error);
                 setEmailError("That didn't save. Try again in a moment.");
                 posthog?.capture('paid_offer_email_failed', { ...baseProps(), error: error.message });
